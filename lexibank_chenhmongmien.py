@@ -50,13 +50,13 @@ class Dataset(NonSplittingDataset):
 
         vob_table =[x for x in vob_table if x!=[]]
 
-        with open('languages.csv','w',newline='') as lw:
+        with open(self.dir.joinpath('raw', 'languages.csv').as_posix(),'w',newline='') as lw:
             languagewriter = csv.writer(lw, delimiter=',', quotechar='"')
             languagewriter.writerow(language_table_header)
             languagewriter.writerows(language_table)
             lw.close()
 
-        with open('raw.csv','w',newline='') as vw:
+        with open(self.dir.joinpath('raw', 'raw.csv').as_posix(),'w',newline='') as vw:
             vocabwriter = csv.writer(vw, delimiter=',', quotechar='"')
             vocabwriter.writerow(vob_table_header)
             vocabwriter.writerows(vob_table)
@@ -64,8 +64,8 @@ class Dataset(NonSplittingDataset):
 
 
     def clean_form(self, item, form):
-        if form not in ['*', '---', '']:
-            form = strip_brackets(split_text(form)[0])
+        if form not in ['*', '---', '-']:
+            form = strip_brackets(split_text(form, separators=';,/')[0])
             return form
 
     def cmd_install(self, **kw):
@@ -103,17 +103,12 @@ class Dataset(NonSplittingDataset):
                         for language in languages:
                             value = self.lexemes.get(entry[language], 
                                     entry[language])
-                            if value:
-                                form = strip_brackets(split_text(value)[0])
-                                segments = self.tokenizer(None, '^'+form+'$'
-                                            , column ='IPA')
+                            if value.strip():
                                 ds.add_lexemes(
                                     Language_ID = slug(language),
                                     Parameter_ID = concepts[
                                         entry['Chinese gloss']],
-                                    Form = form,
                                     Value = value,
-                                    Segments=segments,
                                     Source=['Chen2013']
                                     )
                 else:

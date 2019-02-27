@@ -6,7 +6,6 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "chenhmongmien",
-    "dcat:accessURL": "https://github.com/lexibank/chenhmongmien",
     "rdf:ID": "chenhmongmien",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -16,7 +15,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.2-35-g0c8091d",
+                "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb",
                 "concepticon_version": "pyconcepticon-1.4.0-81-g0e705c2"
             }
         }
@@ -51,7 +50,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
