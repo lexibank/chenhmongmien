@@ -104,14 +104,10 @@ class Dataset(NonSplittingDataset):
                         for language in languages:
                             value = self.lexemes.get(entry[language], 
                                     entry[language])
-<<<<<<< Updated upstream
                             if value.strip():
-=======
-                            if value:
                                 form = strip_brackets(split_text(value, separators=re.compile('\s|;'))[0])
                                 segments = self.tokenizer(None, '^'+form+'$'
                                             , column ='IPA')
->>>>>>> Stashed changes
                                 ds.add_lexemes(
                                     Language_ID = slug(language),
                                     Parameter_ID = concepts[
