@@ -28,8 +28,13 @@ Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../et
 ![Glottolog: 92%](https://img.shields.io/badge/Glottolog-92%25-green.svg "Glottolog: 92%")
 ![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+<<<<<<< Updated upstream
 ![BIPA: 84%](https://img.shields.io/badge/BIPA-84%25-yellowgreen.svg "BIPA: 84%")
 ![CLTS SoundClass: 84%](https://img.shields.io/badge/CLTS%20SoundClass-84%25-yellowgreen.svg "CLTS SoundClass: 84%")
+=======
+![BIPA: 88%](https://img.shields.io/badge/BIPA-88%25-yellowgreen.svg "BIPA: 88%")
+![CLTS SoundClass: 88%](https://img.shields.io/badge/CLTS%20SoundClass-88%25-yellowgreen.svg "CLTS SoundClass: 88%")
+>>>>>>> Stashed changes
 
 - **Varieties:** 25
 - **Concepts:** 883
@@ -37,9 +42,15 @@ Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../et
 - **Synonymy:** 1.01
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
+<<<<<<< Updated upstream
 - **Tokens:** 112,381
 - **Segments:** 153 (25 BIPA errors, 25 CTLS sound class errors, 128 CLTS modified)
 - **Inventory size (avg):** 56.08
+=======
+- **Tokens:** 112,334
+- **Segments:** 159 (19 BIPA errors, 19 CTLS sound class errors, 140 CLTS modified)
+- **Inventory size (avg):** 56.24
+>>>>>>> Stashed changes
 
 ## Possible Improvements:
 
