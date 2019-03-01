@@ -105,7 +105,8 @@ class Dataset(NonSplittingDataset):
                             value = self.lexemes.get(entry[language], 
                                     entry[language])
                             if value.strip():
-                                form = strip_brackets(split_text(value, separators=re.compile('\s|;'))[0])
+                                form = strip_brackets(split_text(value,
+                                    separators=re.compile('\s|;|/'))[0])
                                 segments = self.tokenizer(None, '^'+form+'$'
                                             , column ='IPA')
                                 ds.add_lexemes(
@@ -113,6 +114,8 @@ class Dataset(NonSplittingDataset):
                                     Parameter_ID = concepts[
                                         entry['Chinese gloss']],
                                     Value = value,
+                                    Form = form,
+                                    Segments = segments,
                                     Source=['Chen2013']
                                     )
                 else:
