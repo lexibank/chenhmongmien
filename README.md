@@ -10,13 +10,12 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 Mei-Shin Wu added geographic coordinates according to the "Datapoint_location"
 
-Orthogrpahy profile
+Orthogrpahy profile (normal)
 
 ```
 Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../etc/orthography.tsv
 
 ```
-
  
 
 
@@ -28,8 +27,8 @@ Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../et
 ![Glottolog: 92%](https://img.shields.io/badge/Glottolog-92%25-green.svg "Glottolog: 92%")
 ![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 91%](https://img.shields.io/badge/BIPA-91%25-green.svg "BIPA: 91%")
-![CLTS SoundClass: 91%](https://img.shields.io/badge/CLTS%20SoundClass-91%25-green.svg "CLTS SoundClass: 91%")
+![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-green.svg "BIPA: 99%")
+![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-green.svg "CLTS SoundClass: 99%")
 
 - **Varieties:** 25
 - **Concepts:** 883
@@ -37,9 +36,9 @@ Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../et
 - **Synonymy:** 1.01
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 144,016
-- **Segments:** 139 (12 BIPA errors, 12 CTLS sound class errors, 127 CLTS modified)
-- **Inventory size (avg):** 54.92
+- **Tokens:** 140,496
+- **Segments:** 174 (2 BIPA errors, 2 CTLS sound class errors, 172 CLTS modified)
+- **Inventory size (avg):** 62.08
 
 ## Possible Improvements:
 

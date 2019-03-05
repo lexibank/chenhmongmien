@@ -8,6 +8,7 @@ from clldutils.text import strip_brackets, split_text
 
 from tqdm import tqdm
 from collections import defaultdict
+import re
 import csv
 import lingpy
 
