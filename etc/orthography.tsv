@@ -58,6 +58,7 @@ k	k	sa⁵³ka⁴²ka³³, ŋkau⁵³	she, numao, dongnu, jiongnai, nunu, younuo,
 tɕ	tɕ	tə⁰²tɕi⁵⁵, ȵtɕo³¹	chuanqiandiansouthernguizhou, numao, xiangxiwest, bahengwest, bahengeast, luobuoheeastern, dongnu, qiandongwest, chuanqiandiancentralguizhou, chuanqiandian, qiandongsouth, luobuohewestern, nunu, bana, chuanqiandiannortheastyunnan, qiandongnorth, qiandongeast, xiangxieast, biaomin, zaomin, mien, younuo	537	U+0074 U+0255
 ^h	h	ho³⁵, haŋ⁴⁴	zaomin, chuanqiandiansouthernguizhou, qiandongeast, she, chuanqiandiannortheastyunnan, bahengeast, younuo, bahengwest, qiandongwest, mien, chuanqiandian, jiongnai, dongnu, xiangxieast, kimmun, chuanqiandiancentralguizhou, qiandongsouth, bana, qiandongnorth, xiangxiwest, numao, luobuoheeastern, biaomin	497	U+005e U+0068
 ^ts	ts	tsaŋ⁴⁴, tsi⁵⁵	mien, qiandongeast, zaomin, she, xiangxieast, qiandongsouth, chuanqiandian, luobuohewestern, dongnu, biaomin, qiandongnorth, younuo, chuanqiandiannortheastyunnan, numao, bana, luobuoheeastern, bahengeast, xiangxiwest, nunu, chuanqiandiansouthernguizhou, qiandongwest, chuanqiandiancentralguizhou	495	U+005e U+0074 U+0073
+^tɬ	tɬ				
 ^ȵ	ȵ	ȵe³³, ȵi¹³	qiandongsouth, numao, xiangxiwest, chuanqiandiansouthernguizhou, chuanqiandian, bahengwest, dongnu, chuanqiandiannortheastyunnan, kimmun, bahengeast, zaomin, mien, biaomin, nunu, chuanqiandiancentralguizhou, luobuohewestern, xiangxieast, bana, luobuoheeastern, qiandongeast	486	U+005e U+0235
 ⁰³	³/⁰ +	ʔa⁰³ma³³, ʔa⁰³nuŋ³¹	bahengwest, xiangxieast, bahengeast, she, younuo, bana, dongnu, qiandongnorth	462	U+2070 U+00b3
 ɬ	ɬ	tɬja³⁵, tɬau⁵⁵	chuanqiandiannortheastyunnan, chuanqiandian, qiandongsouth, chuanqiandiancentralguizhou, bana, dongnu, jiongnai, xiangxiwest, biaomin, mien, xiangxieast, qiandongwest, qiandongnorth, numao, luobuoheeastern, younuo, luobuohewestern, chuanqiandiansouthernguizhou, bahengeast, bahengwest	424	U+026c
@@ -194,12 +195,13 @@ uː	uː	ʔuːm³⁵, tʃʰuːi¹¹	kimmun, mien	25	U+0075 U+02d0
 ¹²	¹² +	ko¹²kle⁵⁵, me¹²ʍa⁴⁴	jiongnai, mien	22	U+00b9 U+00b2
 ɪ	ɪ	lɪ¹³, hɪ¹¹	chuanqiandiansouthernguizhou, she	22	U+026a
 ð	ð	ʔə⁰²ðo⁵⁵, ɬo³⁵ðei⁵⁵	jiongnai, luobuohewestern, nunu	22	U+00f0
-ʁ	ʁ	tə⁰²ʁa⁵⁵, qo⁰⁵qʰʁa⁵⁵	luobuoheeastern, luobuohewestern	21	U+0281
+ʁ	ʁ	tə⁰²ʁa⁵⁵, qo⁰⁵qʰʁa⁵⁵	luobuoheeastern, luobuohewestern	21	U+0281				
 ^ŋw	ŋʷ	ŋwa²³¹, ŋwa⁵¹	kimmun, mien, bahengeast, nunu, dongnu, qiandongsouth	21	U+005e U+014b U+0077
 ^dʒ	dʒ	dʒaŋ³¹, dʒa⁴²	kimmun	20	U+005e U+0064 U+0292
 ʃ	ʃ	tʃeu⁵¹ʃu³⁵pjau⁵¹, n̩⁵⁵ʃei¹¹	jiongnai, kimmun	20	U+0283
-^gw	g w	gwaŋ³⁵, gwa³¹	biaomin, kimmun, xiangxieast, mien, bana	20	U+005e U+0067 U+0077
+^gw	gʷ	gwaŋ³⁵, gwa³¹	biaomin, kimmun, xiangxieast, mien, bana	20	U+005e U+0067 U+0077
 ɬʰ	ɬʰ	tɬʰuŋ⁴⁴tɬʰuŋ⁴⁴, tɬʰo⁴⁴	bana, chuanqiandiannortheastyunnan, qiandongnorth, chuanqiandiancentralguizhou, dongnu, chuanqiandian	20	U+026c U+02b0
+^tɬʰ	tɬʰ				
 ɖ	ɖ	ki³³ɖɦau³⁵, qo⁰⁵ɳɖa⁵⁵	chuanqiandiannortheastyunnan, luobuoheeastern, luobuohewestern	19	U+0256
 ^xʰ	xʰ	xʰu⁵³, xʰi³³	qiandongnorth, qiandongwest	19	U+005e U+0078 U+02b0
 ĩ	ĩ	tĩ³¹nĩ³¹, mĩ³¹	chuanqiandiancentralguizhou, chuanqiandiannortheastyunnan	18	U+0129
@@ -297,3 +299,5 @@ pʰʐ	pʰ ʐ	qo³⁵ʈoŋ³¹pʰʐo³⁵tə²²	xiangxiwest	1	U+0070 U+02b0 U+02
 ʈʂ	ʈʂ	ʔa⁵⁵ɳʈʂʅ¹¹ntau³³	chuanqiandiannortheastyunnan	1	U+0288 U+0282
 ph	pʰ	mphe⁵⁵	bahengeast	1	U+0070 U+0068
 ^ph	pʰ				
+^ndz	ⁿdz				
+nd	ⁿd				
