@@ -10,13 +10,12 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 Mei-Shin Wu added geographic coordinates according to the "Datapoint_location"
 
-Orthogrpahy profile
+Orthogrpahy profile (normal)
 
 ```
 Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../etc/orthography.tsv
 
 ```
-
  
 
 
@@ -37,9 +36,9 @@ Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../et
 - **Synonymy:** 1.01
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 120,943
-- **Segments:** 154 (0 BIPA errors, 0 CTLS sound class errors, 154 CLTS modified)
-- **Inventory size (avg):** 56.64
+- **Tokens:** 120,720
+- **Segments:** 158 (0 BIPA errors, 0 CTLS sound class errors, 158 CLTS modified)
+- **Inventory size (avg):** 57.28
 
 ## Possible Improvements:
 
