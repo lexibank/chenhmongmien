@@ -5,7 +5,7 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| + | 30756 | ✓ | ✓ |
+| + | 30755 | ✓ | ✓ |
 | a | 9325 | ✓ | ✓ |
 | u | 6551 | ✓ | ✓ |
 | ŋ | 5137 | ✓ | ✓ |
@@ -23,7 +23,7 @@
 | k | 2514 | ✓ | ✓ |
 | ⁵³ | 2470 | ✓ | ✓ |
 | p | 2328 | ✓ | ✓ |
-| ¹³ | 2215 | ✓ | ✓ |
+| ¹³ | 2214 | ✓ | ✓ |
 | l | 1978 | ✓ | ✓ |
 | ə | 1937 | ✓ | ✓ |
 | ʔ | 1931 | ✓ | ✓ |
@@ -53,7 +53,7 @@
 | kʰ | 499 | ✓ | ✓ |
 | ³/⁰ | 491 | ✓ | ✓ |
 | ɕ | 467 | ✓ | ✓ |
-| ⁿt | 437 | ✓ | ✓ |
+| ⁿt | 436 | ✓ | ✓ |
 | v | 400 | ✓ | ✓ |
 | ⁿp | 362 | ✓ | ✓ |
 | pʰ | 357 | ✓ | ✓ |
@@ -102,9 +102,9 @@
 | ȵ̥ | 75 | ✓ | ✓ |
 | ²¹² | 74 | ✓ | ✓ |
 | ə̃ | 71 | ✓ | ✓ |
-| θ | 71 | ✓ | ✓ |
-| ⁿʈ | 71 | ✓ | ✓ |
+| θ | 70 | ✓ | ✓ |
 | ⁴/⁰ | 70 | ✓ | ✓ |
+| ⁿʈ | 70 | ✓ | ✓ |
 | ¹² | 66 | ✓ | ✓ |
 | dʑ | 65 | ✓ | ✓ |
 | ʁ | 61 | ✓ | ✓ |
@@ -117,7 +117,7 @@
 | ɬʰ | 45 | ✓ | ✓ |
 | ²³² | 44 | ✓ | ✓ |
 | ⁿtsʰ | 44 | ✓ | ✓ |
-| c | 43 | ✓ | ✓ |
+| c | 42 | ✓ | ✓ |
 | tʃʰ | 42 | ✓ | ✓ |
 | χ | 40 | ✓ | ✓ |
 | ⁿpʰ | 40 | ✓ | ✓ |
@@ -157,30 +157,32 @@
 | hʷ | 11 | ✓ | ✓ |
 | ȵ̩ | 11 | ✓ | ✓ |
 | ⁿqʰ | 11 | ✓ | ✓ |
-| ⁿʈʂ | 11 | ✓ | ✓ |
-| <ʰ> | 9 | ? | ? |
+| ⁿʈʰ | 10 | ✓ | ✓ |
 | dʐ | 9 | ✓ | ✓ |
 | ʂʰ | 9 | ✓ | ✓ |
 | ⁿtʃʰ | 9 | ✓ | ✓ |
-| ⁿʈʰ | 9 | ✓ | ✓ |
 | _ | 8 | ✓ | ✓ |
 | χʷ | 7 | ✓ | ✓ |
 | ɹ | 6 | ✓ | ✓ |
 | ⁿdʑʱ | 6 | ✓ | ✓ |
+| ⁿʈʂʰ | 6 | ✓ | ✓ |
 | ç | 5 | ✓ | ✓ |
 | ⁿdzʱ | 5 | ✓ | ✓ |
 | ⁿdʱ | 5 | ✓ | ✓ |
+| ⁿʈʂ | 5 | ✓ | ✓ |
 | ⁵ | 2 | ✓ | ✓ |
 | ⁵² | 2 | ✓ | ✓ |
-| <¹> | 1 | ? | ? |
+| cʰ | 1 | ✓ | ✓ |
 | r | 1 | ✓ | ✓ |
 | ³²³ | 1 | ✓ | ✓ |
 | ³¹² | 1 | ✓ | ✓ |
 | ³⁴ | 1 | ✓ | ✓ |
+| ¹³¹ | 1 | ✓ | ✓ |
 | ɢʷ | 1 | ✓ | ✓ |
 | ⁴¹ | 1 | ✓ | ✓ |
+| ⁿtθʰ | 1 | ✓ | ✓ |
 
-(174 rows)
+(176 rows)
 
 
 
@@ -196,18 +198,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-------------------------------------------------|:-----------------------------|:------------------|:----------------|:------------------------------------------|
-| chuanqiandian-Chen-2013-888-303-1 | chuanqiandian | Chen-2013-888-303 | nʈʰoŋ⁴³ | ⁿʈ <s> <ʰ> </s> o ŋ ⁴³ + |
-| chuanqiandiannortheastyunnan-Chen-2013-888-120-1 | chuanqiandiannortheastyunnan | Chen-2013-888-120 | ɳtʂʰaɯ⁵⁵ | ⁿʈʂ <s> <ʰ> </s> a ɯ ⁵⁵ + |
-| chuanqiandiannortheastyunnan-Chen-2013-888-291-1 | chuanqiandiannortheastyunnan | Chen-2013-888-291 | ʔa⁵⁵ɳtʂʰa¹¹so⁵⁵ | ʔ a ⁵⁵ + ⁿʈʂ <s> <ʰ> </s> a ¹¹ + s o ⁵⁵ + |
-| chuanqiandiannortheastyunnan-Chen-2013-888-362-1 | chuanqiandiannortheastyunnan | Chen-2013-888-362 | ɳtʂʰaɯ⁵⁵ | ⁿʈʂ <s> <ʰ> </s> a ɯ ⁵⁵ + |
-| chuanqiandiannortheastyunnan-Chen-2013-888-570-1 | chuanqiandiannortheastyunnan | Chen-2013-888-570 | ɳtʂʰie⁵⁵ | ⁿʈʂ <s> <ʰ> </s> i e ⁵⁵ + |
-| chuanqiandiannortheastyunnan-Chen-2013-888-575-1 | chuanqiandiannortheastyunnan | Chen-2013-888-575 | ɳtʂʰie⁵⁵ | ⁿʈʂ <s> <ʰ> </s> i e ⁵⁵ + |
-| chuanqiandiannortheastyunnan-Chen-2013-888-771-1 | chuanqiandiannortheastyunnan | Chen-2013-888-771 | ɳtʂʰai³³ | ⁿʈʂ <s> <ʰ> </s> a i ³³ + |
-| chuanqiandiansouthernguizhou-Chen-2013-888-10-1 | chuanqiandiansouthernguizhou | Chen-2013-888-10 | nəŋ¹³¹ | n ə ŋ ¹³ + <s> <¹> </s> |
-| dongnu-Chen-2013-888-844-1 | dongnu | Chen-2013-888-844 | kjəŋ⁴²ntθʰəŋ³³ | k j ə ŋ ⁴² + ⁿt θ <s> <ʰ> </s> ə ŋ ³³ + |
-| qiandongnorth-Chen-2013-888-109-1 | qiandongnorth | Chen-2013-888-109 | cʰi³⁵lji¹³ | c <s> <ʰ> </s> i ³⁵ + l j i ¹³ + |
+||
 
-(10 rows)
+(0 rows)
 
 
