@@ -36,9 +36,9 @@ Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../et
 - **Synonymy:** 1.01
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 140,484
-- **Segments:** 176 (0 BIPA errors, 0 CTLS sound class errors, 176 CLTS modified)
-- **Inventory size (avg):** 62.04
+- **Tokens:** 120,293
+- **Segments:** 180 (0 BIPA errors, 0 CTLS sound class errors, 180 CLTS modified)
+- **Inventory size (avg):** 62.00
 
 ## Possible Improvements:
 
