@@ -63,9 +63,6 @@ class Dataset(NonSplittingDataset):
             vocabwriter.writerows(vob_table)
             vw.close()
 
-    def tokenize(self, item, string):
-        return self.tokenizer(item, '^'+string+'$', column='IPA')
-
     def clean_form(self, item, form):
         if form not in ['*', '---', '-']:
             form = strip_brackets(split_text(form, separators=';,/')[0])
@@ -82,7 +79,8 @@ class Dataset(NonSplittingDataset):
         languages, concepts = [], {}
         missing = defaultdict(int)
         with self.cldf as ds:
-            self.cldf.tokenize = lambda x, y: self.tokenizer(x, '^'+y+'$')
+            self.cldf.tokenize = lambda x, y: self.tokenizer(x, '^'+y+'$',
+                    column='IPA')
 
             for concept in self.concepts:
                 ds.add_concept(
