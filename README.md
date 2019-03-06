@@ -16,14 +16,14 @@ Orthogrpahy profile (normal)
 Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../etc/orthography.tsv
 
 ```
- 
+
 
 
 
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/None.svg?branch=master)](https://travis-ci.org/None)
+[![Build Status](https://travis-ci.org/lexibank/chenhmongmien.svg?branch=master)](https://travis-ci.org/lexibank/chenhmongmien)
 ![Glottolog: 92%](https://img.shields.io/badge/Glottolog-92%25-green.svg "Glottolog: 92%")
 ![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -36,9 +36,9 @@ Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../et
 - **Synonymy:** 1.01
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 140,484
-- **Segments:** 176 (0 BIPA errors, 0 CTLS sound class errors, 176 CLTS modified)
-- **Inventory size (avg):** 62.04
+- **Tokens:** 136,082
+- **Segments:** 201 (0 BIPA errors, 0 CTLS sound class errors, 201 CLTS modified)
+- **Inventory size (avg):** 67.60
 
 ## Possible Improvements:
 
