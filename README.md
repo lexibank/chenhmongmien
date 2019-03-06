@@ -16,7 +16,7 @@ Orthogrpahy profile (normal)
 Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../etc/orthography.tsv
 
 ```
- 
+
 
 
 
@@ -36,9 +36,9 @@ Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../et
 - **Synonymy:** 1.01
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 120,293
-- **Segments:** 180 (0 BIPA errors, 0 CTLS sound class errors, 180 CLTS modified)
-- **Inventory size (avg):** 62.00
+- **Tokens:** 116,356
+- **Segments:** 202 (0 BIPA errors, 0 CTLS sound class errors, 202 CLTS modified)
+- **Inventory size (avg):** 67.16
 
 ## Possible Improvements:
 

@@ -6,4 +6,4 @@ Orthogrpahy profile (normal)
 Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../etc/orthography.tsv
 
 ```
- 
+
