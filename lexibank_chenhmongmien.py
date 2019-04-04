@@ -101,7 +101,8 @@ class Dataset(NonSplittingDataset):
 
             ds.add_sources(*self.raw.read_bib())
             missing={}
-            for cgloss, entry in tqdm(enumerate(data), desc='cldfify the data'):
+            for cgloss, entry in tqdm(enumerate(data), desc='cldfify the data',
+                    total=len(data)):
                 if entry['Chinese gloss'] in concepts.keys():
                         for language in languages:
                             value = self.lexemes.get(entry[language], 
