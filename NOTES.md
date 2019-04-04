@@ -1,9 +1,1 @@
-Mei-Shin Wu added geographic coordinates according to the "Datapoint_location"
-
-Orthogrpahy profile (normal)
-
-```
-Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../etc/orthography.tsv
-
-```
-
+This dataset comprises 25 Hmong-Mien varieties, which were originally digitized from the source by Doug Cooper and later shared publicly on Wiktionary. We list the data in segmented form, adding also morpheme boundaries.
