@@ -10,7 +10,7 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 Mei-Shin Wu added geographic coordinates according to the "Datapoint_location"
 
-Orthogrpahy profile (normal)
+Orthography profile (normal)
 
 ```
 Macy$ lingpy profile -i forms.csv --cldf --clts --column=form --context -o ../etc/orthography.tsv
