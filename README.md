@@ -1,4 +1,4 @@
-# chenhmongmien
+# Hmong-Mien Varieties
 
 Cite the source dataset as
 
@@ -9,8 +9,6 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 ## Notes
 
 This dataset comprises 25 Hmong-Mien varieties, which were originally digitized from the source by Doug Cooper and later shared publicly on Wiktionary. We list the data in segmented form, adding also morpheme boundaries.
-
-
 
 ## Statistics
 
