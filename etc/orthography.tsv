@@ -8,7 +8,7 @@ Grapheme	IPA
 ^c	c
 ^cʰ	cʰ
 ^d	d
-^dlɦ	dʱ l
+^dlɦ	dˡʱ
 ^dz	dz
 ^dzɦ	dzʱ
 ^dɦ	dʱ
@@ -20,17 +20,17 @@ Grapheme	IPA
 ^gw	g w
 ^gɦ	gʰ
 ^h	h
-^hw	hʷ
+^hw	h w
 ^i	i
 ^i$	i
 ^iː	iː
 ^j	j
 ^k	k
 ^kh	kʰ
-^kjw	kʲʷ
-^kw	kʷ
+^kjw	kʲ w
+^kw	k w
 ^kʰ	kʰ
-^kʰw	kʷʰ
+^kʰw	kʰ w
 ^l	l
 ^lɦ	lʱ
 ^m	m
@@ -80,9 +80,9 @@ Grapheme	IPA
 ^pʰ	pʰ
 ^pʰʐ	pʰ ʐ
 ^q	q
-^qw	qʷ
+^qw	q w
 ^qʰ	qʰ
-^qʰw	qʷʰ
+^qʰw	qʰ w
 ^r	r
 ^s	s
 ^sʰ	sʰ
@@ -109,7 +109,7 @@ Grapheme	IPA
 ^w	w
 ^wɦ	wʱ
 ^x	x
-^xw	xʷ
+^xw	x w
 ^xʰ	xʰ
 ^y	y
 ^z	z
@@ -122,9 +122,9 @@ Grapheme	IPA
 ^ŋkʰ	ⁿkʰ
 ^ŋq	ⁿq
 ^ŋqʰ	ⁿqʰ
-^ŋw	ŋʷ
+^ŋw	ŋ w
 ^ŋɢ	ⁿɢ
-^ŋɢʷ	ⁿɢʷ
+^ŋɢʷ	ⁿɢ w
 ^ŋ̥	ŋ̥
 ^ŋ̩	ŋ̩
 ^ȵ	ȵ
@@ -143,7 +143,7 @@ Grapheme	IPA
 ^ə	ə
 ^ɛ	ɛ
 ^ɢ	ɢ
-^ɢw	ɢʷ
+^ɢw	ɢ w
 ^ɣ	ɣ
 ^ɦ	ɦ
 ^ɪ	ɪ
@@ -162,7 +162,7 @@ Grapheme	IPA
 ^ɳʈʰ	ⁿʈʰ
 ^ɹ	ɹ
 ^ʁ	ʁ
-^ʁw	ʁʷ
+^ʁw	ʁ w
 ^ʂ	ʂ
 ^ʂʰ	ʂʰ
 ^ʃ	ʃ
@@ -174,10 +174,10 @@ Grapheme	IPA
 ^ʔ	ʔ
 ^ʔh	ʔʰ
 ^ʔl	ˀl
-^ʔw	ʔʷ
+^ʔw	ʔ w
 ^θ	θ
 ^χ	χ
-^χw	χʷ
+^χw	χ w
 ^ⁿtɬ	ⁿtɬ
 _	+
 a	a
@@ -189,7 +189,7 @@ bɦ	bʰ
 c	c
 cʰ	cʰ
 d	d
-dlɦ	dlʱ
+dlɦ	dˡʱ
 dz	dz
 dzɦ	dzʱ
 dɦ	dʱ
@@ -203,18 +203,18 @@ eː	eː
 f	f
 fʰ	fʰ
 g	g
-gw	gʷ
+gw	g w
 gɦ	gʱ
 h	h
-hw	hʷ
+hw	h w
 i	i
 i$	i
 iː	iː
 j	j
 k	k
-kw	kʷ
+kw	k w
 kʰ	kʰ
-kʰw	kʷʰ
+kʰw	kʰ w
 l	l
 lɦ	lʱ
 m	m
@@ -266,7 +266,7 @@ pʐ	p ʐ
 pʰ	pʰ
 pʰʐ	pʰ ʐ
 q	q
-qw	qʷ
+qw	q w
 qʰ	qʰ
 qʰw	qʰ w
 r	r
@@ -290,7 +290,7 @@ ua	w a
 ue	w e
 uː	uː
 v	v
-vz	vz
+vz	v z
 vɦ	vʱ
 w	w
 wɦ	wʱ
@@ -392,9 +392,9 @@ z	z
 ŋkʰ	ⁿkʰ
 ŋq	ⁿq
 ŋqʰ	ⁿqʰ
-ŋw	ŋʷ
+ŋw	ŋ w
 ŋɢ	ⁿɢ
-ŋɢʷ	ⁿɢʷ
+ŋɢʷ	ⁿɢ w
 ŋ̥	ŋ̥
 ŋ̩	ŋ̩
 ȵ	ȵ
@@ -418,7 +418,7 @@ z	z
 ə̃	ə̃
 ɛ	ɛ
 ɢ	ɢ
-ɢw	ɢʷ
+ɢw	ɢ w
 ɣ	ɣ
 ɦ	ɦ
 ɪ	ɪ
@@ -431,7 +431,7 @@ z	z
 ɹ	ɹ
 ɿ	ɿ
 ʁ	ʁ
-ʁw	ʁʷ
+ʁw	ʁ w
 ʂ	ʂ
 ʂʰ	ʂʰ
 ʃ	ʃ

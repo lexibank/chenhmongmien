@@ -15,7 +15,7 @@ This dataset comprises 25 Hmong-Mien varieties, which were originally digitized 
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/chenhmongmien.svg?branch=master)](https://travis-ci.org/lexibank/chenhmongmien)
+[![Build Status](https://travis-ci.org/None.svg?branch=master)](https://travis-ci.org/None)
 ![Glottolog: 92%](https://img.shields.io/badge/Glottolog-92%25-green.svg "Glottolog: 92%")
 ![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -27,9 +27,9 @@ This dataset comprises 25 Hmong-Mien varieties, which were originally digitized 
 - **Lexemes:** 21,617
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 115,339
-- **Segments:** 200 (0 BIPA errors, 0 CTLS sound class errors, 200 CLTS modified)
-- **Inventory size (avg):** 67.08
+- **Tokens:** 115,755
+- **Segments:** 199 (0 BIPA errors, 0 CTLS sound class errors, 199 CLTS modified)
+- **Inventory size (avg):** 66.12
 
 ## Possible Improvements:
 
