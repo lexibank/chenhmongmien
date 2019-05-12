@@ -19,17 +19,17 @@ This dataset comprises 25 Hmong-Mien varieties, which were originally digitized 
 ![Glottolog: 92%](https://img.shields.io/badge/Glottolog-92%25-green.svg "Glottolog: 92%")
 ![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 98%](https://img.shields.io/badge/BIPA-98%25-green.svg "BIPA: 98%")
-![CLTS SoundClass: 98%](https://img.shields.io/badge/CLTS%20SoundClass-98%25-green.svg "CLTS SoundClass: 98%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 25
 - **Concepts:** 883
 - **Lexemes:** 21,617
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 115,476
-- **Segments:** 198 (4 BIPA errors, 4 CTLS sound class errors, 194 CLTS modified)
-- **Inventory size (avg):** 66.88
+- **Tokens:** 115,339
+- **Segments:** 200 (0 BIPA errors, 0 CTLS sound class errors, 200 CLTS modified)
+- **Inventory size (avg):** 67.08
 
 ## Possible Improvements:
 
