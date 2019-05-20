@@ -66,7 +66,7 @@ class Dataset(NonSplittingDataset):
     def clean_form(self, item, form):
         if form not in ['*', '---', '-']:
             form = strip_brackets(split_text(form, separators=';,/')[0])
-            return form
+            return form.replace(' ', '_')
 
     def cmd_install(self, **kw):
         """
