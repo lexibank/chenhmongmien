@@ -79,8 +79,6 @@ class Dataset(NonSplittingDataset):
         languages, concepts = [], {}
         missing = defaultdict(int)
         with self.cldf as ds:
-            #self.cldf.tokenize = lambda x, y: self.tokenizer(x, '^'+y+'$',
-            #        column='IPA')
 
             for concept in self.concepts:
                 ds.add_concept(
