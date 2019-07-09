@@ -2,9 +2,11 @@
 
 Cite the source dataset as
 
-> Chen, Qiguang (2012): Miao and Yao language. Beijing: Ethnic Publishing House
+> Chén, Qíguāng 陳其光 (2012): Miáoyáo yǔwén 苗瑤语文 [Miao and Yao language]. Zhōngyāng Mínzú Dàxué 中央民族大学 [China Minzu University Press].
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+
+Available online at https://en.wiktionary.org/wiki/Appendix:Hmong-Mien_comparative_vocabulary_list
 
 ## Notes
 
