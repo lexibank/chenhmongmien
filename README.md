@@ -1,8 +1,8 @@
-# Hmong-Mien Varieties
+# Miao and Yao Language
 
 Cite the source dataset as
 
-> Chen, Qiguang (2013) : Miao and Yao language. Beijing: Ethnic Publishing House
+> Chen, Qiguang (2012): Miao and Yao language. Beijing: Ethnic Publishing House
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
@@ -27,9 +27,9 @@ This dataset comprises 25 Hmong-Mien varieties, which were originally digitized 
 - **Lexemes:** 21,617
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 114,547
-- **Segments:** 233 (0 BIPA errors, 0 CTLS sound class errors, 233 CLTS modified)
-- **Inventory size (avg):** 69.36
+- **Tokens:** 114,499
+- **Segments:** 234 (0 BIPA errors, 0 CTLS sound class errors, 234 CLTS modified)
+- **Inventory size (avg):** 69.40
 
 ## Possible Improvements:
 
