@@ -76,11 +76,11 @@ class Dataset(NonSplittingDataset):
             for concept in self.concepts:
                 ds.add_concept(
                     ID=concept["NUMBER"],
-                    Name=concept["GLOSS"],
+                    Name=concept["CHINESE"],
                     Concepticon_ID=concept["CONCEPTICON_ID"],
                     Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
                 )
-                concepts[concept["GLOSS"]] = concept["NUMBER"]
+                concepts[concept["CHINESE"]] = concept["NUMBER"]
 
             for language in self.languages:
                 ds.add_language(
