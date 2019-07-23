@@ -7,11 +7,17 @@ from clldutils.path import Path
 from clldutils.text import strip_brackets, split_text
 from pylexibank.dataset import NonSplittingDataset
 from tqdm import tqdm
+from pylexibank.dataset import Concept
+import attr
 
+@attr.s
+class HConcept(Concept):
+    Chinese_Gloss = attr.ib(default=None)
 
 class Dataset(NonSplittingDataset):
     dir = Path(__file__).parent
     id = "chenhmongmien"
+    concept_class = HConcept
 
     def cmd_download(self, **kw):
         wp = requests.get(
@@ -72,15 +78,15 @@ class Dataset(NonSplittingDataset):
             data = [row for row in reader]
         languages, concepts = [], {}
         with self.cldf as ds:
-
-            for concept in self.concepts:
+            for concept in self.conceptlist.concepts.values():
                 ds.add_concept(
-                    ID=concept["NUMBER"],
-                    Name=concept["GLOSS"],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                    ID=concept.number,
+                    Name=concept.gloss,
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss,
+                    Chinese_Gloss=concept.attributes['chinese']
                 )
-                concepts[concept["GLOSS"]] = concept["NUMBER"]
+                concepts[concept.attributes['chinese']] = concept.number
 
             for language in self.languages:
                 ds.add_language(
