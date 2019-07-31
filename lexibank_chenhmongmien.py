@@ -7,12 +7,20 @@ from clldutils.path import Path
 from clldutils.text import strip_brackets, split_text
 from pylexibank.dataset import NonSplittingDataset
 from tqdm import tqdm
-from pylexibank.dataset import Concept
+from pylexibank.dataset import Concept, Language
 import attr
 
 @attr.s
 class HConcept(Concept):
     Chinese_Gloss = attr.ib(default=None)
+
+@attr.s
+class HLanguage(Language):
+    Latitude = attr.ib(default=None)
+    Longitude = attr.ib(default=None)
+    ChineseName = attr.ib(default=None)
+    SubGroup = attr.ib(default=None)
+    Family = attr.ib(default=None)
 
 class Dataset(NonSplittingDataset):
     dir = Path(__file__).parent
@@ -76,39 +84,42 @@ class Dataset(NonSplittingDataset):
         with open(self.dir.joinpath("raw", "raw.csv").as_posix(), "r") as csvfile:
             reader = csv.DictReader(csvfile, delimiter=",", quotechar='"')
             data = [row for row in reader]
-        languages, concepts = [], {}
+        languages, concepts = {}, {}
         with self.cldf as ds:
             for concept in self.conceptlist.concepts.values():
                 ds.add_concept(
-                    ID=concept.number,
-                    Name=concept.gloss,
-                    Concepticon_ID=concept.concepticon_id,
-                    Concepticon_Gloss=concept.concepticon_gloss,
-                    Chinese_Gloss=concept.attributes['chinese']
+                        ID=concept.number,
+                        Name=concept.gloss,
+                        Concepticon_ID=concept.concepticon_id,
+                        Concepticon_Gloss=concept.concepticon_gloss,
+                        Chinese_Gloss=concept.attributes['chinese']
                 )
                 concepts[concept.attributes['chinese']] = concept.number
 
 
             for language in self.languages:
                 ds.add_language(
-                    ID=slug(language["Language_name"]),
-                    Glottocode=language["Glottolog_code"],
-                    Name=language["Language_name"],
+                        ID=language['ID'],
+                        Glottocode=language['Glottocode'],
+                        Name=language['Name'],
+                        ChineseName=language['ChineseName'],
+                        Latitude=language['Latitude'],
+                        Longitude=language['Longitude']
                 )
-                languages.append(language["Language_name"])
+                languages['Name'] = language['ID']
 
             ds.add_sources(*self.raw.read_bib())
             missing = {}
-            for cgloss, entry in tqdm(enumerate(data), desc="cldfify the data", total=len(data)):
-                if entry["Chinese gloss"] in concepts.keys():
+            for cgloss, entry in tqdm(enumerate(data), desc='cldfify the data', total=len(data)):
+                if entry['Chinese gloss'] in concepts.keys():
                     for language in languages:
                         value = self.lexemes.get(entry[language], entry[language])
                         if value.strip():
                             ds.add_lexemes(
-                                Language_ID=slug(language),
-                                Parameter_ID=concepts[entry["Chinese gloss"]],
+                                Language_ID=languages[language],
+                                Parameter_ID=concepts[entry['Chinese gloss']],
                                 Value=value,
-                                Source=["Chen2013"],
+                                Source=['Chen2013'],
                             )
                 else:
-                    missing[entry["Chinese gloss"]] += 1
+                    missing[entry['Chinese gloss']] += 1
