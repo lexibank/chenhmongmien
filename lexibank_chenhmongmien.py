@@ -26,6 +26,7 @@ class Dataset(NonSplittingDataset):
     dir = Path(__file__).parent
     id = "chenhmongmien"
     concept_class = HConcept
+    language_class = HLanguage
 
     def cmd_download(self, **kw):
         wp = requests.get(
@@ -104,9 +105,10 @@ class Dataset(NonSplittingDataset):
                         Name=language['Name'],
                         ChineseName=language['ChineseName'],
                         Latitude=language['Latitude'],
-                        Longitude=language['Longitude']
+                        Longitude=language['Longitude'],
+                        Family='Sino-Tibetan'
                 )
-                languages['Name'] = language['ID']
+                languages[language['Name']] = language['ID']
 
             ds.add_sources(*self.raw.read_bib())
             missing = {}
