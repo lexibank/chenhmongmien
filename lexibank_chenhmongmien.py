@@ -106,7 +106,7 @@ class Dataset(NonSplittingDataset):
                         ChineseName=language['ChineseName'],
                         Latitude=language['Latitude'],
                         Longitude=language['Longitude'],
-                        Family='Sino-Tibetan'
+                        Family='Hmong-Mien'
                 )
                 languages[language['Name']] = language['ID']
 
