@@ -20,7 +20,7 @@ class HLanguage(Language):
     Longitude = attr.ib(default=None)
     ChineseName = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
-    Family = attr.ib(default=None)
+    Family = attr.ib(default='Hmong-Mien')
 
 class Dataset(NonSplittingDataset):
     dir = Path(__file__).parent
@@ -106,7 +106,7 @@ class Dataset(NonSplittingDataset):
                         ChineseName=language['ChineseName'],
                         Latitude=language['Latitude'],
                         Longitude=language['Longitude'],
-                        Family='Hmong-Mien'
+                        SubGroup=language['SubGroup']
                 )
                 languages[language['Name']] = language['ID']
 

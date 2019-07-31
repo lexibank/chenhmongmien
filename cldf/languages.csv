@@ -1,26 +1,26 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,ChineseName,SubGroup
-EasternLuobuohe,"Luobuohe, Eastern",luop1235,,,,26.63966,107.913354,Hmong-Mien,石板寨,
-WesternLuobuohe,"Luobuohe, Western",luop1235,,,,26.854607,107.226676,Hmong-Mien,高寨,
-Chuanqiandian,Chuanqiandian,chua1256,,,,27.51846,105.421028,Hmong-Mien,大南山,
-CentralGuizhouChuanqiandian,"Chuanqiandian, Central Guizhou",nort2749,,,,26.231562,106.861969,Hmong-Mien,高坡,
-SouthernGuizhouChuanqiandian,"Chuanqiandian, Southern Guizhou",cent1394,,,,25.586343,106.323467,Hmong-Mien,宗地,
-NortheastYunnanChuanqiandian,"Chuanqiandian, Northeast Yunnan",larg1235,,,,27.096059,103.698607,Hmong-Mien,石门坡,
-WesternXiangxi,"Xiangxi, West",west2430,,,,28.33212,109.422366,Hmong-Mien, 腊乙坪,
-EasternXiangxi,"Xiangxi, East",east2371,,,,28.124036,109.890473,Hmong-Mien,小章,
-NorthernQiandong,"Qiandong, North",nort2747,,,,26.68993,108.401145,Hmong-Mien,养蒿,
-EasternQiandong,"Qiandong, East",east2370,,,,27.78098,110.499463,Hmong-Mien,菜地湾,
-SouthernQiandong,"Qiandong, South",sout2754,,,,25.520166,108.779365,Hmong-Mien,尧告,
-WesternQiandong,"Qiandong, West",,,,,26.43106,107.68758,Hmong-Mien,河坝,
-WesternBaheng,"Baheng, West",pahn1237,,,,25.74971,109.286281,Hmong-Mien,滚董,
-EasternBahen,"Baheng, East",pahn1237,,,,27.11733,111.02615,Hmong-Mien,毛坳,
-Dongnu,Dongnu,dong1287,,,,24.201523,107.957327,Hmong-Mien,七百弄,
-Nunu,Nunu,nunu1247,,,,24.232341,107.194266,Hmong-Mien,西山,
-Numao,Numao,numa1251,,,,25.447767,108.064732,Hmong-Mien,瑶麓,
-Bana,Bana,,,,,26.265147,110.096902,Hmong-Mien,巴那,
-Younuo,Younuo,youn1235,,,,25.730893,110.115975,Hmong-Mien,优诺,
-She,She,shee1238,,,,26.264261,110.096988,Hmong-Mien,下水村,
-Jiongnai,Jiongnai,jion1236,,,,24.071002,110.105752,Hmong-Mien,龙华,
-Mien,Mien,iumi1238,,,,24.172823,110.054488,Hmong-Mien,龙定,
-KimMun,Kim Mun,kimm1245,,,,18.955781,109.86012,Hmong-Mien,烟园,
-BiaoMin,Biao Min,biao1254,,,,25.82286,111.29622,Hmong-Mien,双龙,
-ZaoMin,Zao Min,dzao1238,,,,24.612303,112.266749,Hmong-Mien,油岭,
+EasternLuobuohe,"Luobuohe, Eastern",luop1235,,,,26.63966,107.913354,Hmong-Mien,石板寨,Hmongic
+WesternLuobuohe,"Luobuohe, Western",luop1235,,,,26.854607,107.226676,Hmong-Mien,高寨,Hmongic
+Chuanqiandian,Chuanqiandian,chua1256,,,,27.51846,105.421028,Hmong-Mien,大南山,Hmongic
+CentralGuizhouChuanqiandian,"Chuanqiandian, Central Guizhou",nort2749,,,,26.231562,106.861969,Hmong-Mien,高坡,Hmongic
+SouthernGuizhouChuanqiandian,"Chuanqiandian, Southern Guizhou",cent1394,,,,25.586343,106.323467,Hmong-Mien,宗地,Hmongic
+NortheastYunnanChuanqiandian,"Chuanqiandian, Northeast Yunnan",larg1235,,,,27.096059,103.698607,Hmong-Mien,石门坡,Hmongic
+WesternXiangxi,"Xiangxi, West",west2430,,,,28.33212,109.422366,Hmong-Mien, 腊乙坪,Hmongic
+EasternXiangxi,"Xiangxi, East",east2371,,,,28.124036,109.890473,Hmong-Mien,小章,Hmongic
+NorthernQiandong,"Qiandong, North",nort2747,,,,26.68993,108.401145,Hmong-Mien,养蒿,Hmongic
+EasternQiandong,"Qiandong, East",east2370,,,,27.78098,110.499463,Hmong-Mien,菜地湾,Hmongic
+SouthernQiandong,"Qiandong, South",sout2754,,,,25.520166,108.779365,Hmong-Mien,尧告,Hmongic
+WesternQiandong,"Qiandong, West",,,,,26.43106,107.68758,Hmong-Mien,河坝,Hmongic
+WesternBaheng,"Baheng, West",pahn1237,,,,25.74971,109.286281,Hmong-Mien,滚董,Hmongic
+EasternBahen,"Baheng, East",pahn1237,,,,27.11733,111.02615,Hmong-Mien,毛坳,Hmongic
+Dongnu,Dongnu,dong1287,,,,24.201523,107.957327,Hmong-Mien,七百弄,Hmongic
+Nunu,Nunu,nunu1247,,,,24.232341,107.194266,Hmong-Mien,西山,Hmongic
+Numao,Numao,numa1251,,,,25.447767,108.064732,Hmong-Mien,瑶麓,Hmongic
+Bana,Bana,,,,,26.265147,110.096902,Hmong-Mien,巴那,Hmongic
+Younuo,Younuo,youn1235,,,,25.730893,110.115975,Hmong-Mien,优诺,Hmongic
+She,She,shee1238,,,,26.264261,110.096988,Hmong-Mien,下水村,Hmongic
+Jiongnai,Jiongnai,jion1236,,,,24.071002,110.105752,Hmong-Mien,龙华,Hmongic
+Mien,Mien,iumi1238,,,,24.172823,110.054488,Hmong-Mien,龙定,Mienic
+KimMun,Kim Mun,kimm1245,,,,18.955781,109.86012,Hmong-Mien,烟园,Mienic
+BiaoMin,Biao Min,biao1254,,,,25.82286,111.29622,Hmong-Mien,双龙,Mienic
+ZaoMin,Zao Min,dzao1238,,,,24.612303,112.266749,Hmong-Mien,油岭,Mienic
