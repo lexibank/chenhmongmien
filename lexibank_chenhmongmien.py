@@ -21,6 +21,12 @@ class HLanguage(Language):
     ChineseName = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
     Family = attr.ib(default='Hmong-Mien')
+    DataSource = attr.ib(default=None)
+    Autonym = attr.ib(default=None)
+    ISO = attr.ib(default=None)
+    Name_in_Source = attr.ib(default=None)
+    Location = attr.ib(default=None)
+
 
 class Dataset(NonSplittingDataset):
     dir = Path(__file__).parent
@@ -97,18 +103,8 @@ class Dataset(NonSplittingDataset):
                 )
                 concepts[concept.attributes['chinese']] = concept.number
 
-
-            for language in self.languages:
-                ds.add_language(
-                        ID=language['ID'],
-                        Glottocode=language['Glottocode'],
-                        Name=language['Name'],
-                        ChineseName=language['ChineseName'],
-                        Latitude=language['Latitude'],
-                        Longitude=language['Longitude'],
-                        SubGroup=language['SubGroup']
-                )
-                languages[language['Name']] = language['ID']
+            ds.add_languages()
+            languages = {k['Name']: k['ID'] for k in self.languages}
 
             ds.add_sources(*self.raw.read_bib())
             missing = {}
