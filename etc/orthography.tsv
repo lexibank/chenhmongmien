@@ -1,4 +1,14 @@
 Grapheme	IPA
+uːo	uːo
+^nqw	ⁿq w
+nqw	ⁿq w
+^dlj	dˡ j
+nutŋ	n u tŋ/ŋ
+dlj	dˡ j
+^mplua	ⁿpˡ u/w
+mplua	ⁿpˡ u/w
+mpʐua	ⁿp u/ʐʷ
+^mpʐu	ⁿp u/ʐʷ
  ̩ȵ	ȵ̩
 ,	NULL
 ^	NULL
@@ -205,6 +215,8 @@ Grapheme	IPA
 ^χ	χ
 ^χw	χ w
 ^ⁿtɬ	ⁿtɬ
+^ntɬ	ⁿtɬ
+ntɬ	ⁿtɬ
 _	+
 a	a
 ai	ai
@@ -245,14 +257,24 @@ gwj	g ɥ
 gɦ	gʱ
 h	h
 hw	h w
+æɯ	æɯ
+^ye	y/ɥ e
+ye	y/ɥ e
 i	i
 i$	i
-ia	j a
-iau	j au
-ie	ie
-iu	j u
-iɑ	j ɑ
-iəu	j əu
+ia	i/j a
+iau	i/j au
+ie	i/j e
+ieu	i/j eu
+iɑu	i/j ɑu
+npl	ⁿpˡ
+^npl	ⁿpˡ
+nplw	ⁿpˡ w
+^nplw	ⁿpˡ w
+iu	i/j u
+iɑ	i/j ɑ
+iəu	i/j əu
+jiu	ji/j u
 iː	iː
 j	j
 jua	ɥ a
@@ -348,14 +370,14 @@ tʃʰ	tʃʰ
 tʰ	tʰ
 tθʰ	tθʰ
 u	u
-ua	w a
-ue	w e
-uei	w ei
+ua	u/w a
+ue	u/w e
+uei	u/w ei
 ui	ui
-uoː	w oː
-uɑ	w ɑ
-uə	w ə
-uəi	w əi
+uoː	u/w oː
+uɑ	u/w ɑ
+uə	u/w ə
+uəi	u/w əi
 uː	uː
 uːi	uːi
 v	v
@@ -367,10 +389,9 @@ wɦ	wʱ
 x	x
 xʰ	xʰ
 y	y
-ya	ɥ a
-ye	ɥ e
-yĩ	ɥ ĩ
-yo	ɥ o
+ya	y/ɥ a
+yĩ	y/ɥ ĩ
+yo	y/ɥ o
 z	z
 ²	²
 ²$	²
