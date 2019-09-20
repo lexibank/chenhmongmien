@@ -13,6 +13,7 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Miao and Yao Language",
+    "dcat:accessURL": "https://github.com/lexibank/chenhmongmien",
     "rdf:ID": "chenhmongmien",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -23,7 +24,7 @@
             "dc:title": "environment",
             "properties": {
                 "glottolog_version": "v4.0",
-                "concepticon_version": "v2.1.0"
+                "concepticon_version": "v2.1.0-47-g4730b7c"
             }
         }
     ],

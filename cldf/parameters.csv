@@ -547,7 +547,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 549,flat (level),1633,FLAT,平
 550,straight,1404,STRAIGHT,直
 551,horizontal,2376,HORIZONTAL,横
-552,bend (curved),2004,BEND,弯
+552,bend (curved),297,CROOKED,弯
 553,black,163,BLACK,黑
 554,white,1335,WHITE,白
 555,red,156,RED,红
@@ -641,7 +641,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 644,sick,1847,SICK,病
 645,patch (repair),2243,REPAIR,补
 646,guess (a riddle),1932,GUESS,猜
-647,step (verb),2065,STEP (VERB),踩
+647,step (verb),575,TREAD,踩
 648,hide (something),2486,HIDE,藏
 649,poke (something),,,插
 650,fold,1470,FOLD,折
