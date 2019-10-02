@@ -80,7 +80,7 @@ Grapheme	IPA
 ^ntsʰ	ⁿtsʰ
 ^ntɕʰ	ⁿtɕʰ
 ^ntɬ	ⁿtɬ
-^ntʂ	ⁿtʂ
+^ntʂ	ⁿʈʂ
 ^ntʂ	ⁿʈʂ
 ^ntʂʰ	ⁿʈʂʰ
 ^ntʃ	ⁿtʃ
@@ -121,8 +121,8 @@ Grapheme	IPA
 ^tɕʰ	tɕʰ
 ^tɬ	tɬ
 ^tɬʰ	tɬʰ
-^tʂ	tʂ
-^tʂʰ	tʂʰ
+^tʂ	ʈʂ
+^tʂʰ	ʈʂʰ
 ^tʃ	tʃ
 ^tʃʰ	tʃʰ
 ^tʰ	tʰ
@@ -331,7 +331,7 @@ nts	ⁿts
 ntsʰ	ⁿtsʰ
 ntɕʰ	ⁿtɕʰ
 ntɬ	ⁿtɬ
-ntʂ	ⁿtʂ
+ntʂ	ⁿʈʂ
 ntʂ	ⁿʈʂ
 ntʂʰ	ⁿʈʂʰ
 ntʃ	ⁿtʃ
@@ -378,7 +378,7 @@ tɕ	tɕ
 tɕʰ	tɕʰ
 tɬ	tɬ
 tɬʰ	tɬʰ
-tʂ	tʂ
+tʂ	ʈʂ
 tʂʰ	ʈʂʰ
 tʃ	tʃ
 tʃʰ	tʃʰ
