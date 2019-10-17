@@ -7,7 +7,7 @@ from clldutils.path import Path
 from clldutils.text import strip_brackets, split_text
 from pylexibank.dataset import NonSplittingDataset
 from tqdm import tqdm
-from pylexibank.dataset import Concept, Language
+from pylexibank.models import Concept, Language
 import attr
 
 @attr.s
@@ -83,7 +83,7 @@ class Dataset(NonSplittingDataset):
             form = strip_brackets(split_text(form, separators=";,/")[0])
             return form.replace(" ", "_")
 
-    def cmd_install(self, **kw):
+    def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
         """
@@ -92,7 +92,7 @@ class Dataset(NonSplittingDataset):
             reader = csv.DictReader(csvfile, delimiter=",", quotechar='"')
             data = [row for row in reader]
         languages, concepts = {}, {}
-        with self.cldf as ds:
+        with args.writer as ds:
             for concept in self.conceptlist.concepts.values():
                 ds.add_concept(
                         ID=concept.number,
@@ -106,7 +106,7 @@ class Dataset(NonSplittingDataset):
             ds.add_languages()
             languages = {k['Name']: k['ID'] for k in self.languages}
 
-            ds.add_sources(*self.raw.read_bib())
+            ds.add_sources(*self.raw_dir.read_bib())
             missing = {}
             for cgloss, entry in tqdm(enumerate(data), desc='cldfify the data', total=len(data)):
                 if entry['Chinese gloss'] in concepts.keys():

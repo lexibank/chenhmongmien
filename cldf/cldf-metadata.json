@@ -3,7 +3,6 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Ch\u00e9n, Q\u00edgu\u0101ng \u9673\u5176\u5149 (2012): Mi\u00e1oy\u00e1o y\u01d4w\u00e9n \u82d7\u7464\u8bed\u6587 [Miao and Yao language]. Zh\u014dngy\u0101ng M\u00ednz\u00fa D\u00e0xu\u00e9 \u4e2d\u592e\u6c11\u65cf\u5927\u5b66 [China Minzu University Press].",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Chen-2012-888"
     ],
@@ -14,20 +13,41 @@
     "dc:source": "sources.bib",
     "dc:title": "Miao and Yao Language",
     "dcat:accessURL": "https://github.com/lexibank/chenhmongmien",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/chenhmongmien",
+            "dc:created": "v1.1-25-gc465418"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/lingulist/glottolog-data",
+            "dc:created": "v4.0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/LinguList/concepticon-data",
+            "dc:created": "v2.1.0-86-g556e0e1"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.5.2"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
     "rdf:ID": "chenhmongmien",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
-    "notes": [
-        {
-            "dc:title": "environment",
-            "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.1.0-47-g4730b7c"
-            }
-        }
-    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
