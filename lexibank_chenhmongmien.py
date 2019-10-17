@@ -70,13 +70,11 @@ class Dataset(NonSplittingDataset):
             languagewriter = csv.writer(lw, delimiter=",", quotechar='"')
             languagewriter.writerow(language_table_header)
             languagewriter.writerows(language_table)
-            lw.close()
 
         with open(self.dir.joinpath("raw", "raw.csv").as_posix(), "w", newline="") as vw:
             vocabwriter = csv.writer(vw, delimiter=",", quotechar='"')
             vocabwriter.writerow(vob_table_header)
             vocabwriter.writerows(vob_table)
-            vw.close()
 
     def clean_form(self, item, form):
         if form not in ["*", "---", "-"]:
