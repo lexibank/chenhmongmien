@@ -1,12 +1,12 @@
-import collections
+from collections import OrderedDict
 from pathlib import Path
-
-from bs4 import BeautifulSoup
-from clldutils.text import strip_brackets, split_text
-from pylexibank.dataset import NonSplittingDataset
-from tqdm import tqdm
+from pylexibank.dataset import Dataset as MyDataset
 from pylexibank import Concept, Language
+from pylexibank.forms import FormSpec
+from pylexibank.util import pb
 import attr
+from bs4 import BeautifulSoup
+
 
 
 @attr.s
@@ -27,11 +27,18 @@ class HLanguage(Language):
     Location = attr.ib(default=None)
 
 
-class Dataset(NonSplittingDataset):
+class Dataset(MyDataset):
     dir = Path(__file__).parent
     id = "chenhmongmien"
     concept_class = HConcept
     language_class = HLanguage
+
+    form_spec = FormSpec(
+            missing_data=['*', '---', '-'],
+            separators=";/,",
+            strip_inside_brackets=True,
+            brackets={"(": ")"}
+            )
 
     def cmd_download(self, args):
         with self.raw_dir.temp_download(
@@ -53,15 +60,7 @@ class Dataset(NonSplittingDataset):
             'raw.csv',
             [r for r in iter_rows(soup.findAll("table", {"class": "wikitable sortable"})[1]) if r])
 
-    def clean_form(self, item, form):
-        if form not in ["*", "---", "-"]:
-            form = strip_brackets(split_text(form, separators=";,/")[0])
-            return form.replace(" ", "_")
-
     def cmd_makecldf(self, args):
-        """
-        Convert the raw data to a CLDF dataset.
-        """
         data = self.raw_dir.read_csv('raw.csv', dicts=True)
         languages, concepts = {}, {}
 
@@ -77,18 +76,17 @@ class Dataset(NonSplittingDataset):
 
         args.writer.add_languages()
 
-        languages = collections.OrderedDict([(k['Name'], k['ID']) for k in self.languages])
+        languages = OrderedDict([(k['Name'], k['ID']) for k in self.languages])
         args.writer.add_sources(*self.raw_dir.read_bib())
         missing = {}
-        for cgloss, entry in tqdm(enumerate(data), desc='cldfify the data', total=len(data)):
+        for cgloss, entry in pb(enumerate(data), desc='cldfify the data', total=len(data)):
             if entry['Chinese gloss'] in concepts.keys():
                 for language in languages:
-                    value = self.lexemes.get(entry[language], entry[language])
-                    if value.strip():
+                    if entry[language].strip():
                         args.writer.add_lexemes(
                             Language_ID=languages[language],
                             Parameter_ID=concepts[entry['Chinese gloss']],
-                            Value=value,
+                            Value=entry[language],
                             Source=['Chen2013'],
                         )
             else:
