@@ -1,14 +1,13 @@
-import csv
+import collections
+from pathlib import Path
 
-import requests
 from bs4 import BeautifulSoup
-from clldutils.misc import slug
-from clldutils.path import Path
 from clldutils.text import strip_brackets, split_text
 from pylexibank.dataset import NonSplittingDataset
 from tqdm import tqdm
-from pylexibank.dataset import Concept, Language
+from pylexibank import Concept, Language
 import attr
+
 
 @attr.s
 class HConcept(Concept):
@@ -34,90 +33,63 @@ class Dataset(NonSplittingDataset):
     concept_class = HConcept
     language_class = HLanguage
 
-    def cmd_download(self, **kw):
-        wp = requests.get(
-            "https://en.wiktionary.org/wiki/Appendix:Hmong-Mien_comparative_vocabulary_list"
-        )
-        soup = BeautifulSoup(wp.content, "html.parser")
+    def cmd_download(self, args):
+        with self.raw_dir.temp_download(
+            "https://en.wiktionary.org/wiki/Appendix:Hmong-Mien_comparative_vocabulary_list",
+            'raw.html'
+        ) as p:
+            soup = BeautifulSoup(p.read_text(encoding='utf8'), "html.parser")
 
-        language_table_header, language_table = [], []
-        languages = soup.findAll("table", {"class": "wikitable sortable"})[0]
-        for lh in languages.findAll("th"):
-            language_table_header.append(lh.get_text().rstrip("\n"))
+        def iter_rows(table):
+            yield [c.get_text().rstrip('\n') for c in table.findAll('th')]
+            for row in table.findAll('tr'):
+                yield [c.get_text().rstrip('\n') for c in row.findAll('td')]
 
-        for r in languages.findAll("tr"):
-            temp = []
-            for cell in r.findAll("td"):
-                temp.append(cell.get_text().rstrip("\n"))
-            language_table.append(temp)
+        self.raw_dir.write_csv(
+            'languages.csv',
+            [r for r in iter_rows(soup.findAll("table", {"class": "wikitable sortable"})[0]) if r])
 
-        language_table = [x for x in language_table if x != []]
-
-        vob_table_header, vob_table = [], []
-        vob = soup.findAll("table", {"class": "wikitable sortable"})[1]
-        for vh in vob.findAll("th"):
-            vob_table_header.append(vh.get_text().rstrip("\n"))
-
-        for v in vob.findAll("tr"):
-            vtemp = []
-            for vcell in v.findAll("td"):
-                vtemp.append(vcell.get_text().rstrip("\n"))
-            vob_table.append(vtemp)
-
-        vob_table = [x for x in vob_table if x != []]
-
-        with open(self.dir.joinpath("raw", "languages.csv").as_posix(), "w", newline="") as lw:
-            languagewriter = csv.writer(lw, delimiter=",", quotechar='"')
-            languagewriter.writerow(language_table_header)
-            languagewriter.writerows(language_table)
-            lw.close()
-
-        with open(self.dir.joinpath("raw", "raw.csv").as_posix(), "w", newline="") as vw:
-            vocabwriter = csv.writer(vw, delimiter=",", quotechar='"')
-            vocabwriter.writerow(vob_table_header)
-            vocabwriter.writerows(vob_table)
-            vw.close()
+        self.raw_dir.write_csv(
+            'raw.csv',
+            [r for r in iter_rows(soup.findAll("table", {"class": "wikitable sortable"})[1]) if r])
 
     def clean_form(self, item, form):
         if form not in ["*", "---", "-"]:
             form = strip_brackets(split_text(form, separators=";,/")[0])
             return form.replace(" ", "_")
 
-    def cmd_install(self, **kw):
+    def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
         """
-
-        with open(self.dir.joinpath("raw", "raw.csv").as_posix(), "r") as csvfile:
-            reader = csv.DictReader(csvfile, delimiter=",", quotechar='"')
-            data = [row for row in reader]
+        data = self.raw_dir.read_csv('raw.csv', dicts=True)
         languages, concepts = {}, {}
-        with self.cldf as ds:
-            for concept in self.conceptlist.concepts.values():
-                ds.add_concept(
-                        ID=concept.number,
-                        Name=concept.gloss,
-                        Concepticon_ID=concept.concepticon_id,
-                        Concepticon_Gloss=concept.concepticon_gloss,
-                        Chinese_Gloss=concept.attributes['chinese']
-                )
-                concepts[concept.attributes['chinese']] = concept.number
 
-            ds.add_languages()
-            languages = {k['Name']: k['ID'] for k in self.languages}
+        for concept in self.conceptlist.concepts.values():
+            args.writer.add_concept(
+                    ID=concept.number,
+                    Name=concept.gloss,
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss,
+                    Chinese_Gloss=concept.attributes['chinese']
+            )
+            concepts[concept.attributes['chinese']] = concept.number
 
-            ds.add_sources(*self.raw.read_bib())
-            missing = {}
-            for cgloss, entry in tqdm(enumerate(data), desc='cldfify the data', total=len(data)):
-                if entry['Chinese gloss'] in concepts.keys():
-                    for language in languages:
-                        value = self.lexemes.get(entry[language], entry[language])
-                        if value.strip():
-                            ds.add_lexemes(
-                                Language_ID=languages[language],
-                                Parameter_ID=concepts[entry['Chinese gloss']],
-                                Value=value,
-                                Source=['Chen2013'],
-                            )
-                else:
-                    missing[entry['Chinese gloss']] += 1
+        args.writer.add_languages()
+
+        languages = collections.OrderedDict([(k['Name'], k['ID']) for k in self.languages])
+        args.writer.add_sources(*self.raw_dir.read_bib())
+        missing = {}
+        for cgloss, entry in tqdm(enumerate(data), desc='cldfify the data', total=len(data)):
+            if entry['Chinese gloss'] in concepts.keys():
+                for language in languages:
+                    value = self.lexemes.get(entry[language], entry[language])
+                    if value.strip():
+                        args.writer.add_lexemes(
+                            Language_ID=languages[language],
+                            Parameter_ID=concepts[entry['Chinese gloss']],
+                            Value=value,
+                            Source=['Chen2013'],
+                        )
+            else:
+                missing[entry['Chinese gloss']] += 1
