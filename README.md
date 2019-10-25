@@ -8,9 +8,9 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 Available online at https://en.wiktionary.org/wiki/Appendix:Hmong-Mien_comparative_vocabulary_list
 
-Conceptlists in Concepticon:
-- [Chen-2012-888](http://concepticon.clld.org/contributions/Chen-2012-888)
 
+Conceptlists in Concepticon:
+- [Chen-2012-888](https://concepticon.clld.org/contributions/Chen-2012-888)
 ## Notes
 
 This dataset comprises 25 Hmong-Mien varieties, which were originally digitized from the source by Doug Cooper and later shared publicly on Wiktionary. We list the data in segmented form, adding also morpheme boundaries.
@@ -33,9 +33,9 @@ This dataset comprises 25 Hmong-Mien varieties, which were originally digitized 
 - **Sources:** 1
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 114,329
-- **Segments:** 246 (0 BIPA errors, 0 CTLS sound class errors, 246 CLTS modified)
-- **Inventory size (avg):** 70.84
+- **Tokens:** 114,328
+- **Segments:** 245 (0 BIPA errors, 0 CTLS sound class errors, 245 CLTS modified)
+- **Inventory size (avg):** 70.76
 
 ## Possible Improvements:
 

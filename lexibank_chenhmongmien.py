@@ -4,8 +4,8 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 from clldutils.text import strip_brackets, split_text
 from pylexibank.dataset import NonSplittingDataset
-from tqdm import tqdm
 from pylexibank import Concept, Language
+from pylexibank.util import pb
 import attr
 
 
@@ -63,8 +63,9 @@ class Dataset(NonSplittingDataset):
         Convert the raw data to a CLDF dataset.
         """
         data = self.raw_dir.read_csv('raw.csv', dicts=True)
-        languages, concepts = {}, {}
+        concept_lookup = {}
 
+        # TODO: add with `add_concepts` later
         for concept in self.conceptlist.concepts.values():
             args.writer.add_concept(
                     ID=concept.number,
@@ -73,21 +74,21 @@ class Dataset(NonSplittingDataset):
                     Concepticon_Gloss=concept.concepticon_gloss,
                     Chinese_Gloss=concept.attributes['chinese']
             )
-            concepts[concept.attributes['chinese']] = concept.number
+            concept_lookup[concept.attributes['chinese']] = concept.number
 
         args.writer.add_languages()
 
         languages = collections.OrderedDict([(k['Name'], k['ID']) for k in self.languages])
         args.writer.add_sources(*self.raw_dir.read_bib())
         missing = {}
-        for cgloss, entry in tqdm(enumerate(data), desc='cldfify the data', total=len(data)):
-            if entry['Chinese gloss'] in concepts.keys():
+        for cgloss, entry in pb(enumerate(data), desc='cldfify the data', total=len(data)):
+            if entry['Chinese gloss'] in concept_lookup.keys():
                 for language in languages:
                     value = self.lexemes.get(entry[language], entry[language])
                     if value.strip():
                         args.writer.add_lexemes(
                             Language_ID=languages[language],
-                            Parameter_ID=concepts[entry['Chinese gloss']],
+                            Parameter_ID=concept_lookup[entry['Chinese gloss']],
                             Value=value,
                             Source=['Chen2013'],
                         )
