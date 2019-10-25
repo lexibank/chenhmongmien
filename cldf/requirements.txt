@@ -13,9 +13,9 @@ defusedxml==0.5.0
 idna==2.7
 isodate==0.6.0
 jdcal==1.4.1
--e git+https://github.com/lingpy/bodtkhobwa/@e8b19069d25a0ce467a33150fae80c20338951e1#egg=lexibank_bodtkhobwa
--e git+https://github.com/lexibank/castrosui.git@ad90dc0b04e158e7cab17a0106a9f60c8c1530ed#egg=lexibank_castrosui
--e git+https://github.com/lexibank/chenhmongmien@a7fffc64c09125a95c235ed0c2d0b1eab388a077#egg=lexibank_chenhmongmien
+-e git+https://github.com/lingpy/bodtkhobwa/@288d281a7ab05dd1a1698125c39dda1ede35a0a2#egg=lexibank_bodtkhobwa
+-e git+https://github.com/lexibank/castrosui.git@a2d13314e81682f6619c6af90a6ecf4bff401d00#egg=lexibank_castrosui
+-e git+https://github.com/lexibank/chenhmongmien@8d62ad58f5cc5b68d299e46b60655055e21df9a3#egg=lexibank_chenhmongmien
 -e git+https://github.com/lexibank/lieberherrkhobwa.git@1985e1f912b2454cfcaa45611b488c95e31ff04c#egg=lexibank_lieberherrkhobwa
 -e git+https://github.com/lexibank/marrisonnaga.git@aa8ffaae2fde0e1f2e9e4c4aca981f75aa649a1e#egg=lexibank_marrisonnaga
 -e git+https://github.com/lexibank/mitterhoferbena.git@ff18f0c6ca6c7445eab21e091db30bcdbc1891fe#egg=lexibank_mitterhoferbena
@@ -49,6 +49,6 @@ tabulate==0.8.2
 termcolor==1.1.0
 tqdm==4.25.0
 uritemplate==3.0.0
-urllib3==1.23
+urllib3==1.24.2
 wcwidth==0.1.7
 xlrd==1.1.0
