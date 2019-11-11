@@ -1,37 +1,33 @@
-from collections import OrderedDict
 from pathlib import Path
-from pylexibank.dataset import Dataset as MyDataset
+from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank import Concept, Language
 from pylexibank.forms import FormSpec
-from pylexibank.util import pb
+from pylexibank import progressbar as pb
 import attr
 from bs4 import BeautifulSoup
 
 
 
 @attr.s
-class HConcept(Concept):
+class CustomConcept(Concept):
     Chinese_Gloss = attr.ib(default=None)
 
 @attr.s
-class HLanguage(Language):
-    Latitude = attr.ib(default=None)
-    Longitude = attr.ib(default=None)
+class CustomLanguage(Language):
     ChineseName = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
     Family = attr.ib(default='Hmong-Mien')
     DataSource = attr.ib(default=None)
     Autonym = attr.ib(default=None)
-    ISO = attr.ib(default=None)
     Name_in_Source = attr.ib(default=None)
     Location = attr.ib(default=None)
 
 
-class Dataset(MyDataset):
+class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "chenhmongmien"
-    concept_class = HConcept
-    language_class = HLanguage
+    concept_class = CustomConcept
+    language_class = CustomLanguage
 
     form_spec = FormSpec(
             missing_data=['*', '---', '-'],
@@ -62,21 +58,21 @@ class Dataset(MyDataset):
 
     def cmd_makecldf(self, args):
         data = self.raw_dir.read_csv('raw.csv', dicts=True)
-        languages, concepts = {}, {}
-
+        
+        language_lookup, concept_lookup = {}, {}
         for concept in self.conceptlists[0].concepts.values():
+            idx = concept.id.split('-')[-1] + '_' + slug(concept.gloss)
             args.writer.add_concept(
-                    ID=concept.number,
+                    ID=idx,
                     Name=concept.gloss,
                     Concepticon_ID=concept.concepticon_id,
                     Concepticon_Gloss=concept.concepticon_gloss,
                     Chinese_Gloss=concept.attributes['chinese']
             )
-            concepts[concept.attributes['chinese']] = concept.number
+            concept_lookup[concept.attributes['chinese']] = idx
 
-        args.writer.add_languages()
-
-        languages = OrderedDict([(k['Name'], k['ID']) for k in self.languages])
+        language_lookup = args.writer.add_languages( lookup_factory='Name')
+        
         args.writer.add_sources(*self.raw_dir.read_bib())
         missing = {}
         for cgloss, entry in pb(enumerate(data), desc='cldfify the data', total=len(data)):
