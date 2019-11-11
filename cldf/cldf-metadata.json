@@ -18,19 +18,25 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/chenhmongmien",
-            "dc:created": "v1.1-28-g46ade56"
+            "dc:created": "v1.1-29-g9d6252c"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data/",
+            "dc:created": "v2.1.0-127-g0463ef6"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v1.4"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/lingulist/glottolog-data",
             "dc:created": "v4.0"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/LinguList/concepticon-data",
-            "dc:created": "v2.1.0-86-g556e0e1"
         }
     ],
     "prov:wasGeneratedBy": [

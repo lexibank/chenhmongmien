@@ -64,7 +64,7 @@ class Dataset(MyDataset):
         data = self.raw_dir.read_csv('raw.csv', dicts=True)
         languages, concepts = {}, {}
 
-        for concept in self.conceptlist.concepts.values():
+        for concept in self.conceptlists[0].concepts.values():
             args.writer.add_concept(
                     ID=concept.number,
                     Name=concept.gloss,

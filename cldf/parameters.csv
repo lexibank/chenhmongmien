@@ -161,7 +161,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 162,yellow weasel,,,黄鼠狼
 163,fox,1312,FOX,狐狸
 164,bird,937,BIRD,鸟
-165,bird‘s nest,539,NEST,鸟窝
+165,bird‘s nest,3549,BIRD NEST,鸟窝
 166,black-eared kite/ hawk,1905,EAGLE,老鹰
 167,owl,735,OWL,猫头鹰
 168,swallow,3077,SWALLOW (BIRD),燕子
@@ -303,7 +303,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 304,shoe,1381,SHOE,鞋
 305,straw sandal,2047,STRAW SANDAL,草鞋
 306,sock (stocking),1522,SOCK,袜子
-307,straw or palm-bark rain cape,1662,CAPE,蓑衣
+307,straw or palm-bark rain cape,3540,STRAW RAINCOAT,蓑衣
 308,bamboo hat,2160,BAMBOO HAT,斗笠
 309,quilt,2048,QUILT,被子
 310,pillow,1044,PILLOW,枕头
@@ -679,7 +679,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 682,break (stick),459,SNAPP (OF STICK),（扁担）断
 683,dodge,,,躲避
 684,chop into pieces,2149,CHOP (INTO PIECES),剁
-685,turn over (on bed),1445,TURN (SOMETHING),翻
+685,turn over (on bed),3537,TURN OVER,翻
 686,have a fever,2713,HAVE A FEVER,发烧
 687,spin (into yarn),121,SPIN,纺
 688,put out to pasture,,,放（牛）
@@ -708,7 +708,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 711,be shy/bashful,487,SHY,害羞
 712,drink,1401,DRINK,喝
 713,hum,,,哼
-714,paddle,234,PADDLE,划
+714,paddle,1849,ROW,划
 715,change (become different),2857,CHANGE (BECOME DIFFERENT),化
 716,be pregnant,1123,PREGNANT,怀孕
 717,repay (a dept),,,还帐
@@ -732,7 +732,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 735,open (a door),1156,OPEN,开（门）
 736,boil (water),792,BOIL (OF LIQUID),（水）开
 737,(flowers) blossom,3287,BLOOM,（花）开
-738,chop down (trees),463,FELL (A TREE),砍（树）
+738,chop down (trees),355,CUT DOWN,砍（树）
 739,chop (bones),155,CHOP,砍（骨头）
 740,look,1819,LOOK,看
 741,see,1409,SEE,看见
@@ -796,7 +796,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 800,gather (harvest),7,GATHER,收（玉米）
 801,preserve harvest,1827,HARVEST CROPS,守（庄稼）
 802,comb (something),2070,COMB (VERB),梳
-803,lose (a game),1660,LOSE,输
+803,lose (a game),3535,BE DEFEATED,输
 804,count,1420,COUNT,数（钱）
 805,tie (a cow),2891,TIE UP (TETHER),拴（牛）
 806,sleep,1585,SLEEP,睡觉
@@ -806,7 +806,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 810,shrink,54,SHRINK,缩
 811,carry,700,CARRY,抬
 812,run away,2142,RUN AWAY,逃跑
-813,beg,1828,ASK (REQUEST),乞讨
+813,beg,3534,BEG,乞讨
 814,painful,1129,PAINFUL,疼
 815,lift (with hand),501,LIFT,提
 816,fill up (a hollow),2006,FILL,填
@@ -856,7 +856,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 860,illuminate,,,照
 861,break (cleave),2558,BREAK (CLEAVE),折断
 862,fight,1423,FIGHT,争
-863,steam,2068,BRAISE (VERB),蒸
+863,steam,2067,STEAM (VERB),蒸
 864,know,1410,KNOW (SOMETHING),知道
 865,weave,133,WEAVE,织（布）
 866,point at,2669,POINT (WITH FINGER),指
@@ -866,7 +866,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 870,live (reside),363,"DWELL (LIVE, RESIDE)",住
 871,scratch,1436,SCRATCH,抓
 872,turn around,1444,TURN AROUND,转（身）
-873,turn,1588,TURN,转动
+873,turn,1445,TURN (SOMETHING),转动
 874,load (put into container),1679,LOAD,装
 875,pursue,1047,PURSUE,追
 876,catch,702,CATCH,捉
