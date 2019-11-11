@@ -29,11 +29,11 @@ This dataset comprises 25 Hmong-Mien varieties, which were originally digitized 
 
 - **Varieties:** 25
 - **Concepts:** 883
-- **Lexemes:** 21,573
+- **Lexemes:** 21,967
 - **Sources:** 1
-- **Synonymy:** 1.01
+- **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 114,328
+- **Tokens:** 115,869
 - **Segments:** 245 (0 BIPA errors, 0 CTLS sound class errors, 245 CLTS modified)
 - **Inventory size (avg):** 70.76
 
