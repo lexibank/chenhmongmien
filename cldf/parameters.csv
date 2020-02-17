@@ -383,7 +383,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 384,wine glass,,,酒杯
 385,earthen jar,3409,EARTHEN JUG,坛子
 386,water tank,,,水缸
-387,bucket,,,水桶
+387,bucket,2052,BUCKET,水桶
 388,can (jar),1051,CAN,罐子
 389,gourd ladle (wooden dipper),2657,LADLE,水瓢
 390,fire tongs,,,火钳
@@ -634,7 +634,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 637,peel (something),275,PEEL,剥
 638,hug (embrace),928,EMBRACE,抱
 639,carry on back,465,CARRY ON BACK,背
-640,compare,,,比
+640,compare,3429,COMPARE,比
 641,braid (something),1043,BRAID,编（辫子）
 642,weave (a basket),3294,BRAID (VERB) OR WEAVE (BASKET),编（篮子）
 643,change,1264,CHANGE,变
@@ -676,7 +676,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 679,set in movement,,,动
 680,plug (something),,,堵塞
 681,break (rope),460,BREAK (OF ROPE),（线）断
-682,break (stick),459,SNAPP (OF STICK),（扁担）断
+682,break (stick),459,SNAP (OF STICK),（扁担）断
 683,dodge,,,躲避
 684,chop into pieces,2149,CHOP (INTO PIECES),剁
 685,turn over (on bed),3537,TURN OVER,翻
