@@ -18,19 +18,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/chenhmongmien",
-            "dc:created": "v2.0.1"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/clld/concepticon-data",
-            "dc:created": "v2.2.1a-170-ge5f8de2"
+            "dc:created": "v2.0.1-1-g5e42303"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/clld/concepticon-data",
+            "dc:created": "v2.2.1a-177-g9f2c42a"
         },
         {
             "rdf:type": "prov:Entity",
