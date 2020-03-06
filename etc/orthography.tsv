@@ -81,7 +81,6 @@ Grapheme	IPA
 ^ntɕʰ	ⁿtɕʰ
 ^ntɬ	ⁿtɬ
 ^ntʂ	ⁿʈʂ
-^ntʂ	ⁿʈʂ
 ^ntʂʰ	ⁿʈʂʰ
 ^ntʃ	ⁿtʃ
 ^ntʃʰ	ⁿtʃʰ
@@ -101,7 +100,6 @@ Grapheme	IPA
 ^p	p
 ^ph	pʰ
 ^pl	p l
-^pl	p ɭ
 ^pʐ	p ʐ
 ^pʰ	pʰ
 ^pʰʐ	pʰ ʐ
@@ -115,7 +113,6 @@ Grapheme	IPA
 ^t	t
 ^t$	t
 ^tl	t l
-^tl	tˡ
 ^ts	ts
 ^tsʰ	tsʰ
 ^tɕ	tɕ
@@ -190,7 +187,6 @@ Grapheme	IPA
 ^ɳ	ɳ
 ^ɳdʐ	ⁿdʐ
 ^ɳdʐɦ	ⁿdʐʱ
-^ɳdʐɦ	ⁿɖʐʱ
 ^ɳtʂ	ⁿʈʂ
 ^ɳtʂʰ	ⁿʈʂʰ
 ^ɳɖ	ⁿɖ
@@ -239,7 +235,6 @@ aːi	aːi
 aːu	aːu
 b	b
 bl	b l
-bl	bˡ
 bɦ	bʰ
 c	c
 cʰ	cʰ
@@ -333,7 +328,6 @@ ntsʰ	ⁿtsʰ
 ntɕʰ	ⁿtɕʰ
 ntɬ	ⁿtɬ
 ntʂ	ⁿʈʂ
-ntʂ	ⁿʈʂ
 ntʂʰ	ⁿʈʂʰ
 ntʃ	ⁿtʃ
 ntʃʰ	ⁿtʃʰ
@@ -357,9 +351,7 @@ oːi	oːi
 oːu	oːu
 p	p
 ph	pʰ
-pl	p l
 pl	p ɭ
-pl	pˡ
 pʐ	p ʐ
 pʰ	pʰ
 pʰʐ	pʰ ʐ
@@ -373,7 +365,6 @@ sʰ	sʰ
 t	t
 t$	t
 tl	t l
-tl	tˡ
 ts	ts
 tsʰ	tsʰ
 tɕ	tɕ
@@ -597,3 +588,4 @@ z	z
 ⁵⁵$	⁵⁵
 ⁿsʰ	ⁿsʰ
 ⁿtɬ	ⁿtɬ
+^huai²⁴$	h u/w ai ²⁴
