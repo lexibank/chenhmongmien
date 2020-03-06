@@ -18,7 +18,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 18,ground,2159,GROUND,地
 19,mountain,639,MOUNTAIN,山
 20,cave/ hole,1667,HOLE,洞
-21,river,666,RIVER,河
+21,river,3311,FLOWING BODY OF WATER,河
 22,pond,2035,POND,池塘
 23,ditch (gully),2002,DITCH,沟
 24,well,954,WELL,井
@@ -155,7 +155,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 156,tiger,846,TIGER,老虎
 157,monkey,1350,MONKEY,猴子
 158,bear,1820,BEAR,熊
-159,wild boar,1348,BOAR,野猪
+159,wild boar,3154,WILD BOAR,野猪
 160,pangolin,2508,PANGOLIN,穿山甲
 161,mouse,2139,MUROID (MOUSE OR RAT),老鼠
 162,yellow weasel,,,黄鼠狼
@@ -384,7 +384,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 385,earthen jar,3409,EARTHEN JUG,坛子
 386,water tank,,,水缸
 387,bucket,2052,BUCKET,水桶
-388,can (jar),1051,CAN,罐子
+388,can (jar),3765,STORING POT,罐子
 389,gourd ladle (wooden dipper),2657,LADLE,水瓢
 390,fire tongs,,,火钳
 391,tube (bamboo) for blowing on a fire,,,吹火筒
@@ -714,7 +714,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 717,repay (a dept),,,还帐
 718,exchange,2509,EXCHANGE,换
 719,return,581,COME BACK,回来
-720,know (to write),2238,KNOW OR BE ABLE,会（写）
+720,know (to write),2238,KNOW HOW,会（写）
 721,squeeze,1414,SQUEEZE,挤
 722,remember,707,REMEMBER,记得
 723,pick up (food with chopsticks),,,夹
