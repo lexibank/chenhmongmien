@@ -86,7 +86,7 @@ class Dataset(MyDataset):
             if entry["Chinese gloss"] in concepts.keys():
                 for language in languages:
                     if entry[language].strip():
-                        args.writer.add_lexemes(
+                        args.writer.add_forms_from_value(
                             Language_ID=languages[language],
                             Parameter_ID=concepts[entry["Chinese gloss"]],
                             Value=entry[language],
