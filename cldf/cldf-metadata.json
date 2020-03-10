@@ -3,9 +3,7 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Ch\u00e9n, Q\u00edgu\u0101ng \u9673\u5176\u5149 (2012): Mi\u00e1oy\u00e1o y\u01d4w\u00e9n \u82d7\u7464\u8bed\u6587 [Miao and Yao language]. Zh\u014dngy\u0101ng M\u00ednz\u00fa D\u00e0xu\u00e9 \u4e2d\u592e\u6c11\u65cf\u5927\u5b66 [China Minzu University Press].",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:format": [
-        "http://concepticon.clld.org/contributions/Chen-2012-888"
-    ],
+    "dc:format": ["http://concepticon.clld.org/contributions/Chen-2012-888"],
     "dc:identifier": "https://en.wiktionary.org/wiki/Appendix:Hmong-Mien_comparative_vocabulary_list",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
