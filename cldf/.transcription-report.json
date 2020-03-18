@@ -4,6 +4,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -736,6 +739,7 @@
             },
             "sclass_errors": [],
             "segments": {
+                "*/\u0259": 10,
                 "+": 391,
                 "a": 338,
                 "ai": 73,
@@ -806,6 +810,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -1614,6 +1621,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -2430,6 +2440,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -3245,6 +3258,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -4063,6 +4079,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -4879,6 +4898,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -5711,6 +5733,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -6500,6 +6525,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -7312,6 +7340,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -8116,6 +8147,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -8925,6 +8959,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -9740,6 +9777,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -10602,6 +10642,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -11397,6 +11440,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -12204,6 +12250,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -13004,6 +13053,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -13795,6 +13847,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -14601,6 +14656,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -15402,6 +15460,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -16198,6 +16259,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -17031,6 +17095,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -17828,6 +17895,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -18638,6 +18708,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -19434,6 +19507,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "*/\u0259": [
+                    "\u0259"
+                ],
                 "+": [
                     "+"
                 ],
@@ -20223,8 +20299,11 @@
         "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 70.6,
+        "inventory_size": 70.63999999999999,
         "replacements": {
+            "*/\u0259": [
+                "\u0259"
+            ],
             "+": [
                 "+"
             ],
@@ -20957,6 +21036,7 @@
         },
         "sclass_errors": [],
         "segments": {
+            "*/\u0259": 10,
             "+": 9624,
             "a": 7435,
             "ai": 792,
