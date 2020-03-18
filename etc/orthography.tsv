@@ -1,591 +1,487 @@
-Grapheme	IPA
- ̩ȵ	ȵ̩
-,	NULL
-^	NULL
-^ ̩ȵ	ȵ̩
-^b	b
-^bl	b l
-^bɦ	bʰ
-^c	c
-^cʰ	cʰ
-^d	d
-^dl	d l
-^dlj	d lʲ
-^dlɦ	dʱ l
-^dz	dz
-^dzɦ	dzʱ
-^dɦ	dʱ
-^dʐɦ	dʐʱ
-^dʑ	dʑ
-^dʑɦ	dʑʱ
-^dʒ	dʒ
-^f	f
-^fʰ	fʰ
-^g	g
-^gw	g w
-^gwj	g ɥ
-^gɦ	gʰ
-^h	h
-^hw	h w
-^i	i
-^i$	i
-^iː	iː
-^j	j
-^jw	ɥ
-^k	k
-^kh	kʰ
-^kjw	kʲ w
-^kl	k l
-^kw	k w
-^kwj	k ɥ
-^kʰ	kʰ
-^kʰw	kʰ w
-^l	l
-^lɦ	lʱ
-^m	m
-^m$	m
-^mb	ⁿb
-^mbɦ	ⁿbʱ
-^mp	ⁿp
-^mph	ⁿpʰ
-^mplua	ⁿp  u/lʷ
-^mpʐ	ⁿp ʐ
-^mpʐu	ⁿp u/ʐʷ
-^mpʰ	ⁿpʰ
-^mts	ⁿts
-^mɦ	mʱ
-^mʐ	m ʐ
-^m̥	m̥
-^m̥m	m̥ m̩
-^m̩	m m̩
-^n	n
-^n$	n
-^nd	ⁿd
-^ndl	ⁿd l
-^ndlɦ	ⁿdʱ l
-^ndz	ⁿdz
-^ndzɦ	ⁿdzʱ
-^ndɦ	ⁿdʱ
-^ndʒ	ⁿdʒ
-^nj	nʲ
-^nkʰ	ⁿkʰ
-^npl	ⁿpˡ
-^nplw	ⁿpˡ w
-^npʰ	ⁿpʰ
-^nqw	ⁿq w
-^nqʰ	ⁿqʰ
-^nsʰ	ⁿsʰ
-^nt	ⁿt
-^nts	ⁿts
-^ntsʰ	ⁿtsʰ
-^ntɕʰ	ⁿtɕʰ
-^ntɬ	ⁿtɬ
-^ntʂ	ⁿʈʂ
-^ntʂʰ	ⁿʈʂʰ
-^ntʃ	ⁿtʃ
-^ntʃʰ	ⁿtʃʰ
-^ntʰ	ⁿtʰ
-^ntθʰ	ⁿtθʰ
-^ntθ	ⁿtθ
-^nɖ	ⁿɖ
-^nɦ	nʱ
-^nʈ	ⁿʈ
-^nʈʰ	ⁿʈʰ
-^n̥	n̥
-^n̩	n n̩
-^o	o
-^o$	o
-^ou	ɔ
-^oː	oː
-^p	p
-^ph	pʰ
-^pl	p l
-^pʐ	p ʐ
-^pʰ	pʰ
-^pʰʐ	pʰ ʐ
-^q	q
-^qw	q w
-^qʰ	qʰ
-^qʰw	qʰ w
-^r	r
-^s	s
-^sʰ	sʰ
-^t	t
-^t$	t
-^tl	t l
-^ts	ts
-^tsʰ	tsʰ
-^tɕ	tɕ
-^tɕʰ	tɕʰ
-^tɬ	tɬ
-^tɬʰ	tɬʰ
-^tʂ	ʈʂ
-^tʂʰ	ʈʂʰ
-^tʃ	tʃ
-^tʃʰ	tʃʰ
-^tʰ	tʰ
-^tθ	tθ
-^tθʰ	tθʰ
-^u	u
-^ua	u a
-^ue	u e
-^uː	uː
-^v	v
-^vz	v z
-^vɦ	vʱ
-^w	w
-^wɦ	wʱ
-^x	x
-^xw	x w
-^xʰ	xʰ
-^y	y
-^ye	y/ɥ e
-^yɛ	y/ɥ ɛ
-^z	z
-^ç	ç
-^ð	ð
-^ŋ	ŋ
-^ŋg	ⁿg
-^ŋgɦ	ⁿgʱ
-^ŋk	ⁿk
-^ŋkh	ⁿkʰ
-^ŋkʰ	ⁿkʰ
-^ŋq	ⁿq
-^ŋqʰ	ⁿqʰ
-^ŋw	ŋ w
-^ŋɢ	ⁿɢ
-^ŋɢɦ	ⁿɢʱ
-^ŋɢʷ	ⁿɢ w
-^ŋ̥	ŋ̥
-^ŋ̩	ŋ̩
-^ȵ	ȵ
-^ȵdʑ	ⁿdʑ
-^ȵdʑɦ	ⁿdʑʱ
-^ȵtɕ	ⁿtɕ
-^ȵtɕi²⁴	ⁿtɕ i ²⁴
-^ȵtɕʰ	ⁿtɕʰ
-^ȵɦ	ȵʱ
-^ȵ̥	ȵ̥̥
-^ȵ̩	ȵ̩
-^ȵ̩tɕ	ⁿtɕ
-^ɕ	ɕ
-^ɕʰ	ɕʰ
-^ɖ	ɖ
-^ɖɦ	ɖʱ
-^ə	ə
-^ɛ	ɛ
-^ɢ	ɢ
-^ɢw	ɢ w
-^ɣ	ɣ
-^ɦ	ɦ
-^ɪ	ɪ
-^ɬ	ɬ
-^ɬʰ	ɬʰ
-^ɭ	ɭ
-^ɯ	ɯ
-^ɯa	ɯa
-^ɳ	ɳ
-^ɳdʐ	ⁿdʐ
-^ɳdʐɦ	ⁿdʐʱ
-^ɳtʂ	ⁿʈʂ
-^ɳtʂʰ	ⁿʈʂʰ
-^ɳɖ	ⁿɖ
-^ɳʈ	ⁿʈ
-^ɳʈʂ	ⁿʈʂ
-^ɳʈʰ	ⁿʈʰ
-^ɹ	ɹ
-^ʁ	ʁ
-^ʁw	ʁ w
-^ʂ	ʂ
-^ʂʰ	ʂʰ
-^ʃ	ʃ
-^ʈ	ʈ
-^ʈʰ	ʈʰ
-^ʍ	ʍ
-^ʐ	ʐ
-^ʑ	ʑ
-^ʑɦ	ʑʱ
-^ʔ	ʔ
-^ʔh	ˀh
-^ʔj	ˀj
-^ʔl	ˀl
-^ʔm	ˀm
-^ʔn	ˀn
-^ʔp	ˀp
-^ʔt	ˀt
-^ʔv	ˀv
-^ʔw	ˀw
-^ʔŋ	ˀŋ
-^ʔŋ̩	ˀŋ ŋ̍
-^ʔȵ	ˀȵ
-^ʔʑ	ˀʑ
-^θ	θ
-^χ	χ
-^χw	χ w
-^ⁿtɬ	ⁿtɬ
-_	+
-a	a
-ai	ai
-ao	ao
-au	au
-aəi	aəi/ai
-aɯ	aɯ
-aː	aː
-aːi	aːi
-aːu	aːu
-b	b
-bl	b l
-bɦ	bʰ
-c	c
-cʰ	cʰ
-d	d
-dl	d l
-dlj	d lʲ
-dlɦ	dʱ l
-dz	dz
-dzɦ	dzʱ
-dɦ	dʱ
-dʐɦ	ɖʐʱ
-dʑ	dʑ
-dʑɦ	dʑʱ
-dʒ	dʒ
-e	e
-ei	ei
-eu	eu
-ey	ey
-eɯ	eɯ
-eː	eː
-f	f
-fʰ	fʰ
-g	g
-gl	gˡ
-gw	g w
-gwj	g ɥ
-gɦ	gʱ
-h	h
-hw	h w
-i	i
-i$	i
-ia	i/j a
-iau	i/j au
-ie	i/j e
-ieu	i/j eu
-iu	i/j u
-iɑ	i/j ɑ
-iɑu	i/j ɑu
-iəu	i/j əu
-iː	iː
-j	j
-jiu	ji/j u
-jua	ɥ a
-juə	ɥ ə
-jw	ɥ
-k	k
-kl	k l
-kw	k w
-kwj	k ɥ
-kʰ	kʰ
-kʰw	kʰ w
-l	l
-lɦ	lʱ
-m	m
-m$	m
-mb	ⁿb
-mbɦ	ⁿbʰ
-mp	ⁿp
-mph	ⁿpʰ
-mplua	ⁿpˡ u/lʷ
-mpʐ	ⁿp ʐ
-mpʐua	ⁿp u/ʐʷ
-mpʰ	ⁿpʰ
-mts	ⁿts
-mɦ	mʱ
-mʐ	m ʐ
-m̥	m̥
-m̥m	m̥ m̩
-m̩	m m̩
-n	n
-n$	n
-nd	ⁿd
-ndl	ⁿd l
-ndlɦ	ⁿdʱ l
-ndz	ⁿdz
-ndzɦ	ⁿdzʱ
-ndɦ	ⁿdʱ
-ndʒ	ⁿdʒ
-nj	nʲ
-nkʰ	ⁿkʰ
-npl	ⁿpˡ
-nplw	ⁿpˡ w
-npʰ	ⁿpʰ
-nqw	ⁿq w
-nqʰ	ⁿqʰ
-nsʰ	ⁿsʰ
-nt	ⁿt
-ntl	ⁿtˡ
-nts	ⁿts
-ntsʰ	ⁿtsʰ
-ntɕʰ	ⁿtɕʰ
-ntɬ	ⁿtɬ
-ntʂ	ⁿʈʂ
-ntʂʰ	ⁿʈʂʰ
-ntʃ	ⁿtʃ
-ntʃʰ	ⁿtʃʰ
-ntʰ	ⁿtʰ
-ntθʰ	ⁿtθʰ
-ntθ	ⁿtθ
-nutŋ	n u tŋ/ŋ
-nɖ	ⁿɖ
-nɦ	nʱ
-nʈ	ⁿʈ
-nʈʰ	ⁿʈʰ
-n̥	n̥
-n̥u	n̥ u
-n̩	n n̩
-o	o
-o$	o
-oi	oi
-ou	ɔ
-oː	oː
-oːi	oːi
-oːu	oːu
-p	p
-ph	pʰ
-pl	p ɭ
-pʐ	p ʐ
-pʰ	pʰ
-pʰʐ	pʰ ʐ
-q	q
-qw	q w
-qʰ	qʰ
-qʰw	qʰ w
-r	r
-s	s
-sʰ	sʰ
-t	t
-t$	t
-tl	t l
-ts	ts
-tsʰ	tsʰ
-tɕ	tɕ
-tɕʰ	tɕʰ
-tɬ	tɬ
-tɬʰ	tɬʰ
-tʂ	ʈʂ
-tʂʰ	ʈʂʰ
-tʃ	tʃ
-tʃʰ	tʃʰ
-tʰ	tʰ
-tθ	tθ
-tθʰ	tθʰ
-u	u
-ua	u/w a
-ue	u/w e
-uei	u/w ei
-ui	ui
-uoː	u/w oː
-uɑ	u/w ɑ
-uə	u/w ə
-uəi	u/w əi
-uː	uː
-uːi	uːi
-uːo	uːo
-v	v
-vz	v z
-vɦ	vʱ
-w	w
-wj	ɥ
-wɦ	wʱ
-x	x
-xʰ	xʰ
-y	y
-ya	y/ɥ a
-ye	y/ɥ e
-yĩ	y/ɥ ĩ
-yo	y/ɥ o
-yɛ	y/ɥ ɛ
-z	z
-²	²
-²$	²
-²²	²² +
-²²$	²²
-²³²	²³² +
-²³²$	²³²
-²³¹	²³¹ +
-²³¹$	²³¹
-²¹	²¹ +
-²¹$	²¹
-²¹²	²¹² +
-²¹²$	²¹²
-²⁴	²⁴ +
-²⁴$	²⁴
-²⁴¹	²⁴¹ +
-²⁴¹$	²⁴¹
-³	³
-³$	³
-³²	³² +
-³²$	³²
-³²³	³²³ +
-³²³$	³²³
-³³	³³ +
-³³$	³³
-³³³	³³ +
-³³³$	³³
-³¹	³¹ +
-³¹$	³¹
-³¹²	³¹² +
-³¹²$	³¹²
-³¹³	³¹³ +
-³¹³$	³¹³
-³⁴	³⁴ +
-³⁴$	³⁴
-³⁵	³⁵ +
-³⁵$	³⁵
-³⁵³⁵	³⁵ +
-³⁵³⁵$	³⁵
-¹	¹
-¹$	¹
-¹²	¹² +
-¹²$	¹²
-¹³	¹³ +
-¹³$	¹³
-¹³_	+
-¹³¹	¹³¹ +
-¹³¹$	¹³¹
-¹¹	¹¹ +
-¹¹$	¹¹
-ã	ã
-æ	æ
-æɯ	æɯ
-æ̃	æ̃
-ç	ç
-ð	ð
-õ	õ
-ø	ø
-øe	øe
-ĩ	ĩ
-ŋ	ŋ
-ŋg	ⁿg
-ŋgɦ	ⁿgʱ
-ŋk	ⁿk
-ŋkh	ⁿkʰ
-ŋkʰ	ⁿkʰ
-ŋq	ⁿq
-ŋqʰ	ⁿqʰ
-ŋw	ŋ w
-ŋɢ	ⁿɢ
-ŋɢɦ	ⁿɢʱ
-ŋɢʷ	ⁿɢ w
-ŋ̥	ŋ̥
-ŋ̩	ŋ̩
-ȵ	ȵ
-ȵdʑ	ⁿdʑ
-ȵdʑɦ	ⁿdʑʱ
-ȵtɕ	ⁿtɕ
-ȵtɕi²⁴	ⁿtɕ i ²⁴
-ȵtɕʰ	ⁿtɕʰ
-ȵɦ	ȵʱ
-ȵ̥	ȵ̥
-ȵ̩	ȵ̩
-ȵ̩tɕ	ⁿtɕ
-ɑ	ɑ
-ɑo	ɑo
-ɑu	ɑu	
-ɒ	ɒ
-ɒi	ɒi
-ɔ	ɔ
-ɔi	ɔi
-ɕ	ɕ
-ɕʰ	ɕʰ
-ɖ	ɖ
-ɖɦ	ɖʱ
-ə	ə
-əi	əi
-əu	əu
-əɯ	əɯ
-ə̃	ə̃
-ɛ	ɛ
-ɛu	ɛu
-ɢ	ɢ
-ɢw	ɢ w
-ɣ	ɣ
-ɦ	ɦ
-ɪ	ɪ
-ɬ	ɬ
-ɬj	ɬʲ
-ɬʰ	ɬʰ
-ɭ	ɭ
-ɯ	ɯ
-ɯa	ɯa
-ɳ	ɳ
-ɳdʐɦ	ⁿɖʐʱ
-ɳtʂ	ⁿʈʂ
-ɳtʂʰ	ⁿʈʂʰ
-ɳɖ	ⁿɖ
-ɳʈ	ⁿʈ
-ɳʈʰ	ⁿʈʰ
-ɹ	ɹ
-ɿ	ɿ
-ʁ	ʁ
-ʁw	ʁ w
-ʂ	ʂ
-ʂʰ	ʂʰ
-ʃ	ʃ
-ʅ	ʅ
-ʈ	ʈ
-ʈʰ	ʈʰ
-ʍ	ʍ
-ʐ	ʐ
-ʑ	ʑ
-ʑɦ	ʑʱ
-ʔ	ʔ
-ʔh	ˀh
-ʔj	ˀj
-ʔl	ˀl
-ʔm	ˀm
-ʔn	ˀn
-ʔp	ˀp
-ʔt	ˀt
-ʔv	ˀv
-ʔw	ˀw
-ʔŋ	ˀŋ
-ʔŋ̩	ˀŋ ŋ̍
-ʔȵ	ˀȵ
-ʔʑ	ˀʑ
-θ	θ
-χ	χ
-ẽ	ẽ
-⁰	⁰
-⁰$	⁰
-⁰²	⁰/² +
-⁰²$	⁰/²
-⁰³	⁰/³ +
-⁰³$	⁰/³
-⁰⁴	⁰/⁴ +
-⁰⁴$	⁰/⁴
-⁰⁵	⁰/⁵ +
-⁰⁵$	⁰/⁵
-⁴	⁴
-⁴$	⁴
-⁴²	⁴² +
-⁴²$	⁴²
-⁴³	⁴³ +
-⁴³$	⁴³
-⁴¹	⁴¹ +
-⁴⁴	⁴⁴ +
-⁴⁴$	⁴⁴
-⁵	⁵
-⁵$	⁵
-⁵²	⁵² +
-⁵²$	⁵²
-⁵³	⁵³ +
-⁵³$	⁵³
-⁵¹	⁵¹ +
-⁵¹$	⁵¹
-⁵⁴	⁵⁴ +
-⁵⁴$	⁵⁴
-⁵⁵	⁵⁵ +
-⁵⁵$	⁵⁵
-ⁿsʰ	ⁿsʰ
-ⁿtɬ	ⁿtɬ
-^huai²⁴$	h u/w ai ²⁴
+Grapheme	IPA	SCA	TYPES	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+^	NULL	NULL	NULL	2	U+005E		CentralGuizhouChuanqiandian
+^huai²⁴$	h u/w ai ²⁴	H W A 2	Consonant Consonant Diphthong Tone	1	U+005E U+0068 U+0075 U+0061 U+0069 U+00B2 U+2074 U+0024	"huai²⁴"	Chuanqiandian
+a	a	A	Vowel	7084	U+0061	"ko⁵⁵lo⁵⁵laŋ⁵⁵,tja³³,ʔa⁰³ȵ̥ei³¹"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+b	b	P	Consonant	64	U+0062	"ka⁰³bja³¹³,ma²²bo²²,tjuŋ⁵⁵bi⁵³"	Bana,BiaoMin,EasternXiangxi,KimMun,Mien,NortheastYunnanChuanqiandian,ZaoMin
+c	c	C	Consonant	26	U+0063	"ku⁵³ci⁴⁴,tɑ³⁵ci³⁵,ȵcɯ²²"	WesternXiangxi
+d	d	T	Consonant	136	U+0064	"di²⁴dəi³¹,him⁴⁴djaŋ⁴²,pa⁰²do³⁵vai⁵⁵"	Bana,BiaoMin,EasternXiangxi,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,ZaoMin
+e	e	E	Vowel	2596	U+0065	"m̥e⁴²,qe³⁵,tʰeŋ⁴⁴"	Bana,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+f	f	B	Consonant	69	U+0066	"pje⁵⁵fu²²kʰɔ³⁵,tau²²fu²²,tsʰu³¹faŋ³¹"	Bana,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Nunu,She,SouthernQiandong,WesternLuobuohe,Younuo,ZaoMin
+g	g	K	Consonant	47	U+0067	"pjou⁵¹gjaŋ⁵¹,ŋoːŋ³³gjaːn³³,ʔa⁰³gɯ¹³"	Bana,BiaoMin,EasternXiangxi,KimMun,Mien,NortheastYunnanChuanqiandian,ZaoMin
+h	h	H	Consonant	153	U+0068	"qo⁰⁵ho²⁴,sɿ⁵⁵huŋ⁵⁵,tɔ³⁵hə³⁵"	Bana,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+i	i	I	Vowel	3148	U+0069	"lu¹³ʔi³³,min³¹,qai⁴³ʔi⁴³"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+j	j	J	Consonant	2397	U+006A	"ljəu³¹,mjin¹¹,ȵtɕei³³mpje⁵⁵mjau⁵³"	Bana,BiaoMin,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+k	k	K	Consonant	636	U+006B	"piek³⁵,toŋ³³kua³³,tɕi³³koŋ³³"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+l	l	L	Consonant	680	U+006C	"pu²²ljeu¹³,tə⁰²lo⁵⁵qɛ³¹,ʔə⁰²qlei⁵⁵"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+m	m	M	Consonant	755	U+006D	"kɯ⁴⁴me²²,ɬi³⁵pam⁴⁴,ʔa³³me⁵⁵"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+n	n	N	Consonant	2513	U+006E	"fan⁵¹,mben⁵⁵,pin³³"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+o	o	U	Vowel	3844	U+006F	"kau¹³ljon³¹³,to³¹nei²⁴¹,ʔo³³tɕu³¹"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+p	p	P	Consonant	694	U+0070	"heːp⁴²,qo³⁵pji³⁵,ʔə⁰²pi⁵⁵wɑ⁵⁵"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+q	q	K	Consonant	302	U+0071	"pa³³qa²⁴,ʔa³³lau³³qai⁵⁵,ʔə⁰²to³¹qɑ⁵⁵"	CentralGuizhouChuanqiandian,Chuanqiandian,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,NortheastYunnanChuanqiandian,NorthernQiandong,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi
+r	r	R	Consonant	1	U+0072	"qo⁰⁵ȵtɕi³¹mo³¹ar⁵⁵"	EasternLuobuohe
+s	s	S	Consonant	351	U+0073	"ki⁵⁵saŋ⁵⁵,ʐɛ²⁴si⁴²,ʔə⁰²ʑi³¹si³¹"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+t	t	T	Consonant	1142	U+0074	"but¹²,kaŋ³³tɛ³⁵,ʔa⁰³te³⁵"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+u	u	Y	Vowel	3480	U+0075	"klu⁵³,tɕu⁵³,ʔu³⁵ȵɔ³¹"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+v	v	B	Consonant	135	U+0076	"pjei³¹³ve³³,pou³³vjen¹¹,ʔa⁰²vjɛ⁵⁵ʁwen³¹"	Bana,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,KimMun,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernQiandong,WesternLuobuohe,WesternQiandong,Younuo,ZaoMin
+w	w	W	Consonant	128	U+0077	"ki⁰³wai⁵⁵,qʰau³⁵ŋkwi⁵⁵,ʔə⁰²wo³⁵"	BiaoMin,Dongnu,EasternBahen,EasternLuobuohe,EasternXiangxi,Jiongnai,Mien,NortheastYunnanChuanqiandian,Numao,SouthernGuizhouChuanqiandian,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi
+x	x	G	Consonant	30	U+0078	"ko²²xi³³,tu²²xo³⁵,ȵa¹³xa³⁵"	BiaoMin,EasternLuobuohe,EasternXiangxi,NortheastYunnanChuanqiandian,Numao,Nunu,SouthernQiandong,WesternLuobuohe,WesternQiandong
+y	y	Y	Vowel	127	U+0079	"ly³³,lɦy³⁵,tʰy²⁴"	Dongnu,EasternLuobuohe,EasternQiandong,EasternXiangxi,NortheastYunnanChuanqiandian,Numao,Nunu,WesternLuobuohe,Younuo
+z	z	S	Consonant	115	U+007A	"hza³³,nzu⁵⁵,pzi⁵⁵ʁlei³¹"	CentralGuizhouChuanqiandian,EasternLuobuohe,EasternXiangxi,KimMun,NortheastYunnanChuanqiandian,NorthernQiandong,Nunu,WesternLuobuohe,Younuo
+ã	ã	A	Vowel	89	U+00E3	"m̥ã²⁴,nã³¹ɬa⁴²,ɕã²⁴"	CentralGuizhouChuanqiandian,WesternLuobuohe
+æ	æ	E	Vowel	219	U+00E6	"kæ⁴²,lu³²sæ³⁵,tsʰæ⁵⁵"	SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternQiandong
+ð	ð	D	Consonant	22	U+00F0	"tɕu³¹ðu⁵⁵,tə⁰²ðen³⁵,ʔə⁰²qʰoŋ⁵⁵ȵtɕi⁵⁵ði³¹"	Jiongnai,Nunu,WesternLuobuohe
+õ	õ	U	Vowel	134	U+00F5	"mo⁵⁵õ⁴⁴,mpõ³¹tõ²⁴,m̥õ¹³"	Bana,CentralGuizhouChuanqiandian
+ø	ø	U	Vowel	7	U+00F8	"jø³¹,jøŋ³¹ȵdʑe³⁵,tø¹³"	Numao,WesternLuobuohe
+ĩ	ĩ	I	Vowel	19	U+0129	"n̥ĩ¹³,tĩ²²,ʐĩ²²"	CentralGuizhouChuanqiandian,NortheastYunnanChuanqiandian
+ŋ	ŋ	N	Consonant	4876	U+014B	"se²¹ŋji³²ŋje²¹,ȵɛn³¹tjaŋ³⁵,ʔaŋ³⁵ji³⁵"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+ȵ	ȵ	N	Consonant	202	U+0235	"kʰa⁴²ȵã²⁴,qo³⁵ȵoŋ³⁵,tə⁰²si³¹ȵa²⁴pjo³³"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternXiangxi,KimMun,Mien,NortheastYunnanChuanqiandian,Numao,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternXiangxi,ZaoMin
+ɑ	ɑ	A	Vowel	552	U+0251	"nɑ⁵⁵,ʔə⁰²ndɑ³⁵,χɑŋ³⁵"	EasternLuobuohe,She,WesternLuobuohe,WesternXiangxi
+ɒ	ɒ	O	Vowel	122	U+0252	"nɒŋ¹¹tʃau⁵³,tsʰɒ²¹,ʃɒŋ³³"	Jiongnai,Mien,Younuo
+ɔ	ɔ	U	Vowel	958	U+0254	"hɔ³¹kwaŋ³¹,pjɔ⁴⁴me²¹,tsʰa³⁵lu³¹tʰɔ⁵³"	BiaoMin,Dongnu,Jiongnai,Mien,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternQiandong,WesternXiangxi,ZaoMin
+ɕ	ɕ	S	Consonant	119	U+0255	"kʰu³¹ɕi³¹,qo³⁵ɕe³⁵,qo³⁵ɕe⁴⁴"	Bana,BiaoMin,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,SouthernQiandong,WesternLuobuohe,WesternQiandong,WesternXiangxi
+ɖ	ɖ	T	Consonant	2	U+0256	"qa³¹ɖa³¹,ʔa⁵⁵ɖʅ⁵³"	NortheastYunnanChuanqiandian
+ə	ə	E	Vowel	1447	U+0259	"pə⁰³to²¹,ŋə̃⁵⁵ʑə³¹,ʔa⁰²kjə³³"	BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternLuobuohe,WesternXiangxi,Younuo
+ɛ	ɛ	E	Vowel	619	U+025B	"kʰə⁵⁵pɛ²⁴,n̥ju⁴⁴ʔɛ³³,tɛ³³nen¹¹"	BiaoMin,CentralGuizhouChuanqiandian,Dongnu,EasternLuobuohe,EasternQiandong,Mien,NorthernQiandong,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,ZaoMin
+ɢ	ɢ	K	Consonant	6	U+0262	"qo⁵⁵ɢɦo³¹,ti⁵⁵ɢɦau¹¹,vaɯ⁵⁵ɢɦau¹¹"	NortheastYunnanChuanqiandian
+ɣ	ɣ	G	Consonant	48	U+0263	"mjau⁵³ɣou¹³,na³¹ɣeu³¹nəu³⁵,ɣei¹³ɣeu²⁴"	Dongnu,NorthernQiandong,Numao,SouthernQiandong,WesternQiandong
+ɦ	ɦ	H	Consonant	24	U+0266	"dlɦaɯ³⁵zɦo¹¹,qo⁵⁵ɢɦo³¹,ŋɦu¹¹"	NortheastYunnanChuanqiandian,SouthernGuizhouChuanqiandian
+ɪ	ɪ	I	Vowel	22	U+026A	"ku²¹pʐɪ³²,tɕə⁴²hua³²ʐɪ³²,ɭæ³⁵ʐɪ¹¹"	She,SouthernGuizhouChuanqiandian
+ɬ	ɬ	L	Consonant	194	U+026C	"hei⁵³ɬoŋ¹³,pja³³ɬo⁴⁴,uŋ⁴²nin³¹ɬa²⁴"	BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternXiangxi,Jiongnai,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo
+ɭ	ɭ	L	Consonant	7	U+026D	"pɭɔ³²,pɭɔ³²moŋ¹³,ɭa²¹ɭæn³²"	SouthernGuizhouChuanqiandian
+ɯ	ɯ	I	Vowel	321	U+026F	"tsɯ⁵⁵neŋ⁵³,vɦɯ¹¹,zɯ⁵⁵"	CentralGuizhouChuanqiandian,Dongnu,EasternXiangxi,NortheastYunnanChuanqiandian,Numao,Nunu,She,SouthernGuizhouChuanqiandian,WesternXiangxi
+ɳ	ɳ	N	Consonant	11	U+0273	"pei⁴²ɳa⁴²,qo³⁵ɳɑŋ³⁵,ʔa⁵⁵mby⁵³ɳaɯ³³"	EasternLuobuohe,NortheastYunnanChuanqiandian,SouthernGuizhouChuanqiandian,WesternXiangxi
+ɹ	ɹ	R	Consonant	6	U+0279	"qɹaŋ²⁴,tə⁰²qɹen³¹,ʔi⁵⁵qɹəu³³tə⁰²puŋ²⁴"	EasternLuobuohe
+ɿ	ɿ	I	Vowel	186	U+027F	"tɕʰan³¹tsɿ³³,ŋqai³³ntsɿ³¹,ɕi³¹tsɿ³³"	Bana,BiaoMin,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Mien,NortheastYunnanChuanqiandian,Numao,Nunu,SouthernGuizhouChuanqiandian,WesternBaheng,WesternLuobuohe,Younuo
+ʁ	ʁ	R	Consonant	22	U+0281	"qo⁰⁵ʁo²⁴,to⁰²qlo³¹qʁei²⁴,ʔa⁰²ʁɹɛ²⁴"	EasternLuobuohe,WesternLuobuohe
+ʂ	ʂ	S	Consonant	40	U+0282	"tə⁰²ʂɛ³³,ʐou⁴³ʂua⁴³,ʑo²⁴ʂi³¹"	CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternLuobuohe,NortheastYunnanChuanqiandian,SouthernGuizhouChuanqiandian,WesternXiangxi
+ʃ	ʃ	S	Consonant	20	U+0283	"lap⁴²ʃu³⁵,pə³¹ʃaŋ⁴⁴,tʃeu⁵¹ʃu³⁵pjau⁵¹"	Jiongnai,KimMun
+ʅ	ʅ	I	Vowel	14	U+0285	"tʂʰʅ³¹,tʅ¹¹,ŋqɯ³³ʂʅ⁵⁵"	NortheastYunnanChuanqiandian,SouthernGuizhouChuanqiandian
+ʈ	ʈ	T	Consonant	54	U+0288	"qo³⁵ʈei⁴²,qo³⁵ʈe⁵³,tɑ³⁵ʈei³⁵"	Chuanqiandian,Dongnu,EasternLuobuohe,NortheastYunnanChuanqiandian,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternXiangxi
+ʍ	ʍ	M	Consonant	4	U+028D	"me¹²ʍa⁴⁴,min³³ʍan³⁵,ʃi¹²ʍa³⁵"	Jiongnai
+ʐ	ʐ	S	Consonant	89	U+0290	"pi¹³ʐu⁵⁵,ʔa⁰²ʐei⁵⁵,ʔə⁰²ʐu³⁵men³¹"	CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternLuobuohe,NortheastYunnanChuanqiandian,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternXiangxi
+ʑ	ʑ	S	Consonant	279	U+0291	"pji³¹ʑo³¹,pɑ⁴⁴ʑu²²,tɕɑ⁴⁴ʑɑŋ⁴²"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternLuobuohe,WesternQiandong,WesternXiangxi,ZaoMin
+ʔ	ʔ	H	Consonant	329	U+0294	"la³³ʔi⁴⁴,mpjau¹¹ʔɒŋ⁴⁴,tʰeu²⁴ʔeu²⁴"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+θ	θ	D	Consonant	12	U+03B8	"ka³³θju⁵³,ʔa⁰²θo⁴²,ʔa⁰²θo⁵³"	Dongnu,Jiongnai
+χ	χ	G	Consonant	21	U+03C7	"tə⁰²χwɛ⁵⁵,ʔa⁰²χa²⁴qa⁵⁵,ʔə⁰²χu³¹χu³¹"	EasternLuobuohe,WesternLuobuohe
+ẽ	ẽ	E	Vowel	87	U+1EBD	"kʰẽ⁴²,pi¹³qẽ¹³,qə⁰²pẽ¹³"	CentralGuizhouChuanqiandian,WesternQiandong
+^b	b	P	Consonant	225	U+005E U+0062	"bi¹³ha¹³,bjəu³¹,buŋ³¹³"	Bana,BiaoMin,EasternBahen,EasternXiangxi,KimMun,Mien,NortheastYunnanChuanqiandian,ZaoMin
+^c	c	C	Consonant	17	U+005E U+0063	"ci²²,cɑ⁵³,cɛ⁵³"	WesternXiangxi
+^d	d	T	Consonant	292	U+005E U+0064	"dit⁵³tei²⁴,dot¹¹,du³³"	Bana,BiaoMin,EasternBahen,EasternXiangxi,KimMun,Mien,NortheastYunnanChuanqiandian,ZaoMin
+^f	f	B	Consonant	210	U+005E U+0066	"fai⁴⁴,fa¹³,faŋ²⁴kua²⁴"	Bana,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernQiandong,WesternBaheng,Younuo,ZaoMin
+^g	g	K	Consonant	135	U+005E U+0067	"gam⁵³,glɔ³⁵,goŋ²³¹"	Bana,BiaoMin,EasternXiangxi,KimMun,Mien,NortheastYunnanChuanqiandian,ZaoMin
+^h	h	H	Consonant	506	U+005E U+0068	"hen⁵³,heu¹¹,hi¹¹dɦə¹¹"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+^i	i	I	Vowel	2	U+005E U+0069	"in⁴⁴,in⁵³tsɿ⁰³"	Bana,ZaoMin
+^j	j	J	Consonant	159	U+005E U+006A	"ji³³,jæ³⁵,jəu⁵⁵"	EasternLuobuohe,Jiongnai,KimMun,She,WesternBaheng,WesternLuobuohe,Younuo
+^k	k	K	Consonant	1557	U+005E U+006B	"kei³⁵tɕʰaŋ⁴²,ki³¹mje⁵³juŋ³¹,ko¹³tsɿ³³"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+^l	l	L	Consonant	1039	U+005E U+006C	"la²¹pʰa⁴⁴,liŋ⁴⁴,ly²¹ŋje²¹"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+^m	m	M	Consonant	845	U+005E U+006D	"ma³¹tsjuk³⁵taŋ²²,mo²⁴¹,mɛ³¹pə⁵⁵lo³¹"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+^n	n	N	Consonant	796	U+005E U+006E	"nu⁴²zəu²²,nə¹³,nəŋ³³"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+^o	o	U	Vowel	1	U+005E U+006F	"o²⁴ʐo³³"	EasternLuobuohe
+^p	p	P	Consonant	1449	U+005E U+0070	"pat²²,pji¹³kan³³,pji⁵³kaŋ³⁵"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+^q	q	K	Consonant	920	U+005E U+0071	"qam⁵³,qau¹³,qɛ¹³lɛ⁵⁵ʂõ¹³pɛ³¹"	CentralGuizhouChuanqiandian,Chuanqiandian,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,NortheastYunnanChuanqiandian,NorthernQiandong,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi
+^s	s	S	Consonant	774	U+005E U+0073	"sei²²na⁴²,sim³³,so⁵⁵ləu⁵⁵"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+^t	t	T	Consonant	2173	U+005E U+0074	"tuŋ³¹ʔo⁵³,təɯ⁵³,tə⁰²qwen⁵⁵"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+^u	u	Y	Vowel	1	U+005E U+0075	"uŋ⁴²nin³¹ɬa²⁴"	BiaoMin
+^v	v	B	Consonant	255	U+005E U+0076	"vi³³ka³³,vu³¹nei⁵⁵,vɛ³¹"	Bana,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,KimMun,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernQiandong,WesternLuobuohe,WesternQiandong,Younuo,ZaoMin
+^w	w	W	Consonant	106	U+005E U+0077	"wa³¹wa³⁵,waŋ³¹sen⁵³,wo⁴⁴"	BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,EasternBahen,EasternLuobuohe,EasternXiangxi,Jiongnai,Mien,NortheastYunnanChuanqiandian,SouthernGuizhouChuanqiandian,WesternBaheng,WesternLuobuohe,WesternXiangxi
+^x	x	G	Consonant	104	U+005E U+0078	"xap³⁵mo¹³,xjoŋ¹³,xəu³¹"	BiaoMin,EasternBahen,EasternXiangxi,NortheastYunnanChuanqiandian,Numao,Nunu,SouthernQiandong,WesternQiandong,Younuo
+^y	y	Y	Vowel	4	U+005E U+0079	"yn³¹³,y³¹lin³¹ka³¹,y⁵³teu³³"	Bana,EasternQiandong,EasternXiangxi
+^z	z	S	Consonant	111	U+005E U+007A	"zeŋ⁴²,zu¹³ȵin⁴²,zəm⁴²"	CentralGuizhouChuanqiandian,EasternLuobuohe,EasternXiangxi,KimMun,NortheastYunnanChuanqiandian,NorthernQiandong,Nunu,WesternLuobuohe
+^ç	ç	C	Consonant	5	U+005E U+00E7	"çaŋ³⁵,ço⁴⁴,çəu⁵³"	Jiongnai
+^ð	ð	D	Consonant	29	U+005E U+00F0	"ða³¹,ðe³³,ðɑ³⁵"	Jiongnai,WesternLuobuohe
+^ŋ	ŋ	N	Consonant	324	U+005E U+014B	"ŋa¹¹,ŋo³²pui³³,ŋo¹³"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+^ȵ	ȵ	N	Consonant	353	U+005E U+0235	"ȵa²³²,ȵiŋ³³ŋo⁵³,ȵɔ³²"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,KimMun,Mien,NortheastYunnanChuanqiandian,Numao,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternXiangxi,ZaoMin
+^ɕ	ɕ	S	Consonant	351	U+005E U+0255	"ɕa¹³xa¹³,ɕo³⁵lei³³,ɕuŋ³¹³"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,ZaoMin
+^ɖ	ɖ	T	Consonant	3	U+005E U+0256	"ɖau³¹,ɖaɯ³¹,ɖey³¹"	NortheastYunnanChuanqiandian
+^ə	ə	E	Vowel	3	U+005E U+0259	"ə²⁴ɕoŋ⁴⁴,ə³⁵ye¹³,ə⁴⁴"	Chuanqiandian,EasternXiangxi,SouthernGuizhouChuanqiandian
+^ɛ	ɛ	E	Vowel	1	U+005E U+025B	"ɛ³⁵"	BiaoMin
+^ɢ	ɢ	K	Consonant	11	U+005E U+0262	"ɢo⁵⁵,ɢɦu³⁵qɯ⁵⁵,ɢɦɯ³⁵ɖɦaɯ³⁵"	EasternXiangxi,NortheastYunnanChuanqiandian
+^ɣ	ɣ	G	Consonant	143	U+005E U+0263	"ɣei⁵³nou³¹,ɣou⁴⁴mei⁵³,ɣɔ¹³paŋ³¹"	Dongnu,EasternBahen,NorthernQiandong,Numao,SouthernQiandong,WesternQiandong
+^ɦ	ɦ	H	Consonant	5	U+005E U+0266	"ɦa¹³,ɦo²³²,ɦoŋ²²"	SouthernGuizhouChuanqiandian
+^ɬ	ɬ	L	Consonant	354	U+005E U+026C	"ɬju³⁵,ɬua³²,ɬu⁵⁵"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+^ɭ	ɭ	L	Consonant	16	U+005E U+026D	"ɭa⁴²li³⁵,ɭo²²,ɭə⁴⁴"	SouthernGuizhouChuanqiandian
+^ɳ	ɳ	N	Consonant	6	U+005E U+0273	"ɳɑŋ⁴²,ɳɔ³⁵,ɳɔ³⁵noŋ⁵³tɕa⁴⁴"	SouthernGuizhouChuanqiandian,WesternXiangxi
+^ʁ	ʁ	R	Consonant	29	U+005E U+0281	"ʁo²⁴tə⁰²hu⁵⁵,ʁo³¹zoŋ³⁵,ʁuŋ³¹"	EasternLuobuohe,WesternLuobuohe
+^ʂ	ʂ	S	Consonant	86	U+005E U+0282	"ʂei³⁵,ʂeu⁵⁵ntso⁵⁵,ʂua⁴⁴"	CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternLuobuohe,NortheastYunnanChuanqiandian,SouthernGuizhouChuanqiandian,WesternXiangxi
+^ʃ	ʃ	S	Consonant	100	U+005E U+0283	"ʃaŋ¹¹,ʃoːŋ³³,ʃəu⁵⁵"	Jiongnai,KimMun
+^ʈ	ʈ	T	Consonant	119	U+005E U+0288	"ʈaŋ³¹tʂʰua⁴³teu²¹,ʈou²⁴,ʈua³²"	Chuanqiandian,Dongnu,EasternLuobuohe,NortheastYunnanChuanqiandian,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternXiangxi
+^ʍ	ʍ	M	Consonant	14	U+005E U+028D	"ʍan⁵³,ʍa⁴⁴kʰjaŋ⁴⁴,ʍuŋ⁵³"	Jiongnai
+^ʐ	ʐ	S	Consonant	126	U+005E U+0290	"ʐaŋ³³,ʐaŋ¹³,ʐi²¹"	CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternLuobuohe,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternXiangxi
+^ʑ	ʑ	S	Consonant	431	U+005E U+0291	"ʑe³³wo³³,ʑõ⁵⁵,ʑĩ¹³kɛ⁴²"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternLuobuohe,WesternQiandong,WesternXiangxi,ZaoMin
+^ʔ	ʔ	H	Consonant	1347	U+005E U+0294	"ʔau⁴³,ʔa³¹,ʔaŋ⁴⁴ʔen²⁴"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+^θ	θ	D	Consonant	54	U+005E U+03B8	"θei⁴⁴,θu²³¹,θu³³"	Dongnu,Jiongnai
+^χ	χ	G	Consonant	25	U+005E U+03C7	"χi³¹,χo³¹,χu⁵⁵"	EasternLuobuohe,NortheastYunnanChuanqiandian,WesternLuobuohe
+ai	ai	A	Diphthong	791	U+0061 U+0069	"bai²¹,dai³¹,tai³³dy³¹"	Bana,BiaoMin,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,Numao,Nunu,She,SouthernQiandong,WesternBaheng,Younuo,ZaoMin
+au	au	A	Diphthong	1086	U+0061 U+0075	"bɦau³⁵,ljaŋ³⁵ʔau³¹³,pjau³³"	Bana,BiaoMin,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,Numao,Nunu,She,SouthernQiandong,WesternBaheng,Younuo,ZaoMin
+aɯ	aɯ	A	Diphthong	114	U+0061 U+026F	"bɦaɯ³⁵,pʰai⁵⁵ʔa³³bɦaɯ³⁵su¹¹lɦu¹¹,saɯ⁵⁵si¹¹"	NortheastYunnanChuanqiandian,WesternXiangxi
+aː	aː	A	Vowel	136	U+0061 U+02D0	"gaːp³⁵,kaːm³⁵,taːm⁵¹"	KimMun,Mien
+bl	b l	P L	Consonant Consonant	5	U+0062 U+006C	"gjiːŋ³³blau³³,koŋ³³bleu³¹,mei⁵¹blat⁴²"	BiaoMin,KimMun
+bɦ	bʰ	P	Consonant	7	U+0062 U+0266	"ki⁵⁵bɦo¹¹,ʔa³³bɦaɯ³⁵su¹¹lɦu¹¹,ʔa⁵⁵bɦaɯ¹¹"	NortheastYunnanChuanqiandian
+dl	d l	T L	Consonant Consonant	3	U+0064 U+006C	"la⁰⁴dli⁵³,son⁴⁴dlo⁵³,ŋɢɦai³⁵dlo³¹"	Bana,NortheastYunnanChuanqiandian
+dz	dz	C	Consonant	13	U+0064 U+007A	"ge³¹³dzo²²,tsʰu³⁵dzuŋ³³,ʔuoːm³³dzui³¹"	Bana,BiaoMin,EasternBahen,EasternXiangxi,Mien
+dɦ	dʱ	T	Consonant	9	U+0064 U+0266	"ka³³tɕi⁵⁵dɦu¹¹,pi⁵⁵dɦau³¹,ʔa⁵⁵dɦɯ¹¹"	NortheastYunnanChuanqiandian
+dʑ	dʑ	C	Consonant	16	U+0064 U+0291	"la⁰⁴dʑon³⁵,tɕa³¹dʑiŋ⁴⁴,ʔa⁵⁵dʑy⁵⁵"	Bana,BiaoMin,EasternXiangxi,NortheastYunnanChuanqiandian
+dʒ	dʒ	T	Consonant	4	U+0064 U+0292	"ka⁰²dʒo³¹,pa⁰²dʒaŋ³¹,tʃam⁵¹dʒoːm³³"	KimMun
+ei	ei	E	Diphthong	1212	U+0065 U+0069	"kua³²tɕaŋ³²sei³⁵,ɣei⁴⁴,ʔa⁰³tjei⁵³"	Bana,BiaoMin,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+eu	eu	E	Diphthong	682	U+0065 U+0075	"pei³³teu⁴⁴,ɕi⁵³ɣeu²⁴¹,ʈaŋ³¹tʂʰua⁴³teu²¹"	Bana,Chuanqiandian,EasternBahen,EasternLuobuohe,EasternQiandong,Jiongnai,KimMun,Numao,She,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,Younuo,ZaoMin
+ey	ey	E	Diphthong	64	U+0065 U+0079	"ntey⁵⁵,pi³³tey³³,tɬey³³"	NortheastYunnanChuanqiandian
+eɯ	eɯ	E	Diphthong	22	U+0065 U+026F	"kua²¹leɯ²¹,seɯ¹³,tæ³³seɯ¹³"	WesternQiandong
+eː	eː	E	Vowel	15	U+0065 U+02D0	"heːp⁴²,kjeːŋ³⁵dai⁵¹,tau⁵⁵dau⁵¹kjeːŋ³⁵"	KimMun
+fʰ	fʰ	B	Consonant	3	U+0066 U+02B0	"qa³³fʰa⁴⁴,qa¹³fʰæ³³,taŋ¹¹fʰu³⁵"	NorthernQiandong,WesternQiandong
+gw	g w	K W	Consonant Consonant	7	U+0067 U+0077	"djaŋ²⁴gwa³¹,la⁵³gwaŋ³³,na³¹³gwa³⁵"	Bana,BiaoMin,Mien
+gɦ	gʱ	K	Consonant	5	U+0067 U+0266	"lu⁵⁵gɦau³¹ɬi³³,lu⁵⁵gɦau³¹ʔi⁵⁵ɬi³³,tsɿ³³gɦau³⁵tai¹¹"	NortheastYunnanChuanqiandian
+hw	h w	H W	Consonant Consonant	6	U+0068 U+0077	"mi³¹hwa³⁵,qo³⁵mpe³⁵hwei⁴⁴mjɛ³⁵,ʔnaŋ⁵⁵hwei⁵³"	EasternXiangxi,WesternXiangxi
+i$	i	I	Vowel	1	U+0069 U+0024	"ʔȵi"	EasternXiangxi
+ia	i/j a	J A	Consonant Vowel	55	U+0069 U+0061	"tɕʰu²²pia³³,via⁴⁴,ziat⁴⁴"	EasternLuobuohe,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,Younuo
+ie	i/j e	J E	Consonant Vowel	83	U+0069 U+0065	"dʑɦie³⁵,pien³⁵,ʔa⁵⁵sie⁵⁵ʔa³³mby³³"	CentralGuizhouChuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,NortheastYunnanChuanqiandian,Nunu,WesternLuobuohe,Younuo
+iu	i/j u	J Y	Consonant Vowel	10	U+0069 U+0075	"tiu²²,viu⁴⁴,xai⁵³tɕiu³³"	BiaoMin,Mien,Nunu,She,ZaoMin
+iː	iː	I	Vowel	15	U+0069 U+02D0	"gjiːŋ³³blau³³,kjiːm³³mun³³,tiːŋ³⁵"	KimMun
+kl	k l	K L	Consonant Consonant	17	U+006B U+006C	"gui³⁵klaːŋ³⁵,pa³¹kloːi³⁵,tin⁴²klaŋ³⁵"	BiaoMin,Jiongnai,KimMun
+kw	k w	K W	Consonant Consonant	98	U+006B U+0077	"xwaŋ⁵³kwa³³,ɕi⁵³kwa⁵³,ʔa⁰³ŋaŋ¹¹kwai³⁵ʔau³¹"	Bana,BiaoMin,Dongnu,EasternBahen,EasternXiangxi,Jiongnai,KimMun,Mien,Numao,Nunu,She,SouthernQiandong,WesternBaheng,WesternXiangxi,Younuo
+kʰ	kʰ	K	Consonant	138	U+006B U+02B0	"mie¹³kʰo⁴⁴,nu⁵⁵kʰai⁴⁴,ʔeu⁴⁴kʰi⁴⁴tæ̃³³"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo
+lɦ	lʱ	L	Consonant	16	U+006C U+0266	"ʔa¹¹ʑɦey¹¹lɦau¹¹,ʔa⁵⁵lɦau³¹tʂʰo³³,ʔa⁵⁵lɦie¹¹"	NortheastYunnanChuanqiandian
+m$	m	M	Consonant	1	U+006D U+0024	"tə³¹kʰom"	Mien
+mb	ⁿb	P	Consonant	63	U+006D U+0062	"tə⁰²mby³⁵,ʔa⁵⁵mby⁵³ɳaɯ³³,ʔə⁰²mbji³¹"	EasternLuobuohe,NortheastYunnanChuanqiandian,WesternLuobuohe
+mp	ⁿp	P	Consonant	115	U+006D U+0070	"qə⁰²mplɯ²²,ʔaŋ³²mpɔ⁵⁵,ʔə⁰²mpɑŋ³⁵"	CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,Jiongnai,NortheastYunnanChuanqiandian,Numao,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternXiangxi
+mɦ	mʱ	M	Consonant	6	U+006D U+0266	"tsɿ³³mɦaɯ³⁵,tsɿ⁵⁵mɦo¹¹,ʔa⁵⁵mɦau³¹"	NortheastYunnanChuanqiandian
+mʐ	m ʐ	M S	Consonant Consonant	11	U+006D U+0290	"qʰɑŋ⁵³mʐɯ³¹,tɑ³⁵mʐɛ³⁵,tɑ³⁵mʐɛ³⁵mʐɛ⁵³"	SouthernGuizhouChuanqiandian,WesternXiangxi
+m̥	m̥	M	Consonant	50	U+006D U+0325	"dzu³¹m̥jen³³,ʔa⁰²m̥əŋ³³,ʔa⁵⁵m̥au⁵⁵"	BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternXiangxi,Jiongnai,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternXiangxi
+m̩	m m̩	M M	Consonant Consonant	8	U+006D U+0329	"bei¹³m̩³⁵,mai⁵³m̩²⁴,qa⁰³ma¹¹m̩³¹tʰoŋ³⁵"	EasternBahen,EasternXiangxi,WesternBaheng,ZaoMin
+n$	n	N	Consonant	1	U+006E U+0024	"tsan"	ZaoMin
+nd	ⁿd	T	Consonant	12	U+006E U+0064	"ʔa⁰²ndaŋ³¹,ʔa⁰²ɬy³³nda²⁴,ʔə⁰²nden³¹"	EasternLuobuohe,WesternLuobuohe
+nj	nʲ	N	Consonant	84	U+006E U+006A	"ho³³njaŋ²⁴,qa³³njei²²,qa³³pa¹³njo⁵³ɕʰi³³"	Bana,EasternBahen,EasternQiandong,Jiongnai,NorthernQiandong,She,SouthernQiandong,WesternBaheng,WesternQiandong,Younuo
+nt	ⁿt	T	Consonant	127	U+006E U+0074	"ku¹³ntu⁵⁵,ntu⁵³ntɒŋ³⁵nai³³,tə⁰²ntɑŋ³¹"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,Jiongnai,Mien,NortheastYunnanChuanqiandian,Numao,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternXiangxi
+nɖ	ⁿɖ	T	Consonant	1	U+006E U+0256	"ʔə⁰²nɖo⁵⁵ʁo³¹"	WesternLuobuohe
+nɦ	nʱ	N	Consonant	1	U+006E U+0266	"mbɦai¹¹nɦa¹¹"	NortheastYunnanChuanqiandian
+nʈ	ⁿʈ	T	Consonant	5	U+006E U+0288	"hou⁵⁵nʈau¹³,ki²⁴nʈaŋ⁴³,lo²¹nʈua²¹"	Chuanqiandian
+n̥	n̥	N	Consonant	87	U+006E U+0325	"laŋ⁴⁴n̥a⁵³,ma⁵⁵ȵoŋ³⁵n̥ei³⁵,nau⁵³n̥ɔi³³"	BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternXiangxi,Jiongnai,Mien,NorthernQiandong,Numao,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternXiangxi
+o$	o	U	Vowel	1	U+006F U+0024	"do"	Mien
+oi	oi	U	Diphthong	48	U+006F U+0069	"koi⁴²,pʰoi³³,ŋjoi⁵⁴"	Jiongnai,Nunu,WesternQiandong,Younuo,ZaoMin
+ou	ɔ	U	Vowel	318	U+006F U+0075	"kou³³,ljou³³,ȵou³³"	Bana,Chuanqiandian,EasternQiandong,KimMun,Mien,Numao,SouthernQiandong,ZaoMin
+oː	oː	U	Vowel	166	U+006F U+02D0	"poːŋ⁴²kjam³¹,tsa³¹noːm³¹,ŋoːŋ³³bu³⁵"	BiaoMin,KimMun,Mien
+pl	p ɭ	P L	Consonant Consonant	34	U+0070 U+006C	"gwan³³m̥ja³⁵pla³⁵,tɕu²¹pla³³,tə⁰²plæ³⁵"	BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternLuobuohe,Jiongnai,SouthernGuizhouChuanqiandian,WesternLuobuohe
+pʐ	p ʐ	P S	Consonant Consonant	15	U+0070 U+0290	"ku²¹pʐɪ³²,kʰɔ⁴⁴pʐɑ³¹,ɬɑ⁵³pʐei³⁵"	SouthernGuizhouChuanqiandian,WesternXiangxi
+pʰ	pʰ	P	Consonant	100	U+0070 U+02B0	"la²¹pʰa⁴⁴,tʰi²⁴pʰo⁴²,ʔə⁰²pʰiɑu³¹"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo
+qw	q w	K W	Consonant Consonant	30	U+0071 U+0077	"qo⁰⁵qwa³¹,qo⁰⁵ɬi²⁴qwa³¹,qwɑŋ²²qwei³⁵"	EasternLuobuohe,EasternXiangxi,WesternLuobuohe,WesternXiangxi
+qʰ	qʰ	K	Consonant	47	U+0071 U+02B0	"qa⁰³qʰa³¹tja³⁵,tə⁰²qʰoŋ⁵⁵ma³⁵,ʔa⁰²qʰu⁵⁵χu⁵⁵"	Chuanqiandian,EasternBahen,EasternLuobuohe,EasternXiangxi,NortheastYunnanChuanqiandian,NorthernQiandong,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi
+sʰ	sʰ	S	Consonant	32	U+0073 U+02B0	"po¹³sʰo¹³,tɬɛ⁵⁵sʰə²⁴,ʐɛ²⁴sʰa²⁴"	CentralGuizhouChuanqiandian,NorthernQiandong,WesternQiandong
+t$	t	T	Consonant	1	U+0074 U+0024	"xut"	Nunu
+tl	t l	T L	Consonant Consonant	1	U+0074 U+006C	"tsi⁵⁵tlua³¹"	Chuanqiandian
+ts	ts	C	Consonant	325	U+0074 U+0073	"ʂua²⁴tsi⁵⁵,ʑan³³tsɿ³³,ʔa⁰²tsa²¹"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternLuobuohe,WesternXiangxi,Younuo,ZaoMin
+tɕ	tɕ	C	Consonant	389	U+0074 U+0255	"pɔ¹¹tɕa¹³,qa⁰³njaŋ³³tɕi¹¹,ʐo²⁴tɕɯ¹³"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+tɬ	tɬ	T	Consonant	72	U+0074 U+026C	"lu⁵⁵tɬau⁵⁵ɬi¹¹,zau⁵⁵tɬey⁵⁵,ʔa⁰²tɬə⁴²"	Bana,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,NortheastYunnanChuanqiandian,SouthernQiandong
+tʂ	ʈʂ	C	Consonant	20	U+0074 U+0282	"pua⁴³tʂai¹³,ŋqe⁵⁵tʂõ²²,ʔa⁴³tʂe⁴³na⁵⁵"	CentralGuizhouChuanqiandian,Chuanqiandian,NortheastYunnanChuanqiandian,NorthernQiandong
+tʃ	tʃ	T	Consonant	24	U+0074 U+0283	"teu⁵¹tʃuːi³³,tʃa³¹tʃɒi³⁵,ʔau⁵³tʃəŋ³¹"	Jiongnai,KimMun
+tʰ	tʰ	T	Consonant	114	U+0074 U+02B0	"qə⁰²tʰɯ¹³,tɔ³⁵tʰei³⁵ji³⁵,ʔə⁰²tʰe³¹"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo
+ua	u/w a	W A	Consonant Vowel	291	U+0075 U+0061	"noŋ²²hua³²,pʰua³¹si⁴³,tɕuan⁵³pɛ²¹²"	Chuanqiandian,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,KimMun,NortheastYunnanChuanqiandian,Numao,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternQiandong,Younuo
+ue	u/w e	W E	Consonant Vowel	82	U+0075 U+0065	"kuen³⁵,kue³⁵,saŋ⁵⁵tue⁵⁵"	Chuanqiandian,EasternQiandong,Nunu,She,WesternQiandong
+ui	ui	Y	Diphthong	202	U+0075 U+0069	"kui⁴⁴bja²⁴,sui³⁵ȵuŋ³¹,tui⁵³"	BiaoMin,Chuanqiandian,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,Nunu,She,WesternLuobuohe,WesternQiandong,Younuo,ZaoMin
+uə	u/w ə	W E	Consonant Vowel	74	U+0075 U+0259	"si³¹suə³⁵,tsuəŋ³³ʔlaŋ³³,ȵuəŋ³⁵"	BiaoMin,Mien,Nunu
+uː	uː	Y	Vowel	15	U+0075 U+02D0	"duːŋ³³,guːŋ doːm³⁵,zuːŋ³³"	KimMun,Mien
+vz	v z	B S	Consonant Consonant	1	U+0076 U+007A	"tə⁰²vzaŋ³¹"	EasternLuobuohe
+vɦ	vʱ	B	Consonant	4	U+0076 U+0266	"kʰɯ³³vɦɯ¹¹,ŋgɦa³⁵vɦa¹¹,ȵɦu³⁵vɦæɯ³⁵"	NortheastYunnanChuanqiandian
+wj	ɥ	J	Consonant	4	U+0077 U+006A	"to²²wjaŋ³¹,tsin²³¹wjaːŋ³¹,ŋuŋ³¹wjaŋ³¹"	Mien
+xʰ	xʰ	G	Consonant	4	U+0078 U+02B0	"pɔ⁵⁵xʰaŋ³³,qa³³ɬju⁵³xʰen⁴⁴,ʑa³⁵xʰa³⁵"	NorthernQiandong,WesternQiandong
+ya	y/ɥ a	J A	Consonant Vowel	3	U+0079 U+0061	"səɯ⁵⁵tsʰyan⁵³,tɕyan⁵³,tɕyan⁵⁵"	EasternXiangxi
+ye	y/ɥ e	J E	Consonant Vowel	5	U+0079 U+0065	"san⁵⁵ye¹³,tsen⁵³ye¹³,ə³⁵ye¹³"	EasternXiangxi
+yɛ	y/ɥ ɛ	J E	Consonant Vowel	1	U+0079 U+025B	"qo⁰⁵tɕyɛ³³"	EasternLuobuohe
+²²	²² +	1 _	Tone Marker	367	U+00B2 U+00B2	"nɔ²²ku²²tʰi⁵³,ʑoŋ²²pʰju³³tu²³¹,ʔʑa³³pə²²tsʰai¹³"	Bana,CentralGuizhouChuanqiandian,Dongnu,EasternQiandong,Mien,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternQiandong,WesternXiangxi,ZaoMin
+²¹	²¹ +	3 _	Tone Marker	169	U+00B2 U+00B9	"mei²¹tʰan¹³,tu²¹pa⁵³,ɭə²¹ʔoŋ³²"	BiaoMin,Chuanqiandian,Dongnu,Mien,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternQiandong,Younuo,ZaoMin
+²⁴	²⁴ +	2 _	Tone Marker	364	U+00B2 U+2074	"põ³¹tõ²⁴qə⁰²mõ²²,tjuŋ²⁴tjeu²⁴,tə⁰²ku²⁴wei⁵⁵"	BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,EasternLuobuohe,EasternQiandong,KimMun,Mien,SouthernQiandong,WesternXiangxi,ZaoMin
+³²	³² +	3 _	Tone Marker	121	U+00B3 U+00B2	"kua³²tɕaŋ³²sei³⁵,le³²tau⁴⁴,ŋjaŋ³²kʰaŋ³³"	SouthernGuizhouChuanqiandian,Younuo
+³³	³³ +	4 _	Tone Marker	1179	U+00B3 U+00B3	"toŋ³³vɔ²³¹,toːŋ³³gjaŋ⁵⁵,tsoŋ³³zɛ⁵⁵"	Bana,BiaoMin,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternQiandong,Younuo
+³¹	³¹ +	3 _	Tone Marker	1164	U+00B3 U+00B9	"nã³¹ɬa⁴²,tju³⁵nin³¹ɬa²⁴,tsʰa³⁵lu³¹tʰɔ⁵³"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternXiangxi,Younuo
+³⁵	³⁵ +	2 _	Tone Marker	962	U+00B3 U+2075	"ki³⁵pi¹¹tɕaŋ¹¹,mpei³⁵ŋkai³³,pʰa³⁵ŋ̥jɒ³⁵"	Bana,BiaoMin,Dongnu,EasternBahen,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternXiangxi
+¹²	¹² +	2 _	Tone Marker	22	U+00B9 U+00B2	"to¹²pei⁵⁵tʃəŋ³³,tʃo¹²θai⁵³,ʃe¹²ɬe³⁵"	Jiongnai,Mien
+¹³	¹³ +	2 _	Tone Marker	551	U+00B9 U+00B3	"no¹³tɕaŋ³³,pi¹³ʐu⁵⁵,toŋ¹³lo¹³"	Bana,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternQiandong,Younuo
+¹¹	¹¹ +	1 _	Tone Marker	180	U+00B9 U+00B9	"so⁵⁵pi¹¹lɦai¹¹ndɦaɯ³⁵,ŋo¹¹kau⁵³,ʔa⁵⁵ɳtʂʰa¹¹so⁵⁵"	EasternBahen,Jiongnai,KimMun,NortheastYunnanChuanqiandian,NorthernQiandong,Nunu,SouthernGuizhouChuanqiandian,WesternBaheng,WesternQiandong
+æɯ	æɯ	E	Diphthong	1	U+00E6 U+026F	"ȵɦu³⁵vɦæɯ³⁵"	NortheastYunnanChuanqiandian
+æ̃	æ̃	E	Vowel	56	U+00E6 U+0303	"kæ̃⁴⁴mjɔ²²,kæ̃⁴⁴tjɔ⁴⁴,tjæ̃⁴⁴sʰæ̃³³"	WesternQiandong
+øe	øe	U	Diphthong	16	U+00F8 U+0065	"køe⁴⁴,søe³¹,ʔøe³³ȵtɕa⁴²"	Numao
+ŋg	ⁿg	K	Consonant	7	U+014B U+0067	"tə⁰²ŋguŋ²⁴,ʔə⁰²kʰɑŋ⁵⁵ŋgɑ⁵⁵,ʔə⁰²ŋgoŋ³¹"	EasternLuobuohe,WesternLuobuohe
+ŋk	ⁿk	K	Consonant	38	U+014B U+006B	"mpei³⁵ŋkai³³,tɕi⁴⁴ŋkɑŋ³⁵,ʔa⁰²ŋkjəŋ³³"	CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,Jiongnai,NortheastYunnanChuanqiandian,Numao,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternXiangxi
+ŋq	ⁿq	K	Consonant	23	U+014B U+0071	"plɛ¹³ŋqĩ²⁴,sʰã⁵⁵ŋqã²⁴,ʔə⁰²ŋqɑ³³"	CentralGuizhouChuanqiandian,Chuanqiandian,EasternBahen,EasternLuobuohe,NortheastYunnanChuanqiandian,WesternLuobuohe,WesternXiangxi
+ŋw	ŋ w	N W	Consonant Consonant	11	U+014B U+0077	"feŋ⁵³ŋwe²²,gjau³⁵ŋwa⁴²,ɣei¹³ŋwi²⁴¹"	Dongnu,EasternBahen,KimMun,SouthernQiandong
+ŋɢ	ⁿɢ	K	Consonant	12	U+014B U+0262	"qo⁰⁵ŋɢwaŋ³¹,qo⁰⁵ŋɢɛ³¹tsʰe³¹li²⁴vei⁵⁵,χo³¹ŋɢwaŋ²⁴"	EasternLuobuohe,WesternLuobuohe
+ŋ̥	ŋ̊	N	Consonant	9	U+014B U+0325	"pʰa³⁵ŋ̥jɒ³⁵,ðo¹¹ŋ̥jɒ³⁵,ʔa⁰³ŋ̥ŋ³¹"	EasternBahen,Jiongnai,She,WesternBaheng,ZaoMin
+ŋ̩	ŋ̍	N	Consonant	34	U+014B U+0329	"gjeu³¹³ŋ̩³¹³,qaŋ³⁵ŋ̩³³,ɕi³¹ŋ̩⁵³"	Bana,EasternBahen,EasternXiangxi,WesternBaheng,Younuo,ZaoMin
+ȵɦ	ȵʱ	N	Consonant	9	U+0235 U+0266	"ku⁵⁵ȵɦu³⁵,ŋgɦa³⁵ȵɦu³⁵,ʔa⁵⁵ȵe⁵³ȵɦu³⁵"	NortheastYunnanChuanqiandian
+ȵ̥	ȵ̥	N	Consonant	32	U+0235 U+0325	"kwa³³ȵ̥ɛn³³,ntjaŋ³³ȵ̥uŋ¹³,pe²²ȵ̥u⁴⁴"	BiaoMin,CentralGuizhouChuanqiandian,Dongnu,Mien,NortheastYunnanChuanqiandian,Numao,SouthernQiandong,WesternBaheng,WesternLuobuohe
+ȵ̩	ȵ̩	N	Consonant	5	U+0235 U+0329	"ki⁰³ki⁵³ȵ̩³¹,nai³⁵ȵ̩³¹,tei⁵³ȵ̩³¹"	EasternXiangxi
+ɑu	ɑu	A	Diphthong	4	U+0251 U+0075	"kʰɑu⁵⁵,tə⁰²plɑu⁵⁵,tʰui⁵⁵pɑu³⁵"	WesternLuobuohe
+ɒi	ɒi	O	Diphthong	3	U+0252 U+0069	"mpɒi¹²,tʃa³¹tʃɒi³⁵,tʃɒi⁴⁴"	Jiongnai
+ɔi	ɔi	U	Diphthong	17	U+0254 U+0069	"kʰɔi³³,pʰɛ²¹n̥ɔi³³,tɔi²⁴kʰən³⁵"	BiaoMin
+ɕʰ	ɕʰ	S	Consonant	14	U+0255 U+02B0	"kʰeu³³ɕʰaŋ³³,qa³³ɕʰaŋ⁴⁴njaŋ¹³,tju³³ɕʰo⁴⁴"	NorthernQiandong,WesternQiandong
+ɖɦ	ɖʱ	T	Consonant	5	U+0256 U+0266	"ki³³ɖɦau³⁵,ɢɦɯ³⁵ɖɦaɯ³⁵,ʔa³³ȵ̥u⁵⁵ɖɦu¹¹"	NortheastYunnanChuanqiandian
+əi	əi	E	Diphthong	31	U+0259 U+0069	"di²⁴dəi³¹,məi³¹,ɕəi⁵³"	BiaoMin
+əu	əu	E	Diphthong	268	U+0259 U+0075	"tʰjəu²⁴tjəu⁴²pli³³,ɕəu⁵³,ʔəu³⁵"	BiaoMin,Dongnu,EasternLuobuohe,EasternXiangxi,Jiongnai,KimMun,Mien,Numao,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternLuobuohe
+əɯ	əɯ	E	Diphthong	127	U+0259 U+026F	"dəɯ³⁵,təɯ⁵³tsu³³,ʑəɯ⁵³"	EasternXiangxi
+ə̃	ə̃	E	Vowel	73	U+0259 U+0303	"tɕə̃²⁴,tə⁰²tə̃²⁴,ŋə̃⁵⁵ɬa⁴²"	CentralGuizhouChuanqiandian
+ɛu	ɛu	E	Diphthong	2	U+025B U+0075	"ɕɛu³⁵,ʑɛu³¹"	BiaoMin
+ɬj	ɬʲ	L	Consonant	17	U+026C U+006A	"mɑŋ²²ɬje⁵³,qa³³ɬja⁵⁵,qa⁰³ɬjo³⁵"	BiaoMin,EasternBahen,Mien,NorthernQiandong,SouthernQiandong,WesternQiandong,WesternXiangxi,Younuo
+ɬʰ	ɬʰ	L	Consonant	3	U+026C U+02B0	"ka³⁵ɬʰji⁵³,qa³³ɬʰa⁴⁴,qa³³ɬʰɛ³³qʰo³³"	NorthernQiandong
+ɯa	ɯa	I	Diphthong	2	U+026F U+0061	"mɯa²²,vɯa³⁵"	Nunu
+ɳɖ	ⁿɖ	T	Consonant	6	U+0273 U+0256	"qo⁰⁵ɳɖa⁵⁵,tə⁰²po⁵⁵lo⁵⁵ɳɖa⁵⁵,ʁo²⁴ɳɖaŋ³¹"	EasternLuobuohe,WesternLuobuohe
+ɳʈ	ⁿʈ	T	Consonant	20	U+0273 U+0288	"ha⁴⁴ɳʈe¹³,pi⁵⁵ɳʈaɯ⁵⁵,tə⁰²ɳʈu⁵⁵"	Dongnu,EasternLuobuohe,NortheastYunnanChuanqiandian,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternXiangxi
+ʁw	ʁ w	R W	Consonant Consonant	5	U+0281 U+0077	"qo⁰⁵lɑ³¹ʁwen³¹,tə⁰²ʁwen³¹,ʔa⁰²vjɛ⁵⁵ʁwen³¹"	EasternLuobuohe,WesternLuobuohe
+ʈʰ	ʈʰ	T	Consonant	7	U+0288 U+02B0	"ka³¹ʈʰoŋ³¹,kʰou⁴³ʈʰua⁴³,qo³⁵ʈʰei⁴⁴"	Chuanqiandian,Dongnu,EasternLuobuohe,NortheastYunnanChuanqiandian,WesternLuobuohe,WesternXiangxi
+ʑɦ	ʑʱ	S	Consonant	6	U+0291 U+0266	"ŋɢɦai³⁵ʑɦaɯ³⁵,ʔa¹¹ʑɦey¹¹lɦau¹¹,ʔa¹¹ʑɦey¹¹ɬa¹¹"	NortheastYunnanChuanqiandian
+ʔj	ˀj	J	Consonant	19	U+0294 U+006A	"tə⁰²ʔji²⁴,ʔa⁰²qla⁵⁵ʔju³¹,ʔə⁰²ʔji³¹ŋqʰe³¹"	EasternLuobuohe,WesternLuobuohe
+ʔl	ˀl	L	Consonant	16	U+0294 U+006C	"pai⁵⁵ʔlei⁵³,ɬɑ³⁵ʔlɑ⁵⁵,ʔa⁰²ndaŋ³¹ʔlɛ³¹"	EasternLuobuohe,EasternXiangxi,Nunu,WesternLuobuohe
+ʔn	ˀn	N	Consonant	12	U+0294 U+006E	"nen ʔnoŋ⁵⁵,ɕe³¹ʔnoŋ⁵⁵,ʑa¹³ʔnei⁵⁵"	EasternLuobuohe,EasternXiangxi,WesternLuobuohe
+ʔp	ˀp	P	Consonant	8	U+0294 U+0070	"gjaŋ⁵⁵ʔpen⁵¹,nan³³tau³³ʔpu³⁵,va³⁵ʔpa¹³"	KimMun,Nunu
+ʔt	ˀt	T	Consonant	15	U+0294 U+0074	"ka⁰²ʔtan³¹,tʃi³⁵ʔtoːŋ³¹,xat³⁵ʔtəŋ²²"	KimMun,Nunu
+ʔv	ˀv	B	Consonant	1	U+0294 U+0076	"tɯ⁴²ʔven³³"	Nunu
+ʔw	ˀw	W	Consonant	8	U+0294 U+0077	"tau²⁴qwɛ³¹mo³¹ʔwa⁵⁵,tə⁰²ʔwæ³¹,ʔa⁰²ʔwa⁵⁵"	EasternLuobuohe,EasternXiangxi,WesternLuobuohe
+ʔŋ	ˀŋ	N	Consonant	2	U+0294 U+014B	"ljaŋ¹³ho²¹ʔŋ⁴⁴,tɬa⁴⁴ho⁵⁵ʔŋ¹³"	Bana,Younuo
+ʔȵ	ˀȵ	N	Consonant	6	U+0294 U+0235	"kʰu²⁴ʔȵuŋ³¹,tɕin³¹ʔȵoŋ⁵⁵,ʔa³¹ʔȵin³¹"	EasternLuobuohe,WesternLuobuohe
+ʔʑ	ˀʑ	S	Consonant	13	U+0294 U+0291	"ki⁰³dei⁵⁵ɬa³⁵ʔʑi⁵³,pi³⁵ʔʑa³⁵su²²,ʔe³⁵ʔʑəŋ³³"	EasternLuobuohe,EasternXiangxi,Nunu,WesternLuobuohe
+⁰²	⁰/² +	6 _	Tone Marker	807	U+2070 U+00B2	"qə⁰²vi³¹vã⁵⁵,ʔa⁰²mpʰi⁵³,ʔa⁰²ɕi³³san⁴²"	CentralGuizhouChuanqiandian,Dongnu,EasternLuobuohe,KimMun,She,WesternBaheng,WesternLuobuohe
+⁰³	⁰/³ +	6 _	Tone Marker	467	U+2070 U+00B3	"ki⁰³qwa⁵⁵,kwan¹³pə⁰³to²¹,qa⁰³njaŋ³³tɕi¹¹"	Bana,Dongnu,EasternBahen,EasternXiangxi,NorthernQiandong,She,WesternBaheng,Younuo
+⁰⁴	⁰/⁴ +	6 _	Tone Marker	57	U+2070 U+2074	"la⁰⁴lje¹³,la⁰⁴so⁵⁵,ʔa⁰⁴mai³⁵"	Bana,She,WesternBaheng
+⁰⁵	⁰/⁵ +	6 _	Tone Marker	167	U+2070 U+2075	"qo⁰⁵la³¹,qo⁰⁵qwa³¹,qo⁰⁵tsy³¹"	EasternLuobuohe,EasternXiangxi,WesternLuobuohe
+⁴²	⁴² +	3 _	Tone Marker	322	U+2074 U+00B2	"ko⁴²kɛ³¹,ɬu⁴²səŋ²²,ʔa⁰²ntθə⁴²kwa⁴²"	BiaoMin,CentralGuizhouChuanqiandian,Dongnu,EasternXiangxi,KimMun,Numao,Nunu,SouthernGuizhouChuanqiandian,WesternBaheng,WesternXiangxi,ZaoMin
+⁴³	⁴³ +	3 _	Tone Marker	76	U+2074 U+00B3	"n̥aŋ⁴³tʂʰau⁴⁴,sa⁴³ʔau⁴³,ɬu⁴³hou⁴⁴"	Chuanqiandian
+⁴¹	⁴¹ +	3 _	Tone Marker	1	U+2074 U+00B9	"ʔøe³³ȵtɕa⁴¹køe⁴⁴"	Numao
+⁴⁴	⁴⁴ +	5 _	Tone Marker	778	U+2074 U+2074	"pji⁴⁴qwa³¹,tɕi⁴⁴ŋqe⁵³,ʔu³⁵pɛ⁴⁴n̥e³⁵"	Bana,CentralGuizhouChuanqiandian,Chuanqiandian,EasternBahen,EasternQiandong,Jiongnai,NorthernQiandong,Numao,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+⁵$	⁵	6	Tone	2	U+2075 U+0024	"doːt⁵,zu⁵"	Mien,WesternLuobuohe
+⁵³	⁵³ +	3 _	Tone Marker	653	U+2075 U+00B3	"dau⁵³qʰo⁵⁵ʔa³³lɦa³⁵,ko⁵³tsʰan³⁵,ʔŋ̩¹³lau⁵³ɕi⁴⁴"	Bana,BiaoMin,Dongnu,EasternBahen,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternQiandong,WesternXiangxi,ZaoMin
+⁵¹	⁵¹ +	3 _	Tone Marker	26	U+2075 U+00B9	"dai⁵¹buːŋ³³,ka⁵¹koŋ³⁵,teu⁵¹tʃuːi³³"	KimMun
+⁵⁴	⁵⁴ +	3 _	Tone Marker	30	U+2075 U+2074	"xji⁵⁴fu³³,ʔa⁵⁴noŋ¹³,ʔŋ̩⁵⁴no⁴⁴"	Younuo
+⁵⁵	⁵⁵ +	5 _	Tone Marker	998	U+2075 U+2075	"dau⁵⁵do¹³tɕi³³tɕʰi³⁵,hi⁵⁵ntsaɯ¹¹,san⁵⁵ye¹³"	Bana,CentralGuizhouChuanqiandian,Chuanqiandian,EasternBahen,EasternLuobuohe,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,WesternBaheng,WesternLuobuohe,WesternQiandong,Younuo
+^bl	b l	P L	Consonant Consonant	15	U+005E U+0062 U+006C	"blai⁴²,blau³¹,bla⁴²naŋ³³"	BiaoMin,KimMun
+^bɦ	bʰ	P	Consonant	5	U+005E U+0062 U+0266	"bɦau³⁵,bɦaɯ³⁵,bɦo³¹"	NortheastYunnanChuanqiandian,WesternXiangxi
+^cʰ	cʰ	C	Consonant	1	U+005E U+0063 U+02B0	"cʰi³⁵lji¹³"	NorthernQiandong
+^dl	d l	T L	Consonant Consonant	4	U+005E U+0064 U+006C	"dlau¹³,dla⁵⁵,dlo³¹"	Bana,NortheastYunnanChuanqiandian
+^dz	dz	C	Consonant	58	U+005E U+0064 U+007A	"dzen³³,dzjaŋ²⁴,dzjaːm⁵³"	Bana,BiaoMin,EasternBahen,EasternXiangxi,Mien,NortheastYunnanChuanqiandian
+^dɦ	dʱ	T	Consonant	9	U+005E U+0064 U+0266	"dɦa³⁵,dɦey³¹,dɦie³⁵"	NortheastYunnanChuanqiandian
+^dʑ	dʑ	C	Consonant	51	U+005E U+0064 U+0291	"dʑa¹³,dʑu³³,dʑɯ³¹ʔu⁵³"	Bana,BiaoMin,EasternBahen,EasternXiangxi,Mien,NortheastYunnanChuanqiandian
+^dʒ	dʒ	T	Consonant	20	U+005E U+0064 U+0292	"dʒaːp³⁵,dʒi³¹,dʒoːu⁵⁵"	KimMun
+^fʰ	fʰ	B	Consonant	15	U+005E U+0066 U+02B0	"fʰaŋ³³,fʰa⁴⁴,fʰæ⁴⁴"	NorthernQiandong,WesternQiandong
+^gw	g w	K W	Consonant Consonant	18	U+005E U+0067 U+0077	"gwan³³m̥ja³⁵pla³⁵,gwaŋ³⁵,gwe³³ləɯ⁵⁵"	Bana,BiaoMin,EasternXiangxi,KimMun,Mien
+^gɦ	gʰ	K	Consonant	11	U+005E U+0067 U+0266	"gɦau³¹tsɿ⁵⁵,gɦau³¹ɕaɯ³³,gɦau³¹ʑɦi³¹"	NortheastYunnanChuanqiandian
+^hw	h w	H W	Consonant Consonant	5	U+005E U+0068 U+0077	"hwai⁵⁵mjan¹³,hwei³³,hwɑŋ⁴⁴"	Bana,EasternXiangxi,WesternXiangxi
+^kh	kʰ	K	Consonant	1	U+005E U+006B U+0068	"khæ̃⁴⁴væ̃⁵⁵"	WesternQiandong
+^kl	k l	K L	Consonant Consonant	51	U+005E U+006B U+006C	"klaŋ³³xau³¹,klaːu³³pjou⁵¹,kluŋ³³"	BiaoMin,Jiongnai,KimMun
+^kw	k w	K W	Consonant Consonant	177	U+005E U+006B U+0077	"kwan⁴²po¹³tʰoŋ³¹,kwa⁴⁴mjeu¹³,kwe³²tsʰau¹³"	Bana,BiaoMin,Dongnu,EasternBahen,EasternXiangxi,Jiongnai,KimMun,Mien,Numao,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternXiangxi,Younuo
+^kʰ	kʰ	K	Consonant	314	U+005E U+006B U+02B0	"kʰjɔ³⁵ʔu²²,kʰo³³,kʰɯ⁵³po²²ʔə⁴⁴"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo
+^lɦ	lʱ	L	Consonant	8	U+005E U+006C U+0266	"lɦau¹¹,lɦa³¹,lɦo¹¹"	NortheastYunnanChuanqiandian
+^mb	ⁿb	P	Consonant	19	U+005E U+006D U+0062	"mba³¹,mbzɿ³¹,mbə³³"	EasternLuobuohe,NortheastYunnanChuanqiandian,WesternLuobuohe
+^mp	ⁿp	P	Consonant	229	U+005E U+006D U+0070	"mpjou³¹,mpjəŋ³³,mpo¹³"	CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,Jiongnai,NortheastYunnanChuanqiandian,Numao,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternXiangxi
+^mɦ	mʱ	M	Consonant	4	U+005E U+006D U+0266	"mɦau¹¹,mɦa³⁵,mɦa¹¹"	NortheastYunnanChuanqiandian
+^mʐ	m ʐ	M S	Consonant Consonant	9	U+005E U+006D U+0290	"mʐei²²,mʐəŋ¹³,mʐə⁵³"	SouthernGuizhouChuanqiandian,WesternXiangxi
+^m̥	m̥	M	Consonant	74	U+005E U+006D U+0325	"m̥ei³¹,m̥e⁴²,m̥o³³ndɦu³⁵"	BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternXiangxi,Jiongnai,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,SouthernQiandong,WesternBaheng,WesternLuobuohe,ZaoMin
+^m̩	m m̩	M M	Consonant Consonant	42	U+005E U+006D U+0329	"m̩³¹goːŋ⁵³pʰa²⁴,m̩³⁵ma³¹,m̩⁴²"	BiaoMin,EasternBahen,EasternXiangxi,Jiongnai,KimMun,Mien,She,WesternBaheng,Younuo,ZaoMin
+^nd	ⁿd	T	Consonant	6	U+005E U+006E U+0064	"ndi³⁵,ndu³⁵,ndəu²⁴"	EasternLuobuohe,WesternLuobuohe
+^nj	nʲ	N	Consonant	124	U+005E U+006E U+006A	"njaŋ⁵⁵,njei³⁵,nje³³"	Bana,BiaoMin,EasternQiandong,Jiongnai,NorthernQiandong,She,SouthernQiandong,WesternBaheng,WesternQiandong,Younuo
+^nt	ⁿt	T	Consonant	261	U+005E U+006E U+0074	"nteŋ⁴²,ntou⁴⁴tɕei⁵³,ntɒŋ³⁵tʃa³¹"	CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,Jiongnai,Mien,NortheastYunnanChuanqiandian,Numao,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternXiangxi
+^nɦ	nʱ	N	Consonant	6	U+005E U+006E U+0266	"nɦau³⁵ʂu³³,nɦa³¹,nɦaɯ³⁵tɕaŋ⁵⁵"	NortheastYunnanChuanqiandian
+^nʈ	ⁿʈ	T	Consonant	10	U+005E U+006E U+0288	"nʈai²⁴,nʈou⁴⁴qou²⁴,nʈo³¹"	Chuanqiandian
+^n̥	n̥	N	Consonant	146	U+005E U+006E U+0325	"n̥au⁵³,n̥eŋ³⁵,n̥oŋ³¹"	BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternXiangxi,Jiongnai,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternXiangxi
+^n̩	n n̩	N N	Consonant Consonant	15	U+005E U+006E U+0329	"n̩³¹ȵ̥aŋ²⁴,n̩³⁵,n̩³⁵pa⁵³tsu³³"	BiaoMin,EasternBahen,EasternXiangxi,Jiongnai,WesternBaheng
+^pl	p l	P L	Consonant Consonant	70	U+005E U+0070 U+006C	"pla³¹ȵaŋ³¹,plo³¹,plæn³²"	BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternLuobuohe,Jiongnai,KimMun,SouthernGuizhouChuanqiandian,WesternLuobuohe
+^pʐ	p ʐ	P S	Consonant Consonant	30	U+005E U+0070 U+0290	"pʐo⁴⁴,pʐæ⁴²wə¹¹,pʐæ⁴²ŋkə⁵³"	SouthernGuizhouChuanqiandian,WesternXiangxi
+^pʰ	pʰ	P	Consonant	260	U+005E U+0070 U+02B0	"pʰai⁵⁵ʔa³³bɦaɯ³⁵su¹¹lɦu¹¹,pʰoŋ⁵³,pʰo⁴⁴"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo
+^qw	q w	K W	Consonant Consonant	28	U+005E U+0071 U+0077	"qwa³¹,qwa³¹mbaŋ²⁴,qwei¹³"	EasternLuobuohe,EasternXiangxi,WesternLuobuohe,WesternXiangxi
+^qʰ	qʰ	K	Consonant	128	U+005E U+0071 U+02B0	"qʰaŋ³³nei²⁴,qʰo⁵⁵dy⁵³,qʰõ¹³"	CentralGuizhouChuanqiandian,Chuanqiandian,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,NortheastYunnanChuanqiandian,NorthernQiandong,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi
+^sʰ	sʰ	S	Consonant	73	U+005E U+0073 U+02B0	"sʰei³⁵,sʰə¹³,sʰɛ³⁵nə³¹"	CentralGuizhouChuanqiandian,NorthernQiandong,WesternQiandong
+^ts	ts	C	Consonant	501	U+005E U+0074 U+0073	"tsieu⁴⁴men⁵³,tsjep²²tɕo⁵³,tsuaŋ³³"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+^tɕ	tɕ	C	Consonant	959	U+005E U+0074 U+0255	"tɕau⁵⁵,tɕin²¹²,tɕu³¹tsʰoːi²⁴"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,ZaoMin
+^tɬ	tɬ	T	Consonant	139	U+005E U+0074 U+026C	"tɬe⁵³,tɬjeu³⁵ŋ̩³¹³,tɬjoŋ⁴⁴"	Bana,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,NortheastYunnanChuanqiandian,SouthernQiandong
+^tʂ	ʈʂ	C	Consonant	84	U+005E U+0074 U+0282	"tʂeu¹³,tʂoŋ⁴³,tʂə⁵⁵"	CentralGuizhouChuanqiandian,Chuanqiandian,NortheastYunnanChuanqiandian
+^tʃ	tʃ	T	Consonant	122	U+005E U+0074 U+0283	"tʃa³¹nei⁴⁴,tʃi³⁵,tʃɒi⁴⁴"	Jiongnai,KimMun
+^tʰ	tʰ	T	Consonant	403	U+005E U+0074 U+02B0	"tʰau⁴⁴,tʰaŋ¹³,tʰjo³⁵"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo
+^tθ	tθ	T	Consonant	1	U+005E U+0074 U+03B8	"tθə²²"	Dongnu
+^vz	v z	B S	Consonant Consonant	2	U+005E U+0076 U+007A	"vzaŋ³³,vzaŋ³¹"	EasternLuobuohe
+^vɦ	vʱ	B	Consonant	6	U+005E U+0076 U+0266	"vɦai³⁵,vɦa¹¹,vɦaɯ³⁵"	NortheastYunnanChuanqiandian
+^wɦ	wʱ	W	Consonant	1	U+005E U+0077 U+0266	"wɦaɯ³⁵zau⁵⁵"	NortheastYunnanChuanqiandian
+^xw	x w	G W	Consonant Consonant	12	U+005E U+0078 U+0077	"xwa³¹səɯ⁵⁵,xwen⁵⁵,xwæ⁵⁵"	BiaoMin,EasternXiangxi,SouthernGuizhouChuanqiandian
+^xʰ	xʰ	G	Consonant	19	U+005E U+0078 U+02B0	"xʰa⁴⁴,xʰæ̃⁴⁴tjuŋ⁴⁴,xʰə³³"	NorthernQiandong,WesternQiandong
+^ye	y/ɥ e	J E	Consonant Vowel	1	U+005E U+0079 U+0065	"ye³¹ljaŋ³¹"	EasternXiangxi
+^ŋg	ⁿg	K	Consonant	9	U+005E U+014B U+0067	"ŋgo³¹,ŋgoŋ³⁵,ŋgɑŋ⁵⁵"	EasternLuobuohe,NortheastYunnanChuanqiandian,WesternLuobuohe
+^ŋk	ⁿk	K	Consonant	145	U+005E U+014B U+006B	"ŋka¹³li²³¹,ŋkæ³²tu²¹,ŋkɪ¹¹"	CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,Jiongnai,NortheastYunnanChuanqiandian,Numao,SouthernGuizhouChuanqiandian,WesternXiangxi
+^ŋq	ⁿq	K	Consonant	58	U+005E U+014B U+0071	"ŋqua¹³,ŋqua⁴⁴,ŋqõ⁴²"	CentralGuizhouChuanqiandian,Chuanqiandian,EasternBahen,NortheastYunnanChuanqiandian,WesternXiangxi
+^ŋw	ŋ w	N W	Consonant Consonant	21	U+005E U+014B U+0077	"ŋwa²³¹,ŋwaŋ³³,ŋwa⁵¹"	Dongnu,EasternBahen,KimMun,Mien,Nunu,SouthernQiandong
+^ŋɢ	ⁿɢ	K	Consonant	13	U+005E U+014B U+0262	"ŋɢɑ⁵⁵,ŋɢɛ³¹ndza⁵⁵,ŋɢɛ³¹ʑu⁵⁵"	EasternLuobuohe,WesternLuobuohe
+^ŋ̥	ŋ̊	N	Consonant	28	U+005E U+014B U+0325	"ŋ̥a³¹³,ŋ̥oːŋ²⁴,ŋ̥ŋ⁵³pja⁵³"	BiaoMin,EasternBahen,Jiongnai,Mien,NortheastYunnanChuanqiandian,She,SouthernQiandong,WesternBaheng,Younuo,ZaoMin
+^ŋ̩	ŋ̍	N	Consonant	44	U+005E U+014B U+0329	"ŋ̩³¹³,ŋ̩¹¹kwe³¹,ŋ̩⁵³no²²"	Bana,CentralGuizhouChuanqiandian,EasternBahen,EasternXiangxi,Jiongnai,Mien,SouthernQiandong,WesternBaheng,Younuo,ZaoMin
+^ȵɦ	ȵʱ	N	Consonant	11	U+005E U+0235 U+0266	"ȵɦe³¹,ȵɦi³¹ŋgɦau³¹,ȵɦu³⁵"	NortheastYunnanChuanqiandian
+^ȵ̥	ȵ̥	N	Consonant	44	U+005E U+0235 U+0325	"ȵ̥aŋ²⁴kei⁵³,ȵ̥aŋ¹³,ȵ̥i³¹"	BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternXiangxi,Mien,NortheastYunnanChuanqiandian,Numao,SouthernQiandong,WesternBaheng,WesternLuobuohe
+^ȵ̩	ȵ̩	N	Consonant	4	U+005E U+0235 U+0329	"ȵ̩³¹,ȵ̩³¹dei³¹,ȵ̩³¹ki⁰³kʰo⁵³ta³³"	EasternXiangxi
+^ɕʰ	ɕʰ	S	Consonant	44	U+005E U+0255 U+02B0	"ɕʰe¹³,ɕʰi³³lo⁵³,ɕʰɔ¹³"	NorthernQiandong,WesternQiandong
+^ɢw	ɢ w	K W	Consonant Consonant	1	U+005E U+0262 U+0077	"ɢwa³⁵"	EasternXiangxi
+^ɬʰ	ɬʰ	L	Consonant	25	U+005E U+026C U+02B0	"ɬʰa⁴⁴qɛ³⁵,ɬʰa⁴⁴ɬo³³,ɬʰjoŋ⁴⁴"	NorthernQiandong,WesternQiandong
+^ɳɖ	ⁿɖ	T	Consonant	5	U+005E U+0273 U+0256	"ɳɖei³³,ɳɖɑ⁵⁵,ɳɖɦu³¹qɯ⁵⁵"	EasternLuobuohe,NortheastYunnanChuanqiandian,WesternLuobuohe
+^ɳʈ	ⁿʈ	T	Consonant	38	U+005E U+0273 U+0288	"ɳʈei³⁵,ɳʈoŋ³¹m̥oŋ³⁵,ɳʈɯ⁴⁴"	Chuanqiandian,Dongnu,EasternLuobuohe,NortheastYunnanChuanqiandian,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternXiangxi
+^ʁw	ʁ w	R W	Consonant Consonant	3	U+005E U+0281 U+0077	"ʁwen³¹"	EasternLuobuohe,WesternLuobuohe
+^ʂʰ	ʂʰ	S	Consonant	1	U+005E U+0282 U+02B0	"ʂʰã²⁴"	CentralGuizhouChuanqiandian
+^ʈʰ	ʈʰ	T	Consonant	28	U+005E U+0288 U+02B0	"ʈʰou⁴³,ʈʰu²⁴,ʈʰɔ⁴²"	Chuanqiandian,Dongnu,EasternLuobuohe,NortheastYunnanChuanqiandian,WesternLuobuohe,WesternXiangxi
+^ʑɦ	ʑʱ	S	Consonant	4	U+005E U+0291 U+0266	"ʑɦaɯ³⁵,ʑɦi³¹,ʑɦu¹¹"	NortheastYunnanChuanqiandian
+^ʔh	ˀh	H	Consonant	2	U+005E U+0294 U+0068	"ʔhei³¹³,ʔhe³¹³"	EasternBahen
+^ʔj	ˀj	J	Consonant	18	U+005E U+0294 U+006A	"ʔjen³⁵ʔɑ³⁵,ʔjy³¹qwɑ³⁵qlo³¹,ʔjy³¹tɕu⁵⁵"	EasternLuobuohe,WesternLuobuohe
+^ʔl	ˀl	L	Consonant	40	U+005E U+0294 U+006C	"ʔlaŋ¹³,ʔlei⁵³,ʔlɑŋ³¹"	EasternLuobuohe,EasternXiangxi,Nunu,WesternLuobuohe
+^ʔm	ˀm	M	Consonant	6	U+005E U+0294 U+006D	"ʔma³³ʑaŋ¹³,ʔmje³³,ʔmuŋ³¹"	EasternLuobuohe,EasternXiangxi
+^ʔn	ˀn	N	Consonant	10	U+005E U+0294 U+006E	"ʔnaŋ⁵⁵hwei⁵³,ʔnei⁵⁵,ʔnoŋ⁵⁵"	EasternLuobuohe,EasternXiangxi,WesternLuobuohe
+^ʔp	ˀp	P	Consonant	47	U+005E U+0294 U+0070	"ʔpe⁴²,ʔpi⁵¹,ʔpəŋ³³"	KimMun,Nunu
+^ʔt	ˀt	T	Consonant	48	U+005E U+0294 U+0074	"ʔtap⁴²,ʔtaŋ³³lo⁵¹,ʔtoːŋ³¹naːŋ³⁵"	KimMun,Nunu
+^ʔv	ˀv	B	Consonant	5	U+005E U+0294 U+0076	"ʔva³⁵,ʔvia³⁵,ʔvi³⁵"	Nunu
+^ʔw	ˀw	W	Consonant	2	U+005E U+0294 U+0077	"ʔwei⁵⁵,ʔwɑ⁵⁵tsɑ⁵⁵"	EasternXiangxi,WesternLuobuohe
+^ʔŋ	ˀŋ	N	Consonant	2	U+005E U+0294 U+014B	"ʔŋ¹³,ʔŋ⁴⁴"	Bana,Younuo
+^ʔȵ	ˀȵ	N	Consonant	8	U+005E U+0294 U+0235	"ʔȵaŋ⁵⁵,ʔȵi,ʔȵi⁵³"	EasternLuobuohe,EasternXiangxi,WesternLuobuohe
+^ʔʑ	ˀʑ	S	Consonant	34	U+005E U+0294 U+0291	"ʔʑe³³,ʔʑi⁵⁵dəɯ³¹,ʔʑu³¹tɕu⁵⁵"	EasternLuobuohe,EasternXiangxi,Nunu,WesternLuobuohe
+^χw	χ w	G W	Consonant Consonant	1	U+005E U+03C7 U+0077	"χwaŋ³¹"	EasternLuobuohe
+aəi	aəi/ai	A	Diphthong	1	U+0061 U+0259 U+0069	"taəi⁴²tɕɛ³⁵"	BiaoMin
+aːi	aːi	A	Diphthong	54	U+0061 U+02D0 U+0069	"haːi²⁴tau³³,maːi³¹,taːi³¹"	KimMun,Mien
+aːu	aːu	A	Diphthong	38	U+0061 U+02D0 U+0075	"daːu⁵³,laːu³³,saːu⁵³"	KimMun,Mien
+dlj	d lʲ	T L	Consonant Consonant	3	U+0064 U+006C U+006A	"dljuŋ³¹³dljuŋ³¹³,pji⁴⁴dljeu⁵³,ʔŋ̩¹³dljeu³¹³"	Bana
+dlɦ	dʱ l	T L	Consonant Consonant	5	U+0064 U+006C U+0266	"qʰɯ⁵⁵ʔa³³dlɦau³⁵,zau⁵⁵dlɦo³⁵,ʔa³³dlɦi³⁵ki⁵⁵mpa⁵⁵"	NortheastYunnanChuanqiandian
+dzɦ	dzʱ	C	Consonant	3	U+0064 U+007A U+0266	"tʰy¹¹dzɦaɯ³⁵,ȵɦy¹¹dzɦau³⁵,ʔa⁵⁵dzɦie¹¹"	NortheastYunnanChuanqiandian
+dʑɦ	dʑʱ	C	Consonant	8	U+0064 U+0291 U+0266	"gɦau³¹dʑɦa³⁵,qa⁵³dʑɦai¹¹,ʔa³¹naɯ³¹dʑɦi¹¹"	NortheastYunnanChuanqiandian
+iau	i/j au	J A	Consonant Diphthong	3	U+0069 U+0061 U+0075	"miau¹³,tiau¹³,tɕi¹³ȵei³¹miau¹³"	Nunu,SouthernQiandong
+ieu	i/j eu	J E	Consonant Diphthong	7	U+0069 U+0065 U+0075	"sieu¹³,tsieu⁴⁴men⁵³,tɕieu³³"	EasternQiandong,Nunu
+iɑu	i/j ɑu	J A	Consonant Diphthong	1	U+0069 U+0251 U+0075	"ʔə⁰²pʰiɑu³¹"	WesternLuobuohe
+iəu	i/j əu	J E	Consonant Diphthong	4	U+0069 U+0259 U+0075	"tiəu³³sɿ⁴⁴,tiəu¹³,ziəu³⁵"	Nunu
+jiu	ji/j u	J Y	Consonant Vowel	1	U+006A U+0069 U+0075	"tsjiu²⁴"	Mien
+jua	ɥ a	J A	Consonant Vowel	2	U+006A U+0075 U+0061	"ljua²⁴¹,tɬjua⁴⁴"	SouthernQiandong
+juə	ɥ ə	J E	Consonant Vowel	10	U+006A U+0075 U+0259	"djuə³³,tjuə⁴²,tʰjuət⁵³"	BiaoMin
+kʰw	kʰ w	K W	Consonant Consonant	12	U+006B U+02B0 U+0077	"bli⁴²kʰwat⁵³,ne³¹kʰwi³³,tɕʰiŋ³¹³kʰwai³⁵"	Bana,BiaoMin,KimMun,She,WesternBaheng,Younuo
+mbɦ	ⁿbʰ	P	Consonant	3	U+006D U+0062 U+0266	"ʔa³³mbɦə³⁵mpy¹¹,ʔa⁵⁵mbɦə³⁵,ʔa⁵⁵ti¹¹mbɦə¹¹"	NortheastYunnanChuanqiandian
+mpʐ	ⁿp ʐ	P S	Consonant Consonant	6	U+006D U+0070 U+0290	"kua³²mpʐɔ²¹,pu⁴²mpʐɪ²¹,ȵtɕæ³²mpʐəu⁵⁵"	SouthernGuizhouChuanqiandian
+mpʰ	ⁿpʰ	P	Consonant	19	U+006D U+0070 U+02B0	"mɒ¹¹mpʰo⁴⁴,nto³¹mpʰo³³,tə⁰²mpʰje⁵⁵"	CentralGuizhouChuanqiandian,Dongnu,EasternLuobuohe,Jiongnai,WesternLuobuohe,WesternXiangxi
+m̥m	m̥ m̩	M M	Consonant Consonant	1	U+006D U+0325 U+006D	"tsjep²²m̥m³³"	Mien
+ndz	ⁿdz	T	Cluster	9	U+006E U+0064 U+007A	"qo⁰⁵ndza³³,tə⁰²ndza⁵⁵,tʰuŋ³³ndzuŋ³¹"	EasternLuobuohe,WesternLuobuohe
+ndɦ	ⁿdʱ	T	Consonant	3	U+006E U+0064 U+0266	"m̥o³³ndɦu³⁵,pi⁵⁵ndɦai³¹,so⁵⁵pi¹¹lɦai¹¹ndɦaɯ³⁵"	NortheastYunnanChuanqiandian
+nts	ⁿts	T	Cluster	26	U+006E U+0074 U+0073	"mpou³¹kaŋ⁴³ntsi⁴⁴,tɕi⁴⁴ntsu⁴⁴,ɣe⁵³ntsɯ⁴⁴"	Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,NortheastYunnanChuanqiandian,Numao,WesternLuobuohe,WesternXiangxi
+ntɬ	ⁿtɬ	T	Cluster	1	U+006E U+0074 U+026C	"pʰa⁴²ntɬəŋ¹³"	Dongnu
+ntʂ	ⁿʈʂ	C	Consonant	9	U+006E U+0074 U+0282	"kou³¹ntʂe³¹,kã³¹ntʂã²⁴,ntʂõ²²ntʂõ²²"	CentralGuizhouChuanqiandian,Chuanqiandian
+ntʃ	ⁿtʃ	T	Consonant	13	U+006E U+0074 U+0283	"kai⁴⁴ntʃuŋ³³,ntuŋ³¹ntʃaŋ¹¹,n̥o⁴⁴tei³⁵ntʃu⁵³"	Jiongnai
+ntʰ	ⁿtʰ	T	Consonant	2	U+006E U+0074 U+02B0	"tsəŋ⁵³ntʰəŋ³³,tɕi⁴⁴ntʰa⁵³tɯ³⁵tɕu⁵³"	Dongnu,WesternXiangxi
+ntθ	ⁿtθ	T	Cluster	2	U+006E U+0074 U+03B8	"tə⁰²ntθa²²,ʔa⁰²ntθə⁴²kwa⁴²"	Dongnu
+n̥u	n̥ u	N Y	Consonant Vowel	1	U+006E U+0325 U+0075	"tsʰa³³n̥u⁵⁵"	NortheastYunnanChuanqiandian
+oːi	oːi	U	Diphthong	36	U+006F U+02D0 U+0069	"ne³³noːi¹¹,pa³¹kloːi³⁵,tom³¹dzoːi³¹"	KimMun,Mien
+oːu	oːu	U	Diphthong	6	U+006F U+02D0 U+0075	"gjoːu³¹,ŋoːu³¹ȵut⁴²,ʔtoːu³¹doːŋ³³"	KimMun
+pʰʐ	pʰ ʐ	P S	Consonant Consonant	1	U+0070 U+02B0 U+0290	"qo³⁵ʈoŋ³¹pʰʐo³⁵tə²²"	WesternXiangxi
+qʰw	qʰ w	K W	Consonant Consonant	2	U+0071 U+02B0 U+0077	"tɕin³¹qʰwɑŋ⁵⁵,ʔə⁰²qʰwen⁵⁵"	WesternLuobuohe
+tsʰ	tsʰ	C	Consonant	116	U+0074 U+0073 U+02B0	"ni³¹tsʰɔŋ³¹,tjau⁵³tsʰɛ²⁴,tsjep²²tsʰjet⁵⁵"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,EasternBahen,EasternLuobuohe,EasternXiangxi,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Nunu,She,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo
+tɕʰ	tɕʰ	C	Consonant	93	U+0074 U+0255 U+02B0	"daŋ⁴⁴ba⁵³tɕʰiŋ³¹³,qa³³tɕʰaŋ³³,tɕin³¹tɕʰi³⁵qɑ⁵⁵"	Bana,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,SouthernGuizhouChuanqiandian,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi
+tɬʰ	tɬʰ	T	Consonant	4	U+0074 U+026C U+02B0	"bja³¹tɬʰi⁵⁵,nɦa³¹tɬʰu³³,tɬʰuŋ⁴⁴tɬʰuŋ⁴⁴"	Bana,NortheastYunnanChuanqiandian
+tʂʰ	ʈʂʰ	C	Consonant	18	U+0074 U+0282 U+02B0	"ta³³tʂʰui³¹,vaŋ⁴³tʂʰou⁴⁴,ʔa⁵⁵tʂʰu¹¹"	CentralGuizhouChuanqiandian,Chuanqiandian,NortheastYunnanChuanqiandian
+tʃʰ	tʃʰ	T	Consonant	7	U+0074 U+0283 U+02B0	"gjai³⁵tʃʰaːi³¹,ka⁰²dai⁵¹tʃʰui⁵¹,lau³³tʃʰei¹¹"	KimMun
+uei	u/w ei	W E	Consonant Diphthong	26	U+0075 U+0065 U+0069	"huei³²tɕə¹³,huei³²wɯ³³,suei²²"	CentralGuizhouChuanqiandian,Chuanqiandian,EasternLuobuohe,EasternXiangxi,Nunu,SouthernGuizhouChuanqiandian
+uoː	u/w oː	W U	Consonant Vowel	5	U+0075 U+006F U+02D0	"gjai³⁵ʔuoːm³⁵,tʃan³³ʔuoːm³⁵,ʔuoːm³³mui²¹"	KimMun,Mien
+uəi	u/w əi	W E	Consonant Diphthong	1	U+0075 U+0259 U+0069	"ʔuəi³³"	BiaoMin
+uːi	uːi	Y	Diphthong	9	U+0075 U+02D0 U+0069	"luːi⁴²,tʃʰuːi¹¹,ŋuːi⁴²ʔuoːm³⁵"	KimMun
+uːo	uːo	Y	Diphthong	1	U+0075 U+02D0 U+006F	"ʔuːom³⁵bei⁵⁵"	KimMun
+²²$	²²	1	Tone	1229	U+00B2 U+00B2 U+0024	"kʰjaŋ²²,nam²²,suəŋ²²"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Dongnu,EasternQiandong,Mien,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternQiandong,WesternXiangxi,ZaoMin
+²³²	²³² +	6 _	Tone Marker	8	U+00B2 U+00B3 U+00B2	"hoŋ²³²so³⁵,hoŋ²³²tu¹³,noŋ²³²na⁴²"	SouthernGuizhouChuanqiandian
+²³¹	²³¹ +	6 _	Tone Marker	26	U+00B2 U+00B3 U+00B9	"bau²³¹tsun²⁴,ko²³¹lo²³¹,po²³¹du⁵⁵"	Dongnu,Mien
+²¹$	²¹	3	Tone	423	U+00B2 U+00B9 U+0024	"bjɛt²¹,tjaŋ¹³leɯ²¹,tsʰeu²¹"	BiaoMin,Chuanqiandian,Dongnu,Mien,She,SouthernGuizhouChuanqiandian,WesternQiandong,Younuo
+²¹²	²¹² +	6 _	Tone Marker	13	U+00B2 U+00B9 U+00B2	"maŋ²¹²qaŋ²¹²,taŋ²¹²qan²⁴,tsan²⁴pɛ²¹²tɕan²¹²"	EasternQiandong
+²⁴$	²⁴	2	Tone	1118	U+00B2 U+2074 U+0024	"sã²²hu²⁴,tsʰe²⁴,tʂõ²⁴"	BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,EasternLuobuohe,EasternQiandong,Mien,SouthernQiandong,ZaoMin
+²⁴¹	²⁴¹ +	6 _	Tone Marker	15	U+00B2 U+2074 U+00B9	"nju²⁴¹qɔ⁵³,nju²⁴¹qʰau¹³,tiŋ²⁴to²⁴¹to¹³"	SouthernQiandong
+³²$	³²	3	Tone	231	U+00B3 U+00B2 U+0024	"ku²¹ʔɔ³²,kwaŋ³²,ȵɔ³²"	Mien,SouthernGuizhouChuanqiandian,WesternXiangxi,Younuo
+³³$	³³	4	Tone	2796	U+00B3 U+00B3 U+0024	"fʰu³⁵zɛ¹³pʰo³³,tɕi³³koŋ³³,ʔi³³"	Bana,BiaoMin,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,Younuo
+³³³	³³ +	4 _	Tone Marker	1	U+00B3 U+00B3 U+00B3	"qa³³puẽ³³³mjaŋ²²"	WesternQiandong
+³¹$	³¹	3	Tone	2474	U+00B3 U+00B9 U+0024	"qlɑŋ³¹,tsʰuŋ³¹,ʑe⁵³la³¹"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternXiangxi
+³¹³	³¹³ +	6 _	Tone Marker	91	U+00B3 U+00B9 U+00B3	"mei³¹³tʰon⁵⁵,nte³³pi³¹³pʰau³¹³,qa⁰³pi³¹³ta⁵⁵"	Bana,EasternBahen
+³⁴$	³⁴	2	Tone	1	U+00B3 U+2074 U+0024	"nan³⁴"	KimMun
+³⁵$	³⁵	2	Tone	2333	U+00B3 U+2075 U+0024	"mpʰo³⁵,ndzɑ³⁵,ʃi¹²ʃai³⁵"	Bana,BiaoMin,EasternBahen,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Nunu,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternXiangxi
+¹²$	¹²	2	Tone	42	U+00B9 U+00B2 U+0024	"tʃo¹²,tʰei¹²,ŋkai¹²"	Jiongnai,Mien
+¹³$	¹³	2	Tone	1693	U+00B9 U+00B3 U+0024	"tɕou¹³,ɕi¹³tɕi¹³,ʈɯ¹³"	Bana,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternQiandong,EasternXiangxi,KimMun,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,Younuo
+¹¹$	¹¹	1	Tone	684	U+00B9 U+00B9 U+0024	"noːi¹¹noːi¹¹,zɛ¹¹,ʃau¹¹"	EasternBahen,Jiongnai,KimMun,NortheastYunnanChuanqiandian,NorthernQiandong,She,SouthernGuizhouChuanqiandian,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi
+ŋgɦ	ⁿgʱ	K	Consonant	4	U+014B U+0067 U+0266	"so³³ŋgɦey³⁵,ti⁵⁵ŋgɦau³⁵,ʂaɯ⁵⁵ŋgɦau¹¹"	NortheastYunnanChuanqiandian
+ŋkʰ	ⁿkʰ	K	Consonant	11	U+014B U+006B U+02B0	"qo³⁵ŋkʰin⁴⁴,tə⁰²ŋkʰo³¹,ʔa⁰²ŋkʰo³³"	CentralGuizhouChuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,Jiongnai,WesternLuobuohe,WesternXiangxi
+ŋqʰ	ⁿqʰ	K	Consonant	4	U+014B U+0071 U+02B0	"tɕi⁴⁴ŋqʰe⁴⁴,tə⁰²ŋqʰɛ³¹,ʔə⁰²ʔji³¹ŋqʰe³¹"	NortheastYunnanChuanqiandian,WesternLuobuohe,WesternXiangxi
+ȵdʑ	ⁿdʑ	T	Cluster	21	U+0235 U+0064 U+0291	"ta⁰²ȵdʑo³¹,tə⁰²ȵdʑe²⁴,ʔa⁵⁵ȵdʑi⁵⁵tɯ⁵⁵"	EasternLuobuohe,NortheastYunnanChuanqiandian,WesternLuobuohe
+ȵtɕ	ⁿtɕ	T	Cluster	37	U+0235 U+0074 U+0255	"tɑ³⁵ȵtɕɛ³⁵,wɔ³⁵ȵtɕaŋ⁵⁵,ȵe⁵³ȵtɕou⁴⁴"	CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,NortheastYunnanChuanqiandian,Numao,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternXiangxi
+ɳtʂ	ⁿʈʂ	C	Consonant	1	U+0273 U+0074 U+0282	"wei³¹ɳtʂaɯ¹³"	NortheastYunnanChuanqiandian
+ɳʈʰ	ⁿʈʰ	T	Consonant	5	U+0273 U+0288 U+02B0	"ʔa⁰²ɳʈʰau³³,ʔa⁵⁵ɳʈʰau⁵⁵,ʔə⁰²ɳʈʰoŋ³¹"	Dongnu,EasternLuobuohe,NortheastYunnanChuanqiandian,WesternLuobuohe,WesternXiangxi
+ʔŋ̩	ˀŋ ŋ̍	N N	Consonant Consonant	6	U+0294 U+014B U+0329	"køe⁵⁵ʔŋ̩³³,mu⁵⁴ʔŋ̩⁴⁴,tu²²ʔŋ̩³⁵"	Numao,She,Younuo
+⁰³$	⁰/³	6	Tone	29	U+2070 U+00B3 U+0024	"in⁵³tsɿ⁰³,tɕʰe⁵⁵tsɿ⁰³,ʔa³¹³tsɿ⁰³"	Bana,EasternBahen
+⁰⁴$	⁰/⁴	6	Tone	14	U+2070 U+2074 U+0024	"pʰa⁵⁵tsai⁰⁴,tɕon⁵⁵tsai⁰⁴,ʑi³¹tsai⁰⁴"	Bana
+⁴²$	⁴²	3	Tone	1115	U+2074 U+00B2 U+0024	"blə⁴²,mpei⁴²,pu⁵³kʰi⁴²"	BiaoMin,CentralGuizhouChuanqiandian,Dongnu,KimMun,Numao,Nunu,SouthernGuizhouChuanqiandian,WesternBaheng,WesternXiangxi,ZaoMin
+⁴³$	⁴³	3	Tone	194	U+2074 U+00B3 U+0024	"m̥o⁵⁵mau¹³ʂou⁴³,ɕaŋ⁴³,ʔua⁴³"	CentralGuizhouChuanqiandian,Chuanqiandian
+⁴⁴$	⁴⁴	5	Tone	2193	U+2074 U+2074 U+0024	"ki⁴⁴ke⁴⁴,pji⁴⁴lji⁴⁴,ȵtɕa⁴⁴"	Bana,Chuanqiandian,EasternLuobuohe,EasternQiandong,Jiongnai,Mien,NorthernQiandong,Numao,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+⁵²$	⁵²	3	Tone	2	U+2075 U+00B2 U+0024	"mpa⁵⁵tæ⁵²,ʔa⁰²ʂa⁵²"	Dongnu,SouthernGuizhouChuanqiandian
+⁵³$	⁵³	3	Tone	1857	U+2075 U+00B3 U+0024	"pua¹³teu⁵³,tjəŋ⁵³,ɬut⁵³"	Bana,BiaoMin,Dongnu,EasternBahen,EasternQiandong,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,She,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternQiandong,WesternXiangxi,Younuo,ZaoMin
+⁵¹$	⁵¹	3	Tone	138	U+2075 U+00B9 U+0024	"va⁵¹,ʃa⁵¹,ʃeu⁵¹"	KimMun
+⁵⁴$	⁵⁴	3	Tone	162	U+2075 U+2074 U+0024	"plou⁵⁴,sje⁵⁴,tʰy⁵⁴"	Chuanqiandian,Younuo
+⁵⁵$	⁵⁵	5	Tone	2627	U+2075 U+2075 U+0024	"læ̃⁵⁵,tsi⁵⁵tsi⁵⁵,tʃat⁵⁵"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,EasternBahen,EasternLuobuohe,EasternXiangxi,Jiongnai,KimMun,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo
+ⁿsʰ	ⁿsʰ	S	Consonant	2	U+207F U+0073 U+02B0	"ⁿsʰi²⁴,ⁿsʰõ¹³"	CentralGuizhouChuanqiandian
+^dlj	d lʲ	T L	Consonant Consonant	5	U+005E U+0064 U+006C U+006A	"dljen⁴⁴,dljuŋ³¹³dljuŋ³¹³,dljuŋ³¹³tɕi³¹"	Bana
+^dlɦ	dʱ l	T L	Consonant Consonant	3	U+005E U+0064 U+006C U+0266	"dlɦaɯ³⁵zɦo¹¹,dlɦi³⁵"	NortheastYunnanChuanqiandian
+^dzɦ	dzʱ	C	Consonant	6	U+005E U+0064 U+007A U+0266	"dzɦai¹¹,dzɦaɯ³⁵,dzɦey³⁵"	NortheastYunnanChuanqiandian
+^dʐɦ	ɖʐʱ	C	Consonant	4	U+005E U+0064 U+0290 U+0266	"dʐɦu³⁵,dʐɦy³¹,dʐɦy³⁵"	NortheastYunnanChuanqiandian
+^dʑɦ	dʑʱ	C	Consonant	5	U+005E U+0064 U+0291 U+0266	"dʑɦau³¹,dʑɦo³⁵,dʑɦɯ³⁵"	NortheastYunnanChuanqiandian
+^gwj	g ɥ	K J	Consonant Consonant	2	U+005E U+0067 U+0077 U+006A	"gwjaŋ³³,gwjun³³"	Mien
+^kjw	kʲ w	K W	Consonant Consonant	1	U+005E U+006B U+006A U+0077	"kjwaŋ⁵³"	Mien
+^kwj	k ɥ	K J	Consonant Consonant	5	U+005E U+006B U+0077 U+006A	"kwjaŋ²⁴,kwje²⁴,kwjɛn³¹"	Mien
+^kʰw	kʰ w	K W	Consonant Consonant	35	U+005E U+006B U+02B0 U+0077	"kʰwak¹¹,kʰwa⁴⁴,kʰwa⁵³ku³⁵"	Bana,BiaoMin,Dongnu,EasternBahen,EasternXiangxi,KimMun,Mien,Numao,She,SouthernQiandong,WesternBaheng
+^mbɦ	ⁿbʱ	P	Consonant	4	U+005E U+006D U+0062 U+0266	"mbɦai¹¹nɦa¹¹,mbɦa³⁵,mbɦaɯ³⁵"	NortheastYunnanChuanqiandian
+^mph	ⁿpʰ	P	Consonant	1	U+005E U+006D U+0070 U+0068	"mphe⁵⁵"	EasternBahen
+^mpʐ	ⁿp ʐ	P S	Consonant Consonant	12	U+005E U+006D U+0070 U+0290	"mpʐa³²,mpʐe²²,mpʐe¹¹na³²"	SouthernGuizhouChuanqiandian
+^mpʰ	ⁿpʰ	P	Consonant	20	U+005E U+006D U+0070 U+02B0	"mpʰau³⁵,mpʰe²⁴,mpʰo³⁵"	CentralGuizhouChuanqiandian,EasternBahen,EasternLuobuohe,Jiongnai,Numao,WesternLuobuohe,WesternXiangxi
+^mts	ⁿts	T	Cluster	1	U+005E U+006D U+0074 U+0073	"mtsɿ³³"	NortheastYunnanChuanqiandian
+^m̥m	m̥ m̩	M M	Consonant Consonant	1	U+005E U+006D U+0325 U+006D	"m̥m³⁵nai³³"	EasternBahen
+^ndl	ⁿd l	T L	Consonant Consonant	2	U+005E U+006E U+0064 U+006C	"ndla³¹,ndlo⁵³"	NortheastYunnanChuanqiandian
+^ndz	ⁿdz	T	Cluster	10	U+005E U+006E U+0064 U+007A	"ndzaŋ³¹,ndzuŋ²⁴,ndzɑŋ³¹"	EasternLuobuohe,NortheastYunnanChuanqiandian,WesternLuobuohe
+^ndɦ	ⁿdʱ	T	Consonant	2	U+005E U+006E U+0064 U+0266	"ndɦu³⁵,ndɦy³¹"	NortheastYunnanChuanqiandian
+^nqw	ⁿq w	K W	Consonant Consonant	1	U+005E U+006E U+0071 U+0077	"nqwɑ⁵³"	WesternXiangxi
+^nsʰ	ⁿsʰ	S	Consonant	3	U+005E U+006E U+0073 U+02B0	"nsʰe⁴²,nsʰu⁴²,nsʰẽ²⁴"	CentralGuizhouChuanqiandian
+^nts	ⁿts	T	Cluster	65	U+005E U+006E U+0074 U+0073	"ntsa²⁴,ntsæn²²,ntsɑŋ⁵³"	Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,NortheastYunnanChuanqiandian,Numao,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternXiangxi
+^ntɬ	ⁿtɬ	T	Cluster	7	U+005E U+006E U+0074 U+026C	"ntɬai¹¹,ntɬie⁵⁵,ntɬu²²"	CentralGuizhouChuanqiandian,Dongnu,NortheastYunnanChuanqiandian
+^ntʂ	ⁿʈʂ	C	Consonant	27	U+005E U+006E U+0074 U+0282	"ntʂe²¹,ntʂi²⁴,ntʂu¹³"	CentralGuizhouChuanqiandian,Chuanqiandian
+^ntʃ	ⁿtʃ	T	Consonant	25	U+005E U+006E U+0074 U+0283	"ntʃa⁵⁵,ntʃei⁵³,ntʃe¹¹"	Jiongnai
+^ntʰ	ⁿtʰ	T	Consonant	29	U+005E U+006E U+0074 U+02B0	"ntʰau¹³,ntʰaŋ⁴³,ntʰɑ³⁵"	CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,Jiongnai,NortheastYunnanChuanqiandian,Numao,WesternLuobuohe,WesternXiangxi
+^ntθ	ⁿtθ	T	Cluster	1	U+005E U+006E U+0074 U+03B8	"ntθe⁵³"	Dongnu
+^nʈʰ	ⁿʈʰ	T	Consonant	1	U+005E U+006E U+0288 U+02B0	"nʈʰoŋ⁴³"	Chuanqiandian
+^pʰʐ	pʰ ʐ	P S	Consonant Consonant	1	U+005E U+0070 U+02B0 U+0290	"pʰʐo³⁵"	WesternXiangxi
+^qʰw	qʰ w	K W	Consonant Consonant	1	U+005E U+0071 U+02B0 U+0077	"qʰwɑŋ³¹"	WesternLuobuohe
+^tsʰ	tsʰ	C	Consonant	230	U+005E U+0074 U+0073 U+02B0	"tsʰe³³,tsʰu³¹,tsʰɔ³³kʰi³³"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,She,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo
+^tɕʰ	tɕʰ	C	Consonant	172	U+005E U+0074 U+0255 U+02B0	"tɕʰoŋ¹³,tɕʰɛn³³,tɕʰɛ⁵³"	Bana,BiaoMin,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,EasternQiandong,EasternXiangxi,Mien,NortheastYunnanChuanqiandian,NorthernQiandong,Numao,Nunu,SouthernGuizhouChuanqiandian,SouthernQiandong,WesternBaheng,WesternLuobuohe,WesternQiandong,WesternXiangxi,Younuo
+^tɬʰ	tɬʰ	T	Consonant	13	U+005E U+0074 U+026C U+02B0	"tɬʰe⁵⁵,tɬʰi¹¹,tɬʰo⁴⁴"	Bana,CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,NortheastYunnanChuanqiandian
+^tʂʰ	ʈʂʰ	C	Consonant	40	U+005E U+0074 U+0282 U+02B0	"tʂʰaɯ³¹,tʂʰua⁴³,tʂʰu⁵⁵"	CentralGuizhouChuanqiandian,Chuanqiandian,NortheastYunnanChuanqiandian
+^tʃʰ	tʃʰ	T	Consonant	35	U+005E U+0074 U+0283 U+02B0	"tʃʰeu¹¹ʑet⁵⁵,tʃʰeu⁵¹,tʃʰuŋ⁵³miŋ³¹"	Jiongnai,KimMun
+^ŋgɦ	ⁿgʱ	K	Consonant	12	U+005E U+014B U+0067 U+0266	"ŋgɦey³⁵,ŋgɦo³⁵,ŋgɦɯ¹¹"	NortheastYunnanChuanqiandian
+^ŋkʰ	ⁿkʰ	K	Consonant	20	U+005E U+014B U+006B U+02B0	"ŋkʰeu³¹,ŋkʰi³³,ŋkʰja⁴⁴ntɒŋ³⁵"	Chuanqiandian,Dongnu,EasternBahen,Jiongnai,Numao,WesternLuobuohe,WesternXiangxi
+^ŋqʰ	ⁿqʰ	K	Consonant	7	U+005E U+014B U+0071 U+02B0	"ŋqʰai³¹,ŋqʰe³³,ŋqʰe⁵³"	CentralGuizhouChuanqiandian,Chuanqiandian,EasternBahen,EasternLuobuohe,WesternLuobuohe,WesternXiangxi
+^ŋɢɦ	ⁿɢʱ	K	Consonant	9	U+005E U+014B U+0262 U+0266	"ŋɢɦai³⁵ȵɦu³⁵,ŋɢɦai³⁵ʑɦaɯ³⁵,ŋɢɦɯ¹¹"	NortheastYunnanChuanqiandian
+^ȵdʑ	ⁿdʑ	T	Cluster	3	U+005E U+0235 U+0064 U+0291	"ȵdʑe³¹,ȵdʑe³¹ma²⁴,ȵdʑi³¹"	EasternLuobuohe,NortheastYunnanChuanqiandian,WesternLuobuohe
+^ȵtɕ	ⁿtɕ	T	Cluster	113	U+005E U+0235 U+0074 U+0255	"ȵtɕaŋ¹¹tsi³¹³,ȵtɕo⁵³,ȵtɕɛ⁴²"	CentralGuizhouChuanqiandian,Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,NortheastYunnanChuanqiandian,Numao,SouthernGuizhouChuanqiandian,WesternLuobuohe,WesternXiangxi
+^ɳdʐ	ⁿdʐ	T	Cluster	2	U+005E U+0273 U+0064 U+0290	"ɳdʐai³¹,ɳdʐau³¹"	NortheastYunnanChuanqiandian
+^ɳtʂ	ⁿʈʂ	C	Consonant	4	U+005E U+0273 U+0074 U+0282	"ɳtʂə³³,ɳtʂə⁵⁵,ɳtʂʅ¹¹"	NortheastYunnanChuanqiandian
+^ɳʈʰ	ⁿʈʰ	T	Consonant	4	U+005E U+0273 U+0288 U+02B0	"ɳʈʰa³¹ʐe²³¹,ɳʈʰie⁵⁵,ɳʈʰo⁵³"	Dongnu,NortheastYunnanChuanqiandian,WesternXiangxi
+^ʔŋ̩	ˀŋ ŋ̍	N N	Consonant Consonant	20	U+005E U+0294 U+014B U+0329	"ʔŋ̩¹³pŋ³¹³,ʔŋ̩⁴⁴kə⁰³pjeu¹³,ʔŋ̩⁴⁴mi³²"	Bana,Numao,She,Younuo
+ndlɦ	ⁿdʱ l	T L	Consonant Consonant	7	U+006E U+0064 U+006C U+0266	"ʑu⁵⁵ndlɦi³⁵,ʔa⁵⁵ndlɦai¹¹,ʔa⁵⁵ndlɦa¹¹"	NortheastYunnanChuanqiandian
+ndzɦ	ⁿdzʱ	T	Cluster	3	U+006E U+0064 U+007A U+0266	"ki⁵⁵ndzɦau³¹,ti⁵⁵ndzɦa¹¹,ʔa⁵⁵ndzɦaɯ¹¹"	NortheastYunnanChuanqiandian
+ntsʰ	ⁿtsʰ	T	Cluster	10	U+006E U+0074 U+0073 U+02B0	"ntsʰy⁵⁵ntsʰy³³,tə⁰²ntsʰen⁴⁴,tə⁰²ntsʰe³¹"	EasternLuobuohe,NortheastYunnanChuanqiandian,WesternLuobuohe,WesternXiangxi
+ntʂʰ	ⁿʈʂʰ	C	Consonant	3	U+006E U+0074 U+0282 U+02B0	"pe³¹ntʂʰe⁴²,qə⁰²ntʂʰõ²⁴,ŋqai³¹ntʂʰi⁵⁵"	CentralGuizhouChuanqiandian,Chuanqiandian
+ntθʰ	ⁿtθʰ	T	Cluster	1	U+006E U+0074 U+03B8 U+02B0	"kjəŋ⁴²ntθʰəŋ³³"	Dongnu
+nutŋ	n u tŋ/ŋ	N Y N	Consonant Vowel Consonant	1	U+006E U+0075 U+0074 U+014B	"qo⁰⁵nutŋ²⁴"	EasternLuobuohe
+²³²$	²³²	6	Tone	39	U+00B2 U+00B3 U+00B2 U+0024	"haŋ⁴²pei²³²,na²³²,nɔ²³²"	SouthernGuizhouChuanqiandian
+²³¹$	²³¹	6	Tone	151	U+00B2 U+00B3 U+00B9 U+0024	"na²³¹,wje²³¹,ʔa⁰²tu²³¹"	Bana,Dongnu,EasternBahen,KimMun,Mien
+²¹²$	²¹²	6	Tone	61	U+00B2 U+00B9 U+00B2 U+0024	"kan²⁴njin²¹²,taŋ²¹²,ten⁴⁴nen²¹²"	EasternQiandong
+²⁴¹$	²⁴¹	6	Tone	87	U+00B2 U+2074 U+00B9 U+0024	"pu²⁴¹,tseu²⁴¹,ŋwi²⁴¹"	SouthernQiandong
+³²³$	³²³	6	Tone	1	U+00B3 U+00B2 U+00B3 U+0024	"ȵoŋ³²³"	SouthernGuizhouChuanqiandian
+³¹²$	³¹²	6	Tone	1	U+00B3 U+00B9 U+00B2 U+0024	"ȵuŋ³¹²"	Bana
+³¹³$	³¹³	6	Tone	262	U+00B3 U+00B9 U+00B3 U+0024	"qai³¹³,ɕaŋ³¹³,ɕi³¹³"	Bana,EasternBahen
+³⁵³⁵	³⁵ +	2 _	Tone Marker	1	U+00B3 U+2075 U+00B3 U+2075	"ntɒŋ³⁵³⁵mpjau³¹"	Jiongnai
+¹³¹$	¹³¹	6	Tone	1	U+00B9 U+00B3 U+00B9 U+0024	"nəŋ¹³¹"	SouthernGuizhouChuanqiandian
+ȵdʑɦ	ⁿdʑʱ	T	Cluster	4	U+0235 U+0064 U+0291 U+0266	"tɬau⁵⁵ʔa³³ȵdʑɦau³⁵,ʔau⁵⁵ȵdʑɦau³⁵,ʔa³³ȵdʑɦau³⁵"	NortheastYunnanChuanqiandian
+ȵtɕʰ	ⁿtɕʰ	T	Cluster	8	U+0235 U+0074 U+0255 U+02B0	"paŋ⁴⁴ȵtɕʰo⁴⁴,paɯ³³ȵtɕʰo³³,ʔə⁰²ȵtɕʰu⁵⁵"	Chuanqiandian,Dongnu,EasternLuobuohe,NortheastYunnanChuanqiandian,WesternLuobuohe,WesternXiangxi
+ɳdʐɦ	ⁿɖʐʱ	C	Consonant	1	U+0273 U+0064 U+0290 U+0266	"hi³¹ɳdʐɦa¹¹"	NortheastYunnanChuanqiandian
+ɳtʂʰ	ⁿʈʂʰ	C	Consonant	1	U+0273 U+0074 U+0282 U+02B0	"ʔa⁵⁵ɳtʂʰa¹¹so⁵⁵"	NortheastYunnanChuanqiandian
+^mpʐu	ⁿp u/ʐʷ	P S	Consonant Consonant	3	U+005E U+006D U+0070 U+0290 U+0075	"mpʐua⁵³,mpʐu¹³"	SouthernGuizhouChuanqiandian
+^ndlɦ	ⁿdʱ l	T L	Consonant Consonant	9	U+005E U+006E U+0064 U+006C U+0266	"ndlɦau³¹,ndlɦi³⁵,ndlɦy¹¹"	NortheastYunnanChuanqiandian
+^ndzɦ	ⁿdzʱ	T	Cluster	2	U+005E U+006E U+0064 U+007A U+0266	"ndzɦa³⁵,ndzɦaɯ³⁵"	NortheastYunnanChuanqiandian
+^ntsʰ	ⁿtsʰ	T	Cluster	34	U+005E U+006E U+0074 U+0073 U+02B0	"ntsʰa³⁵,ntsʰo³¹,ntsʰua⁴⁴"	Chuanqiandian,Dongnu,EasternBahen,EasternLuobuohe,NortheastYunnanChuanqiandian,Numao,WesternLuobuohe,WesternXiangxi
+^ntʂʰ	ⁿʈʂʰ	C	Consonant	5	U+005E U+006E U+0074 U+0282 U+02B0	"ntʂʰai⁴⁴,ntʂʰaŋ⁵⁵,ntʂʰe⁴²"	CentralGuizhouChuanqiandian,Chuanqiandian
+^ntʃʰ	ⁿtʃʰ	T	Consonant	9	U+005E U+006E U+0074 U+0283 U+02B0	"ntʃʰai⁴⁴,ntʃʰeŋ⁴⁴,ntʃʰo⁵⁵ʔɒŋ⁴⁴"	Jiongnai
+^ntθʰ	ⁿtθʰ	T	Cluster	1	U+005E U+006E U+0074 U+03B8 U+02B0	"ntθʰə³³"	Dongnu
+^ȵdʑɦ	ⁿdʑʱ	T	Cluster	2	U+005E U+0235 U+0064 U+0291 U+0266	"ȵdʑɦau¹¹,ȵdʑɦey¹¹"	NortheastYunnanChuanqiandian
+^ȵtɕʰ	ⁿtɕʰ	T	Cluster	13	U+005E U+0235 U+0074 U+0255 U+02B0	"ȵtɕʰoŋ⁴²,ȵtɕʰuŋ⁴⁴,ȵtɕʰu⁵³"	Chuanqiandian,Dongnu,EasternBahen,NortheastYunnanChuanqiandian,Numao,WesternLuobuohe,WesternXiangxi
+^ȵ̩tɕ	ⁿtɕ	T	Cluster	2	U+005E U+0235 U+0329 U+0074 U+0255	"ȵ̩tɕi²⁴"	EasternLuobuohe
+^ɳdʐɦ	ⁿdʐʱ	T	Cluster	1	U+005E U+0273 U+0064 U+0290 U+0266	"ɳdʐɦa¹¹"	NortheastYunnanChuanqiandian
+^ɳtʂʰ	ⁿʈʂʰ	C	Consonant	5	U+005E U+0273 U+0074 U+0282 U+02B0	"ɳtʂʰai³³,ɳtʂʰaɯ⁵⁵,ɳtʂʰie⁵⁵"	NortheastYunnanChuanqiandian
+^mplua	ⁿp u/lʷ	P L	Consonant Consonant	1	U+005E U+006D U+0070 U+006C U+0075 U+0061	"mplua¹³"	Chuanqiandian
+^ȵtɕi²⁴	ⁿtɕ i ²⁴	T I 2	Cluster Vowel Tone	1	U+005E U+0235 U+0074 U+0255 U+0069 U+00B2 U+2074	"ȵtɕi²⁴"	EasternLuobuohe
