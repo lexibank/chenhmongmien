@@ -15,7 +15,9 @@ setup(
     py_modules=["lexibank_chenhmongmien"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={"lexibank.dataset": ["chenhmongmien=lexibank_chenhmongmien:Dataset"]},
+    entry_points={
+        "lexibank.dataset": ["chenhmongmien=lexibank_chenhmongmien:Dataset"]
+    },
     install_requires=["pylexibank>=2.1", "beautifulsoup4>=4.7.1"],
     extras_require={"test": ["pytest-cldf"]},
 )

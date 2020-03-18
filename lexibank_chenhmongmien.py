@@ -55,12 +55,24 @@ class Dataset(MyDataset):
 
         self.raw_dir.write_csv(
             "languages.csv",
-            [r for r in iter_rows(soup.findAll("table", {"class": "wikitable sortable"})[0]) if r],
+            [
+                r
+                for r in iter_rows(
+                    soup.findAll("table", {"class": "wikitable sortable"})[0]
+                )
+                if r
+            ],
         )
 
         self.raw_dir.write_csv(
             "raw.csv",
-            [r for r in iter_rows(soup.findAll("table", {"class": "wikitable sortable"})[1]) if r],
+            [
+                r
+                for r in iter_rows(
+                    soup.findAll("table", {"class": "wikitable sortable"})[1]
+                )
+                if r
+            ],
         )
 
     def cmd_makecldf(self, args):
@@ -82,7 +94,9 @@ class Dataset(MyDataset):
         languages = OrderedDict([(k["Name"], k["ID"]) for k in self.languages])
         args.writer.add_sources(*self.raw_dir.read_bib())
         missing = {}
-        for cgloss, entry in progressbar(enumerate(data), desc="cldfify the data", total=len(data)):
+        for cgloss, entry in progressbar(
+            enumerate(data), desc="cldfify the data", total=len(data)
+        ):
             if entry["Chinese gloss"] in concepts.keys():
                 for language in languages:
                     if entry[language].strip():
