@@ -14,15 +14,17 @@ from bs4 import BeautifulSoup
 class CustomConcept(Concept):
     Chinese_Gloss = attr.ib(default=None)
 
+
 @attr.s
 class CustomLanguage(Language):
     ChineseName = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
-    Family = attr.ib(default='Hmong-Mien')
+    Family = attr.ib(default="Hmong-Mien")
     DataSource = attr.ib(default=None)
     Autonym = attr.ib(default=None)
     Name_in_Source = attr.ib(default=None)
     Location = attr.ib(default=None)
+
 
 
 class Dataset(BaseDataset):
@@ -41,18 +43,19 @@ class Dataset(BaseDataset):
     def cmd_download(self, args):
         with self.raw_dir.temp_download(
             "https://en.wiktionary.org/wiki/Appendix:Hmong-Mien_comparative_vocabulary_list",
-            'raw.html'
+            "raw.html",
         ) as p:
-            soup = BeautifulSoup(p.read_text(encoding='utf8'), "html.parser")
+            soup = BeautifulSoup(p.read_text(encoding="utf8"), "html.parser")
 
         def iter_rows(table):
-            yield [c.get_text().rstrip('\n') for c in table.findAll('th')]
-            for row in table.findAll('tr'):
-                yield [c.get_text().rstrip('\n') for c in row.findAll('td')]
+            yield [c.get_text().rstrip("\n") for c in table.findAll("th")]
+            for row in table.findAll("tr"):
+                yield [c.get_text().rstrip("\n") for c in row.findAll("td")]
 
         self.raw_dir.write_csv(
-            'languages.csv',
-            [r for r in iter_rows(soup.findAll("table", {"class": "wikitable sortable"})[0]) if r])
+            "languages.csv",
+            [r for r in iter_rows(soup.findAll("table", {"class": "wikitable sortable"})[0]) if r],
+        )
 
         self.raw_dir.write_csv(
             'raw.csv',
@@ -83,7 +86,7 @@ class Dataset(BaseDataset):
                             Language_ID=languages[language],
                             Parameter_ID=concepts[entry['Chinese gloss']],
                             Value=entry[language],
-                            Source=['Chen2013'],
-                        )
+                            Source=['Chen2012'],
+                       )
             else:
-                missing[entry['Chinese gloss']] += 1
+                missing[entry["Chinese gloss"]] += 1
