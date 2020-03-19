@@ -60,7 +60,6 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         data = self.raw_dir.read_csv('raw.csv', dicts=True)
-        
         languages, concepts = {}, {}
         for concept in self.conceptlists[0].concepts.values():
             idx = concept.id.split('-')[-1] + '_' + slug(concept.gloss)
@@ -72,9 +71,8 @@ class Dataset(BaseDataset):
                     Chinese_Gloss=concept.attributes['chinese']
             )
             concepts[concept.attributes['chinese']] = idx
-
+        args.writer.add_languages()
         languages = args.writer.add_languages(lookup_factory='Name')
-        
         args.writer.add_sources()
         missing = {}
         for cgloss, entry in progressbar(enumerate(data), desc='cldfify the data', total=len(data)):
