@@ -18,7 +18,10 @@ setup(
     entry_points={
         'lexibank.dataset': [
             'chenhmongmien=lexibank_chenhmongmien:Dataset',
-        ]
+        ],
+        'cldfbench.commands': [
+            'chenhmongmien=chenhmongmiencommands',
+        ],
     },
     install_requires=[
         'pylexibank>=1.1.1',

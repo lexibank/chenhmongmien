@@ -29,16 +29,10 @@ This dataset comprises 25 Hmong-Mien varieties, which were originally digitized 
 
 - **Varieties:** 25
 - **Concepts:** 883
-- **Lexemes:** 21,573
+- **Lexemes:** 21,967
 - **Sources:** 1
-- **Synonymy:** 1.01
+- **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 114,328
-- **Segments:** 245 (0 BIPA errors, 0 CTLS sound class errors, 245 CLTS modified)
-- **Inventory size (avg):** 70.76
-
-## Possible Improvements:
-
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Chuanqiandian [chua1256](http://glottolog.org/resource/languoid/id/chua1256)
-
+- **Tokens:** 115,895
+- **Segments:** 252 (0 BIPA errors, 0 CTLS sound class errors, 252 CLTS modified)
+- **Inventory size (avg):** 71.44
