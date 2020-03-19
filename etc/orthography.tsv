@@ -69,8 +69,8 @@ Grapheme	IPA
 ^ndʒ	ⁿdʒ
 ^nj	nʲ
 ^nkʰ	ⁿkʰ
-^npl	ⁿpˡ
-^nplw	ⁿpˡ w
+^npl	ⁿp l
+^nplw	ⁿp lʷ
 ^npʰ	ⁿpʰ
 ^nqw	ⁿq w
 ^nqʰ	ⁿqʰ
@@ -80,7 +80,6 @@ Grapheme	IPA
 ^ntsʰ	ⁿtsʰ
 ^ntɕʰ	ⁿtɕʰ
 ^ntɬ	ⁿtɬ
-^ntʂ	ⁿʈʂ
 ^ntʂ	ⁿʈʂ
 ^ntʂʰ	ⁿʈʂʰ
 ^ntʃ	ⁿtʃ
@@ -101,7 +100,6 @@ Grapheme	IPA
 ^p	p
 ^ph	pʰ
 ^pl	p l
-^pl	p ɭ
 ^pʐ	p ʐ
 ^pʰ	pʰ
 ^pʰʐ	pʰ ʐ
@@ -115,7 +113,6 @@ Grapheme	IPA
 ^t	t
 ^t$	t
 ^tl	t l
-^tl	tˡ
 ^ts	ts
 ^tsʰ	tsʰ
 ^tɕ	tɕ
@@ -190,7 +187,6 @@ Grapheme	IPA
 ^ɳ	ɳ
 ^ɳdʐ	ⁿdʐ
 ^ɳdʐɦ	ⁿdʐʱ
-^ɳdʐɦ	ⁿɖʐʱ
 ^ɳtʂ	ⁿʈʂ
 ^ɳtʂʰ	ⁿʈʂʰ
 ^ɳɖ	ⁿɖ
@@ -239,7 +235,6 @@ aːi	aːi
 aːu	aːu
 b	b
 bl	b l
-bl	bˡ
 bɦ	bʰ
 c	c
 cʰ	cʰ
@@ -263,7 +258,7 @@ eː	eː
 f	f
 fʰ	fʰ
 g	g
-gl	gˡ
+gl	g l
 gw	g w
 gwj	g ɥ
 gɦ	gʱ
@@ -288,7 +283,7 @@ jw	ɥ
 k	k
 kl	k l
 kw	k w
-kwj	k ɥ
+kwj	k wj/ɥ
 kʰ	kʰ
 kʰw	kʰ w
 l	l
@@ -299,9 +294,9 @@ mb	ⁿb
 mbɦ	ⁿbʰ
 mp	ⁿp
 mph	ⁿpʰ
-mplua	ⁿpˡ u/lʷ
+mplua	ⁿp lu/lʷ
 mpʐ	ⁿp ʐ
-mpʐua	ⁿp u/ʐʷ
+mpʐua	ⁿp ʐu/ʐʷ
 mpʰ	ⁿpʰ
 mts	ⁿts
 mɦ	mʱ
@@ -320,19 +315,18 @@ ndɦ	ⁿdʱ
 ndʒ	ⁿdʒ
 nj	nʲ
 nkʰ	ⁿkʰ
-npl	ⁿpˡ
-nplw	ⁿpˡ w
+npl	ⁿp l
+nplw	ⁿp lʷ
 npʰ	ⁿpʰ
 nqw	ⁿq w
 nqʰ	ⁿqʰ
 nsʰ	ⁿsʰ
 nt	ⁿt
-ntl	ⁿtˡ
+ntl	ⁿt l
 nts	ⁿts
 ntsʰ	ⁿtsʰ
 ntɕʰ	ⁿtɕʰ
 ntɬ	ⁿtɬ
-ntʂ	ⁿʈʂ
 ntʂ	ⁿʈʂ
 ntʂʰ	ⁿʈʂʰ
 ntʃ	ⁿtʃ
@@ -358,8 +352,6 @@ oːu	oːu
 p	p
 ph	pʰ
 pl	p l
-pl	p ɭ
-pl	pˡ
 pʐ	p ʐ
 pʰ	pʰ
 pʰʐ	pʰ ʐ
@@ -373,7 +365,6 @@ sʰ	sʰ
 t	t
 t$	t
 tl	t l
-tl	tˡ
 ts	ts
 tsʰ	tsʰ
 tɕ	tɕ
@@ -558,7 +549,7 @@ z	z
 ʔv	ˀv
 ʔw	ˀw
 ʔŋ	ˀŋ
-ʔŋ̩	ˀŋ ŋ̍
+ʔŋ̩	ˀŋ */ə ŋ̍/ŋ
 ʔȵ	ˀȵ
 ʔʑ	ˀʑ
 θ	θ
@@ -597,3 +588,44 @@ z	z
 ⁵⁵$	⁵⁵
 ⁿsʰ	ⁿsʰ
 ⁿtɬ	ⁿtɬ
+^diːu³³$	d iːu ³³
+^fŋ¹³$	f */ə ŋ ¹³
+^guːŋ$	g uː ŋ ⁰
+^huai²⁴$	h u/w ai ²⁴
+^hŋ³¹³	h */ə ŋ ³¹³ +
+^hŋ³¹³$	h */ə ŋ ³¹³
+^kjankau¹³	k j a n ⁰ + k au ¹³
+^kŋ³¹³	k */ə ŋ ³¹³
+^kŋ¹³	k */ə ŋ ¹³
+^mplua¹³$	ⁿp lu/lʷ a ¹³
+^mpʐu¹³$	ⁿp ʐ u ¹³
+^naːŋ_	n aː ŋ ⁰
+^nenʔnoŋ⁵⁵$	n e n ⁰ + ˀn o ŋ ⁵⁵
+^guːŋdoːm³⁵$	g uː ŋ ⁰ + d oː m ³⁵
+^nen_	n e n ⁰
+^pŋ³¹³	p */ə ŋ ³¹³ +
+^pŋ³¹³$	p */ə ŋ ³¹³
+^tsan$	ts a n ⁰
+^tŋ⁵⁵	t */ə ŋ ⁵⁵ +
+^tŋ⁵⁵$	t */ə ŋ ⁵⁵
+^tʰŋ⁴⁴	tʰ */ə ŋ ⁴⁴ +
+^tʰŋ⁵⁵	tʰ */ə ŋ ⁵⁵ +
+^tʰŋ⁵⁵$	tʰ */ə ŋ ⁵⁵
+^wjaŋ	wj/ɥ a ŋ
+^wje²³¹$	ɥ e ²¹³
+^wjɛn	wj/ɥ ɛ n
+^wua	w ua/a
+^ʐa³²wua⁵³$	ʐ a ³² + w ua/a ⁵³
+^naːŋdzuŋ³³$	n aː ŋ ⁰ + dz u ŋ ³³
+^xut$	x u t ⁰
+fŋ³¹³tŋ³¹³$	f */ə ŋ ³¹³ + t */ə ŋ ³¹³
+fŋ⁵⁵$	f */ə ŋ ⁵⁵
+hŋ³¹³$	h */ə ŋ ³¹³
+kŋ²³¹$	k */ə ŋ ²¹³
+kŋ³¹³$	k */ə ŋ ³¹³
+kŋ³⁵	k */ə ŋ ³⁵ +
+kŋ³⁵$	k */ə ŋ ³⁵
+kʰom$	kʰ o m ⁰
+pŋ³¹³	p */ə ŋ ³¹³
+pŋ⁵⁵	p */ə ŋ ⁵⁵ +
+tlua³¹$	t lu/lʷ a ³¹

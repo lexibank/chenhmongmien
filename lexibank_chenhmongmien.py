@@ -1,9 +1,11 @@
 from pathlib import Path
+from clldutils.misc import slug
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank import Concept, Language
 from pylexibank.forms import FormSpec
-from pylexibank import progressbar as pb
+from pylexibank import progressbar
 import attr
+
 from bs4 import BeautifulSoup
 
 
@@ -59,7 +61,7 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         data = self.raw_dir.read_csv('raw.csv', dicts=True)
         
-        language_lookup, concept_lookup = {}, {}
+        languages, concepts = {}, {}
         for concept in self.conceptlists[0].concepts.values():
             idx = concept.id.split('-')[-1] + '_' + slug(concept.gloss)
             args.writer.add_concept(
@@ -69,13 +71,13 @@ class Dataset(BaseDataset):
                     Concepticon_Gloss=concept.concepticon_gloss,
                     Chinese_Gloss=concept.attributes['chinese']
             )
-            concept_lookup[concept.attributes['chinese']] = idx
+            concepts[concept.attributes['chinese']] = idx
 
-        language_lookup = args.writer.add_languages( lookup_factory='Name')
+        languages = args.writer.add_languages(lookup_factory='Name')
         
-        args.writer.add_sources(*self.raw_dir.read_bib())
+        args.writer.add_sources()
         missing = {}
-        for cgloss, entry in pb(enumerate(data), desc='cldfify the data', total=len(data)):
+        for cgloss, entry in progressbar(enumerate(data), desc='cldfify the data', total=len(data)):
             if entry['Chinese gloss'] in concepts.keys():
                 for language in languages:
                     if entry[language].strip():
