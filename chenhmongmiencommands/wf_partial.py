@@ -16,7 +16,7 @@ def run(args):
         part.get_partial_scorer(runs=10000)
         part.output('tsv', filename=ds.dir.joinpath('workflow',
             'D_Chen_partial.bin').as_posix(), ignore=[], prettify=False)
-        print('[i] saved the scorer')
+        args.log.info('[i] saved the scorer')
     finally:
         part.partial_cluster(
                 method='lexstat',

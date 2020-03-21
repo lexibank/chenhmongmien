@@ -59,7 +59,7 @@ def run(args):
     
     # revise columns commend
     wl = Wordlist(D)
-    wl.output('tsv', filename=ds.dir.joinpath('D_Chen_subset').as_posix(),
+    wl.output('tsv', filename=ds.dir.joinpath('workflow', 'D_Chen_subset').as_posix(),
             prettify=False, ignore='all')
     args.log.info('Wordlist has {0} concepts and {1} varieties across {2} words.'.format(
           wl.height, wl.width, len(wl)))

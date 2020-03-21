@@ -31,5 +31,10 @@ setup(
         'test': [
             'pytest-cldf',
         ],
+        'commands': [
+            'lingrex',
+            'sinopy',
+            'python-igraph',
+        ]
     },
 )
