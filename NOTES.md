@@ -11,5 +11,19 @@ $ cldfbench chenhmongmien wf_crosssemantic
 $ cldfbench chenhmongmien wf_correspondence
 ```
 
-For more details, compare our detailed tutorial at [lingpy/workflow-paper](https://github.com/lingpy/workflow-paper). 
+For more details, compare our detailed tutorial at [lingpy/workflow-paper](https://github.com/lingpy/workflow-paper). This tutorial has been accepted for publication with the *Journal of Open Humanities Data*. When using the processed data or the code to process data in your research, please cite this study as:
+
+> Wu, M.-S.; Schweikhard, N. E.; Bodt, T. A.; Hill, N. W. & List, J.-M. (forthcoming): "Computer-Assisted Language Comparison. State of the Art. *Journal of Open Humanities Data*. 
+
+The corresponding BibTeX format is:
+
+```
+@Article{Wu2020,
+  author     = {Wu, Mei-Shin and Schweikhard, Nathanael E. and Bodt, Timotheus A. and Hill, Nathan W. and List, Johann-Mattis},
+  title      = {Computer-Assisted Language Comparison. State of the Art},
+  journal    = {Journal of Open Humanities Data},
+  year       = {forthcoming},
+  howpublished = {Accepted for publication in 2020}
+}
+```
 
