@@ -33,7 +33,7 @@ pycldf==1.14.1
 -e git+https://github.com/concepticon/pyconcepticon.git@e98bb8c643f3aeb6474500f0173710d576627367#egg=pyconcepticon
 pycountry==19.8.18
 -e git+https://github.com/clld/pyglottolog.git@0f24f24a46d1f510c975337e4c0d8c23b357c8bd#egg=pyglottolog
--e git+https://github.com/lexibank/pylexibank.git@2e5f817203b7f6067c34cac9065975adcafca85c#egg=pylexibank
+-e git+https://github.com/lexibank/pylexibank.git@4f8d0d0394da2e94b4a4b5a72df94e3a6f2fbdd2#egg=pylexibank
 pyparsing==2.4.6
 pytest==5.4.1
 regex==2020.2.20
