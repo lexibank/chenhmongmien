@@ -1,7 +1,7 @@
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Johann-Mattis List | @LinguList | maintainer
-Mei-Shin Wu | @macyl | maintainer
-Doug Cooper | @restinplace | digitization
+Name               | GitHub user  | Description                          | Role
+---                | ---          | ---                                  | ---
+Johann-Mattis List | @LinguList   | dataset patron                       | Author
+Mei-Shin Wu        | @macyl       | orthography profile, concept mapping | Author
+Doug Cooper        | @restinplace | digitized the data                   | DataCurator, Distributor
