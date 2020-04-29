@@ -1,0 +1,36 @@
+{
+    "title": "CLDF dataset derived from Ch\u00e9n's \"Miao and Yao Language\" from 2012",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        },
+        {
+            "name": "Mei-Shin Wu"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Doug Cooper",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Doug Cooper",
+            "type": "Distributor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Ch\u00e9n, Q\u00edgu\u0101ng \u9673\u5176\u5149 (2012): Mi\u00e1oy\u00e1o y\u01d4w\u00e9n \u82d7\u7464\u8bed\u6587 [Miao and Yao language]. Zh\u014dngy\u0101ng M\u00ednz\u00fa D\u00e0xu\u00e9 \u4e2d\u592e\u6c11\u65cf\u5927\u5b66 [China Minzu University Press].</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
