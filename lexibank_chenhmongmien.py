@@ -77,16 +77,30 @@ class Dataset(BaseDataset):
         args.writer.add_languages()
         languages = args.writer.add_languages(lookup_factory='Name')
         args.writer.add_sources()
+        
+        # add the tones for the segmented entries
+        tones = {(
+                    row['Language_ID'], 
+                    row['Tone']
+                    ): row['Tone_category']+'/'+row['Tone'] for row in \
+                            self.raw_dir.read_csv(
+                                'hm-tones.tsv', delimiter='\t',
+                                dicts=True
+                                )}
         missing = {}
         for cgloss, entry in progressbar(enumerate(data), desc='cldfify the data', total=len(data)):
             if entry['Chinese gloss'] in concepts.keys():
                 for language in languages:
                     if entry[language].strip():
-                        args.writer.add_lexemes(
+                        lexemes = args.writer.add_lexemes(
                             Language_ID=languages[language],
                             Parameter_ID=concepts[entry['Chinese gloss']],
                             Value=entry[language],
-                            Source=['Chen2012'],
-                       )
+                            Source=['Chen2012']
+                            )
+                        for lexeme in lexemes:
+                            lexeme['Segments'] = [
+                                    tones.get((lexeme['Language_ID'], s), s) for s in
+                                    lexeme['Segments']]
             else:
                 missing[entry["Chinese gloss"]] += 1
