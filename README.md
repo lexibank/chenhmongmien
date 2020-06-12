@@ -61,7 +61,7 @@ The corresponding BibTeX format is:
 - **Sources:** 1
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 116,174
+- **Tokens:** 116,176
 - **Segments:** 251 (0 BIPA errors, 0 CTLS sound class errors, 251 CLTS modified)
 - **Inventory size (avg):** 71.72
 

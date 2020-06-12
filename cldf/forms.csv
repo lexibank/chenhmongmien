@@ -4689,7 +4689,7 @@ EasternXiangxi-190_spider-1,,EasternXiangxi,190_spider,bja³¹,bja³¹,b j a ³�
 NorthernQiandong-190_spider-1,,NorthernQiandong,190_spider,kaŋ³³ɣa¹³,kaŋ³³ɣa¹³,k a ŋ ³³ + ɣ a ¹³,,Chen2012,,,^k a ŋ ³³ ɣ a ¹³$,default,阴平/³³ 阴入/¹³
 EasternQiandong-190_spider-1,,EasternQiandong,190_spider,kan²⁴ʑɛ⁵³,kan²⁴ʑɛ⁵³,k a n ²⁴ + ʑ ɛ ⁵³,,Chen2012,,,^k a n ²⁴ ʑ ɛ ⁵³$,default,阴平/²⁴ 阳去/⁵³
 SouthernQiandong-190_spider-1,,SouthernQiandong,190_spider,kan¹³ɣe²²,kan¹³ɣe²²,k a n ¹³ + ɣ e ²²,,Chen2012,,,^k a n ¹³ ɣ e ²²$,default,阴平/¹³ 阳去/²²
-WesternQiandong-190_spider-1,,WesternQiandong,190_spider,kæ̃ ɣæ²²,kæ̃ ɣæ²²,k æ̃ + ɣ æ ²²,,Chen2012,,,^k æ̃ + ɣ æ ²²$,default,阳去/²²
+WesternQiandong-190_spider-1,,WesternQiandong,190_spider,kæ̃ ɣæ²²,kæ̃²²ɣæ²²,k æ̃ ²² + ɣ æ ²²,,Chen2012,,,^k æ̃ ²² ɣ æ ²²$,default,阳去/²² 阳去/²²
 WesternBaheng-190_spider-1,,WesternBaheng,190_spider,qai³⁵ji⁴⁴,qai³⁵ji⁴⁴,q ai ³⁵ + j i ⁴⁴,,Chen2012,,,^q ai ³⁵ j i ⁴⁴$,default,阴平/³⁵ 阳去/⁴⁴
 EasternBaheng-190_spider-1,,EasternBaheng,190_spider,qei³⁵wei³¹,qei³⁵wei³¹,q ei ³⁵ + w ei ³¹,,Chen2012,,,^q ei ³⁵ w ei ³¹$,default,阴平/³⁵ 阳去.阳入/³¹
 Dongnu-190_spider-1,,Dongnu,190_spider,ve⁵³ɣi²²,ve⁵³ɣi²²,v e ⁵³ + ɣ i ²²,,Chen2012,,,^v e ⁵³ ɣ i ²²$,default,阴上/⁵³ 阳去/²²
@@ -14981,7 +14981,7 @@ EasternXiangxi-609_sweet-1,,EasternXiangxi,609_sweet,djaŋ⁵⁵,djaŋ⁵⁵,d j
 NorthernQiandong-609_sweet-1,,NorthernQiandong,609_sweet,qaŋ³³zaŋ⁵⁵,qaŋ³³zaŋ⁵⁵,q a ŋ ³³ + z a ŋ ⁵⁵,,Chen2012,,,^q a ŋ ³³ z a ŋ ⁵⁵$,default,阴平/³³ ?
 EasternQiandong-609_sweet-1,,EasternQiandong,609_sweet,qan²⁴njan²²,qan²⁴njan²²,q a n ²⁴ + nʲ a n ²²,,Chen2012,,,^q a n ²⁴ nj a n ²²$,default,阴平/²⁴ 阳平/²²
 SouthernQiandong-609_sweet-1,,SouthernQiandong,609_sweet,qan¹³taŋ³¹,qan¹³taŋ³¹,q a n ¹³ + t a ŋ ³¹,,Chen2012,,,^q a n ¹³ t a ŋ ³¹$,default,阴平/¹³ 阳平/³¹
-WesternQiandong-609_sweet-1,,WesternQiandong,609_sweet,qæ̃ ɣa⁴⁴,qæ̃ ɣa⁴⁴,q æ̃ + ɣ a ⁴⁴,,Chen2012,,,^q æ̃ + ɣ a ⁴⁴$,default,阴平/⁴⁴
+WesternQiandong-609_sweet-1,,WesternQiandong,609_sweet,qæ̃ ɣa⁴⁴,qæ̃⁴⁴ɣa⁴⁴,q æ̃ ⁴⁴ + ɣ a ⁴⁴,,Chen2012,,,^q æ̃ ⁴⁴ ɣ a ⁴⁴$,default,阴平/⁴⁴ 阴平/⁴⁴
 WesternBaheng-609_sweet-1,,WesternBaheng,609_sweet,qai³⁵,qai³⁵,q ai ³⁵,,Chen2012,,,^q ai ³⁵$,default,阴平/³⁵
 EasternBaheng-609_sweet-1,,EasternBaheng,609_sweet,qei³⁵,qei³⁵,q ei ³⁵,,Chen2012,,,^q ei ³⁵$,default,阴平/³⁵
 Dongnu-609_sweet-1,,Dongnu,609_sweet,ke³³,ke³³,k e ³³,,Chen2012,,,^k e ³³$,default,阴平/³³
