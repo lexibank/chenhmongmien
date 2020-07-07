@@ -4689,7 +4689,7 @@ EasternXiangxi-190_spider-1,,EasternXiangxi,190_spider,bja³¹,bja³¹,b j a ³�
 NorthernQiandong-190_spider-1,,NorthernQiandong,190_spider,kaŋ³³ɣa¹³,kaŋ³³ɣa¹³,k a ŋ ³³ + ɣ a ¹³,,Chen2012,,,^k a ŋ ³³ ɣ a ¹³$,default,阴平/³³ 阴入/¹³
 EasternQiandong-190_spider-1,,EasternQiandong,190_spider,kan²⁴ʑɛ⁵³,kan²⁴ʑɛ⁵³,k a n ²⁴ + ʑ ɛ ⁵³,,Chen2012,,,^k a n ²⁴ ʑ ɛ ⁵³$,default,阴平/²⁴ 阳去/⁵³
 SouthernQiandong-190_spider-1,,SouthernQiandong,190_spider,kan¹³ɣe²²,kan¹³ɣe²²,k a n ¹³ + ɣ e ²²,,Chen2012,,,^k a n ¹³ ɣ e ²²$,default,阴平/¹³ 阳去/²²
-WesternQiandong-190_spider-1,,WesternQiandong,190_spider,kæ̃ ɣæ²²,kæ̃ᶠɣæ²²,k æ̃ ᶠ/¹¹ + ɣ æ ²²,,Chen2012,,,^k æ̃ ᶠ ɣ æ ²²$,default,? 阳去/²²
+WesternQiandong-190_spider-1,,WesternQiandong,190_spider,kæ̃ ɣæ²²,kæ̃ᶠɣæ²²,k æ̃ ᶠ/⁰ + ɣ æ ²²,,Chen2012,,,^k æ̃ ᶠ ɣ æ ²²$,default,? 阳去/²²
 WesternBaheng-190_spider-1,,WesternBaheng,190_spider,qai³⁵ji⁴⁴,qai³⁵ji⁴⁴,q ai ³⁵ + j i ⁴⁴,,Chen2012,,,^q ai ³⁵ j i ⁴⁴$,default,阴平/³⁵ 阳去/⁴⁴
 EasternBaheng-190_spider-1,,EasternBaheng,190_spider,qei³⁵wei³¹,qei³⁵wei³¹,q ei ³⁵ + w ei ³¹,,Chen2012,,,^q ei ³⁵ w ei ³¹$,default,阴平/³⁵ 阳去.阳入/³¹
 Dongnu-190_spider-1,,Dongnu,190_spider,ve⁵³ɣi²²,ve⁵³ɣi²²,v e ⁵³ + ɣ i ²²,,Chen2012,,,^v e ⁵³ ɣ i ²²$,default,阴上/⁵³ 阳去/²²
@@ -10662,7 +10662,7 @@ Bana-436_nine-1,,Bana,436_nine,tɕʰu³¹³,tɕʰu³¹³,tɕʰ u ³¹³,,Chen201
 Younuo-436_nine-1,,Younuo,436_nine,tjeu¹³,tjeu¹³,t j eu ¹³,,Chen2012,,,^t j eu ¹³$,default,阳平/¹³
 She-436_nine-1,,She,436_nine,kʰju³¹,kʰju³¹,kʰ j u ³¹,,Chen2012,,,^kʰ j u ³¹$,default,阳平/³¹
 Jiongnai-436_nine-1,,Jiongnai,436_nine,tʃu³³,tʃu³³,tʃ u ³³,,Chen2012,,,^tʃ u ³³$,default,阳平/³³
-Mien-436_nine-1,,Mien,436_nine,do,doᶠ,d o ᶠ/¹¹ +,,Chen2012,,,^d o ᶠ $,default,?
+Mien-436_nine-1,,Mien,436_nine,do,doᶠ,d o ᶠ/⁰ +,,Chen2012,,,^d o ᶠ $,default,?
 KimMun-436_nine-1,,KimMun,436_nine,du³³,du³³,d u ³³,,Chen2012,,,^d u ³³$,default,平声.浊/³³
 BiaoMin-436_nine-1,,BiaoMin,436_nine,ʑu³¹,ʑu³¹,ʑ u ³¹,,Chen2012,,,^ʑ u ³¹$,default,?
 ZaoMin-436_nine-1,,ZaoMin,436_nine,ku⁵³,ku⁵³,k u ⁵³,,Chen2012,,,^k u ⁵³$,default,阳平/⁵³
@@ -14981,7 +14981,7 @@ EasternXiangxi-609_sweet-1,,EasternXiangxi,609_sweet,djaŋ⁵⁵,djaŋ⁵⁵,d j
 NorthernQiandong-609_sweet-1,,NorthernQiandong,609_sweet,qaŋ³³zaŋ⁵⁵,qaŋ³³zaŋ⁵⁵,q a ŋ ³³ + z a ŋ ⁵⁵,,Chen2012,,,^q a ŋ ³³ z a ŋ ⁵⁵$,default,阴平/³³ ?
 EasternQiandong-609_sweet-1,,EasternQiandong,609_sweet,qan²⁴njan²²,qan²⁴njan²²,q a n ²⁴ + nʲ a n ²²,,Chen2012,,,^q a n ²⁴ nj a n ²²$,default,阴平/²⁴ 阳平/²²
 SouthernQiandong-609_sweet-1,,SouthernQiandong,609_sweet,qan¹³taŋ³¹,qan¹³taŋ³¹,q a n ¹³ + t a ŋ ³¹,,Chen2012,,,^q a n ¹³ t a ŋ ³¹$,default,阴平/¹³ 阳平/³¹
-WesternQiandong-609_sweet-1,,WesternQiandong,609_sweet,qæ̃ ɣa⁴⁴,qæ̃ᶠɣa⁴⁴,q æ̃ ᶠ/¹¹ + ɣ a ⁴⁴,,Chen2012,,,^q æ̃ ᶠ ɣ a ⁴⁴$,default,? 阴平/⁴⁴
+WesternQiandong-609_sweet-1,,WesternQiandong,609_sweet,qæ̃ ɣa⁴⁴,qæ̃ᶠɣa⁴⁴,q æ̃ ᶠ/⁰ + ɣ a ⁴⁴,,Chen2012,,,^q æ̃ ᶠ ɣ a ⁴⁴$,default,? 阴平/⁴⁴
 WesternBaheng-609_sweet-1,,WesternBaheng,609_sweet,qai³⁵,qai³⁵,q ai ³⁵,,Chen2012,,,^q ai ³⁵$,default,阴平/³⁵
 EasternBaheng-609_sweet-1,,EasternBaheng,609_sweet,qei³⁵,qei³⁵,q ei ³⁵,,Chen2012,,,^q ei ³⁵$,default,阴平/³⁵
 Dongnu-609_sweet-1,,Dongnu,609_sweet,ke³³,ke³³,k e ³³,,Chen2012,,,^k e ³³$,default,阴平/³³
@@ -19731,7 +19731,7 @@ KimMun-798_becopula-1,,KimMun,798_becopula,tʃei³¹,tʃei³¹,tʃ ei ³¹,,Chen
 BiaoMin-798_becopula-1,,BiaoMin,798_becopula,tjəi⁴²,tjəi⁴²,t j əi ⁴²,,Chen2012,,,^t j əi ⁴²$,default,?
 ZaoMin-798_becopula-1,,ZaoMin,798_becopula,sei⁴⁴,sei⁴⁴,s ei ⁴⁴,,Chen2012,,,^s ei ⁴⁴$,default,阴平.阳上.阴入/⁴⁴
 EasternLuobuohe-799_benotnegatedcopula-1,,EasternLuobuohe,799_benotnegatedcopula,mo³¹ʑuŋ²⁴,mo³¹ʑuŋ²⁴,m o ³¹ + ʑ u ŋ ²⁴,,Chen2012,,,^m o ³¹ ʑ u ŋ ²⁴$,default,平/³¹ 去/²⁴
-WesternLuobuohe-799_benotnegatedcopula-1,,WesternLuobuohe,799_benotnegatedcopula,mu joŋ¹³,muᶠjoŋ¹³,m u ᶠ/¹¹ + j o ŋ ¹³,,Chen2012,,,^m u ᶠ j o ŋ ¹³$,default,? ?
+WesternLuobuohe-799_benotnegatedcopula-1,,WesternLuobuohe,799_benotnegatedcopula,mu joŋ¹³,muᶠjoŋ¹³,m u ᶠ/⁰ + j o ŋ ¹³,,Chen2012,,,^m u ᶠ j o ŋ ¹³$,default,? ?
 Chuanqiandian-799_benotnegatedcopula-1,,Chuanqiandian,799_benotnegatedcopula,tʂi⁴⁴ʑau¹³,tʂi⁴⁴ʑau¹³,ʈʂ i ⁴⁴ + ʑ au ¹³,,Chen2012,,,^tʂ i ⁴⁴ ʑ au ¹³$,default,阴去/⁴⁴ 阳去/¹³
 CentralGuizhouChuanqiandian-799_benotnegatedcopula-1,,CentralGuizhouChuanqiandian,799_benotnegatedcopula,ma³¹ȵõ²²,ma³¹ȵõ²²,m a ³¹ + ȵ õ ²²,,Chen2012,,,^m a ³¹ ȵ õ ²²$,default,? ?
 SouthernGuizhouChuanqiandian-799_benotnegatedcopula-1,,SouthernGuizhouChuanqiandian,799_benotnegatedcopula,moŋ³²ʑoŋ¹³,moŋ³²ʑoŋ¹³,m o ŋ ³² + ʑ o ŋ ¹³,,Chen2012,,,^m o ŋ ³² ʑ o ŋ ¹³$,default,? 阴上/¹³
@@ -21517,7 +21517,7 @@ CentralGuizhouChuanqiandian-870_livereside-1,,CentralGuizhouChuanqiandian,870_li
 SouthernGuizhouChuanqiandian-870_livereside-1,,SouthernGuizhouChuanqiandian,870_livereside,ȵɔ³²,ȵɔ³²,ȵ ɔ ³²,,Chen2012,,,^ȵ ɔ ³²$,default,?
 NortheastYunnanChuanqiandian-870_livereside-1,,NortheastYunnanChuanqiandian,870_livereside,ȵo⁵⁵,ȵo⁵⁵,ȵ o ⁵⁵,,Chen2012,,,^ȵ o ⁵⁵$,default,阴平.阴上/⁵⁵
 WesternXiangxi-870_livereside-1,,WesternXiangxi,870_livereside,ȵi³⁵,ȵi³⁵,ȵ i ³⁵,,Chen2012,,,^ȵ i ³⁵$,default,阴平/³⁵
-EasternXiangxi-870_livereside-1,,EasternXiangxi,870_livereside,ʔȵi,ʔȵiᶠ,ˀȵ i ᶠ/¹¹ +,,Chen2012,,,^ʔȵ i ᶠ $,default,?
+EasternXiangxi-870_livereside-1,,EasternXiangxi,870_livereside,ʔȵi,ʔȵiᶠ,ˀȵ i ᶠ/⁰ +,,Chen2012,,,^ʔȵ i ᶠ $,default,?
 NorthernQiandong-870_livereside-1,,NorthernQiandong,870_livereside,njaŋ³³,njaŋ³³,nʲ a ŋ ³³,,Chen2012,,,^nj a ŋ ³³$,default,阴平/³³
 EasternQiandong-870_livereside-1,,EasternQiandong,870_livereside,njaŋ²⁴,njaŋ²⁴,nʲ a ŋ ²⁴,,Chen2012,,,^nj a ŋ ²⁴$,default,阴平/²⁴
 SouthernQiandong-870_livereside-1,,SouthernQiandong,870_livereside,ȵaŋ¹³,ȵaŋ¹³,ȵ a ŋ ¹³,,Chen2012,,,^ȵ a ŋ ¹³$,default,阴平/¹³
