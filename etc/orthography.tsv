@@ -8,7 +8,7 @@ $	NULL		40	"la⁰³ŋ̩³¹³tsɿ⁰³;qa⁰³ŋ̩¹³;ŋ̩³¹goːŋ⁵³;la⁰
 ^n$	n	N	0	
 ^t$	t	T	0	
 ^o$	o	U	0	
-^wje²³¹$	ɥ e ²¹³	J E 6	1	wje²³¹
+^wje²³¹$	wj/ɥ e ²¹³	J E 6	1	wje²³¹
 ^ŋ̥a³¹³$	ŋ a ³¹³	N A 6	1	ŋ̥a³¹³
 ^ŋ̥u⁵⁵$	ŋ u ⁵⁵	N Y 5	1	ŋ̥u⁵⁵
 ^diːu³³$	d iːu ³³	T I 4	1	diːu³³
@@ -256,7 +256,7 @@ iː	iː	I	14	"tiːŋ³⁵;tiːŋ⁵¹;kjiːm³³mun³³;ŋoːŋ³³kjiːn³⁵;b
 j	j	J	2378	"pja⁵³vei³¹;ye³¹ljaŋ³¹;tʰjan⁵³ɕin⁵³tsi¹³;tjaŋ³⁵;ʔə⁰²joŋ³¹xo³¹ʔoŋ³¹"
 ^j	j	J	159	"juŋ³¹xo³³ʔuŋ³¹;joŋ³³hɔ⁵³ʔaŋ³⁵;je⁴²;jo²¹y²¹;jin⁴⁴"
 jw	ɥ	J	0	
-wj	ɥ	J	4	"ŋuŋ³¹wjaŋ³¹;tsin²³¹wjaːŋ³¹;to²²wjaŋ³¹;kau²⁴wjaŋ³¹"
+wj	wj/ɥ	J	4	"ŋuŋ³¹wjaŋ³¹;tsin²³¹wjaːŋ³¹;to²²wjaŋ³¹;kau²⁴wjaŋ³¹"
 ʔj	ˀj	J	19	"qo⁰⁵ʔjuŋ⁵⁵;ʔa⁰²ʔji³¹;ʔə⁰²ʔje³¹;sə³¹ʔjuŋ²⁴mo³¹tə⁰²wai²⁴;qo⁰⁵ʔjaŋ³¹"
 ^jw	ɥ	J	0	
 ^ʔj	ˀj	J	18	"ʔjy³¹qwɑ³⁵qlo³¹;ʔjy³¹tɕu⁵⁵;ʔji³⁵;ʔjuŋ²⁴ku³¹;ʔjen³⁵lɑŋ³⁵"
@@ -602,10 +602,10 @@ yĩ	y/ɥ ĩ	J I	0
 yo	y/ɥ o	J U	0	
 iu	i/j u	J Y	10	"bat¹²dziu³³;waŋ⁴²ɕiu⁵³laŋ⁴²;ne³¹tsʰiu⁵⁵;xai⁵³tɕiu³³;tiu²²"
 jiu	ji/j u	J Y	1	tsjiu²⁴
-gwj	g ɥ	K J	0	
-kwj	k ɥ	K J	0	
-^gwj	g ɥ	K J	2	"gwjaŋ³³;gwjun³³"
-^kwj	k ɥ	K J	5	"kwje²⁴;kwjaŋ³³;kwjaŋ²⁴;kwje²³¹taːi³¹;kwjɛn³¹"
+gwj	g wj/ɥ	K J	0	
+kwj	k wj/ɥ	K J	0	
+^gwj	g wj/ɥ	K J	2	"gwjaŋ³³;gwjun³³"
+^kwj	k wj/ɥ	K J	5	"kwje²⁴;kwjaŋ³³;kwjaŋ²⁴;kwje²³¹taːi³¹;kwjɛn³¹"
 gl	g l	K L	0	
 kl	k l	K L	17	"hu⁴⁴kli⁴⁴ŋklai⁵⁵;pa³¹kloːi³⁵;ka³³kla⁵³;ko¹²kle⁵⁵;tin⁴²klaŋ³⁵"
 ^kl	k l	K L	51	"klə³³;kla³⁵ʔən³³;kla³⁵;kli⁴⁴;klaːŋ³⁵"
@@ -681,8 +681,8 @@ uo	u/w o	W U	1	kuo⁴⁴ntə⁴²
 uoː	u/w oː	W U	5	"ʔuoːm³³dzui³¹;tʃan³³ʔuoːm³⁵;ʔuoːm³³mui²¹;ŋuːi⁴²ʔuoːm³⁵;gjai³⁵ʔuoːm³⁵"
 ^ua	u a	Y A	0	
 ^ue	u e	Y E	0	
-^wjaŋ	ɥ a ŋ	J A N	1	wjaŋ³¹
-^wjɛn	ɥ ɛ n	J E N	1	wjɛn⁵³
+^wjaŋ	wj/ɥ a ŋ	J A N	1	wjaŋ³¹
+^wjɛn	wj/ɥ ɛ n	J E N	1	wjɛn⁵³
 m̥m	m̥ */ə m̩/m	M E M	1	tsjep²²m̥m³³
 ^ŋ̩³⁵	ŋ̍ ³⁵ +	N 2 _	0	
 ^ȵ̩	ȵ */ə ȵ̍/ȵ	N E N	4	"ȵ̩³¹;ȵ̩³¹dei³¹;ȵ̩³¹ki⁰³kʰo⁵³ta³³;ȵ̩³⁵n̥ei⁵³"
@@ -832,3 +832,4 @@ kjon¹³ŋ̩³¹³	k j o n ¹³ + ŋ̍ */ə ŋ ³¹³	K J U N 2 _ N E N 6	0
 ^tjaŋ³³ŋ̩³³	t j a ŋ ³³ + ŋ̍ */ə ŋ ³³	T J A N 4 _ N E N 4	1	tjaŋ³³ŋ̩³³
 ^la⁰³ŋ̩³¹³tsɿ⁰³	l a ⁰/³ + ŋ̍ */ə ŋ ³¹³ + ts ɿ ⁰/³	L A 6 _ N E N 6 _ C I 6	1	la⁰³ŋ̩³¹³tsɿ⁰³
 ki⁰³daŋ³¹ŋ̩³¹	k i ⁰/³ + d a ŋ ³¹ + ŋ̍ */ə ŋ ³¹	K I 6 _ T A N 3 _ N E N 3	0	
+^ȵc	ⁿc			

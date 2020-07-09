@@ -3085,7 +3085,7 @@ Bana-124_urine-1,,Bana,124_urine,va³¹,va³¹,v a ³¹,,Chen2012,,,^v a ³¹$,d
 Younuo-124_urine-1,,Younuo,124_urine,va³²,va³²,v a ³²,,Chen2012,,,^v a ³²$,default,阳上.阳去/³²
 She-124_urine-1,,She,124_urine,ji⁵³,ji⁵³,j i ⁵³,,Chen2012,,,^j i ⁵³$,default,阳上.阳去/⁵³
 Jiongnai-124_urine-1,,Jiongnai,124_urine,ŋkwei³¹,ŋkwei³¹,ⁿk w ei ³¹,,Chen2012,,,^ŋk w ei ³¹$,default,阳上/³¹
-Mien-124_urine-1,,Mien,124_urine,wje²³¹,wje²³¹,ɥ e ²¹³,,Chen2012,,,^wje²³¹$,default,?
+Mien-124_urine-1,,Mien,124_urine,wje²³¹,wje²³¹,wj/ɥ e ²¹³,,Chen2012,,,^wje²³¹$,default,?
 KimMun-124_urine-1,,KimMun,124_urine,va²³¹,va²³¹,v a ²³¹,,Chen2012,,,^v a ²³¹$,default,?
 BiaoMin-124_urine-1,,BiaoMin,124_urine,lɔ⁴²,lɔ⁴²,l ɔ ⁴²,,Chen2012,,,^l ɔ ⁴²$,default,?
 ZaoMin-124_urine-1,,ZaoMin,124_urine,vja⁴⁴,vja⁴⁴,v j a ⁴⁴,,Chen2012,,,^v j a ⁴⁴$,default,阴平.阳上.阴入/⁴⁴
@@ -3285,7 +3285,7 @@ Bana-132_cattlebostaurus-1,,Bana,132_cattlebostaurus,ŋ̩³¹³kuŋ³¹³,ŋ̩³
 Younuo-132_cattlebostaurus-1,,Younuo,132_cattlebostaurus,kwan¹³ŋu¹³,kwan¹³ŋu¹³,k w a n ¹³ + ŋ u ¹³,,Chen2012,,,^kw a n ¹³ ŋ u ¹³$,default,阳平/¹³ 阳平/¹³
 She-132_cattlebostaurus-1,,She,132_cattlebostaurus,sa⁵⁵jɔ³¹,sa⁵⁵jɔ³¹,s a ⁵⁵ + j ɔ ³¹,,Chen2012,,,^s a ⁵⁵ j ɔ ³¹$,default,阴上/⁵⁵ 阳平/³¹
 Jiongnai-132_cattlebostaurus-1,,Jiongnai,132_cattlebostaurus,ŋjo³³kwen³³,ŋjo³³kwen³³,ŋ j o ³³ + k w e n ³³,,Chen2012,,,^ŋ j o ³³ kw e n ³³$,default,阳平/³³ 阳平/³³
-Mien-132_cattlebostaurus-1,,Mien,132_cattlebostaurus,ŋuŋ³¹wjaŋ³¹,ŋuŋ³¹wjaŋ³¹,ŋ u ŋ ³¹ + ɥ a ŋ ³¹,,Chen2012,,,^ŋ u ŋ ³¹ wj a ŋ ³¹$,default,阳平/³¹ 阳平/³¹
+Mien-132_cattlebostaurus-1,,Mien,132_cattlebostaurus,ŋuŋ³¹wjaŋ³¹,ŋuŋ³¹wjaŋ³¹,ŋ u ŋ ³¹ + wj/ɥ a ŋ ³¹,,Chen2012,,,^ŋ u ŋ ³¹ wj a ŋ ³¹$,default,阳平/³¹ 阳平/³¹
 KimMun-132_cattlebostaurus-1,,KimMun,132_cattlebostaurus,taːn³³ŋoːŋ³³,taːn³³ŋoːŋ³³,t aː n ³³ + ŋ oː ŋ ³³,,Chen2012,,,^t aː n ³³ ŋ oː ŋ ³³$,default,平声.浊/³³ 平声.浊/³³
 BiaoMin-132_cattlebostaurus-1,,BiaoMin,132_cattlebostaurus,wa⁴²ȵuŋ³¹,wa⁴²ȵuŋ³¹,w a ⁴² + ȵ u ŋ ³¹,,Chen2012,,,^w a ⁴² ȵ u ŋ ³¹$,default,? ?
 ZaoMin-132_cattlebostaurus-1,,ZaoMin,132_cattlebostaurus,vjaŋ⁵³ŋ̥ŋ⁵³,vjaŋ⁵³ŋ̥ŋ⁵³,v j a ŋ ⁵³ + ŋ̊ */ə ŋ ⁵³,,Chen2012,,,^v j a ŋ ⁵³ ŋ̥ŋ⁵³$,default,阳平/⁵³ 阳平/⁵³
@@ -4386,7 +4386,7 @@ Bana-177_scale-1,,Bana,177_scale,liŋ³¹³,liŋ³¹³,l i ŋ ³¹³,,Chen2012,,
 Younuo-177_scale-1,,Younuo,177_scale,lin¹³,lin¹³,l i n ¹³,,Chen2012,,,^l i n ¹³$,default,阳平/¹³
 She-177_scale-1,,She,177_scale,lin³¹pja⁵³,lin³¹pja⁵³,l i n ³¹ + p j a ⁵³,,Chen2012,,,^l i n ³¹ p j a ⁵³$,default,阳平/³¹ 阳上.阳去/⁵³
 Jiongnai-177_scale-1,,Jiongnai,177_scale,mpja³¹lin³³,mpja³¹lin³³,ⁿp j a ³¹ + l i n ³³,,Chen2012,,,^mp j a ³¹ l i n ³³$,default,阳上/³¹ 阳平/³³
-Mien-177_scale-1,,Mien,177_scale,kwje²⁴,kwje²⁴,k ɥ e ²⁴,,Chen2012,,,^kwj e ²⁴$,default,阴去/²⁴
+Mien-177_scale-1,,Mien,177_scale,kwje²⁴,kwje²⁴,k wj/ɥ e ²⁴,,Chen2012,,,^kwj e ²⁴$,default,阴去/²⁴
 KimMun-177_scale-1,,KimMun,177_scale,ki⁵⁵,ki⁵⁵,k i ⁵⁵,,Chen2012,,,^k i ⁵⁵$,default,去声.清.入声.清.短/⁵⁵
 BiaoMin-177_scale-1,,BiaoMin,177_scale,bla⁴²ljaŋ³¹,bla⁴²ljaŋ³¹,b l a ⁴² + l j a ŋ ³¹,,Chen2012,,,^bl a ⁴² l j a ŋ ³¹$,default,? ?
 ZaoMin-177_scale-1,,ZaoMin,177_scale,bju⁴⁴ki⁴²,bju⁴⁴ki⁴²,b j u ⁴⁴ + k i ⁴²,,Chen2012,,,^b j u ⁴⁴ k i ⁴²$,default,阴平.阳上.阴入/⁴⁴ 阴去/⁴²
@@ -4408,7 +4408,7 @@ Bana-178_eel-1,,Bana,178_eel,ɕen⁵³ȵu³¹³,ɕen⁵³ȵu³¹³,ɕ e n ⁵³ 
 Younuo-178_eel-1,,Younuo,178_eel,mui³²ni⁴⁴,mui³²ni⁴⁴,m ui ³² + n i ⁴⁴,,Chen2012,,,^m ui ³² n i ⁴⁴$,default,阳上.阳去/³² 阴平/⁴⁴
 She-178_eel-1,,She,178_eel,lin³¹tsʰi³⁵,lin³¹tsʰi³⁵,l i n ³¹ + tsʰ i ³⁵,,Chen2012,,,^l i n ³¹ tsʰ i ³⁵$,default,阳平/³¹ 阳入.阴入/³⁵
 Jiongnai-178_eel-1,,Jiongnai,178_eel,tə³¹lin³³,tə³¹lin³³,t ə ³¹ + l i n ³³,,Chen2012,,,^t ə ³¹ l i n ³³$,default,阳上/³¹ 阳平/³³
-Mien-178_eel-1,,Mien,178_eel,tsin²³¹wjaːŋ³¹,tsin²³¹wjaːŋ³¹,ts i n ²³¹ + ɥ aː ŋ ³¹,,Chen2012,,,^ts i n ²³¹ wj aː ŋ ³¹$,default,阳上/²³¹ 阳平/³¹
+Mien-178_eel-1,,Mien,178_eel,tsin²³¹wjaːŋ³¹,tsin²³¹wjaːŋ³¹,ts i n ²³¹ + wj/ɥ aː ŋ ³¹,,Chen2012,,,^ts i n ²³¹ wj aː ŋ ³¹$,default,阳上/²³¹ 阳平/³¹
 BiaoMin-178_eel-1,,BiaoMin,178_eel,bla⁴²naŋ³³,bla⁴²naŋ³³,b l a ⁴² + n a ŋ ³³,,Chen2012,,,^bl a ⁴² n a ŋ ³³$,default,? ?
 ZaoMin-178_eel-1,,ZaoMin,178_eel,bju⁴⁴noŋ⁴⁴,bju⁴⁴noŋ⁴⁴,b j u ⁴⁴ + n o ŋ ⁴⁴,,Chen2012,,,^b j u ⁴⁴ n o ŋ ⁴⁴$,default,阴平.阳上.阴入/⁴⁴ 阴平.阳上.阴入/⁴⁴
 EasternLuobuohe-179_mudfishloach-1,,EasternLuobuohe,179_mudfishloach,tɕin³¹tsʰo³¹,tɕin³¹tsʰo³¹,tɕ i n ³¹ + tsʰ o ³¹,,Chen2012,,,^tɕ i n ³¹ tsʰ o ³¹$,default,平/³¹ 平/³¹
@@ -6142,7 +6142,7 @@ Bana-249_soyabean-1,,Bana,249_soyabean,to⁵³ljeu¹³,to⁵³ljeu¹³,t o ⁵³
 Younuo-249_soyabean-1,,Younuo,249_soyabean,kwan¹³pə⁰³to²¹,kwan¹³pə⁰³to²¹,k w a n ¹³ + p ə ⁰/³ + t o ²¹,,Chen2012,,,^kw a n ¹³ p ə ⁰³ t o ²¹$,default,阳平/¹³ ? 阳入/²¹
 She-249_soyabean-1,,She,249_soyabean,ta⁰³tʰɔ³⁵kʰwen³¹,ta⁰³tʰɔ³⁵kʰwen³¹,t a ⁰/³ + tʰ ɔ ³⁵ + kʰ w e n ³¹,,Chen2012,,,^t a ⁰³ tʰ ɔ ³⁵ kʰw e n ³¹$,default,? 阳入.阴入/³⁵ 阳平/³¹
 Jiongnai-249_soyabean-1,,Jiongnai,249_soyabean,to¹²kwen³³,to¹²kwen³³,t o ¹² + k w e n ³³,,Chen2012,,,^t o ¹² kw e n ³³$,default,阳入/¹² 阳平/³³
-Mien-249_soyabean-1,,Mien,249_soyabean,to²²wjaŋ³¹,to²²wjaŋ³¹,t o ²² + ɥ a ŋ ³¹,,Chen2012,,,^t o ²² wj a ŋ ³¹$,default,阳入/²² 阳平/³¹
+Mien-249_soyabean-1,,Mien,249_soyabean,to²²wjaŋ³¹,to²²wjaŋ³¹,t o ²² + wj/ɥ a ŋ ³¹,,Chen2012,,,^t o ²² wj a ŋ ³¹$,default,阳入/²² 阳平/³¹
 KimMun-249_soyabean-1,,KimMun,249_soyabean,ʔtap⁴²vaŋ³³,ʔtap⁴²vaŋ³³,ˀt a p ⁴² + v a ŋ ³³,,Chen2012,,,^ʔt a p ⁴² v a ŋ ³³$,default,去声.浊.入声.浊/⁴² 平声.浊/³³
 BiaoMin-249_soyabean-1,,BiaoMin,249_soyabean,bi³⁵,bi³⁵,b i ³⁵,,Chen2012,,,^b i ³⁵$,default,?
 ZaoMin-249_soyabean-1,,ZaoMin,249_soyabean,tup²²me⁴⁴,tup²²me⁴⁴,t u p ²² + m e ⁴⁴,,Chen2012,,,^t u p ²² m e ⁴⁴$,default,阳去.阳入/²² 阴平.阳上.阴入/⁴⁴
@@ -6877,7 +6877,7 @@ Bana-279_yolk-1,,Bana,279_yolk,saŋ¹³kja³⁵,saŋ¹³kja³⁵,s a ŋ ¹³ + k
 Younuo-279_yolk-1,,Younuo,279_yolk,kau⁵⁴kwan¹³,kau⁵⁴kwan¹³,k au ⁵⁴ + k w a n ¹³,,Chen2012,,,^k au ⁵⁴ kw a n ¹³$,default,阴去/⁵⁴ 阳平/¹³
 She-279_yolk-1,,She,279_yolk,kja³³vɔŋ³¹,kja³³vɔŋ³¹,k j a ³³ + v ɔ ŋ ³¹,,Chen2012,,,^k j a ³³ v ɔ ŋ ³¹$,default,阴去/³³ 阳平/³¹
 Jiongnai-279_yolk-1,,Jiongnai,279_yolk,kja³⁵kwen³³,kja³⁵kwen³³,k j a ³⁵ + k w e n ³³,,Chen2012,,,^k j a ³⁵ kw e n ³³$,default,阴去/³⁵ 阳平/³³
-Mien-279_yolk-1,,Mien,279_yolk,kau²⁴wjaŋ³¹,kau²⁴wjaŋ³¹,k au ²⁴ + ɥ a ŋ ³¹,,Chen2012,,,^k au ²⁴ wj a ŋ ³¹$,default,阴去/²⁴ 阳平/³¹
+Mien-279_yolk-1,,Mien,279_yolk,kau²⁴wjaŋ³¹,kau²⁴wjaŋ³¹,k au ²⁴ + wj/ɥ a ŋ ³¹,,Chen2012,,,^k au ²⁴ wj a ŋ ³¹$,default,阴去/²⁴ 阳平/³¹
 BiaoMin-279_yolk-1,,BiaoMin,279_yolk,klau²⁴məi³¹,klau²⁴məi³¹,k l au ²⁴ + m əi ³¹,,Chen2012,,,^kl au ²⁴ m əi ³¹$,default,? ?
 ZaoMin-279_yolk-1,,ZaoMin,279_yolk,tsu⁴²moŋ⁵³,tsu⁴²moŋ⁵³,ts u ⁴² + m o ŋ ⁵³,,Chen2012,,,^ts u ⁴² m o ŋ ⁵³$,default,阴去/⁴² 阳平/⁵³
 EasternLuobuohe-280_shell-1,,EasternLuobuohe,280_shell,kʰo³¹kʰo³¹,kʰo³¹kʰo³¹,kʰ o ³¹ + kʰ o ³¹,,Chen2012,,,^kʰ o ³¹ kʰ o ³¹$,default,平/³¹ 平/³¹
@@ -9338,7 +9338,7 @@ Younuo-381_bowl-1,,Younuo,381_bowl,kə⁰³feŋ⁴⁴,kə⁰³feŋ⁴⁴,k ə �
 She-381_bowl-1,,She,381_bowl,"huŋ²², ŋ̥ŋ²²",huŋ²²,h u ŋ ²²,,Chen2012,,,^h u ŋ ²²$,default,阴平/²²
 She-381_bowl-2,,She,381_bowl,"huŋ²², ŋ̥ŋ²²",ŋ̥ŋ²²,ŋ̊ */ə ŋ ²²,,Chen2012,,,^ŋ̥ŋ²²$,default,阴平/²²
 Jiongnai-381_bowl-1,,Jiongnai,381_bowl,huŋ⁴⁴,huŋ⁴⁴,h u ŋ ⁴⁴,,Chen2012,,,^h u ŋ ⁴⁴$,default,阴平/⁴⁴
-Mien-381_bowl-1,,Mien,381_bowl,wjɛn⁵³,wjɛn⁵³,ɥ ɛ n ⁵³,,Chen2012,,,^wjɛn ⁵³$,default,阴上/⁵³
+Mien-381_bowl-1,,Mien,381_bowl,wjɛn⁵³,wjɛn⁵³,wj/ɥ ɛ n ⁵³,,Chen2012,,,^wjɛn ⁵³$,default,阴上/⁵³
 KimMun-381_bowl-1,,KimMun,381_bowl,van³¹,van³¹,v a n ³¹,,Chen2012,,,^v a n ³¹$,default,上声.浊.去声.气/³¹
 BiaoMin-381_bowl-1,,BiaoMin,381_bowl,wan³⁵,wan³⁵,w a n ³⁵,,Chen2012,,,^w a n ³⁵$,default,?
 ZaoMin-381_bowl-1,,ZaoMin,381_bowl,vjan²⁴,vjan²⁴,v j a n ²⁴,,Chen2012,,,^v j a n ²⁴$,default,阴上/²⁴
@@ -10378,7 +10378,7 @@ Chuanqiandian-425_ball-1,,Chuanqiandian,425_ball,tɕʰou³¹,tɕʰou³¹,tɕʰ �
 CentralGuizhouChuanqiandian-425_ball-1,,CentralGuizhouChuanqiandian,425_ball,tɕʰə³¹,tɕʰə³¹,tɕʰ ə ³¹,,Chen2012,,,^tɕʰ ə ³¹$,default,?
 SouthernGuizhouChuanqiandian-425_ball-1,,SouthernGuizhouChuanqiandian,425_ball,tɕʰəu²¹,tɕʰəu²¹,tɕʰ əu ²¹,,Chen2012,,,^tɕʰ əu ²¹$,default,?
 NortheastYunnanChuanqiandian-425_ball-1,,NortheastYunnanChuanqiandian,425_ball,tɕʰu³¹,tɕʰu³¹,tɕʰ u ³¹,,Chen2012,,,^tɕʰ u ³¹$,default,阳去.阳入/³¹
-WesternXiangxi-425_ball-1,,WesternXiangxi,425_ball,ȵcɯ²²,ȵcɯ²²,ȵ c ɯ ²²,,Chen2012,,,^ȵ c ɯ ²²$,default,?
+WesternXiangxi-425_ball-1,,WesternXiangxi,425_ball,ȵcɯ²²,ȵcɯ²²,ⁿc ɯ ²²,,Chen2012,,,^ȵc ɯ ²²$,default,?
 EasternXiangxi-425_ball-1,,EasternXiangxi,425_ball,bi³¹dʑəɯ³¹,bi³¹dʑəɯ³¹,b i ³¹ + dʑ əɯ ³¹,,Chen2012,,,^b i ³¹ dʑ əɯ ³¹$,default,阳平/³¹ 阳平/³¹
 NorthernQiandong-425_ball-1,,NorthernQiandong,425_ball,tɕʰu³¹,tɕʰu³¹,tɕʰ u ³¹,,Chen2012,,,^tɕʰ u ³¹$,default,阳入/³¹
 EasternQiandong-425_ball-1,,EasternQiandong,425_ball,tɕʰeu²²,tɕʰeu²²,tɕʰ eu ²²,,Chen2012,,,^tɕʰ eu ²²$,default,阳平/²²
@@ -13651,7 +13651,7 @@ Bana-556_yellow-1,,Bana,556_yellow,kuŋ³¹³,kuŋ³¹³,k u ŋ ³¹³,,Chen2012
 Younuo-556_yellow-1,,Younuo,556_yellow,kwan¹³,kwan¹³,k w a n ¹³,,Chen2012,,,^kw a n ¹³$,default,阳平/¹³
 She-556_yellow-1,,She,556_yellow,kʰwen³¹,kʰwen³¹,kʰ w e n ³¹,,Chen2012,,,^kʰw e n ³¹$,default,阳平/³¹
 Jiongnai-556_yellow-1,,Jiongnai,556_yellow,kwen³³,kwen³³,k w e n ³³,,Chen2012,,,^kw e n ³³$,default,阳平/³³
-Mien-556_yellow-1,,Mien,556_yellow,wjaŋ³¹,wjaŋ³¹,ɥ a ŋ ³¹,,Chen2012,,,^wjaŋ ³¹$,default,阳平/³¹
+Mien-556_yellow-1,,Mien,556_yellow,wjaŋ³¹,wjaŋ³¹,wj/ɥ a ŋ ³¹,,Chen2012,,,^wjaŋ ³¹$,default,阳平/³¹
 KimMun-556_yellow-1,,KimMun,556_yellow,vaŋ³³,vaŋ³³,v a ŋ ³³,,Chen2012,,,^v a ŋ ³³$,default,平声.浊/³³
 BiaoMin-556_yellow-1,,BiaoMin,556_yellow,waŋ³¹,waŋ³¹,w a ŋ ³¹,,Chen2012,,,^w a ŋ ³¹$,default,?
 ZaoMin-556_yellow-1,,ZaoMin,556_yellow,vjaŋ⁵³,vjaŋ⁵³,v j a ŋ ⁵³,,Chen2012,,,^v j a ŋ ⁵³$,default,阳平/⁵³
@@ -13728,7 +13728,7 @@ Bana-559_bright-1,,Bana,559_bright,ljon⁵³,ljon⁵³,l j o n ⁵³,,Chen2012,,
 Younuo-559_bright-1,,Younuo,559_bright,kwan¹³,kwan¹³,k w a n ¹³,,Chen2012,,,^kw a n ¹³$,default,阳平/¹³
 She-559_bright-1,,She,559_bright,kʰwei³¹,kʰwei³¹,kʰ w ei ³¹,,Chen2012,,,^kʰw ei ³¹$,default,阳平/³¹
 Jiongnai-559_bright-1,,Jiongnai,559_bright,kwi³³,kwi³³,k w i ³³,,Chen2012,,,^kw i ³³$,default,阳平/³³
-Mien-559_bright-1,,Mien,559_bright,gwjaŋ³³,gwjaŋ³³,g ɥ a ŋ ³³,,Chen2012,,,^gwj a ŋ ³³$,default,阴平/³³
+Mien-559_bright-1,,Mien,559_bright,gwjaŋ³³,gwjaŋ³³,g wj/ɥ a ŋ ³³,,Chen2012,,,^gwj a ŋ ³³$,default,阴平/³³
 KimMun-559_bright-1,,KimMun,559_bright,gwaŋ³⁵,gwaŋ³⁵,g w a ŋ ³⁵,,Chen2012,,,^gw a ŋ ³⁵$,default,平声.清.入声.清.长/³⁵
 BiaoMin-559_bright-1,,BiaoMin,559_bright,gwaŋ³³,gwaŋ³³,g w a ŋ ³³,,Chen2012,,,^gw a ŋ ³³$,default,?
 ZaoMin-559_bright-1,,ZaoMin,559_bright,vjaŋ⁴⁴,vjaŋ⁴⁴,v j a ŋ ⁴⁴,,Chen2012,,,^v j a ŋ ⁴⁴$,default,阴平.阳上.阴入/⁴⁴
@@ -14316,7 +14316,7 @@ She-582_light-1,,She,582_light,tʰe⁵³; kjɔ³¹; njaŋ⁵⁵,tʰe⁵³,tʰ e 
 She-582_light-2,,She,582_light,tʰe⁵³; kjɔ³¹; njaŋ⁵⁵,kjɔ³¹,k j ɔ ³¹,,Chen2012,,,^k j ɔ ³¹$,default,阳平/³¹
 She-582_light-3,,She,582_light,tʰe⁵³; kjɔ³¹; njaŋ⁵⁵,njaŋ⁵⁵,nʲ a ŋ ⁵⁵,,Chen2012,,,^nj a ŋ ⁵⁵$,default,阴上/⁵⁵
 Jiongnai-582_light-1,,Jiongnai,582_light,kwi³³,kwi³³,k w i ³³,,Chen2012,,,^kw i ³³$,default,阳平/³³
-Mien-582_light-1,,Mien,582_light,kwjaŋ³³,kwjaŋ³³,k ɥ a ŋ ³³,,Chen2012,,,^kwj a ŋ ³³$,default,阴平/³³
+Mien-582_light-1,,Mien,582_light,kwjaŋ³³,kwjaŋ³³,k wj/ɥ a ŋ ³³,,Chen2012,,,^kwj a ŋ ³³$,default,阴平/³³
 KimMun-582_light-1,,KimMun,582_light,gwaŋ³⁵,gwaŋ³⁵,g w a ŋ ³⁵,,Chen2012,,,^gw a ŋ ³⁵$,default,平声.清.入声.清.长/³⁵
 BiaoMin-582_light-1,,BiaoMin,582_light,pjat⁵³,pjat⁵³,p j a t ⁵³,,Chen2012,,,^p j a t ⁵³$,default,?
 EasternLuobuohe-583_loose-1,,EasternLuobuohe,583_loose,tə⁰²suŋ³³,tə⁰²suŋ³³,t ə ⁰/² + s u ŋ ³³,,Chen2012,,,^t ə ⁰² s u ŋ ³³$,default,? 入/³³
@@ -17485,7 +17485,7 @@ Bana-709_roll-1,,Bana,709_roll,tɬaŋ³¹,tɬaŋ³¹,tɬ a ŋ ³¹,,Chen2012,,,^
 Younuo-709_roll-1,,Younuo,709_roll,lin³³,lin³³,l i n ³³,,Chen2012,,,^l i n ³³$,default,阴上/³³
 She-709_roll-1,,She,709_roll,nuk³⁵,nuk³⁵,n u k ³⁵,,Chen2012,,,^n u k ³⁵$,default,阳入.阴入/³⁵
 Jiongnai-709_roll-1,,Jiongnai,709_roll,kliŋ¹¹,kliŋ¹¹,k l i ŋ ¹¹,,Chen2012,,,^kl i ŋ ¹¹$,default,阳去/¹¹
-Mien-709_roll-1,,Mien,709_roll,kwjaŋ²⁴,kwjaŋ²⁴,k ɥ a ŋ ²⁴,,Chen2012,,,^kwj a ŋ ²⁴$,default,阴去/²⁴
+Mien-709_roll-1,,Mien,709_roll,kwjaŋ²⁴,kwjaŋ²⁴,k wj/ɥ a ŋ ²⁴,,Chen2012,,,^kwj a ŋ ²⁴$,default,阴去/²⁴
 KimMun-709_roll-1,,KimMun,709_roll,ŋan⁵⁵,ŋan⁵⁵,ŋ a n ⁵⁵,,Chen2012,,,^ŋ a n ⁵⁵$,default,去声.清.入声.清.短/⁵⁵
 BiaoMin-709_roll-1,,BiaoMin,709_roll,klin²⁴,klin²⁴,k l i n ²⁴,,Chen2012,,,^kl i n ²⁴$,default,?
 ZaoMin-709_roll-1,,ZaoMin,709_roll,kun²²,kun²²,k u n ²²,,Chen2012,,,^k u n ²²$,default,阳去.阳入/²²
@@ -19223,7 +19223,7 @@ Bana-778_standup-1,,Bana,778_standup,kwa³¹ta³¹³,kwa³¹ta³¹³,k w a ³¹ 
 Younuo-778_standup-1,,Younuo,778_standup,ka³³ta¹³,ka³³ta¹³,k a ³³ + t a ¹³,,Chen2012,,,^k a ³³ t a ¹³$,default,阴上/³³ 阳平/¹³
 She-778_standup-1,,She,778_standup,kʰi⁵³nu⁵³,kʰi⁵³nu⁵³,kʰ i ⁵³ + n u ⁵³,,Chen2012,,,^kʰ i ⁵³ n u ⁵³$,default,阳上.阳去/⁵³ 阳上.阳去/⁵³
 Jiongnai-778_standup-1,,Jiongnai,778_standup,tʃe³¹,tʃe³¹,tʃ e ³¹,,Chen2012,,,^tʃ e ³¹$,default,阳上/³¹
-Mien-778_standup-1,,Mien,778_standup,kwje²³¹taːi³¹,kwje²³¹taːi³¹,k ɥ e ²³¹ + t aːi ³¹,,Chen2012,,,^kwj e ²³¹ t aːi ³¹$,default,阳上/²³¹ 阳平/³¹
+Mien-778_standup-1,,Mien,778_standup,kwje²³¹taːi³¹,kwje²³¹taːi³¹,k wj/ɥ e ²³¹ + t aːi ³¹,,Chen2012,,,^kwj e ²³¹ t aːi ³¹$,default,阳上/²³¹ 阳平/³¹
 KimMun-778_standup-1,,KimMun,778_standup,ȵoːŋ³⁵kui³¹,ȵoːŋ³⁵kui³¹,ȵ oː ŋ ³⁵ + k ui ³¹,,Chen2012,,,^ȵ oː ŋ ³⁵ k ui ³¹$,default,平声.清.入声.清.长/³⁵ 上声.浊.去声.气/³¹
 BiaoMin-778_standup-1,,BiaoMin,778_standup,tjɔ⁴²,tjɔ⁴²,t j ɔ ⁴²,,Chen2012,,,^t j ɔ ⁴²$,default,?
 ZaoMin-778_standup-1,,ZaoMin,778_standup,tɕa⁴⁴lau⁴⁴,tɕa⁴⁴lau⁴⁴,tɕ a ⁴⁴ + l au ⁴⁴,,Chen2012,,,^tɕ a ⁴⁴ l au ⁴⁴$,default,阴平.阳上.阴入/⁴⁴ 阴平.阳上.阴入/⁴⁴
@@ -21606,7 +21606,7 @@ Numao-873_turn-1,,Numao,873_turn,ŋkwai³¹,ŋkwai³¹,ⁿk w ai ³¹,,Chen2012,
 Bana-873_turn-1,,Bana,873_turn,tsuŋ⁵³,tsuŋ⁵³,ts u ŋ ⁵³,,Chen2012,,,^ts u ŋ ⁵³$,default,阳入/⁵³
 Younuo-873_turn-1,,Younuo,873_turn,tʰun²¹taŋ⁴⁴,tʰun²¹taŋ⁴⁴,tʰ u n ²¹ + t a ŋ ⁴⁴,,Chen2012,,,^tʰ u n ²¹ t a ŋ ⁴⁴$,default,阳入/²¹ 阴平/⁴⁴
 She-873_turn-1,,She,873_turn,voŋ³⁵kʰu³⁵,voŋ³⁵kʰu³⁵,v o ŋ ³⁵ + kʰ u ³⁵,,Chen2012,,,^v o ŋ ³⁵ kʰ u ³⁵$,default,阳入.阴入/³⁵ 阳入.阴入/³⁵
-Mien-873_turn-1,,Mien,873_turn,kwjɛn³¹,kwjɛn³¹,k ɥ ɛ n ³¹,,Chen2012,,,^kwj ɛ n ³¹$,default,阳平/³¹
+Mien-873_turn-1,,Mien,873_turn,kwjɛn³¹,kwjɛn³¹,k wj/ɥ ɛ n ³¹,,Chen2012,,,^kwj ɛ n ³¹$,default,阳平/³¹
 KimMun-873_turn-1,,KimMun,873_turn,kjun³⁵,kjun³⁵,k j u n ³⁵,,Chen2012,,,^k j u n ³⁵$,default,平声.清.入声.清.长/³⁵
 BiaoMin-873_turn-1,,BiaoMin,873_turn,xwaŋ³³,xwaŋ³³,x w a ŋ ³³,,Chen2012,,,^xw a ŋ ³³$,default,?
 EasternLuobuohe-874_loadputintocontainer-1,,EasternLuobuohe,874_loadputintocontainer,ʈu²⁴,ʈu²⁴,ʈ u ²⁴,,Chen2012,,,^ʈ u ²⁴$,default,去/²⁴
@@ -21757,7 +21757,7 @@ Bana-879_drunk-1,,Bana,879_drunk,fŋ¹³,fŋ¹³,f */ə ŋ ¹³,,Chen2012,,,^fŋ
 Younuo-879_drunk-1,,Younuo,879_drunk,hoŋ⁴⁴,hoŋ⁴⁴,h o ŋ ⁴⁴,,Chen2012,,,^h o ŋ ⁴⁴$,default,阴平/⁴⁴
 She-879_drunk-1,,She,879_drunk,hɔŋ³³,hɔŋ³³,h ɔ ŋ ³³,,Chen2012,,,^h ɔ ŋ ³³$,default,阴去/³³
 Jiongnai-879_drunk-1,,Jiongnai,879_drunk,ʍɒŋ⁴⁴,ʍɒŋ⁴⁴,ʍ ɒ ŋ ⁴⁴,,Chen2012,,,^ʍ ɒ ŋ ⁴⁴$,default,阴平/⁴⁴
-Mien-879_drunk-1,,Mien,879_drunk,gwjun³³,gwjun³³,g ɥ u n ³³,,Chen2012,,,^gwj u n ³³$,default,阴平/³³
+Mien-879_drunk-1,,Mien,879_drunk,gwjun³³,gwjun³³,g wj/ɥ u n ³³,,Chen2012,,,^gwj u n ³³$,default,阴平/³³
 KimMun-879_drunk-1,,KimMun,879_drunk,bjin³⁵,bjin³⁵,b j i n ³⁵,,Chen2012,,,^b j i n ³⁵$,default,平声.清.入声.清.长/³⁵
 BiaoMin-879_drunk-1,,BiaoMin,879_drunk,ɕɛn³³,ɕɛn³³,ɕ ɛ n ³³,,Chen2012,,,^ɕ ɛ n ³³$,default,?
 ZaoMin-879_drunk-1,,ZaoMin,879_drunk,ʑon⁴⁴,ʑon⁴⁴,ʑ o n ⁴⁴,,Chen2012,,,^ʑ o n ⁴⁴$,default,阴平.阳上.阴入/⁴⁴
