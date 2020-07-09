@@ -1,816 +1,835 @@
-Grapheme	IPA
- ̩ȵ	*/ə ȵ̍/ȵ
-,	NULL
-^	NULL
-^ ̩ȵ	ȵ */ə ȵ̍/ȵ
-^b	b
-^bl	b l
-^bɦ	bʰ
-^c	c
-^cʰ	cʰ
-^d	d
-^dl	d l
-^dlj	d lʲ
-^dlɦ	dʱ l
-^dz	dz
-^dzɦ	dzʱ
-^dɦ	dʱ
-^dʐɦ	dʐʱ
-^dʑ	dʑ
-^dʑɦ	dʑʱ
-^dʒ	dʒ
-^f	f
-^fʰ	fʰ
-^g	g
-^gw	g w
-^gwj	g ɥ
-^gɦ	gʰ
-^h	h
-^hw	h w
-^i	i
-^i$	i
-^iː	iː
-^j	j
-^jw	ɥ
-^k	k
-^kh	kʰ
-^kjw	kʲ w
-^kl	k l
-^kw	k w
-^kwj	k ɥ
-^kʰ	kʰ
-^kʰw	kʰ w
-^l	l
-^lɦ	lʱ
-^m	m
-^m$	m
-^mb	ⁿb
-^mbɦ	ⁿbʱ
-^mp	ⁿp
-^mph	ⁿpʰ
-^mplua	ⁿp  u/lʷ
-^mpʐ	ⁿp ʐ
-^mpʐu	ⁿp u/ʐʷ
-^mpʰ	ⁿpʰ
-^mts	ⁿts
-^mɦ	mʱ
-^mʐ	m ʐ
-^m̥	m̥
-^m̥m	m̥ m̩
-^n	n
-^n$	n
-^nd	ⁿd
-^ndl	ⁿd l
-^ndlɦ	ⁿdʱ l
-^ndz	ⁿdz
-^ndzɦ	ⁿdzʱ
-^ndɦ	ⁿdʱ
-^ndʒ	ⁿdʒ
-^nj	nʲ
-^nkʰ	ⁿkʰ
-^npl	ⁿp l
-^nplw	ⁿp lʷ
-^npʰ	ⁿpʰ
-^nqw	ⁿq w
-^nqʰ	ⁿqʰ
-^nsʰ	ⁿsʰ
-^nt	ⁿt
-^nts	ⁿts
-^ntsʰ	ⁿtsʰ
-^ntɕʰ	ⁿtɕʰ
-^ntɬ	ⁿtɬ
-^ntʂ	ⁿʈʂ
-^ntʂʰ	ⁿʈʂʰ
-^ntʃ	ⁿtʃ
-^ntʃʰ	ⁿtʃʰ
-^ntʰ	ⁿtʰ
-^ntθʰ	ⁿtθʰ
-^ntθ	ⁿtθ
-^nɖ	ⁿɖ
-^nɦ	nʱ
-^nʈ	ⁿʈ
-^nʈʰ	ⁿʈʰ
-^n̥	n̥
-^o	o
-^o$	o
-^ou	ɔ
-^oː	oː
-^p	p
-^ph	pʰ
-^pl	p l
-^pʐ	p ʐ
-^pʰ	pʰ
-^pʰʐ	pʰ ʐ
-^q	q
-^qw	q w
-^qʰ	qʰ
-^qʰw	qʰ w
-^r	r
-^s	s
-^sʰ	sʰ
-^t	t
-^t$	t
-^tl	t l
-^ts	ts
-^tsʰ	tsʰ
-^tɕ	tɕ
-^tɕʰ	tɕʰ
-^tɬ	tɬ
-^tɬʰ	tɬʰ
-^tʂ	ʈʂ
-^tʂʰ	ʈʂʰ
-^tʃ	tʃ
-^tʃʰ	tʃʰ
-^tʰ	tʰ
-^tθ	tθ
-^tθʰ	tθʰ
-^u	u
-^ua	u a
-^ue	u e
-^uː	uː
-^v	v
-^vz	v z
-^vɦ	vʱ
-^w	w
-^wɦ	wʱ
-^x	x
-^xw	x w
-^xʰ	xʰ
-^y	y
-^ye	y/ɥ e
-^yɛ	y/ɥ ɛ
-^z	z
-^ç	ç
-^ð	ð
-^ŋ	ŋ
-^ŋg	ⁿg
-^ŋgɦ	ⁿgʱ
-^ŋk	ⁿk
-^ŋkh	ⁿkʰ
-^ŋkʰ	ⁿkʰ
-^ŋq	ⁿq
-^ŋqʰ	ⁿqʰ
-^ŋw	ŋ w
-^ŋɢ	ⁿɢ
-^ŋɢɦ	ⁿɢʱ
-^ŋɢʷ	ⁿɢ w
-^ŋ̩	ŋ̩
-^ȵ	ȵ
-^ȵdʑ	ⁿdʑ
-^ȵdʑɦ	ⁿdʑʱ
-^ȵtɕ	ⁿtɕ
-^ȵtɕi²⁴	ⁿtɕ i ²⁴
-^ȵtɕʰ	ⁿtɕʰ
-^ȵɦ	ȵʱ
-^ȵ̥	ȵ̊
-^ȵ̩	ȵ */ə ȵ̍/ȵ
-^ȵ̩tɕ	ⁿtɕ
-^ɕ	ɕ
-^ɕʰ	ɕʰ
-^ɖ	ɖ
-^ɖɦ	ɖʱ
-^ə	ə
-^ɛ	ɛ
-^ɢ	ɢ
-^ɢw	ɢ w
-^ɣ	ɣ
-^ɦ	ɦ
-^ɪ	ɪ
-^ɬ	ɬ
-^ɬʰ	ɬʰ
-^ɭ	ɭ
-^ɯ	ɯ
-^ɯa	ɯa
-^ɳ	ɳ
-^ɳdʐ	ⁿdʐ
-^ɳdʐɦ	ⁿdʐʱ
-^ɳtʂ	ⁿʈʂ
-^ɳtʂʰ	ⁿʈʂʰ
-^ɳɖ	ⁿɖ
-^ɳʈ	ⁿʈ
-^ɳʈʂ	ⁿʈʂ
-^ɳʈʰ	ⁿʈʰ
-^ɹ	ɹ
-^ʁ	ʁ
-^ʁw	ʁ w
-^ʂ	ʂ
-^ʂʰ	ʂʰ
-^ʃ	ʃ
-^ʈ	ʈ
-^ʈʰ	ʈʰ
-^ʍ	ʍ
-^ʐ	ʐ
-^ʑ	ʑ
-^ʑɦ	ʑʱ
-^ʔ	ʔ
-^ʔh	ˀh
-^ʔj	ˀj
-^ʔl	ˀl
-^ʔm	ˀm
-^ʔn	ˀn
-^ʔp	ˀp
-^ʔt	ˀt
-^ʔv	ˀv
-^ʔw	ˀw
-^ʔŋ	ˀŋ
-^ʔŋ̩	ˀŋ */ə ŋ̍/ŋ
-^ʔȵ	ˀȵ
-^ʔʑ	ˀʑ
-^θ	θ
-^χ	χ
-^χw	χ w
-^ⁿtɬ	ⁿtɬ
-_	+
-a	a
-ai	ai
-ao	ao
-au	au
-aəi	aəi/ai
-aɯ	aɯ
-aː	aː
-aːi	aːi
-aːu	aːu
-b	b
-bl	b l
-bɦ	bʰ
-c	c
-cʰ	cʰ
-d	d
-dl	d l
-dlj	d lʲ
-dlɦ	dʱ l
-dz	dz
-dzɦ	dzʱ
-dɦ	dʱ
-dʐɦ	ɖʐʱ
-dʑ	dʑ
-dʑɦ	dʑʱ
-dʒ	dʒ
-e	e
-ei	ei
-eu	eu
-ey	ey
-eɯ	eɯ
-eː	eː
-f	f
-fʰ	fʰ
-g	g
-gl	g l
-gw	g w
-gwj	g ɥ
-gɦ	gʱ
-h	h
-hw	h w
-i	i
-i$	i
-ia	i/j a
-iau	i/j au
-ie	i/j e
-ieu	i/j eu
-iu	i/j u
-iɑ	i/j ɑ
-iɑu	i/j ɑu
-iəu	i/j əu
-iː	iː
-j	j
-jiu	ji/j u
-jua	ɥ a
-juə	ɥ ə
-jw	ɥ
-k	k
-kl	k l
-kw	k w
-kwj	k wj/ɥ
-kʰ	kʰ
-kʰw	kʰ w
-l	l
-lɦ	lʱ
-m	m
-m$	m
-mb	ⁿb
-mbɦ	ⁿbʰ
-mp	ⁿp
-mph	ⁿpʰ
-mplua	ⁿp lu/lʷ
-mpʐ	ⁿp ʐ
-mpʐua	ⁿp ʐu/ʐʷ
-mpʰ	ⁿpʰ
-mts	ⁿts
-mɦ	mʱ
-mʐ	m ʐ
-m̥	m̥
-m̥m	m̥ */ə m̩/m
-n	n
-n$	n
-nd	ⁿd
-ndl	ⁿd l
-ndlɦ	ⁿdʱ l
-ndz	ⁿdz
-ndzɦ	ⁿdzʱ
-ndɦ	ⁿdʱ
-ndʒ	ⁿdʒ
-nj	nʲ
-nkʰ	ⁿkʰ
-npl	ⁿp l
-nplw	ⁿp lʷ
-npʰ	ⁿpʰ
-nqw	ⁿq w
-nqʰ	ⁿqʰ
-nsʰ	ⁿsʰ
-nt	ⁿt
-ntl	ⁿt l
-nts	ⁿts
-ntsʰ	ⁿtsʰ
-ntɕʰ	ⁿtɕʰ
-ntɬ	ⁿtɬ
-ntʂ	ⁿʈʂ
-ntʂʰ	ⁿʈʂʰ
-ntʃ	ⁿtʃ
-ntʃʰ	ⁿtʃʰ
-ntʰ	ⁿtʰ
-ntθʰ	ⁿtθʰ
-ntθ	ⁿtθ
-nutŋ	n u tŋ/ŋ
-nɖ	ⁿɖ
-nɦ	nʱ
-nʈ	ⁿʈ
-nʈʰ	ⁿʈʰ
-n̥	n̥
-n̥u	n̥ u
-o	o
-o$	o
-oi	oi
-ou	ɔ
-oː	oː
-oːi	oːi
-oːu	oːu
-p	p
-ph	pʰ
-pl	p l
-pʐ	p ʐ
-pʰ	pʰ
-pʰʐ	pʰ ʐ
-q	q
-qw	q w
-qʰ	qʰ
-qʰw	qʰ w
-r	r
-s	s
-sʰ	sʰ
-t	t
-t$	t
-tl	t l
-ts	ts
-tsʰ	tsʰ
-tɕ	tɕ
-tɕʰ	tɕʰ
-tɬ	tɬ
-tɬʰ	tɬʰ
-tʂ	ʈʂ
-tʂʰ	ʈʂʰ
-tʃ	tʃ
-tʃʰ	tʃʰ
-tʰ	tʰ
-tθ	tθ
-tθʰ	tθʰ
-u	u
-ua	u/w a
-ue	u/w e
-uei	u/w ei
-ui	ui
-uoː	u/w oː
-uɑ	u/w ɑ
-uə	u/w ə
-uəi	u/w əi
-uː	uː
-uːi	uːi
-uːo	uːo
-v	v
-vz	v z
-vɦ	vʱ
-w	w
-wj	ɥ
-wɦ	wʱ
-x	x
-xʰ	xʰ
-y	y
-ya	y/ɥ a
-ye	y/ɥ e
-yĩ	y/ɥ ĩ
-yo	y/ɥ o
-yɛ	y/ɥ ɛ
-z	z
-²	²
-²$	²
-²²	²² +
-²²$	²²
-²³²	²³² +
-²³²$	²³²
-²³¹	²³¹ +
-²³¹$	²³¹
-²¹	²¹ +
-²¹$	²¹
-²¹²	²¹² +
-²¹²$	²¹²
-²⁴	²⁴ +
-²⁴$	²⁴
-²⁴¹	²⁴¹ +
-²⁴¹$	²⁴¹
-³	³
-³$	³
-³²	³² +
-³²$	³²
-³²³	³²³ +
-³²³$	³²³
-³³	³³ +
-³³$	³³
-³³³	³³ +
-³³³$	³³
-³¹	³¹ +
-³¹$	³¹
-³¹²	³¹² +
-³¹²$	³¹²
-³¹³	³¹³ +
-³¹³$	³¹³
-³⁴	³⁴ +
-³⁴$	³⁴
-³⁵	³⁵ +
-³⁵$	³⁵
-³⁵³⁵	³⁵ +
-³⁵³⁵$	³⁵
-¹	¹
-¹$	¹
-¹²	¹² +
-¹²$	¹²
-¹³	¹³ +
-¹³$	¹³
-¹³_	+
-¹³¹	¹³¹ +
-¹³¹$	¹³¹
-¹¹	¹¹ +
-¹¹$	¹¹
-ã	ã
-æ	æ
-æɯ	æɯ
-æ̃	æ̃
-ç	ç
-ð	ð
-õ	õ
-ø	ø
-øe	øe
-ĩ	ĩ
-ŋ	ŋ
-ŋg	ⁿg
-ŋgɦ	ⁿgʱ
-ŋk	ⁿk
-ŋkh	ⁿkʰ
-ŋkʰ	ⁿkʰ
-ŋq	ⁿq
-ŋqʰ	ⁿqʰ
-ŋw	ŋ w
-ŋɢ	ⁿɢ
-ŋɢɦ	ⁿɢʱ
-ŋɢʷ	ⁿɢ w
-ŋ̩	ŋ̩
-ȵ	ȵ
-ȵdʑ	ⁿdʑ
-ȵdʑɦ	ⁿdʑʱ
-ȵtɕ	ⁿtɕ
-ȵtɕi²⁴	ⁿtɕ i ²⁴
-ȵtɕʰ	ⁿtɕʰ
-ȵɦ	ȵʱ
-ȵ̥	ȵ̥
-ȵ̩	*/ə ȵ̍/ȵ
-ȵ̩tɕ	ⁿtɕ
-ɑ	ɑ
-ɑo	ɑo
-ɑu	ɑu	
-ɒ	ɒ
-ɒi	ɒi
-ɔ	ɔ
-ɔi	ɔi
-ɕ	ɕ
-ɕʰ	ɕʰ
-ɖ	ɖ
-ɖɦ	ɖʱ
-ə	ə
-əi	əi
-əu	əu
-əɯ	əɯ
-ə̃	ə̃
-ɛ	ɛ
-ɛu	ɛu
-ɢ	ɢ
-ɢw	ɢ w
-ɣ	ɣ
-ɦ	ɦ
-ɪ	ɪ
-ɬ	ɬ
-ɬj	ɬʲ
-ɬʰ	ɬʰ
-ɭ	ɭ
-ɯ	ɯ
-ɯa	ɯa
-ɳ	ɳ
-ɳdʐɦ	ⁿɖʐʱ
-ɳtʂ	ⁿʈʂ
-ɳtʂʰ	ⁿʈʂʰ
-ɳɖ	ⁿɖ
-ɳʈ	ⁿʈ
-ɳʈʰ	ⁿʈʰ
-ɹ	ɹ
-ɿ	ɿ
-ʁ	ʁ
-ʁw	ʁ w
-ʂ	ʂ
-ʂʰ	ʂʰ
-ʃ	ʃ
-ʅ	ʅ
-ʈ	ʈ
-ʈʰ	ʈʰ
-ʍ	ʍ
-ʐ	ʐ
-ʑ	ʑ
-ʑɦ	ʑʱ
-ʔ	ʔ
-ʔh	ˀh
-ʔj	ˀj
-ʔl	ˀl
-ʔm	ˀm
-ʔn	ˀn
-ʔp	ˀp
-ʔt	ˀt
-ʔv	ˀv
-ʔw	ˀw
-ʔŋ	ˀŋ
-ʔŋ̩	ˀŋ */ə ŋ̍/ŋ
-ʔȵ	ˀȵ
-ʔʑ	ˀʑ
-θ	θ
-χ	χ
-ẽ	ẽ
-⁰	⁰
-⁰$	⁰
-⁰²	⁰/² +
-⁰²$	⁰/²
-⁰³	⁰/³ +
-⁰³$	⁰/³
-⁰⁴	⁰/⁴ +
-⁰⁴$	⁰/⁴
-⁰⁵	⁰/⁵ +
-⁰⁵$	⁰/⁵
-⁴	⁴
-⁴$	⁴
-⁴²	⁴² +
-⁴²$	⁴²
-⁴³	⁴³ +
-⁴³$	⁴³
-⁴¹	⁴¹ +
-⁴⁴	⁴⁴ +
-⁴⁴$	⁴⁴
-⁵	⁵
-⁵$	⁵
-⁵²	⁵² +
-⁵²$	⁵²
-⁵³	⁵³ +
-⁵³$	⁵³
-⁵¹	⁵¹ +
-⁵¹$	⁵¹
-⁵⁴	⁵⁴ +
-⁵⁴$	⁵⁴
-⁵⁵	⁵⁵ +
-⁵⁵$	⁵⁵
-ⁿsʰ	ⁿsʰ
-ⁿtɬ	ⁿtɬ
-^diːu³³$	d iːu ³³
-^fŋ¹³$	f */ə ŋ ¹³
-^guːŋ$	g uː ŋ ⁰
-^guːŋdoːm³⁵$	g uː ŋ ⁰ + d oː m ³⁵
-^huai²⁴$	h u/w ai ²⁴
-^hŋ³¹³	h */ə ŋ ³¹³ +
-^hŋ³¹³$	h */ə ŋ ³¹³
-^kjankau¹³	k j a n ⁰ + k au ¹³
-^kŋ³¹³	k */ə ŋ ³¹³
-^kŋ¹³	k */ə ŋ ¹³
-^la⁰³ŋ̩³¹³tsɿ⁰³	l a ⁰/³ + ŋ̩ */ə ŋ ³¹³ + ts ɿ ⁰/³
-^la⁰⁴ŋ²²	l a ⁰/⁴ + ŋ */ə ŋ ²²
-^la⁰⁴ŋ̩⁵⁵	l a ⁰/⁴ + ŋ̩ */ə ŋ ⁵⁵
-^mai⁵³ŋ̩³³	m ai ⁵³ + ŋ */ə ŋ̩ ³³
-^ma³¹³ŋ̥a³⁵$	m a ³¹³ + ŋ a ³⁵
-^me⁴²ŋ̩³³	ŋ̩ ³³	i t
-^mi⁵⁵ŋ̩³¹³	m i ⁵⁵ + ŋ̩ */ə ŋ ³¹³
-^mplua¹³$	ⁿp lu/lʷ a ¹³
-^mpʐu¹³$	ⁿp ʐ u ¹³
-^m̥m³⁵	m̥ */ə m̩/m ³⁵ +
-^m̥m³⁵$	m̥ */ə m̩/m ³⁵
-^m̩²¹	m */ə m̩/m ²¹ +
-^m̩²¹$	m */ə m̩/m ²¹ 
-^m̩²⁴	m */ə m̩/m ²⁴ +
-^m̩²⁴$	m */ə m̩/m ²⁴
-^m̩³³	m */ə m̩/m ³³ +
-^m̩³³$	m */ə m̩/m ³³
-^m̩³¹	m */ə m̩/m ³¹ +
-^m̩³¹$	m */ə m̩/m ³¹
-^m̩³⁵	m */ə m̩/m ³⁵ +
-^m̩⁴²$	m */ə m̩/m ⁴²
-^m̩⁴⁴$	m */ə m̩/m ⁴⁴
-^m̩⁵³	m */ə m̩/m ⁵³ +
-^m̩⁵³$	m */ə m̩/m ⁵³
-^m̩⁵⁵	m */ə m̩/m ⁵⁵ +
-^m̩⁵⁵$	m */ə m̩/m ⁵⁵
-^naːŋ_	n aː ŋ ⁰
-^naːŋdzuŋ³³$	n aː ŋ ⁰ + dz u ŋ ³³
-^nen_	n e n ⁰
-^nenʔnoŋ⁵⁵$	n e n ⁰ + ˀn o ŋ ⁵⁵
-^n̩²⁴	n */ə n̩/n ²⁴ +
-^n̩³³$	n */ə n̩/n ³³
-^n̩³¹	n */ə n̩/n ³¹ +
-^n̩³¹$	n */ə n̩/n ³¹
-^n̩³⁵	n */ə n̩/n ³⁵ +
-^n̩³⁵$	n */ə n̩/n ³⁵
-^n̩¹³$	n */ə n̩/n ¹³
-^n̩⁵³	n */ə n̩/n ⁵³ +
-^n̩⁵³$	n */ə n̩/n ⁵³
-^n̩⁵⁵	n */ə n̩/n ⁵⁵ +
-^n̩⁵⁵$	n */ə n̩/n ⁵⁵
-^pi³¹³ŋ̩³¹³	p i ³¹³ + ŋ̩ */ə ŋ ³¹³
-^pŋ³¹³	p */ə ŋ ³¹³ +
-^pŋ³¹³$	p */ə ŋ ³¹³
-^pŋ⁵⁵	p */ə ŋ ⁵⁵ +
-^pŋ⁵⁵$	p */ə ŋ ⁵⁵
-pŋ⁵⁵$	p */ə ŋ ⁵⁵
-^qa³⁵ŋ̩³³	q a ³⁵ + ŋ */ə ŋ̩ ³³
-^qaŋ³⁵ŋ̩³³	q a ŋ ³⁵ + ŋ̩ */ə ŋ ³³
-^qa⁰³ŋ̩¹³	q a ⁰/³ + ŋ */ə ŋ̩ ¹³
-^qʰau³⁵ŋ̩³³	qʰ au ³⁵ + ŋ̩ */ə ŋ ³³
-^sjap²²ŋ̩⁴⁴	s j a p ²² + ŋ̩ */ə ŋ ⁴⁴
-^sə²¹ŋ̩³²	s ə ²¹ + ŋ */ə ŋ̩ ³²
-^taŋ³⁵ŋ̩³³	n a ŋ ³⁵ + ŋ̩ */ə ŋ ³³
-^tjaŋ³³ŋ̩³³	t j a ŋ ³³ + ŋ̩ */ə ŋ ³³
-^tlua³¹$	t lu/lʷ a ³¹
-^ton¹³ŋ̩³¹³	t o n ¹³ + ŋ̩ */ə ŋ ³¹³
-^tsan$	ts a n ⁰
-^tsau³⁵ŋ̩³³	ts a u ³⁵ + ŋ */ə ŋ̩ ³³
-^tu³⁵ŋ̩³¹³	t u ³⁵ + ŋ̩ */ə ŋ ³¹³
-^tŋ⁵⁵	t */ə ŋ ⁵⁵ +
-^tŋ⁵⁵$	t */ə ŋ ⁵⁵
-^tɕoŋ³³ŋ̩³³	tɕ o ŋ ³³ + ŋ̩ */ə ŋ ³³
-^tɬjeu³⁵ŋ̩³¹³	tɬ j eu ³⁵ + ŋ̩ */ə ŋ ³¹³
-^tʰjeu¹³ŋ̩⁵³	tʰ j eu ¹³ + ŋ̩ */ə ŋ ⁵³
-^tʰŋ⁴⁴	tʰ */ə ŋ ⁴⁴ +
-^tʰŋ⁵⁵	tʰ */ə ŋ ⁵⁵ +
-^tʰŋ⁵⁵$	tʰ */ə ŋ ⁵⁵
-^wjaŋ	wj/ɥ a ŋ
-^wje²³¹$	ɥ e ²¹³
-^wjɛn	wj/ɥ ɛ n
-^wua	w ua/a
-^xut$	x u t ⁰
-^ŋa³¹ŋ̩³³	ŋ a ³¹ + ŋ */ə ŋ̩ ³³
-^ŋe³³ŋ̩³³	ŋ e ³³ + ŋ */ə ŋ̩ ³³
-^ŋe³⁵ŋ̩³³	ŋ e ³⁵ + ŋ */ə ŋ̩ ³³
-^ŋ̥a³¹³$	ŋ a ³¹³
-^ŋ̥jei⁵³$	ŋ̊ j ei ⁵³
-^ŋ̥jo⁵³	ŋ̊ j o ⁵³
-^ŋ̥jo⁵³$	ŋ j o ⁵³
-^ŋ̥jɒ³⁵	ŋ̊ j ɒ ³⁵
-^ŋ̥jɒ³⁵$	ŋ j ɒ ³⁵
-^ŋ̥u⁵⁵$	ŋ u ⁵⁵
-^ŋ̥ŋ	ŋ */ə ŋ̍/ŋ
-^ŋ̥ŋ²²	ŋ̊ */ə ŋ ²² +
-^ŋ̥ŋ²²$	ŋ̊ */ə ŋ ²²
-^ŋ̥ŋ²³¹	ŋ̊ */ə ŋ ²³¹ +
-^ŋ̥ŋ²³¹$	ŋ̊ */ə ŋ ²³¹
-^ŋ̥ŋ²⁴	ŋ̊ */ə ŋ ²⁴ +
-^ŋ̥ŋ²⁴$	ŋ̊ */ə ŋ ²⁴
-^ŋ̥ŋ³³	ŋ̊ */ə ŋ ³³ +
-^ŋ̥ŋ³³$	ŋ̊ */ə ŋ ³³
-^ŋ̥ŋ³¹	ŋ̊ */ə ŋ ³¹ +
-^ŋ̥ŋ³¹$	ŋ̊ */ə ŋ ³¹
-^ŋ̥ŋ³¹³	ŋ̊ */ə ŋ ³¹³ +
-^ŋ̥ŋ³¹³$	ŋ̊ */ə ŋ ³¹³
-^ŋ̥ŋ¹³$	ŋ̊ */ə ŋ ¹³
-^ŋ̥ŋ⁴⁴$	ŋ̊ */ə ŋ ⁴⁴
-^ŋ̥ŋ⁵³	ŋ̊ */ə ŋ ⁵³ +
-^ŋ̥ŋ⁵³$	ŋ̊ */ə ŋ ⁵³
-^ŋ̩²²$	ŋ */ə ŋ̩ ²²
-^ŋ̩²⁴$	ŋ */ə ŋ̩ ²⁴
-^ŋ̩³²$	ŋ */ə ŋ̩ ³²
-^ŋ̩³³$	ŋ̩ */ə ŋ ³³
-^ŋ̩³³kwai³³	ŋ̩ */ə ŋ ³³ + k w ai ³³
-^ŋ̩³³kwe³³$	ŋ */ə ŋ̩ ³³ + k w e ³³
-^ŋ̩³³ȵe³¹	ŋ̩ */ə ŋ ³³ + ȵ e ³¹
-^ŋ̩³³ʔaŋ³⁵	ŋ̩ */ə ŋ ³³ + ʔ a ŋ ³⁵
-^ŋ̩³¹$	ŋ̩ */ə ŋ ³¹
-^ŋ̩³¹goːŋ⁵³	ŋ̩ */ə ŋ ³¹ + g oː ŋ ⁵³
-^ŋ̩³¹³$	ŋ̩ */ə ŋ ³¹³
-^ŋ̩³¹³kuŋ³¹³	ŋ̩ */ə ŋ ³¹³ + k u ŋ ³¹³
-^ŋ̩³¹³ɕi⁴⁴	ŋ̩ */ə ŋ ³¹³ + ɕ i ⁴⁴
-^ŋ̩³¹ȵu³¹	ŋ̩ */ə ŋ ³¹ + ȵ u ³¹
-^ŋ̩³⁵	ŋ̩ ³⁵ +
-^ŋ̩³⁵$	ŋ */ə ŋ̩ ³⁵
-^ŋ̩¹³$	ŋ */ə ŋ̩ ¹³
-^ŋ̩¹¹$	ŋ̩ */ə ŋ ¹¹
-^ŋ̩¹¹kwe³¹	ŋ̩ */ə ŋ ¹¹ + k w e ³¹
-^ŋ̩ŋ⁵³	ŋ̩ */ə ŋ ⁵³ +
-^ŋ̩⁰³	ŋ */ə ŋ̩ ⁰/³ +
-^ŋ̩⁴⁴	ŋ̩ */ə ŋ ⁴⁴ +
-^ŋ̩⁴⁴$	ŋ̩ */ə ŋ ⁴⁴
-^ŋ̩⁵³	ŋ̩ */ə ŋ ⁵³ +
-^ŋ̩⁵³$	ŋ̩ */ə ŋ ⁵³
-^ŋ̩⁵³ɕi³¹$	ŋ̩ */ə ŋ ⁵³ + ɕ i ³¹
-^ŋ̩⁵⁵$	ŋ̩ */ə ŋ ⁵⁵
-^ɕi³¹ŋ̩³¹	ɕ i ³¹ + ŋ̩ */ə ŋ ³¹
-^ɕi³¹ŋ̩⁵³	ɕ i ³¹ + ŋ̩ */ə ŋ ⁵³ +
-^ʐa³²wua⁵³$	ʐ a ³² + w ua/a ⁵³
-^ʔŋ¹³$	ʔ */ə ŋ ¹³
-^ʔŋ⁴⁴$	ʔ */ə ŋ ⁴⁴
-^ʔ⁰²	NULL
-fŋ³¹³tŋ³¹³$	f */ə ŋ ³¹³ + t */ə ŋ ³¹³
-fŋ⁵⁵$	f */ə ŋ ⁵⁵
-ge³¹³ŋ̩³¹³	g e ³¹³ + ŋ̩ */ə ŋ ³¹³
-gjeu³¹³ŋ̩³¹³	g j eu ³¹³ + ŋ̩ */ə ŋ ³¹³
-he³¹³ŋ̩³⁵	h e ³¹³ + ŋ̩ ³⁵
-hŋ³¹³$	h */ə ŋ ³¹³
-ki⁰³daŋ³¹ŋ̩³¹	k i ⁰/³ + d a ŋ ³¹ + ŋ̩ */ə ŋ ³¹
-kjon¹³ŋ̩³¹³	k j o n ¹³ + ŋ̩ */ə ŋ ³¹³
-kŋ²³¹$	k */ə ŋ ²¹³
-kŋ³¹³$	k */ə ŋ ³¹³
-kŋ³⁵	k */ə ŋ ³⁵ +
-kŋ³⁵$	k */ə ŋ ³⁵
-kʰom$	kʰ o m ⁰
-m̥m³⁵	m̥ */ə m̩/m ³⁵ +
-m̥m³⁵$	m̥ */ə m̩/m ³⁵
-m̩²¹	m */ə m̩/m ²¹ +
-m̩²¹$	m */ə m̩/m ²¹ 
-m̩²⁴	m */ə m̩/m ²⁴ +
-m̩²⁴$	m */ə m̩/m ²⁴
-m̩³³	m */ə m̩/m ³³ +
-m̩³³$	m */ə m̩/m ³³
-m̩³¹	m */ə m̩/m ³¹ +
-m̩³¹$	m */ə m̩/m ³¹
-m̩³⁵	m */ə m̩/m ³⁵ +
-m̩⁴²$	m */ə m̩/m ⁴²
-m̩⁴⁴$	m */ə m̩/m ⁴⁴
-m̩⁵³	m */ə m̩/m ⁵³ +
-m̩⁵³$	m */ə m̩/m ⁵³
-m̩⁵⁵	m */ə m̩/m ⁵⁵ +
-m̩⁵⁵$	m */ə m̩/m ⁵⁵
-n̩²⁴	n */ə n̩/n ²⁴ +
-n̩³³$	n */ə n̩/n ³³
-n̩³¹	n */ə n̩/n ³¹ +
-n̩³¹$	n */ə n̩/n ³¹
-n̩³⁵	n */ə n̩/n ³⁵ +
-n̩³⁵$	n */ə n̩/n ³⁵
-n̩¹³$	n */ə n̩/n ¹³
-n̩⁵³	n */ə n̩/n ⁵³ +
-n̩⁵³$	n */ə n̩/n ⁵³
-n̩⁵⁵	n */ə n̩/n ⁵⁵ +
-n̩⁵⁵$	n */ə n̩/n ⁵⁵
-²¹ʔŋ⁴⁴$	²¹ + ʔ */ə ŋ ⁴⁴
-³³ŋ̩³³$	³³ + ŋ */ə ŋ̩ ³³
-ŋ̥ŋ	*/ə ŋ̍/ŋ
-ŋ̥ŋ²²	ŋ̊ */ə ŋ ²² +
-ŋ̥ŋ²²$	ŋ̊ */ə ŋ ²²
-ŋ̥ŋ²³¹	ŋ̊ */ə ŋ ²³¹ +
-ŋ̥ŋ²³¹$	ŋ̊ */ə ŋ ²³¹
-ŋ̥ŋ²⁴	ŋ̊ */ə ŋ ²⁴ +
-ŋ̥ŋ²⁴$	ŋ̊ */ə ŋ ²⁴
-ŋ̥ŋ³³	ŋ̊ */ə ŋ ³³ +
-ŋ̥ŋ³³$	ŋ̊ */ə ŋ ³³
-ŋ̥ŋ³¹	ŋ̊ */ə ŋ ³¹ +
-ŋ̥ŋ³¹$	ŋ̊ */ə ŋ ³¹
-ŋ̥ŋ³¹³	ŋ̊ */ə ŋ ³¹³ +
-ŋ̥ŋ³¹³$	ŋ̊ */ə ŋ ³¹³
-ŋ̥ŋ¹³$	ŋ̊ */ə ŋ ¹³
-ŋ̥ŋ⁴⁴$	ŋ̊ */ə ŋ ⁴⁴
-ŋ̥ŋ⁵³	ŋ̊ */ə ŋ ⁵³ +
-ŋ̥ŋ⁵³$	ŋ̊ */ə ŋ ⁵³
-ŋ̩²²$	ŋ */ə ŋ̩ ²²
-ŋ̩²⁴$	ŋ */ə ŋ̩ ²⁴
-ŋ̩³²$	ŋ */ə ŋ̩ ³²
-ŋ̩⁵³	ŋ̩ */ə ŋ ⁵³ +
-ŋ̩⁵³$	ŋ̩ */ə ŋ ⁵³
-⁵⁵ʔŋ¹³$	⁵⁵ + ʔ */ə ŋ ¹³
-³¹ŋ̥jɒ³⁵$	³¹ + ŋ j ɒ ³⁵
-¹¹ŋ̥jɒ³⁵$	¹¹ + ŋ j ɒ ³⁵
-³⁵ŋ̥jɒ³⁵$	³⁵ + ŋ j ɒ ³⁵
-^ljaŋ¹³ho²¹ʔŋ⁴⁴$	l j a ŋ ¹³ + h o ²¹ + ʔ */ə ŋ ⁴⁴
-^bei¹³m̩³⁵$	b ei ¹³ + m */ə m̩/m ³⁵
-^ʔŋ̩¹³pŋ³¹³$	ʔ */ə ŋ ¹³ + p */ə ŋ ³¹³
-^ha⁵³pŋ⁵⁵ni¹³$	h a ⁵³ + p */ə ŋ ⁵⁵ + n i ¹³
-^ɕon⁵³pŋ⁵⁵ni¹³$	ɕ o ⁵³ + p */ə ŋ ⁵⁵ + n i ¹³
-^tsi⁵⁵tlua³¹$	t lu/lʷ a ³¹
-^ma³¹³m̩³¹³$	m a ³¹³ + m */ə m̩/m ³¹³
-^ɕi³¹ŋ̩⁵³$	ɕ i ³¹ + ŋ̩ */ə ŋ ⁵³
-^la⁰³tsau³⁵ŋ̩³³$	l a ⁰/³ + ts au ³⁵ + ŋ */ə ŋ̩ ³³
-^me⁴²ŋ̩³³$	m e ⁴² + ŋ */ə ŋ̩ ³³
-^ki⁰³daŋ³¹ŋ̩³¹$	k i ⁰/³ + d a ŋ ³¹ + ŋ */ə ŋ̩ ³¹
-^kjon¹³ŋ̩³¹³$	k j o n ¹³ + ŋ̩ */ə ŋ ³¹³
-^ge³¹³ŋ̩³¹³$	g e ³¹³ + ŋ̩ */ə ŋ ³¹³
-^gjeu³¹³ŋ̩³¹³$	g j eu ³¹³ + ŋ̩ */ə ŋ ³¹³
-^ŋ̩³⁵va³¹$	ŋ̩ */ə ŋ ³⁵ + v a ³¹
-^he³¹³ŋ̩³⁵$	h e ³¹³ + ŋ */ə ŋ̩ ³⁵
-^n̩³¹ŋ̥jɒ³⁵nei⁵³$	n */ə n̩/n ³¹ + ŋ̊ j ɒ ³⁵ + n ei ⁵³
-^ŋ̥oːŋ²⁴$	ŋ̊ oː ŋ ²⁴
-ŋ̥	ŋ̊
-^ŋ̥	ŋ̊
+Grapheme	IPA	SCA	FREQUENCY	EXAMPLES
+^	NULL		2	"ⁿsʰõ¹³;ⁿsʰi²⁴"
+$	NULL		40	"la⁰³ŋ̩³¹³tsɿ⁰³;qa⁰³ŋ̩¹³;ŋ̩³¹goːŋ⁵³;la⁰⁴ŋ²²;ŋ̩³³ʔaŋ³⁵"
+,	NULL		0	
+^ʔ⁰²	NULL		1	ʔ⁰²zaŋ²⁴ntuŋ²⁴
+^i$	i	I	0	
+^m$	m	M	0	
+^n$	n	N	0	
+^t$	t	T	0	
+^o$	o	U	0	
+^wje²³¹$	wj/ɥ e ²¹³	J E 6	1	wje²³¹
+^ŋ̥a³¹³$	ŋ a ³¹³	N A 6	1	ŋ̥a³¹³
+^ŋ̥u⁵⁵$	ŋ u ⁵⁵	N Y 5	1	ŋ̥u⁵⁵
+^diːu³³$	d iːu ³³	T I 4	1	diːu³³
+^fŋ¹³$	f */ə ŋ ¹³	B E N 2	2	"fŋ¹³;fŋ¹³"
+^tsan$	ts a n ⁰	C A N 6	1	tsan
+^xut$	x u t ⁰	G Y T 6	1	xut
+^ʔŋ¹³$	ʔ */ə ŋ ¹³	H E N 2	1	ʔŋ¹³
+^ʔŋ⁴⁴$	ʔ */ə ŋ ⁴⁴	H E N 5	1	ʔŋ⁴⁴
+^hŋ³¹³$	h */ə ŋ ³¹³	H E N 6	0	
+^huai²⁴$	h u/w ai ²⁴	H W A 2	1	huai²⁴
+^guːŋ$	g uː ŋ ⁰	K Y N 6	0	
+^m̩²⁴$	m */ə m̩/m ²⁴	M E M 2	1	m̩²⁴
+^m̥m³⁵$	m̥ */ə m̩/m ³⁵	M E M 2	0	
+^m̩²¹$	m */ə m̩/m ²¹	M E M 3	0	
+^m̩³¹$	m */ə m̩/m ³¹	M E M 3	3	"m̩³¹;m̩³¹;m̩³¹"
+^m̩⁴²$	m */ə m̩/m ⁴²	M E M 3	1	m̩⁴²
+^m̩⁵³$	m */ə m̩/m ⁵³	M E M 3	2	"m̩⁵³;m̩⁵³"
+^m̩³³$	m */ə m̩/m ³³	M E M 4	0	
+^m̩⁴⁴$	m */ə m̩/m ⁴⁴	M E M 5	1	m̩⁴⁴
+^m̩⁵⁵$	m */ə m̩/m ⁵⁵	M E M 5	2	"m̩⁵⁵;m̩⁵⁵"
+^ŋ̩²²$	ŋ */ə ŋ̍ ²²	N E N 1	1	ŋ̩²²
+^ŋ̩¹¹$	ŋ̍ */ə ŋ ¹¹	N E N 1	3	"ŋ̩¹¹;ŋ̩¹¹;ŋ̩¹¹"
+^ŋ̥ŋ²²$	ŋ̊ */ə ŋ ²²	N E N 1	1	ŋ̥ŋ²²
+^n̩³⁵$	n */ə n̩/n ³⁵	N E N 2	1	n̩³⁵
+^n̩¹³$	n */ə n̩/n ¹³	N E N 2	1	n̩¹³
+^ŋ̩²⁴$	ŋ */ə ŋ̍ ²⁴	N E N 2	1	ŋ̩²⁴
+^ŋ̩³⁵$	ŋ */ə ŋ̍ ³⁵	N E N 2	1	ŋ̩³⁵
+^ŋ̩¹³$	ŋ */ə ŋ̍ ¹³	N E N 2	1	ŋ̩¹³
+^ŋ̥ŋ²⁴$	ŋ̊ */ə ŋ ²⁴	N E N 2	1	ŋ̥ŋ²⁴
+^ŋ̥ŋ¹³$	ŋ̊ */ə ŋ ¹³	N E N 2	1	ŋ̥ŋ¹³
+^n̩³¹$	n */ə n̩/n ³¹	N E N 3	0	
+^n̩⁵³$	n */ə n̩/n ⁵³	N E N 3	0	
+^ŋ̩³²$	ŋ */ə ŋ̍ ³²	N E N 3	1	ŋ̩³²
+^ŋ̩³¹$	ŋ̍ */ə ŋ ³¹	N E N 3	3	"ŋ̩³¹;ŋ̩³¹;ŋ̩³¹"
+^ŋ̩⁵³$	ŋ̍ */ə ŋ ⁵³	N E N 3	2	"ŋ̩⁵³;ŋ̩⁵³"
+^ŋ̥ŋ³¹$	ŋ̊ */ə ŋ ³¹	N E N 3	2	"ŋ̥ŋ³¹;ŋ̥ŋ³¹"
+^ŋ̥ŋ⁵³$	ŋ̊ */ə ŋ ⁵³	N E N 3	1	ŋ̥ŋ⁵³
+^n̩³³$	n */ə n̩/n ³³	N E N 4	1	n̩³³
+^ŋ̩³³$	ŋ̍ */ə ŋ ³³	N E N 4	3	"ŋ̩³³;ŋ̩³³;ŋ̩³³"
+^ŋ̥ŋ³³$	ŋ̊ */ə ŋ ³³	N E N 4	0	
+^n̩⁵⁵$	n */ə n̩/n ⁵⁵	N E N 5	2	"n̩⁵⁵;n̩⁵⁵"
+^ŋ̩⁴⁴$	ŋ̍ */ə ŋ ⁴⁴	N E N 5	1	ŋ̩⁴⁴
+^ŋ̩⁵⁵$	ŋ̍ */ə ŋ ⁵⁵	N E N 5	1	ŋ̩⁵⁵
+^ŋ̥ŋ⁴⁴$	ŋ̊ */ə ŋ ⁴⁴	N E N 5	1	ŋ̥ŋ⁴⁴
+^ŋ̩³¹³$	ŋ̍ */ə ŋ ³¹³	N E N 6	1	ŋ̩³¹³
+^ŋ̥ŋ²³¹$	ŋ̊ */ə ŋ ²³¹	N E N 6	0	
+^ŋ̥ŋ³¹³$	ŋ̊ */ə ŋ ³¹³	N E N 6	1	ŋ̥ŋ³¹³
+^ŋ̥jei⁵³$	ŋ̊ j ei ⁵³	N J E 3	1	ŋ̥jei⁵³
+^ŋ̥jɒ³⁵$	ŋ j ɒ ³⁵	N J O 2	3	"ŋ̥jɒ³⁵;ŋ̥jɒ³⁵;ŋ̥jɒ³⁵"
+^ŋ̥jo⁵³$	ŋ j o ⁵³	N J U 3	1	ŋ̥jo⁵³
+^ŋ̥oːŋ²⁴$	ŋ̊ oː ŋ ²⁴	N U N 2	1	ŋ̥oːŋ²⁴
+^pŋ⁵⁵$	p */ə ŋ ⁵⁵	P E N 5	0	
+^pŋ³¹³$	p */ə ŋ ³¹³	P E N 6	1	pŋ³¹³
+^mplua¹³$	ⁿp lu/lʷ a ¹³	P L A 2	1	mplua¹³
+^mpʐu¹³$	ⁿp ʐ u ¹³	P S Y 2	2	"mpʐu¹³;mpʐu¹³"
+^tŋ⁵⁵$	t */ə ŋ ⁵⁵	T E N 5	1	tŋ⁵⁵
+^tʰŋ⁵⁵$	tʰ */ə ŋ ⁵⁵	T E N 5	1	tʰŋ⁵⁵
+^tlua³¹$	t lu/lʷ a ³¹	T L A 3	0	
+^tsi⁵⁵tlua³¹$	t lu/lʷ a ³¹	T L A 3	1	tsi⁵⁵tlua³¹
+^ma³¹³ŋ̥a³⁵$	m a ³¹³ + ŋ a ³⁵	M A 6 _ N A 2	1	ma³¹³ŋ̥a³⁵
+^ʐa³²wua⁵³$	ʐ a ³² + w ua/a ⁵³	S A 3 _ W A 3	1	ʐa³²wua⁵³
+^he³¹³ŋ̩³⁵$	h e ³¹³ + ŋ */ə ŋ̍ ³⁵	H E 6 _ N E N 2	1	he³¹³ŋ̩³⁵
+^ge³¹³ŋ̩³¹³$	g e ³¹³ + ŋ̍ */ə ŋ ³¹³	K E 6 _ N E N 6	1	ge³¹³ŋ̩³¹³
+^ma³¹³m̩³¹³$	m a ³¹³ + m */ə m̩/m ³¹³	M A 6 _ M E M 6	1	ma³¹³m̩³¹³
+^me⁴²ŋ̩³³$	m e ⁴² + ŋ */ə ŋ̍ ³³	M E 3 _ N E N 4	1	me⁴²ŋ̩³³
+^ŋ̩³⁵va³¹$	ŋ̍ */ə ŋ ³⁵ + v a ³¹	N E N 2 _ B A 3	1	ŋ̩³⁵va³¹
+^ŋ̩⁵³ɕi³¹$	ŋ̍ */ə ŋ ⁵³ + ɕ i ³¹	N E N 3 _ S I 3	1	ŋ̩⁵³ɕi³¹
+^bei¹³m̩³⁵$	b ei ¹³ + m */ə m̩/m ³⁵	P E 2 _ M E M 2	1	bei¹³m̩³⁵
+^ɕi³¹ŋ̩⁵³$	ɕ i ³¹ + ŋ̍ */ə ŋ ⁵³	S I 3 _ N E N 3	1	ɕi³¹ŋ̩⁵³
+^ʔŋ̩¹³pŋ³¹³$	ʔ */ə ŋ ¹³ + p */ə ŋ ³¹³	H E N 2 _ P E N 6	1	ʔŋ̩¹³pŋ³¹³
+^gjeu³¹³ŋ̩³¹³$	g j eu ³¹³ + ŋ̍ */ə ŋ ³¹³	K J E 6 _ N E N 6	1	gjeu³¹³ŋ̩³¹³
+^guːŋdoːm³⁵$	g uː ŋ ⁰ + d oː m ³⁵	K Y N 6 _ T U M 2	1	guːŋdoːm³⁵
+^naːŋdzuŋ³³$	n aː ŋ ⁰ + dz u ŋ ³³	N A N 6 _ C Y N 4	1	naːŋdzuŋ³³
+^ŋ̩³³kwe³³$	ŋ */ə ŋ̍ ³³ + k w e ³³	N E N 4 _ K W E 4	1	ŋ̩³³kwe³³
+^nenʔnoŋ⁵⁵$	n e n ⁰ + ˀn o ŋ ⁵⁵	N E N 6 _ N U N 5	1	nenʔnoŋ⁵⁵
+^kjon¹³ŋ̩³¹³$	k j o n ¹³ + ŋ̍ */ə ŋ ³¹³	K J U N 2 _ N E N 6	1	kjon¹³ŋ̩³¹³
+^ha⁵³pŋ⁵⁵ni¹³$	h a ⁵³ + p */ə ŋ ⁵⁵ + n i ¹³	H A 3 _ P E N 5 _ N I 2	1	ha⁵³pŋ⁵⁵ni¹³
+^la⁰³tsau³⁵ŋ̩³³$	l a ⁰/³ + ts au ³⁵ + ŋ */ə ŋ̍ ³³	L A 6 _ C A 2 _ N E N 4	1	la⁰³tsau³⁵ŋ̩³³
+^ɕon⁵³pŋ⁵⁵ni¹³$	ɕ o ⁵³ + p */ə ŋ ⁵⁵ + n i ¹³	S U 3 _ P E N 5 _ N I 2	1	ɕon⁵³pŋ⁵⁵ni¹³
+^ki⁰³daŋ³¹ŋ̩³¹$	k i ⁰/³ + d a ŋ ³¹ + ŋ */ə ŋ̍ ³¹	K I 6 _ T A N 3 _ N E N 3	1	ki⁰³daŋ³¹ŋ̩³¹
+^n̩³¹ŋ̥jɒ³⁵nei⁵³$	n */ə n̩/n ³¹ + ŋ̊ j ɒ ³⁵ + n ei ⁵³	N E N 3 _ N J O 2 _ N E 3	1	n̩³¹ŋ̥jɒ³⁵nei⁵³
+^ljaŋ¹³ho²¹ʔŋ⁴⁴$	l j a ŋ ¹³ + h o ²¹ + ʔ */ə ŋ ⁴⁴	L J A N 2 _ H U 3 _ H E N 5	1	ljaŋ¹³ho²¹ʔŋ⁴⁴
+²²$	²²	1	1226	"qa³³ʑi²²;noŋ²²;ne³³taŋ²²;ʔeu²⁴ʑin²²;fu²²"
+¹¹$	¹¹	1	681	"ntuŋ¹¹;pe⁵¹noːi¹¹;haɯ⁵⁵po¹¹;nəŋ¹¹;toːŋ¹¹"
+²⁴$	²⁴	2	1112	"n̥ə̃²⁴;qʰaŋ³³nei²⁴;ʔa⁰²ɬa²⁴;ɬa²⁴;tə⁰²qə̃²⁴"
+³⁴$	³⁴	2	1	nan³⁴
+³⁵$	³⁵	2	2318	"ndɦu³⁵;tɑ³⁵pʐɑ³⁵n̥e³⁵;n̥e³⁵;qʰoŋ³¹ʔaŋ³⁵n̥ei³⁵;la⁰³n̥e³⁵"
+¹²$	¹²	2	42	"toːn³³du¹²;toːn³³du¹²;nei¹²;ko¹²;mpli¹²"
+¹³$	¹³	2	1678	"tɕi³¹ŋkoŋ¹³;ŋo¹³;n̥o¹³;la⁰⁴ni¹³;lu¹³"
+³⁵³⁵$	³⁵	2	0	
+²¹$	²¹	3	423	"məu²¹;so²²ɭe²¹;jo²¹y²¹;ɕat²¹;buŋ²¹"
+³²$	³²	3	229	"hoŋ³²;lə³²ŋa³²;teu³²;lu³²mui³²;tæ³²"
+³¹$	³¹	3	2455	"qo⁰⁵ŋɢwaŋ³¹;ʔə⁰²ŋɢwɑŋ³¹;nto³¹;pja⁵³vei³¹;kwan¹³ŋo³¹"
+⁴²$	⁴²	3	1114	"koŋ⁴²;qə⁰²ɬa⁴²;ɬo⁴²;lo⁴²;tə⁰²ʔõ⁴²"
+⁴³$	⁴³	3	194	"n̥o⁴³;n̥o⁴³qo⁴³;so⁴³;lai²⁴so⁴³;ŋkʰeu⁴³"
+⁵²$	⁵²	3	2	"ʔa⁰²ʂa⁵²;mpa⁵⁵tæ⁵²"
+⁵³$	⁵³	3	1843	"ntoŋ⁵³;vaŋ⁵³;qʰa³⁵n̥ei⁵³;qe³⁵ɬɑ⁵³;te³⁵te³⁵qe³⁵ɬɑ⁵³"
+⁵¹$	⁵¹	3	138	"ʃaːi⁵¹;tiːŋ⁵¹;kjau⁵¹;teu⁵¹;ʔaːm⁵¹"
+⁵⁴$	⁵⁴	3	162	"kwan¹³la⁵⁴;ɬiŋ⁴⁴tai⁵⁴;kji⁵⁴;mo⁵⁴;soŋ⁴⁴sui⁵⁴"
+³³$	³³	4	2773	"ʔa⁰³waŋ³³;la⁰³waŋ³³;ŋkwaŋ³³;guŋ³³;n̥ɛ³³"
+³³³$	³³	4	0	
+⁴⁴$	⁴⁴	5	2186	"pɔ¹¹nei⁴⁴;ha³³no⁴⁴;ʔa⁵³nai⁴⁴;ɬi⁴⁴;ɬʰa⁴⁴"
+⁵⁵$	⁵⁵	5	2616	"ŋqə̃⁵⁵;vɛ⁵⁵;vei⁵⁵;ŋkuŋ⁵⁵;n̥u⁵⁵"
+²	²	6	0	
+³	³	6	0	
+¹	¹	6	0	
+⁰	⁰	6	0	
+⁴	⁴	6	0	
+⁵	⁵	6	0	
+²$	²	6	0	
+³$	³	6	0	
+¹$	¹	6	0	
+⁰$	⁰	6	0	
+⁴$	⁴	6	0	
+⁵$	⁵	6	2	"zu⁵;doːt⁵"
+⁰²$	⁰/²	6	0	
+⁰³$	⁰/³	6	28	"ke⁵⁵ɕaŋ⁰³;ha⁵⁵tsɿ⁰³;pai⁵⁵tsɿ⁰³;luŋ⁵⁵tsɿ⁰³;ma³³tsɿ⁰³"
+⁰⁴$	⁰/⁴	6	14	"sen¹³tsai⁰⁴;la⁵⁵tsai⁰⁴;luŋ¹³tsai⁰⁴;mai³¹³tsai⁰⁴;pin¹³tsai⁰⁴"
+⁰⁵$	⁰/⁵	6	0	
+²³²$	²³²	6	39	"hoŋ²³²;ʐæ²³²;tɕaŋ⁵³sɔ²³²;saŋ²³²;mi²³²"
+²³¹$	²³¹	6	149	"ʔa⁰²to²³¹;təu²³¹;ʔa⁰²hu⁴²to²³¹;ʔa⁰²pe²³¹;laŋ²³¹"
+²¹²$	²¹²	6	61	"to²¹²;ʑaŋ²¹²;tjeu²¹²;qeu⁴⁴lo²¹²;maŋ⁵³lo²¹²"
+²⁴¹$	²⁴¹	6	87	"ta²⁴¹;ɣaŋ²⁴¹;na³¹lɔ²⁴¹;va³⁵lɔ²⁴¹;to³¹pu²⁴¹"
+³²³$	³²³	6	1	ȵoŋ³²³
+³¹²$	³¹²	6	1	ȵuŋ³¹²
+³¹³$	³¹³	6	242	"la⁰⁴gwaŋ³¹³;yn³¹³;ɕi³¹³;la⁰³qʰuŋ³¹³;tə⁰³qo³¹³"
+¹³¹$	¹³¹	6	1	nəŋ¹³¹
+a	a	A	7057	"qo⁰⁵ŋɢwaŋ³¹;pja⁵³vei³¹;qa³³ʑi²²;kwan¹³ŋo³¹;ʔa⁰³waŋ³³"
+ã	ã	A	88	"ʐã⁵⁵hə⁴²ʔõ²⁴;nã²²;pã⁴²tə³¹;pã³¹;kã²⁴"
+ɑ	ɑ	A	552	"ʔə⁰²ŋɢwɑŋ³¹;tɑ³⁵pʐɑ³⁵n̥e³⁵;tɑ³⁵pʐɑ³⁵n̥e³⁵;ʔə⁰²n̥ɑ³¹;ʔə⁰²ɬɑ³⁵"
+ai	ai	A	789	"ʔa⁵³nai⁴⁴;sen¹³tsai⁰⁴;ɬiŋ⁴⁴tai⁵⁴;lai²⁴so⁴³;so⁵⁵pi¹¹lɦai¹¹ndɦaɯ³⁵"
+ao	ao	A	0	
+au	au	A	1083	"n̥i²¹tau³¹;hau¹³;ʑuŋ³³hau⁵³ʔaŋ³⁵;kau⁴⁴;dzjau²⁴"
+aɯ	aɯ	A	114	"haɯ⁵⁵po¹¹;zɦaɯ³⁵;so⁵⁵pi¹¹lɦai¹¹ndɦaɯ³⁵;naɯ⁵³;paɯ³³ȵtɕʰo³³"
+aː	aː	A	135	"pa³³gaːŋ³⁵;ʔpaːm⁵³;tau⁵⁵ŋwaːt¹¹;ʔaːm⁵¹;djaːŋ²⁴koŋ³³"
+ɑo	ɑo	A	0	
+ɑu	ɑu	A	4	"tə⁰²plɑu⁵⁵;ʔə⁰²mblɑu³¹;tʰui⁵⁵pɑu³⁵;kʰɑu⁵⁵"
+aəi	aəi/ai	A	1	taəi⁴²tɕɛ³⁵
+aːi	aːi	A	54	"saːi⁵³;ʃaːi⁵¹;lə³¹pei⁵³faːi³³;gjau³⁵taːi³⁵;tʰaːi²⁴"
+aːu	aːu	A	38	"tʃaːu⁵⁵;ʔaːu⁵¹;gin³³daːu³³;tim³⁵ʔtaːu³³;maːu³³"
+f	f	B	67	"pu⁴⁴fu¹³;pje⁵⁵fu²²kʰɔ³⁵;lja²⁴fu¹³;ljen⁵³fu¹³;lə³¹pei⁵³faːi³³"
+v	v	B	134	"pja⁵³vei³¹;ʔuŋ³³vei⁵⁵;χu⁵⁵vi⁵⁵;qʰuŋ⁵⁵vei⁵⁵;tə⁰²qʰoŋ⁵⁵vi⁵⁵"
+^f	f	B	208	"fu²²;fu¹³;fu³⁵təɯ⁵³;faŋ³¹nin³¹;fa⁵³ɣe³³"
+^v	v	B	255	"vɛ⁵⁵;vei⁵⁵;vaŋ⁵³;vɯa³⁵;von⁵³"
+fʰ	fʰ	B	3	"qa³³fʰa⁴⁴;qa¹³fʰæ³³;taŋ¹¹fʰu³⁵"
+vɦ	vʱ	B	4	"ȵɦu³⁵vɦæɯ³⁵;ŋgɦa³⁵vɦa¹¹;li⁵⁵vɦau³¹;kʰɯ³³vɦɯ¹¹"
+ʔv	ˀv	B	1	tɯ⁴²ʔven³³
+^fʰ	fʰ	B	15	"fʰu³⁵zɛ¹³pʰo³³;fʰu³⁵zɛ¹³tʂoŋ⁴⁴;fʰə³⁵;fʰu³⁵tɕʰu⁴⁴;fʰaŋ³³"
+^vɦ	vʱ	B	6	"vɦaɯ³⁵;vɦai³¹;vɦai³⁵;vɦaɯ³⁵;vɦa¹¹"
+^ʔv	ˀv	B	5	"ʔva³⁵;ʔve³⁵;ʔvi³⁵;ʔviəu²²;ʔvia³⁵"
+c	c	C	26	"ne³¹cu²²;ne³¹cɑ²²;qo³⁵cɑ³⁵;te³⁵ca⁴⁴;qo³⁵cɔ⁵³"
+ç	ç	C	0	
+^c	c	C	17	"cɑ⁴⁴tu⁵³;ci⁵³;cɯ³¹;ci⁴⁴nɑ³⁵;cɔ³¹tɔ⁴²"
+^ç	ç	C	5	"ço⁴⁴;çuŋ³⁵;çəu⁵³;çaŋ³⁵;çin³⁵"
+cʰ	cʰ	C	0	
+dz	dz	C	12	"xan²⁴dzu⁴²;pli³³dzɔŋ³³;bat¹²dziu³³;ʔuoːm³³dzui³¹;ʔən³³dzui²⁴"
+dʐ	ɖʐ	C	1	tʰau³³dʐu³³
+dʑ	dʑ	C	16	"ʔa⁵⁵dʑy⁵⁵;ki⁰³dʑa¹³;ɕuŋ⁵⁵kuŋ⁵⁵dʑan³¹;ʔa⁵⁵dʑi⁵³;ʔa⁵⁵dʑaɯ⁵⁵ntau³³"
+ts	ts	C	323	"tʰjan⁵³ɕin⁵³tsi¹³;sen¹³tsai⁰⁴;ɕɛ³³tsaŋ³⁵;tʰɔ⁵³kʰju²²tsin³⁵;huŋ⁵⁵tsin⁵⁵"
+tɕ	tɕ	C	389	"ʐaŋ⁵³tɕua⁴⁴tɕɔ⁴⁴;ʐaŋ⁵³tɕua⁴⁴tɕɔ⁴⁴;ʔa⁰²tɕi²⁴;ʔaŋ³⁵tɕi⁵⁵;ʔaŋ³⁵tɕi⁵⁵"
+tʂ	ʈʂ	C	20	"pua⁴³tʂai¹³;fʰu³⁵zɛ¹³tʂoŋ⁴⁴;ʔa⁵⁵tʂey¹¹;ŋkɯ¹³tʂɯ¹³;ŋko⁵⁵tʂo²⁴"
+^cʰ	cʰ	C	1	cʰi³⁵lji¹³
+^dz	dz	C	58	"dzjau²⁴;dzaŋ¹³;dzɯ⁵³;dzui³¹;dzjaːm⁵³"
+^dʐ	ɖʐ	C	1	dʐey³¹
+^dʑ	dʑ	C	51	"dʑi³³;dʑəɯ³¹;dʑaŋ³¹təɯ³¹;dʑuŋ¹³mu³¹;dʑu⁴²tsɿ⁵³"
+^ts	ts	C	499	"tsei⁵⁵;tsun²⁴;tsin⁴⁴;tsaŋ³⁵;tsu²⁴"
+^tɕ	tɕ	C	958	"tɕi³¹ŋkoŋ¹³;tɕuŋ³³;tɕi³⁵;tɕua⁴⁴;tɕa⁴²"
+^tʂ	ʈʂ	C	84	"tʂi⁴³;tʂʅ⁵⁵;tʂo⁵⁵;tʂo⁵⁵;tʂua¹³"
+dzɦ	dzʱ	C	3	"ʔa⁵⁵dzɦie¹¹;ȵɦy¹¹dzɦau³⁵;tʰy¹¹dzɦaɯ³⁵"
+dʐɦ	ɖʐʱ	C	0	
+dʑɦ	dʑʱ	C	8	"qa⁵³dʑɦai¹¹;ʔa⁵⁵dʑɦi³¹ntau³³;ki⁵⁵mpa⁵⁵dʑɦau³⁵;gɦau³¹dʑɦa³⁵;tsɿ⁵⁵dʑɦau¹¹"
+ntʂ	ⁿʈʂ	C	9	"laŋ¹³ntʂe²¹;to⁴³ntʂua¹³;kua⁴³ntʂua²⁴;kou³¹ntʂe³¹;pɛ³¹qə⁰²ntʂə̃²²"
+tsʰ	tsʰ	C	116	"ʔa⁰²tsʰy⁵⁵;ʔə⁰²tsʰu⁵⁵;ʔa⁰²tsʰi⁵⁵;ʔə⁰²tsʰie⁵⁵;qo³⁵tsʰa⁵³"
+tɕʰ	tɕʰ	C	93	"qa³³tɕʰu³³;qa³³tɕʰo⁴⁴;muŋ⁵⁵tɕʰuŋ⁰³;ʑuŋ³³tɕʰi³¹;ho³³tɕʰo²⁴"
+tʂʰ	ʈʂʰ	C	18	"ʔa⁵⁵tʂʰu¹¹;ntʂe²¹tʂʰu³³;mploŋ³¹tʂʰua³¹;ʔa³³ndlɦau³⁵tʂʰa³¹;tɬaŋ⁴³tʂʰau⁴⁴"
+ɳtʂ	ⁿʈʂ	C	1	wei³¹ɳtʂaɯ¹³
+ɳʈʂ	ⁿʈʂ	C	1	ʔa⁵⁵ɳʈʂʅ¹¹ntau³³
+^dzɦ	dzʱ	C	6	"dzɦo³⁵;dzɦaɯ³⁵;dzɦo³⁵;dzɦie¹¹;dzɦey³⁵"
+^dʐɦ	ɖʐʱ	C	4	"dʐɦey¹¹;dʐɦu³⁵;dʐɦy³⁵;dʐɦy³¹"
+^dʑɦ	dʑʱ	C	5	"dʑɦa³⁵;dʑɦie³⁵;dʑɦo³⁵;dʑɦɯ³⁵;dʑɦau³¹"
+^ntʂ	ⁿʈʂ	C	27	"ntʂua²⁴;ntʂu¹³;ntʂe³¹;ntʂu³³;ntʂu¹³"
+^tsʰ	tsʰ	C	230	"tsʰo³³;tsʰɪn³⁵;tsʰa³³;tsʰa²¹;tsʰau³³"
+^tɕʰ	tɕʰ	C	172	"tɕʰaŋ³¹;tɕʰon³¹³;tɕʰau³¹;tɕʰɛ⁵³;tɕʰi⁵⁵"
+^tʂʰ	ʈʂʰ	C	40	"tʂʰou⁵⁵;tʂʰau⁵⁵;tʂʰu³³;tʂʰua³¹;tʂʰa³¹"
+^ɳtʂ	ⁿʈʂ	C	4	"ɳtʂə⁵⁵;ɳtʂə³³;ɳtʂə³³;ɳtʂʅ¹¹"
+^ɳʈʂ	ⁿʈʂ	C	0	
+ntʂʰ	ⁿʈʂʰ	C	3	"ŋqai³¹ntʂʰi⁵⁵;qə⁰²ntʂʰõ²⁴;pe³¹ntʂʰe⁴²"
+ɳdʐɦ	ⁿɖʐʱ	C	1	hi³¹ɳdʐɦa¹¹
+ɳtʂʰ	ⁿʈʂʰ	C	1	ʔa⁵⁵ɳtʂʰa¹¹so⁵⁵
+^ntʂʰ	ⁿʈʂʰ	C	5	"ntʂʰaŋ⁵⁵;ntʂʰe⁴²;ntʂʰa⁴³;ntʂʰa⁴³;ntʂʰai⁴⁴"
+^ɳtʂʰ	ⁿʈʂʰ	C	5	"ɳtʂʰaɯ⁵⁵;ɳtʂʰaɯ⁵⁵;ɳtʂʰie⁵⁵;ɳtʂʰie⁵⁵;ɳtʂʰai³³"
+ð	ð	D	22	"ʔə⁰²ðo⁵⁵;ʔə⁰²ðo³⁵mɑ³⁵;mpja³³ðaŋ⁴⁴;ka⁴⁴ðe⁵⁵;kwei⁴⁴ka¹¹ðau¹¹"
+θ	θ	D	12	"ʔa⁰²θo⁴²;ŋ̩⁵³wei¹¹tʃɒŋ¹¹θeŋ³³;θi⁴⁴θəŋ³³nei⁴⁴;ʔa⁰²θo⁵³;ʔa⁰²θa¹³"
+^ð	ð	D	29	"ða³⁵;ðau⁵³;ðja⁴⁴;ðei³⁵;ðei³⁵tjəu³¹"
+^θ	θ	D	54	"θei⁵³;θi⁴⁴θəŋ³³nei⁴⁴;θəŋ⁴⁴;θəŋ⁵³;θi⁵³"
+e	e	E	2586	"tɑ³⁵pʐɑ³⁵n̥e³⁵;n̥e³⁵;la⁰³n̥e³⁵;pe⁵¹noːi¹¹;qe³⁵ɬɑ⁵³"
+æ	æ	E	205	"tæ⁵⁵;tæ³²;kæ⁴²;ɭæn⁵³;ʐæ³²"
+ə	ə	E	1446	"ʔə⁰²ŋɢwɑŋ³¹;ʔə⁰²n̥ɑ³¹;n̥əŋ³³;ʔə⁰²ɬɑ³⁵;qə⁰²ɬa⁴²"
+ɛ	ɛ	E	618	"vɛ⁵⁵;n̥ɛ³³;tɛ³³qɛ³³;tɛ³³qɛ³³;ɕɛ³³tsaŋ³⁵"
+ẽ	ẽ	E	81	"lẽ⁵⁵;sʰẽ²⁴nzɯ³¹;qə⁰²pẽ¹³;ʂẽ²⁴;ɕʰẽ¹³"
+^ə	ə	E	3	"ə³⁵ye¹³;ə²⁴ɕoŋ⁴⁴;ə⁴⁴"
+^ɛ	ɛ	E	1	ɛ³⁵
+ei	ei	E	1209	"pja⁵³vei³¹;vei⁵⁵;qʰa³⁵n̥ei⁵³;qʰaŋ³³nei²⁴;pɔ¹¹nei⁴⁴"
+eu	eu	E	679	"ʔeu²⁴ʑin²²;vuŋ²²heu³⁵ʔeu²⁴;vuŋ²²heu³⁵ʔeu²⁴;ɣam³¹heu³⁵ʔu¹³;keu³⁵"
+ey	ey	E	64	"dey³³;ȵtɕʰey⁵⁵;ʔa⁵⁵ʑɦey¹¹lɦau¹¹;ʔa¹¹ʑɦey¹¹lɦau¹¹;ʔa¹¹ʑɦey¹¹ɬa¹¹"
+eɯ	eɯ	E	22	"heɯ⁴⁴;ni⁵⁵ljeɯ⁴⁴;ʔeɯ¹¹;suŋ⁵⁵teɯ¹¹;ɬjeɯ¹¹"
+eː	eː	E	15	"teːn¹¹;kjeːŋ³⁵;kjeːŋ³⁵dai⁵¹;tau⁵⁵dau⁵¹kjeːŋ³⁵;kjeːŋ³⁵ȵaːu⁵¹"
+æɯ	æɯ	E	1	ȵɦu³⁵vɦæɯ³⁵
+æ̃	æ̃	E	48	"tju³³væ̃⁵⁵;khæ̃⁴⁴væ̃⁵⁵;khæ̃⁴⁴væ̃⁵⁵;qʰo³³ɬæ̃⁴⁴;ʔeu⁴⁴kʰi⁴⁴tæ̃³³"
+əi	əi	E	31	"dəi³³;təi⁴²;ɕəi⁵³;bjau⁴²səi²⁴;tsəi³⁵"
+əu	əu	E	268	"ʔləu³³li¹³;məu²¹;ʔtəu⁴²tʃəp⁴²;təu²³¹;ʔtəu³¹"
+əɯ	əɯ	E	127	"yn³¹təɯ⁵³;səɯ⁵³;sɿ⁵⁵təɯ⁵³;ləɯ³¹daŋ³¹mei³¹;fu³⁵təɯ⁵³"
+ə̃	ə̃	E	73	"ŋqə̃⁵⁵;n̥ə̃²⁴;tə⁰²qə̃²⁴;qə⁰²mpə̃⁴²;tə̃²⁴lã³¹"
+ɛu	ɛu	E	2	"ɕɛu³⁵;ʑɛu³¹"
+x	x	G	30	"juŋ³¹xo³³ʔuŋ³¹;ʔə⁰²joŋ³¹xo³¹ʔoŋ³¹;ʔa⁰²xu⁵⁵;ʔə⁰²xu⁵⁵;tə⁰²pleu³¹xu⁵⁵"
+ɣ	ɣ	G	48	"pɔ¹³ɣi⁴⁴;fa⁵³ɣe³³;van³¹ɣɔ¹³;na³¹ɣeu³¹nəu³⁵;ȵe³³ɣou³¹"
+χ	χ	G	21	"ʔə⁰²χu³¹;mbja³³tə⁰²pləu³¹χu⁵⁵;ʔə⁰²χu³¹χu³¹;ʔə⁰²χu³¹χu³¹;ʔa⁰²χwen³³qwa³¹"
+^x	x	G	103	"xɯ³³;xun³³;xun³³;xan²⁴dzu⁴²;xji⁵⁴fu³³"
+^ɣ	ɣ	G	143	"ɣoŋ⁵⁵hə⁵³ʔə³³;ɣam³¹heu³⁵ʔu¹³;ɣəŋ¹³;ɣan³¹;ɣan³¹"
+^χ	χ	G	25	"χu⁵⁵vi⁵⁵;χu⁵⁵ȵdʑuŋ²⁴;χo³³ʑo³¹;χu³¹ʔuŋ³¹;χo⁵⁵tʰoŋ³¹"
+xʰ	xʰ	G	4	"qa³³ɬju⁵³xʰen⁴⁴;ɣo³³xʰə³³;ʑa³⁵xʰa³⁵;pɔ⁵⁵xʰaŋ³³"
+^xʰ	xʰ	G	19	"xʰuæ⁴⁴ʔeu⁴⁴;xʰə³³;xʰæ̃⁴⁴vei⁵⁵;xʰæ̃⁴⁴ɬæ̃⁵⁵;xʰæ̃⁴⁴tjuŋ⁴⁴"
+h	h	H	151	"ʔa⁰²hu⁴²;ʐaŋ³¹hou³³tɬe³³;ʐã⁵⁵hə⁴²ʔõ²⁴;tɑ³⁵ʐoŋ³¹hu⁴⁴ʔu³⁵;ɣoŋ⁵⁵hə⁵³ʔə³³"
+ɦ	ɦ	H	1	tu²¹ɦo²³²
+ʔ	ʔ	H	327	"qʰoŋ³¹ʔaŋ³⁵n̥ei³⁵;tɬaŋ⁴³ʔoŋ⁴⁴;tə⁰²ʔõ⁴²;ten⁴⁴ʔen⁴⁴;juŋ³¹xo³³ʔuŋ³¹"
+^h	h	H	503	"ha³³no⁴⁴;hoŋ³²;hut⁴⁴neŋ⁴⁴;haɯ⁵⁵po¹¹;hau¹³"
+^ɦ	ɦ	H	5	"ɦoŋ²²;ɦaŋ¹³;ɦaŋ¹³;ɦo²³²;ɦa¹³"
+^ʔ	ʔ	H	1346	"ʔə⁰²ŋɢwɑŋ³¹;ʔa⁰³waŋ³³;ʔə⁰²n̥ɑ³¹;ʔa⁵³nai⁴⁴;ʔa⁰²ɬa²⁴"
+ʔh	ˀh	H	0	
+^ʔh	ˀh	H	2	"ʔhe³¹³;ʔhei³¹³"
+i	i	I	3138	"qa³³ʑi²²;tɕi³¹ŋkoŋ¹³;la⁰⁴ni¹³;n̥i²¹tau³¹;ɬi⁴⁴"
+ĩ	ĩ	I	19	"tĩ³¹nĩ³¹;tĩ³¹nĩ³¹;sĩ⁴²;mĩ³¹;ŋqĩ²⁴"
+ɪ	ɪ	I	22	"tsʰɪn³⁵;tɪ⁴⁴;kua³²ʈɪ²¹;pu⁴²mpʐɪ²¹;wu¹³ʐɪ³²"
+ɯ	ɯ	I	321	"ʔu³⁵ɕɯ⁵³;tɯ⁵³;tɯ¹¹;tɑ³⁵tɯ³⁵;ne⁴⁴kɯ⁴⁴"
+ɿ	ɿ	I	185	"sɿ⁵⁵təɯ⁵³;bei⁵⁵sɿ⁵⁵;tsɿ³⁵lei³¹;sa²⁴tsɿ³³;ha¹³tsɿ³³"
+ʅ	ʅ	I	14	"tʂʅ⁵⁵;ʔa⁵⁵ɳʈʂʅ¹¹ntau³³;ʔa³³tʂʅ³³;ʔa⁵⁵ɖʅ⁵³;ʈua³²ʂʅ¹¹"
+^i	i	I	2	"in⁵³tsɿ⁰³;in⁴⁴"
+^ɪ	ɪ	I	0	
+^ɯ	ɯ	I	0	
+i$	i	I	0	
+iː	iː	I	14	"tiːŋ³⁵;tiːŋ⁵¹;kjiːm³³mun³³;ŋoːŋ³³kjiːn³⁵;biːŋ³⁵"
+ɯa	ɯa	I	2	"vɯa³⁵;mɯa²²"
+^iː	iː	I	0	
+^ɯa	ɯa	I	0	
+j	j	J	2378	"pja⁵³vei³¹;ye³¹ljaŋ³¹;tʰjan⁵³ɕin⁵³tsi¹³;tjaŋ³⁵;ʔə⁰²joŋ³¹xo³¹ʔoŋ³¹"
+^j	j	J	159	"juŋ³¹xo³³ʔuŋ³¹;joŋ³³hɔ⁵³ʔaŋ³⁵;je⁴²;jo²¹y²¹;jin⁴⁴"
+jw	ɥ	J	0	
+wj	wj/ɥ	J	4	"ŋuŋ³¹wjaŋ³¹;tsin²³¹wjaːŋ³¹;to²²wjaŋ³¹;kau²⁴wjaŋ³¹"
+ʔj	ˀj	J	19	"qo⁰⁵ʔjuŋ⁵⁵;ʔa⁰²ʔji³¹;ʔə⁰²ʔje³¹;sə³¹ʔjuŋ²⁴mo³¹tə⁰²wai²⁴;qo⁰⁵ʔjaŋ³¹"
+^jw	ɥ	J	0	
+^ʔj	ˀj	J	18	"ʔjy³¹qwɑ³⁵qlo³¹;ʔjy³¹tɕu⁵⁵;ʔji³⁵;ʔjuŋ²⁴ku³¹;ʔjen³⁵lɑŋ³⁵"
+g	g	K	46	"pa³³gaːŋ³⁵;ʔa⁵⁵gy⁵⁵;ʔa⁰³gɯ¹³;tɬjeu³⁵ge²²;mu³¹goːŋ⁵³tsuŋ³³"
+k	k	K	630	"nɔ²²kɔ⁵⁵;tə³¹koŋ³³;kuŋ⁵⁵kaŋ⁵⁵;hu⁴⁴jak⁵⁵;bja⁴⁴kuŋ⁴⁴"
+q	q	K	302	"taŋ³¹qaŋ³¹;tɑŋ³¹qɑŋ³¹;n̥o⁴³qo⁴³;tə⁰²qə̃²⁴;n̥u⁵⁵qu⁵⁵"
+ɢ	ɢ	K	0	
+^g	g	K	132	"guŋ³³;glaŋ³¹;gjiŋ³³;gjau³⁵;gjau³⁵taːi³⁵"
+^k	k	K	1552	"koŋ⁴²;kuŋ³³;ka³³nteŋ⁴⁴;kuŋ⁵⁵kaŋ⁵⁵;kau⁴⁴"
+^q	q	K	915	"qo⁰⁵ŋɢwaŋ³¹;qa³³ʑi²²;qo⁰⁵na³¹;qə⁰²ɬa⁴²;qe³⁵ɬɑ⁵³"
+^ɢ	ɢ	K	6	"ɢau³¹;ɢau³¹;ɢo⁵⁵;ɢaŋ¹³;ɢai¹³"
+gɦ	gʱ	K	5	"tsɿ³³gɦau³⁵tai¹¹;lu⁵⁵gɦau³¹ɬi³³;lu⁵⁵gɦau³¹ʔi⁵⁵ɬi³³;lu⁵⁵gɦau³¹ʔa⁵⁵ɬi³³;li¹¹gɦau¹¹"
+kʰ	kʰ	K	137	"pje⁵⁵fu²²kʰɔ³⁵;tʰɔ⁵³kʰju²²tsin³⁵;kʰuŋ⁴⁴kʰuŋ⁴⁴;ta⁰³kʰuŋ⁵⁵;nu⁴²kʰei¹³"
+qʰ	qʰ	K	47	"tə⁰²qʰoŋ⁵⁵vi⁵⁵;qo³⁵qʰu⁴⁴;ʔa⁰³qʰoŋ³¹;la⁰³qʰuŋ³¹³;tə⁰³qʰaŋ⁵⁵"
+ŋg	ⁿg	K	7	"qo⁰⁵ŋguŋ³¹;ʔə⁰²ŋgoŋ³¹;ʔa⁰²vi⁵⁵ŋguŋ³¹;qo⁰⁵ŋguŋ³¹;jə⁰²ŋgoŋ³¹"
+ŋk	ⁿk	K	38	"tɕi³¹ŋkoŋ¹³;hu⁴⁴kli⁴⁴ŋklai⁵⁵;tə̃²⁴ŋko²²;ʃei⁵⁵ŋkjəu¹¹;qʰau³⁵ŋkwi⁵⁵"
+ŋq	ⁿq	K	23	"soŋ⁴⁴ŋqoŋ⁴⁴;ʔa⁰²ŋqa³³;ʔə⁰²ŋqɑ³³;nõ²²ŋqu²⁴;tɑ³⁵ŋqo³⁵"
+ŋɢ	ⁿɢ	K	12	"qo⁰⁵ŋɢwaŋ³¹;ʔə⁰²ŋɢwɑŋ³¹;ʔa⁰²ŋɢo³³;ʔə⁰²ŋɢo⁵⁵;qo⁰⁵ŋɢɛ³¹tsʰe³¹li²⁴vei⁵⁵"
+ɢɦ	ɢʰ	K	6	"ti⁵⁵ɢɦau¹¹;tsɿ³³ɢɦey³⁵xu³³;tsɿ³³ɢɦau³⁵;qo⁵⁵ɢɦo³¹;ŋkau⁵⁵ŋkau⁵⁵ɢɦo³¹"
+^gɦ	gʰ	K	11	"gɦau³¹;gɦau³¹ʔi⁵⁵;gɦau³¹ʔa⁵⁵;gɦau³¹tsɿ⁵⁵;gɦau³¹tɬau⁵⁵"
+^kh	kʰ	K	1	khæ̃⁴⁴væ̃⁵⁵
+^kʰ	kʰ	K	314	"kʰa⁵³;kʰei¹³;kʰuŋ⁴⁴kʰuŋ⁴⁴;kʰuŋ⁵³;kʰot⁵⁵"
+^qʰ	qʰ	K	127	"qʰa³⁵n̥ei⁵³;qʰaŋ³³nei²⁴;qʰoŋ³¹ʔaŋ³⁵n̥ei³⁵;qʰa⁵⁵tʰjəu³³;qʰuŋ⁵⁵vei⁵⁵"
+^ŋg	ⁿg	K	9	"ŋga³¹ʑu⁵⁵;ŋgɑ³¹ʑu⁵⁵;ŋgo³³;ŋgo³¹;ŋgo³¹"
+^ŋk	ⁿk	K	145	"ŋkuŋ⁵⁵;ŋkwaŋ³³;ŋkjəŋ³³;ŋkə²²;ŋkja⁴⁴"
+^ŋq	ⁿq	K	58	"ŋqə̃⁵⁵;ŋqua⁴³;ŋqa⁵⁵;ŋqua⁴³;ŋqa⁵⁵"
+^ŋɢ	ⁿɢ	K	13	"ŋɢɛ³¹ʑu⁵⁵;ŋɢɛ³¹ʑuŋ³¹;ŋɢɛ³¹mpzi²⁴;ŋɢɛ³¹ʐuŋ²⁴;ŋɢɛ³¹ndza⁵⁵"
+^ɢɦ	ɢʱ	K	5	"ɢɦɯ³⁵ɖɦaɯ³⁵;ɢɦɯ³⁵;ɢɦau³¹;ɢɦɯ¹¹;ɢɦu³⁵qɯ⁵⁵"
+nkʰ	ⁿkʰ	K	0	
+nqʰ	ⁿqʰ	K	0	
+ŋgɦ	ⁿgʱ	K	4	"ti⁵⁵ŋgɦau³⁵;so³³ŋgɦey³⁵;ʂaɯ⁵⁵ŋgɦau¹¹;ȵɦi³¹ŋgɦau³¹"
+ŋkh	ⁿkʰ	K	0	
+ŋkʰ	ⁿkʰ	K	11	"ʔa⁰²ŋkʰo³³;ʔə⁰²ŋkʰo³³;je⁴⁴ŋkʰjeu⁴⁴;ntsu⁵⁵ŋkʰa³¹;qə⁰²ŋkʰə¹³"
+ŋqʰ	ⁿqʰ	K	4	"ti⁵⁵ŋqʰa⁵⁵;tə⁰²ŋqʰɛ³¹;ʔə⁰²ʔji³¹ŋqʰe³¹;tɕi⁴⁴ŋqʰe⁴⁴"
+ŋɢɦ	ⁿɢʱ	K	0	
+^nkʰ	ⁿkʰ	K	0	
+^nqʰ	ⁿqʰ	K	0	
+^ŋgɦ	ⁿgʱ	K	12	"ŋgɦaɯ³⁵ɬaɯ³³;ŋgɦey³⁵;ŋgɦey³⁵tai¹¹;ŋgɦa³⁵;ŋgɦa³⁵vɦa¹¹"
+^ŋkh	ⁿkʰ	K	0	
+^ŋkʰ	ⁿkʰ	K	20	"ŋkʰeu⁴³;ŋkʰja⁴⁴;ŋkʰɔ⁵³;ŋkʰen⁴⁴;ŋkʰja⁴⁴ntɒŋ³⁵"
+^ŋqʰ	ⁿqʰ	K	7	"ŋqʰai³¹;ŋqʰei³³;ŋqʰen³¹;ŋqʰe³³;ŋqʰa²⁴"
+^ŋɢɦ	ⁿɢʱ	K	9	"ŋɢɦai³⁵;ŋɢɦai³⁵ȵɦu³⁵;ŋɢɦai³⁵ʑɦaɯ³⁵;ŋɢɦai³⁵mpa³³;ŋɢɦai³⁵dlo³¹"
+l	l	L	680	"ye³¹ljaŋ³¹;la⁴⁴la⁴⁴;pɔ¹¹la³³;la⁰⁴la³⁵;kwan¹³la⁵⁴"
+ɬ	ɬ	L	194	"ʔa⁰²ɬa²⁴;ʔə⁰²ɬɑ³⁵;qə⁰²ɬa⁴²;qe³⁵ɬɑ⁵³;ʔa⁰³ɬa⁵⁵"
+ɭ	ɭ	L	7	"so²²ɭe²¹;pɭɔ³²moŋ¹³;pu⁴⁴ɭo³³ha⁴²;pɭɔ³²;ɭa²¹ɭæn³²"
+^l	l	L	1034	"la⁰³waŋ³³;la⁰⁴gwaŋ³¹³;luŋ³¹;luə³¹;la⁰³n̥e³⁵"
+^ɬ	ɬ	L	354	"ɬi⁴⁴;ɬi³³;ɬei⁴⁴;ɬo⁴²;ɬo⁴⁴"
+^ɭ	ɭ	L	16	"ɭə⁵³;ɭæn⁵³;ɭa³²;ɭa⁴²;ɭa²¹ɭæn³²"
+lɦ	lʱ	L	16	"so⁵⁵pi¹¹lɦai¹¹ndɦaɯ³⁵;ʔa³³lɦa³⁵;ʔa³³lɦa³⁵tɬu⁵⁵;ʔa⁵⁵ʑɦey¹¹lɦau¹¹;ʔa¹¹ʑɦey¹¹lɦau¹¹"
+ɬj	ɬʲ	L	17	"qa⁰³ɬjo³⁵;qa³³ɬju⁵³xʰen⁴⁴;qa³³ɬju³³qʰo³³;qa³³ɬjɔ⁴⁴;qa³³ɬju³³"
+ɬʰ	ɬʰ	L	3	"qa³³ɬʰɛ³³qʰo³³;ka³⁵ɬʰji⁵³;qa³³ɬʰa⁴⁴"
+ʔl	ˀl	L	16	"tsuəŋ³³ʔlaŋ³³;ʔa⁰²ʔla⁵⁵;ʔə⁰²ʔlɑ⁵⁵;ka³³ʔle³³;ʔa⁰²ndaŋ³¹ʔlɛ³¹"
+^lɦ	lʱ	L	8	"lɦie³⁵;lɦi¹¹;lɦau¹¹;lɦu³⁵;lɦo¹¹"
+^ɬʰ	ɬʰ	L	25	"ɬʰa⁴⁴;ɬʰə⁴⁴;ɬʰaŋ³³;ɬʰo³⁵;ɬʰa⁴⁴"
+^ʔl	ˀl	L	40	"ʔləu³³li¹³;ʔlaŋ¹³tʰu⁴²;ʔlaŋ¹³;ʔləu³³liaŋ³⁵;ʔlo¹³"
+m	m	M	754	"ɣam³¹heu³⁵ʔu¹³;ntsa³¹məŋ⁴²pʰɔ³³;zoŋ²²miat⁴⁴;zəm⁴²;nam²²"
+ʍ	ʍ	M	4	"me¹²ʍa⁴⁴;min³³ʍan³⁵;ʃi¹²ʍa³⁵;tʃʰu⁵⁵ʍa⁵⁵"
+^m	m	M	840	"ma⁴²n̥aŋ³³;məu²¹;ma³⁵ʑe⁵³luŋ³¹;mo³⁵;maŋ⁵⁵"
+^ʍ	ʍ	M	14	"ʍaŋ⁴⁴;ʍei³⁵;ʍai⁴⁴;ʍei³⁵;ʍai⁴⁴"
+m$	m	M	0	
+mɦ	mʱ	M	6	"ʔa⁵⁵mɦau³¹;tɬau⁵⁵mɦa¹¹;tsɿ⁵⁵mɦo¹¹;tsɿ³³mɦaɯ³⁵;hi³³mɦa³⁵"
+m̥	m̥	M	50	"ʔə⁰²m̥ø³¹;ʔa⁵⁵m̥au⁵⁵;to³¹m̥u¹³;nu⁵⁵m̥au³³;tə⁰²m̥en⁵⁵"
+ʔm	ˀm	M	0	
+^mɦ	mʱ	M	4	"mɦa³⁵;mɦa¹¹;mɦa³⁵;mɦau¹¹"
+^m̥	m̥	M	74	"m̥oŋ⁴³;m̥õ²⁴;m̥u³³;m̥ɔ²¹tsaŋ⁴²;m̥jɛn³⁵"
+^ʔm	ˀm	M	6	"ʔma³³ʑaŋ¹³;ʔmje³³;ʔmuŋ³¹;ʔmaŋ⁵³;ʔmuŋ³¹"
+n	n	N	2504	"kwan¹³ŋo³¹;qo⁰⁵na³¹;qʰaŋ³³nei²⁴;pɔ¹¹nei⁴⁴;la⁰⁴ni¹³"
+ŋ	ŋ	N	4814	"qo⁰⁵ŋɢwaŋ³¹;ʔə⁰²ŋɢwɑŋ³¹;ntoŋ⁵³;kwan¹³ŋo³¹;ʔa⁰³waŋ³³"
+ȵ	ȵ	N	200	"ʔa⁰³ȵei⁵⁵;qo⁰⁵lo⁵⁵ȵe³¹;ku¹³ȵa³¹³;to¹³ȵo²²;ʔa⁰²ȵin²⁴"
+ɳ	ɳ	N	11	"ʔa⁵⁵mby⁵³ɳaɯ³³;qo³⁵ɳei⁴²mʐɯ²²;pei⁴²ɳa⁴²;tə⁰²ɳo³¹;qo³⁵ɳu³⁵"
+^n	n	N	794	"noŋ²²;noŋ³³;nɔ²²kɔ⁵⁵;ne³³;ne³³taŋ²²"
+^ŋ	ŋ	N	319	"ŋo¹³;ŋa⁵⁵ʑau¹¹;ŋo⁴²va¹³;ŋen⁴⁴;ŋo⁴²mpja³¹"
+^ȵ	ȵ	N	353	"ȵe³³;ȵua¹³;ȵɑ³¹qo⁵³;ȵa³¹³pa³¹³;ȵi³¹"
+^ɳ	ɳ	N	6	"ɳen³¹;ɳəŋ³²;ɳɔ³⁵noŋ⁵³tɕa⁴⁴;ɳɔ³⁵;ɳo⁴⁴"
+n$	n	N	0	
+nj	nʲ	N	84	"ʔa⁰³toŋ³³njo³¹;tɛ¹¹nja³⁵;qa³³njaŋ⁵⁵n̥ju⁴⁴;ne⁵⁵nju³³;tei⁵³njaŋ²²"
+nɦ	nʱ	N	1	mbɦai¹¹nɦa¹¹
+n̥	n̥	N	87	"tɑ³⁵pʐɑ³⁵n̥e³⁵;ʔə⁰²n̥ɑ³¹;qʰa³⁵n̥ei⁵³;qʰoŋ³¹ʔaŋ³⁵n̥ei³⁵;la⁰³n̥e³⁵"
+ŋɦ	ŋʰ	N	0	
+ŋ̥	ŋ̊	N	0	
+ŋ̩	ŋ̍	N	0	
+ȵɦ	ȵʱ	N	9	"ʔa⁵⁵ȵe⁵³ȵɦu³⁵;li³³bɦy³⁵ȵɦu³⁵;li³³qu⁵⁵ȵɦu³⁵;ku⁵⁵ȵɦu³⁵;pi³³tey³³ȵɦu³⁵"
+ȵ̥	ȵ̥	N	32	"tɔ¹³ȵ̥u⁴⁴;qə⁰²ȵ̥õ²⁴mlə̃³¹;ʔa³³ȵ̥u⁵⁵ɖɦu¹¹;ntjaŋ³³ȵ̥uŋ¹³;tə⁰²ȵ̥in⁵⁵"
+ʔn	ˀn	N	11	"qo⁰⁵ʔnen³¹;ʔə⁰²ʔnen³¹;tɕin³¹ʔnen³¹;n̥ɑ³¹ʔnoŋ⁵⁵;tʰan³³ʔnei⁵⁵"
+ʔŋ	ˀŋ	N	0	
+ʔȵ	ˀȵ	N	6	"qo⁰⁵ʔȵin³¹;ʔə⁰²ʔȵin³¹;ʔa³¹ʔȵin³¹;tɕin³¹ʔȵoŋ⁵⁵;kʰu²⁴ʔȵuŋ³¹"
+^nj	nʲ	N	124	"njaŋ¹³;njaŋ⁵⁵poi³³;njen²²tɕi²²;njaŋ³³;njan²⁴"
+^nɦ	nʱ	N	6	"nɦaɯ³⁵;nɦaɯ³⁵tɕaŋ⁵⁵;nɦa³¹tɬʰu³³;nɦau³⁵ʂu³³;nɦau³⁵ʂu³³tɕʰau³³"
+^n̥	n̥	N	146	"n̥o⁴³;n̥ə̃²⁴;n̥u⁵⁵;n̥e³⁵;n̥ɛ³³"
+^ŋɦ	ŋʰ	N	2	"ŋɦu¹¹;ŋɦɯ³¹"
+^ŋ̥	ŋ̊	N	2	"ŋ̥a⁵³;ŋ̥ɔ³⁵"
+^ŋ̩	ŋ̍	N	0	
+^ȵɦ	ȵʱ	N	11	"ȵɦe³¹;ȵɦu³⁵;ȵɦu³⁵ʔa¹¹dɦy¹¹;ȵɦu³⁵vɦæɯ³⁵;ȵɦu³⁵ki³³ʈau³³"
+^ȵ̥	ȵ̊	N	44	"ȵ̥eŋ⁴⁴;ȵ̥aŋ²⁴kei⁵³;ȵ̥u⁵³;ȵ̥uŋ¹³;ȵ̥e⁵⁵"
+^ʔn	ˀn	N	10	"ʔnuŋ⁵³;ʔna³³;ʔnuŋ⁵³məɯ³¹;ʔnoŋ⁵⁵;ʔnei⁵⁵"
+^ʔŋ	ˀŋ	N	0	
+^ʔȵ	ˀȵ	N	8	"ʔȵaŋ⁵⁵;ʔȵoŋ⁵⁵;ʔȵuŋ³¹;ʔȵoŋ³¹;ʔȵiᶠ"
+ɒ	ɒ	O	116	"hɒ⁴⁴;mpo³¹ʔɒŋ⁴⁴;kjɒŋ³³;ʔɒŋ⁴⁴;lɒŋ³⁵"
+ɒi	ɒi	O	3	"tʃɒi⁴⁴;tʃa³¹tʃɒi³⁵;mpɒi¹²"
+b	b	P	64	"ʔa⁵⁵bo⁵⁵lau³¹;ləɯ¹³tʰai³⁵bo³¹;ka⁵¹bo³¹;la⁰⁴bo³⁵;ʔa⁵⁵bo⁵⁵lau³¹"
+p	p	P	690	"haɯ⁵⁵po¹¹;so⁵⁵pi¹¹lɦai¹¹ndɦaɯ³⁵;ʔtəu⁴²tʃəp⁴²;ʑap²²;ʔõ²⁴tə⁰²po⁴²"
+^b	b	P	224	"ban⁵⁵;bja⁴⁴kuŋ⁴⁴;buŋ²¹;buŋ⁴²;biŋ²²"
+^p	p	P	1447	"pja⁵³vei³¹;pɔ¹¹nei⁴⁴;pu³¹n̥oːi³³;pe⁵¹noːi¹¹;pɔ¹¹la³³"
+bɦ	bʰ	P	7	"li³³bɦy³⁵ȵɦu³⁵;ki⁵⁵bɦo¹¹;ʔa⁵⁵bɦaɯ¹¹;ʔa³³bɦaɯ³⁵su¹¹lɦu¹¹;tʂʰo³³ʔa³³bɦaɯ³⁵su¹¹lɦu¹¹"
+mb	ⁿb	P	63	"qo⁰⁵mbo²⁴;ʔə⁰²mbo³⁵;ʔa⁰²jy³¹mbaŋ³¹;ʔa⁰²luŋ³¹mbi³¹;ʔə⁰²loŋ³¹mbi³¹"
+mp	ⁿp	P	115	"ʑe⁵⁵mpo³⁵;ɕe³¹mpo³⁵;qo⁰⁵mpaŋ²⁴;ʔə⁰²mpɑŋ³⁵;qə⁰²mpə̃⁴²"
+ph	pʰ	P	0	
+pʰ	pʰ	P	100	"ʔa⁰²pʰɔ³³;ntsa³¹məŋ⁴²pʰɔ³³;pʰuŋ¹³pʰuŋ¹³;ka³⁵pʰja⁵³;tei⁵³pʰa³⁵"
+ʔp	ˀp	P	8	"va³⁵ʔpa¹³;ko²²ʔpi³³;gjai³⁵ʔpek⁴²;ʔʑa³³ʔpu³⁵;ʔtoːŋ³³ʔpek⁴²"
+^bɦ	bʰ	P	5	"bɦaɯ¹¹;bɦaɯ³⁵;bɦau³⁵;bɦo³¹;bɦau³⁵"
+^mb	ⁿb	P	19	"mbja³³tə⁰²pləu³¹χu⁵⁵;mben⁵⁵;mby³³;mbə³³;mbo³¹ȵin³¹"
+^mp	ⁿp	P	229	"mpo⁴⁴;mpoŋ⁵⁵;mpu³³;mpe⁵³;mpaŋ⁵⁵"
+^ph	pʰ	P	0	
+^pʰ	pʰ	P	260	"pʰo³³;pʰo³³;pʰjo⁴⁴;pʰuəŋ¹³;pʰuŋ¹³pʰuŋ¹³"
+^ʔp	ˀp	P	47	"ʔpaːm⁵³;ʔpan³⁵;ʔpu³¹;ʔpi³⁵;ʔpa³⁵"
+mbɦ	ⁿbʰ	P	3	"ʔa⁵⁵mbɦə³⁵;ʔa⁵⁵ti¹¹mbɦə¹¹;ʔa³³mbɦə³⁵mpy¹¹"
+mph	ⁿpʰ	P	0	
+mpʰ	ⁿpʰ	P	19	"nto³¹mpʰo³³;tə⁰²mpʰje³³;tə⁰²mpʰje⁵⁵;tə̃²⁴mpʰe⁴²;te³⁵mpʰɑ⁴⁴"
+npʰ	ⁿpʰ	P	0	
+^mbɦ	ⁿbʱ	P	4	"mbɦai¹¹nɦa¹¹;mbɦɯ³¹;mbɦaɯ³⁵;mbɦa³⁵"
+^mph	ⁿpʰ	P	1	mphe⁵⁵
+^mpʰ	ⁿpʰ	P	20	"mpʰei⁴⁴tei³¹;mpʰa³⁵;mpʰei⁵³;mpʰai¹³ko³³;mpʰje³¹³"
+^npʰ	ⁿpʰ	P	0	
+r	r	R	1	qo⁰⁵ȵtɕi³¹mo³¹ar⁵⁵
+ɹ	ɹ	R	6	"ʔa⁰²ʁɹɛ²⁴;ʔa⁰²ʐəu³³ʁɹəu³³;tə⁰²qɹen³¹;qɹaŋ²⁴;ʔi⁵⁵qɹəu³³tə⁰²puŋ²⁴"
+ʁ	ʁ	R	22	"ʔə⁰²ʁei³¹;ʔə⁰²nɖo⁵⁵ʁo³¹;zu⁵⁵ʁu³¹pen⁵⁵;ʔa⁰²ʁɹɛ²⁴;ʔa⁰²ʁo⁵⁵"
+^r	r	R	0	
+^ɹ	ɹ	R	0	
+^ʁ	ʁ	R	29	"ʁlei³¹;ʁo²⁴tə⁰²hu⁵⁵;ʁo²⁴ɳɖaŋ³¹;ʁo³¹;ʁo³¹"
+s	s	S	351	"tə⁰²su³¹;ʔə⁰²su³¹;tɑ³⁵so³⁵;lai²⁴so⁴³;ljɑ²²so³⁵"
+z	z	S	111	"ʔaŋ³³ze⁴²;qo⁰⁵zo⁵⁵;ki⁰³zəɯ³¹;nzu⁵⁵;nzõ⁴²"
+ɕ	ɕ	S	117	"tʰjan⁵³ɕin⁵³tsi¹³;ho³³ɕen³³;ʔu³⁵ɕɯ⁵³;ʔŋ̩¹³lau⁵³ɕi⁴⁴;qo³⁵ne³¹qo³⁵ɕi⁴⁴"
+ʂ	ʂ	S	39	"ʔa⁰²ʂa⁵²;to⁴³ʂaŋ⁴³to⁴³ȵa¹³;tə̃²⁴ʂã²⁴;qo⁰⁵ʂei⁵⁵;tu³²ʂe¹¹"
+ʃ	ʃ	S	20	"mun³³ʃei⁵¹kjin³⁵;mun³³ʃa¹¹;ka⁵⁵hoːn¹¹ʃei⁵¹;pə³¹ʃaŋ⁴⁴;pji⁵³ʃai¹¹"
+ʐ	ʐ	S	87	"tɑ³⁵ʐoŋ³¹hu⁴⁴ʔu³⁵;ʔau³³ʐe³³;qo³⁵ʐei³¹;qə⁰²ʐɛ²⁴;qo³⁵ʐɯ³⁵"
+ʑ	ʑ	S	279	"qa³³ʑi²²;ʔeu²⁴ʑin²²;ma³⁵ʑe⁵³luŋ³¹;ʔuŋ³¹ʑo²⁴;ʔə⁰²ʑo³⁵ʑo³⁵"
+^s	s	S	772	"sen¹³tsai⁰⁴;so⁴³;so²²;so⁵⁵;səɯ⁵³"
+^z	z	S	107	"zoŋ²²miat⁴⁴;zəm⁴²;zieu²²;zo³³;zɑŋ³⁵ntoŋ³⁵"
+^ɕ	ɕ	S	347	"ɕɛ³³tsaŋ³⁵;ɕe³¹mpo³⁵;ɕat²¹;ɕa²⁴;ɕi⁴⁴"
+^ʂ	ʂ	S	86	"ʂua⁴³tsi⁵⁵;ʂua⁵⁵;ʂəŋ¹¹;ʂe¹¹;ʂou⁵⁵"
+^ʃ	ʃ	S	100	"ʃaːi⁵¹;ʃou⁴²;ʃəŋ⁴⁴;ʃu³⁵doːŋ³³;ʃei⁵⁵ŋkjəu¹¹"
+^ʐ	ʐ	S	125	"ʐaŋ³¹hou³³tɬe³³;ʐã⁵⁵hə⁴²ʔõ²⁴;ʐaŋ⁵³tɕua⁴⁴tɕɔ⁴⁴;ʐe⁴³;ʐæ³²"
+^ʑ	ʑ	S	431	"ʑuŋ³³hau⁵³ʔaŋ³⁵;ʑe⁵⁵mpo³⁵;ʑap²²;ʑau⁴²;ʑen²⁴ʑen²⁴"
+sʰ	sʰ	S	32	"qə⁰²sʰo¹³;ʐɛ²⁴sʰa²⁴;qa³³sʰa⁴⁴;ɣi⁴⁴sʰa³³;nei⁵⁵ʔa⁴⁴po⁴⁴næ⁵³sʰe¹¹"
+zɦ	zʰ	S	4	"dlɦaɯ³⁵zɦo¹¹;qai⁵⁵zɦa¹¹;tsɿ⁵⁵zɦa³⁵;zu³³zɦu¹¹"
+ɕʰ	ɕʰ	S	14	"qa³⁵ɕʰu³⁵;qa³³ɕʰɔ¹³;tju³³ɕʰo⁴⁴;qa³³ɕʰin⁴⁴vaŋ⁵⁵;qa³³ɕʰaŋ⁴⁴njaŋ¹³"
+ʂʰ	ʂʰ	S	0	
+ʑɦ	ʑʱ	S	6	"ʔa⁵⁵ʑɦey¹¹lɦau¹¹;ʔa¹¹ʑɦey¹¹lɦau¹¹;ʔa¹¹ʑɦey¹¹ɬa¹¹;ŋɢɦai³⁵ʑɦaɯ³⁵;gɦau³¹ʑɦi³¹"
+ʔʑ	ˀʑ	S	13	"ʔe³⁵ʔʑəŋ³³;tɕin³¹ʔʑuŋ⁵⁵ma⁵⁵;pi³⁵ʔʑa³⁵su²²;ʔə⁰²ʔʑɑŋ³¹;qo⁰⁵ʔʑu³¹"
+^sʰ	sʰ	S	73	"sʰə²⁴;sʰə²⁴le⁵⁵;sʰẽ²⁴nzɯ³¹;sʰã¹³ȵã²²;sʰã¹³li²²"
+^zɦ	zʰ	S	4	"zɦaɯ³⁵;zɦau³¹;zɦa³¹;zɦau³¹"
+^ɕʰ	ɕʰ	S	44	"ɕʰaŋ³⁵;ɕʰẽ¹³;ɕʰaŋ³³;ɕʰɔ¹¹va³³;ɕʰuẽ¹³"
+^ʂʰ	ʂʰ	S	1	ʂʰã²⁴
+^ʑɦ	ʑʱ	S	4	"ʑɦi³¹;ʑɦu¹¹;ʑɦaɯ³⁵;ʑɦaɯ³⁵"
+^ʔʑ	ˀʑ	S	34	"ʔʑo³³;ʔʑəŋ³³;ʔʑi⁵³;ʔʑa³³;ʔʑu³¹qlo³¹"
+nsʰ	ⁿsʰ	S	0	
+ⁿsʰ	ⁿsʰ	S	2	"ⁿsʰõ¹³;ⁿsʰi²⁴"
+^nsʰ	ⁿsʰ	S	3	"nsʰẽ²⁴;nsʰe⁴²;nsʰu⁴²"
+d	d	T	133	"bo³³da⁵⁵;ləɯ³¹daŋ³¹mei³¹;ʃu³⁵doːŋ³³;bju⁵³doŋ⁴⁴;toːn³³du¹²"
+t	t	T	1141	"n̥i²¹tau³¹;te³⁵te³⁵qe³⁵ɬɑ⁵³;ɬiŋ⁴⁴tai⁵⁴;ne³³taŋ²²;hut⁴⁴neŋ⁴⁴"
+ɖ	ɖ	T	2	"ʔa⁵⁵ɖʅ⁵³;qa³¹ɖa³¹"
+ʈ	ʈ	T	54	"qo³⁵ʈɑ²²;no¹³ʈɔ⁵³;ʔa⁰²mjuŋ⁵⁵ʈa³³;qo⁴³ʈua¹³;ʈei⁵³ʈu³⁵"
+^d	d	T	290	"dey³³;dau³³;dəi³³;dən³¹;da³¹"
+^t	t	T	2168	"tɑ³⁵pʐɑ³⁵n̥e³⁵;taŋ³¹qaŋ³¹;tɑŋ³¹qɑŋ³¹;tə⁰²qə̃²⁴;te³⁵te³⁵qe³⁵ɬɑ⁵³"
+^ɖ	ɖ	T	3	"ɖey³¹;ɖau³¹;ɖaɯ³¹"
+^ʈ	ʈ	T	119	"ʈoŋ⁴³;ʈau⁵⁵;ʈoŋ³¹mʐɯ³¹;ʈaŋ⁵⁵haŋ⁵⁵;ʈaŋ³²hu²¹"
+dɦ	dʱ	T	9	"ʔa³³ntsɿ⁵⁵dɦi¹¹;ȵɦu³⁵ʔa¹¹dɦy¹¹;ʔa⁵⁵dɦy¹¹;ka³³tɕi⁵⁵dɦu¹¹;ʔa⁵⁵dɦɯ¹¹"
+dʒ	dʒ	T	4	"pa⁰²dʒaŋ³¹;tʃam⁵¹dʒoːm³³;ka⁰²dʒo³¹;pa⁰²dʒeu³³"
+nd	ⁿd	T	12	"qo⁰⁵nda²⁴;ʔə⁰²ndɑ³⁵;qei⁵⁵ndaŋ²⁴;qo⁰⁵ndɑŋ³⁵;ʔa⁰²nda³¹"
+nt	ⁿt	T	127	"ka³³nteŋ⁴⁴;ʔ⁰²zaŋ²⁴ntuŋ²⁴;zɑŋ³⁵ntoŋ³⁵;ku³³ntoŋ⁴⁴;tsɛ²²ntau⁴²"
+nɖ	ⁿɖ	T	1	ʔə⁰²nɖo⁵⁵ʁo³¹
+nʈ	ⁿʈ	T	5	"hou⁵⁵nʈau⁴³;tou⁴³nʈou¹³;lo²¹nʈua²¹;hou⁵⁵nʈau¹³;ki²⁴nʈaŋ⁴³"
+t$	t	T	0	
+tɬ	tɬ	T	72	"ʐaŋ³¹hou³³tɬe³³;qʰau⁵⁵tɬe³¹;ʔa³³lɦa³⁵tɬu⁵⁵;to³¹tɬjoŋ²⁴mo²²;pu⁵³tɬə²¹"
+tʃ	tʃ	T	24	"ʔtəu⁴²tʃəp⁴²;ŋ̩⁵³wei¹¹tʃɒŋ¹¹θeŋ³³;mɒ¹¹tʃen⁴⁴;teu⁵¹tʃuːi³³;tʃa³¹tʃɒi³⁵"
+tʰ	tʰ	T	114	"qʰa⁵⁵tʰjəu³³;ʔlaŋ¹³tʰu⁴²;mei²¹tʰan¹³;mei²²tʰɛ³⁵;mei³¹tʰan¹³"
+tθ	tθ	T	0	
+ɖɦ	ɖʱ	T	5	"ʔa³³ȵ̥u⁵⁵ɖɦu¹¹;ɢɦɯ³⁵ɖɦaɯ³⁵;ki³³ɖɦau³⁵;ki³³ɖɦau³⁵;ʔa⁵⁵ɖɦie¹¹tsʰau⁵⁵zau⁵⁵"
+ɳɖ	ⁿɖ	T	6	"ʁo²⁴ɳɖaŋ³¹;no³¹ɳɖɑŋ³⁵;qo⁰⁵ɳɖuŋ³¹;qo⁰⁵ɳɖa⁵⁵;qo⁰⁵ɳɖa⁵⁵"
+ɳʈ	ⁿʈ	T	19	"no¹³ɳʈa⁴²məŋ²²;wɔ²³²ɳʈoŋ³²;fau⁵⁵ɳʈo⁵⁵;kwɛ⁴⁴ɳʈɑ³⁵qa³⁵;ʔa⁰²ɣe¹³ɳʈau⁵³"
+ʈʰ	ʈʰ	T	7	"qo³⁵ʈʰei⁴⁴;zau⁵⁵ki³³ʈʰa³³;ʂau²²ʈʰi³¹;qo⁰⁵tsʰa³¹ʈʰəu²⁴ʔa⁰²men³¹;ka³¹ʈʰoŋ³¹"
+ʔt	ˀt	T	15	"gjai³⁵ʔtei⁴²;tun³⁵ʔtoːn³⁵;pin³³ʔtau³³;ka⁰²ʔtan³¹;tim³⁵ʔtaːu³³"
+^dɦ	dʱ	T	9	"dɦie³⁵;dɦey³¹;dɦo¹¹;dɦau³⁵;dɦi³¹"
+^dʒ	dʒ	T	20	"dʒi³¹;dʒim⁵¹;dʒoːp⁵⁵;dʒoːp⁵⁵pu⁵¹;dʒu⁵¹"
+^nd	ⁿd	T	6	"ndi³⁵;ndəu²⁴;ndu³⁵;ndu³⁵;ndəu²⁴"
+^nt	ⁿt	T	261	"nto³¹;ntoŋ⁵³;ntuŋ¹¹;ntõ¹³ʐõ³¹;ntõ²²võ²²"
+^nɖ	ⁿɖ	T	0	
+^nʈ	ⁿʈ	T	10	"nʈou⁴⁴qou²⁴;nʈua²¹;nʈua²¹;nʈou⁴⁴;nʈoŋ¹³"
+^tɬ	tɬ	T	138	"tɬaŋ⁴³ʔoŋ⁴⁴;tɬa⁴⁴ho⁵⁵ʔŋ¹³;tɬa³⁵;tɬe³¹;tɬe³¹"
+^tʃ	tʃ	T	122	"tʃi³⁵;tʃaːu⁵⁵;tʃaŋ⁵³;tʃəŋ⁵³;tʃeu³³"
+^tʰ	tʰ	T	400	"tʰjan⁵³ɕin⁵³tsi¹³;tʰjɔŋ³¹paŋ³³;tʰo⁴⁴;tʰɔ⁵³;tʰɔ⁵³ka⁰³lɔ³³"
+^tθ	tθ	T	1	tθə²²
+^ɖɦ	ɖʱ	T	0	
+^ɳɖ	ⁿɖ	T	3	"ɳɖɑ⁵⁵;ɳɖei³³;ɳɖe³¹"
+^ɳʈ	ⁿʈ	T	38	"ɳʈi¹³;ɳʈəŋ¹³;ɳʈaŋ³²huei³²;ɳʈaŋ²²;ɳʈə¹¹"
+^ʈʰ	ʈʰ	T	28	"ʈʰe³³;ʈʰoŋ³¹;ʈʰeu⁵⁵tɬe³¹;ʈʰə⁵³;ʈʰou⁴³"
+^ʔt	ˀt	T	48	"ʔtəu⁴²tʃəp⁴²;ʔtəu³¹;ʔtəu³¹ŋwat⁴²;ʔtei⁴²;ʔtoːn³⁵"
+mts	ⁿts	T	0	
+ndz	ⁿdz	T	9	"qo⁰⁵ndza³³;ʔə⁰²ndzɑ³¹;ʔə⁰²ndzɑŋ³¹lɑŋ³⁵;ŋɢɛ³¹ndza⁵⁵;ʔə⁰²ndzoŋ⁵⁵"
+ndɦ	ⁿdʱ	T	3	"so⁵⁵pi¹¹lɦai¹¹ndɦaɯ³⁵;m̥o³³ndɦu³⁵;pi⁵⁵ndɦai³¹"
+ndʒ	ⁿdʒ	T	0	
+nts	ⁿts	T	26	"hi⁵⁵ntsaɯ¹¹;qo³⁵ntsei⁵³;ʔa³³ntsau³³;ʔa³³ntsɿ⁵⁵dɦi¹¹;ʔa⁰²ntso²⁴wei⁵⁵"
+ntɬ	ⁿtɬ	T	1	pʰa⁴²ntɬəŋ¹³
+ntʃ	ⁿtʃ	T	13	"mɒ¹¹ntʃe¹¹;kai⁴⁴ntʃuŋ³³;nɒŋ¹¹ntʃei³⁵;mpa¹²ntʃo¹¹;məŋ³¹ntʃau³³"
+ntʰ	ⁿtʰ	T	2	"tsəŋ⁵³ntʰəŋ³³;tɕi⁴⁴ntʰa⁵³tɯ³⁵tɕu⁵³"
+ntθ	ⁿtθ	T	2	"ʔa⁰²ntθə⁴²kwa⁴²;tə⁰²ntθa²²"
+nʈʰ	ⁿʈʰ	T	0	
+tɬʰ	tɬʰ	T	4	"ton¹³tɬʰen¹³kau⁴⁴;tɬʰuŋ⁴⁴tɬʰuŋ⁴⁴;bja³¹tɬʰi⁵⁵;nɦa³¹tɬʰu³³"
+tʃʰ	tʃʰ	T	7	"mun³³tʃʰe¹¹;ka⁰²dai⁵¹tʃʰui⁵¹;gjai³⁵tʃʰaːi³¹;tʃun³³tʃʰoːŋ¹¹;lau³³tʃʰei¹¹"
+tθʰ	tθʰ	T	0	
+ȵdʑ	ⁿdʑ	T	21	"ʔə⁰²ȵdʑi³¹ji³⁵;ta⁰²ȵdʑo³¹;ʔə⁰²ȵdʑo³¹;ʔa⁰²ȵdʑe³¹len²⁴;ntʰɛ²⁴ȵdʑu³¹"
+ȵtɕ	ⁿtɕ	T	37	"paŋ⁵⁵ȵtɕo³⁵;qə⁰²ȵtɕə⁵⁵;qo⁴³ȵtɕou³¹;ʔaŋ³⁵ȵtɕu³³;ʔa⁰²ȵtɕə¹³"
+ɳɖɦ	ⁿɖʰ	T	0	
+ɳʈʰ	ⁿʈʰ	T	5	"qo⁰⁵ɳʈʰuŋ³¹;ʔə⁰²ɳʈʰoŋ³¹;ʔa⁵⁵ɳʈʰau⁵⁵;qo³⁵ɳʈʰu³⁵;ʔa⁰²ɳʈʰau³³"
+ⁿtɬ	ⁿtɬ	T	0	
+^mts	ⁿts	T	1	mtsɿ³³
+^ndz	ⁿdz	T	10	"ndzie³³;ndzaŋ³¹;ndzɑŋ³¹;ndzɑ³⁵;ndzen²⁴"
+^ndɦ	ⁿdʱ	T	2	"ndɦu³⁵;ndɦy³¹"
+^ndʒ	ⁿdʒ	T	0	
+^nts	ⁿts	T	65	"ntsa³¹məŋ⁴²pʰɔ³³;ntsua⁵⁵;ntsaŋ¹³to¹¹;ntsua²³²;ntse³⁵ntoŋ³⁵"
+^ntɬ	ⁿtɬ	T	7	"ntɬie⁵⁵;ntɬo⁵⁵;ntɬa⁴²;ntɬə²³¹;ntɬu²²"
+^ntʃ	ⁿtʃ	T	25	"ntʃen³³;ntʃa⁴⁴;ntʃa⁴⁴tei³⁵;ntʃei³⁵;ntʃa³¹"
+^ntʰ	ⁿtʰ	T	29	"ntʰei³¹;ntʰɛ²⁴ȵdʑu³¹;ntʰjuŋ³⁵;ntʰjou⁵³;ntʰaŋ⁴³"
+^ntθ	ⁿtθ	T	1	ntθe⁵³
+^nʈʰ	ⁿʈʰ	T	1	nʈʰoŋ⁴³
+^tɬʰ	tɬʰ	T	13	"tɬʰu³³;tɬʰuŋ⁴⁴tɬʰuŋ⁴⁴;tɬʰjuŋ³¹³;tɬʰe⁵⁵;tɬʰa¹¹"
+^tʃʰ	tʃʰ	T	35	"tʃʰe³¹mun³³;tʃʰa³³koːŋ³⁵;tʃʰuŋ⁴⁴;tʃʰoːŋ¹¹;tʃʰun³¹"
+^tθʰ	tθʰ	T	0	
+^ȵdʑ	ⁿdʑ	T	3	"ȵdʑe³¹ma²⁴;ȵdʑi³¹;ȵdʑe³¹"
+^ȵtɕ	ⁿtɕ	T	113	"ȵtɕe⁴⁴ʔou³³;ȵtɕe⁴⁴ko⁵³;ȵtɕɑŋ²²;ȵtɕou³¹;ȵtɕu⁵³"
+^ɳdʐ	ⁿdʐ	T	2	"ɳdʐai³¹;ɳdʐau³¹"
+^ɳɖɦ	ⁿɖʰ	T	2	"ɳɖɦa¹¹;ɳɖɦu³¹qɯ⁵⁵"
+^ɳʈʰ	ⁿʈʰ	T	4	"ɳʈʰo⁵³;ɳʈʰa³¹ʐe²³¹;ɳʈʰie⁵⁵;ɳʈʰie⁵⁵"
+^ⁿtɬ	ⁿtɬ	T	0	
+ndzɦ	ⁿdzʱ	T	3	"ti⁵⁵ndzɦa¹¹;ʔa⁵⁵ndzɦaɯ¹¹;ki⁵⁵ndzɦau³¹"
+ntsʰ	ⁿtsʰ	T	10	"tə⁰²ntsʰen⁴⁴;tə⁰²ntsʰen⁴⁴;ʔə⁰²ntsʰɑŋ⁵⁵;qo³⁵ntsʰɯ⁴⁴;qo⁰⁵sə⁵⁵tə⁰²ntsʰa³¹"
+ntɕʰ	ⁿtɕʰ	T	0	
+ntʃʰ	ⁿtʃʰ	T	0	
+ntθʰ	ⁿtθʰ	T	1	kjəŋ⁴²ntθʰəŋ³³
+ȵdʑɦ	ⁿdʑʱ	T	4	"ʔa³³ȵdʑɦau³⁵;tɬau⁵⁵ʔa³³ȵdʑɦau³⁵;ʔau⁵⁵ȵdʑɦau³⁵;ʔa⁵⁵ȵdʑɦi³⁵"
+ȵtɕʰ	ⁿtɕʰ	T	8	"ʔa⁰²ȵtɕʰu²⁴;ʔə⁰²ȵtɕʰu⁵⁵;paŋ⁴⁴ȵtɕʰo⁴⁴;paɯ³³ȵtɕʰo³³;qo³⁵ȵtɕʰo⁵³"
+ȵ̩tɕ	ⁿtɕ	T	0	
+^ndzɦ	ⁿdzʱ	T	2	"ndzɦa³⁵;ndzɦaɯ³⁵"
+^ntsʰ	ⁿtsʰ	T	34	"ntsʰai³³;ntsʰai¹¹;ntsʰəŋ⁵³;ntsʰan¹³;ntsʰaŋ⁵⁵mi⁵⁵"
+^ntɕʰ	ⁿtɕʰ	T	0	
+^ntʃʰ	ⁿtʃʰ	T	9	"ntʃʰi⁵³;ntʃʰaŋ³⁵;ntʃʰeŋ⁴⁴;ntʃʰai⁴⁴;ntʃʰo⁵⁵ʔɒŋ⁴⁴"
+^ntθʰ	ⁿtθʰ	T	1	ntθʰə³³
+^ȵdʑɦ	ⁿdʑʱ	T	2	"ȵdʑɦey¹¹;ȵdʑɦau¹¹"
+^ȵtɕʰ	ⁿtɕʰ	T	13	"ȵtɕʰey⁵⁵;ȵtɕʰi⁴⁴;ȵtɕʰe³¹³;ȵtɕʰaŋ⁵⁵;ȵtɕʰoŋ⁴²"
+^ȵ̩tɕ	ⁿtɕ	T	2	"ȵ̩tɕi²⁴;ȵ̩tɕi²⁴"
+^ɳdʐɦ	ⁿdʐʱ	T	1	ɳdʐɦa¹¹
+o	o	U	3836	"qo⁰⁵ŋɢwaŋ³¹;nto³¹;ntoŋ⁵³;kwan¹³ŋo³¹;tɕi³¹ŋkoŋ¹³"
+õ	õ	U	134	"tə⁰²ʔõ⁴²;ʐã⁵⁵hə⁴²ʔõ²⁴;ʔõ²⁴tə⁰²po⁴²;qʰõ¹³;lõ⁴²"
+ø	ø	U	7	"ʔə⁰²m̥ø³¹;jøŋ³¹ȵdʑe³⁵;tɕin³¹mbø⁵⁵;pø³¹;jø³¹"
+ɔ	ɔ	U	958	"pɔ¹¹nei⁴⁴;nɔ²²kɔ⁵⁵;nɔ²²kɔ⁵⁵;pɔ¹¹la³³;ʐaŋ⁵³tɕua⁴⁴tɕɔ⁴⁴"
+^o	o	U	1	o²⁴ʐo³³
+o$	o	U	0	
+oi	oi	U	48	"soi²⁴;doi⁵³;moi⁵⁵;sa⁴⁴ʑau⁵³moi⁴⁴;njaŋ⁵⁵poi³³"
+ou	ɔ	U	318	"ʔou⁵³;ʐaŋ³¹hou³³tɬe³³;hou²⁴;ȵtɕe⁴⁴ʔou³³;tʂʰou⁵⁵"
+oː	oː	U	163	"pu³¹ʔoːŋ³³;toːŋ¹¹;soːŋ³³;toːŋ¹¹;koːŋ⁵³"
+øe	øe	U	16	"søe³¹;ʔøe³³;tɕɯ⁴²ʔøe³³;køe⁵⁵;køe⁵⁵ʔŋ̩³³"
+ɔi	ɔi	U	17	"kɔ⁴²dɔi³⁵;dɔi³¹;tɔi²⁴kʰən³⁵;n̥ɔi³³;n̥ɔi³³n̥ɔi³³"
+^ou	ɔ	U	0	
+^oː	oː	U	0	
+oːi	oːi	U	36	"pu³¹n̥oːi³³;pe⁵¹noːi¹¹;pa³¹kloːi³⁵;tɕu³¹tsʰoːi²⁴;fun³¹doːi³¹"
+oːu	oːu	U	6	"ʔpoːu⁵¹;dʒoːu⁵⁵;ʔtoːu³¹doːŋ³³;ŋoːu³¹ȵut⁴²;gjoːu³¹"
+w	w	W	127	"qo⁰⁵ŋɢwaŋ³¹;ʔə⁰²ŋɢwɑŋ³¹;ʔa⁰³waŋ³³;la⁰³waŋ³³;ŋkwaŋ³³"
+^w	w	W	101	"wu¹³;wau³⁵ku³⁵;we⁵³;wa²¹;we⁵³"
+wɦ	wʱ	W	0	
+ʔw	ˀw	W	8	"ʔa⁰²ʔwa⁵⁵;ʔə⁰²ʔwɑ⁵⁵;tə⁰²ʔwɛ³³qɛ³¹;tə⁰²ʔwæ³¹;qo⁰⁵ʔwen³¹"
+^wɦ	wʱ	W	1	wɦaɯ³⁵zau⁵⁵
+^ʔw	ˀw	W	2	"ʔwei⁵⁵;ʔwɑ⁵⁵tsɑ⁵⁵"
+u	u	Y	3443	"ndɦu³⁵;ŋkuŋ⁵⁵;luŋ³¹;guŋ³³;n̥u⁵⁵"
+y	y	Y	127	"jo²¹y²¹;pi⁵⁵ly⁵³;ʔa⁰²tsʰy⁵⁵;ʔa⁵⁵gy⁵⁵;ʔa⁵⁵dʑy⁵⁵"
+^u	u	Y	1	uŋ⁴²nin³¹ɬa²⁴
+^y	y	Y	4	"yn³¹təɯ⁵³;yn³¹³;y³¹lin³¹ka³¹;y⁵³teu³³"
+ui	ui	Y	202	"lui³¹;soŋ⁴⁴sui⁵⁴;buŋ²¹sui⁵³;lu³²mui³²;mui³¹"
+uː	uː	Y	14	"kja⁵⁵ʔuːm³⁵;ʔuːm³⁵;ʔuːm³³;ʔuːm³⁵;duːŋ³⁵"
+^uː	uː	Y	0	
+uːi	uːi	Y	9	"puːi³¹;teu⁵¹tʃuːi³³;ŋuːi⁴²ʔuoːm³⁵;tʃʰuːi¹¹;tʃʰuːi¹¹"
+uːo	uːo	Y	1	ʔuːom³⁵bei⁵⁵
+_	+	_	0	
+¹³_	+	_	0	
+ᶠ	ᶠ/⁰ +	1 _	5	"kæ̃ᶠɣæ²²;doᶠ;qæ̃ᶠɣa⁴⁴;muᶠjoŋ¹³;ʔȵiᶠ"
+²²	²² +	1 _	365	"nɔ²²kɔ⁵⁵;vuŋ²²heu³⁵ʔeu²⁴;pje⁵⁵fu²²kʰɔ³⁵;so²²ɭe²¹;ljɑ²²so³⁵"
+¹¹	¹¹ +	1 _	178	"pɔ¹¹nei⁴⁴;pɔ¹¹la³³;so⁵⁵pi¹¹lɦai¹¹ndɦaɯ³⁵;so⁵⁵pi¹¹lɦai¹¹ndɦaɯ³⁵;ko¹¹nei³³"
+²⁴	²⁴ +	2 _	360	"qei²⁴qei²⁴;ʔeu²⁴ʑin²²;lai²⁴so⁴³;sʰə²⁴le⁵⁵;lja²⁴fu¹³"
+³⁴	³⁴ +	2 _	0	
+³⁵	³⁵ +	2 _	945	"tɑ³⁵pʐɑ³⁵n̥e³⁵;tɑ³⁵pʐɑ³⁵n̥e³⁵;qʰa³⁵n̥ei⁵³;qʰoŋ³¹ʔaŋ³⁵n̥ei³⁵;qe³⁵ɬɑ⁵³"
+¹²	¹² +	2 _	22	"bat¹²dziu³³;ko¹²kle⁵⁵;ʃe¹²kai⁴⁴;mpa¹²ntʃo¹¹;me¹²ʍa⁴⁴"
+¹³	¹³ +	2 _	545	"kwan¹³ŋo³¹;kwan¹³la⁵⁴;sen¹³tsai⁰⁴;bi¹³ljaŋ¹³;lu¹³suei³⁵"
+³⁵³⁵	³⁵ +	2 _	1	ntɒŋ³⁵³⁵mpjau³¹
+²¹	²¹ +	3 _	166	"n̥i²¹tau³¹;jo²¹y²¹;buŋ²¹sui⁵³;pə²¹soŋ⁴⁴;mei²¹tʰan¹³"
+³²	³² +	3 _	120	"lə³²ŋa³²;pu³²lu¹³;lu³²mui³²;pi⁵⁵ljaŋ³²taŋ²¹;kaŋ³²ʑu⁵⁵"
+³¹	³¹ +	3 _	1133	"tɕi³¹ŋkoŋ¹³;qʰoŋ³¹ʔaŋ³⁵n̥ei³⁵;pu³¹n̥oːi³³;ye³¹ljaŋ³¹;taŋ³¹qaŋ³¹"
+⁴²	⁴² +	3 _	321	"ma⁴²n̥aŋ³³;ʐã⁵⁵hə⁴²ʔõ²⁴;ntsa³¹məŋ⁴²pʰɔ³³;ʔtəu⁴²tʃəp⁴²;ta⁴²m̩²⁴"
+⁴³	⁴³ +	3 _	76	"n̥o⁴³qo⁴³;tɬaŋ⁴³ʔoŋ⁴⁴;ʂua⁴³tsi⁵⁵;so⁴³vaŋ³¹;ʔa⁴³lou²¹"
+⁴¹	⁴¹ +	3 _	1	ʔøe³³ȵtɕa⁴¹køe⁴⁴
+⁵²	⁵² +	3 _	0	
+⁵³	⁵³ +	3 _	634	"pja⁵³vei³¹;ʔa⁵³nai⁴⁴;la⁵³gwaŋ³³;tʰjan⁵³ɕin⁵³tsi¹³;tʰjan⁵³ɕin⁵³tsi¹³"
+⁵¹	⁵¹ +	3 _	26	"pe⁵¹noːi¹¹;mun³³ʃei⁵¹kjin³⁵;ka⁵¹koŋ³⁵;ka⁵¹bo³¹;pjei⁵¹kʰu¹¹pjei³⁵"
+⁵⁴	⁵⁴ +	3 _	30	"kɒ⁵⁴koŋ⁵⁴;kɒ⁵⁴pa¹³;kʰo⁵⁴mo³²;xji⁵⁴fu³³;ta²¹fan⁵⁴kan⁴⁴"
+³³	³³ +	4 _	1166	"qa³³ʑi²²;qʰaŋ³³nei²⁴;ha³³no⁴⁴;tɛ³³qɛ³³;ʔləu³³li¹³"
+³³³	³³ +	4 _	1	qa³³puẽ³³³mjaŋ²²
+⁴⁴	⁴⁴ +	5 _	776	"la⁴⁴la⁴⁴;tei⁴⁴qei⁴⁴;ɬiŋ⁴⁴tai⁵⁴;hut⁴⁴neŋ⁴⁴;cɑ⁴⁴tu⁵³"
+⁵⁵	⁵⁵ +	5 _	985	"n̥u⁵⁵qu⁵⁵;haɯ⁵⁵po¹¹;ʐã⁵⁵hə⁴²ʔõ²⁴;ɣoŋ⁵⁵hə⁵³ʔə³³;kuŋ⁵⁵kaŋ⁵⁵"
+⁰²	⁰/² +	6 _	806	"ʔə⁰²ŋɢwɑŋ³¹;ʔə⁰²n̥ɑ³¹;ʔa⁰²ɬa²⁴;ʔə⁰²ɬɑ³⁵;qə⁰²ɬa⁴²"
+⁰³	⁰/³ +	6 _	458	"ʔa⁰³waŋ³³;la⁰³waŋ³³;la⁰³n̥e³⁵;ʔa⁰³ɬa⁵⁵;la⁰³ɬa⁵⁵"
+⁰⁴	⁰/⁴ +	6 _	55	"la⁰⁴gwaŋ³¹³;la⁰⁴ni¹³;la⁰⁴la³⁵;la⁰⁴vuŋ⁵³;la⁰⁴bo³⁵"
+⁰⁵	⁰/⁵ +	6 _	167	"qo⁰⁵ŋɢwaŋ³¹;qo⁰⁵na³¹;qo⁰⁵mpaŋ²⁴;qo⁰⁵zo⁵⁵;pə⁰⁵te³¹"
+²³²	²³² +	6 _	8	"wɔ²³²ɳʈoŋ³²;hoŋ²³²ntə⁴⁴;laŋ²³²wa²²;soŋ²³²mplu²¹;hoŋ²³²so³⁵"
+²³¹	²³¹ +	6 _	25	"təu²³¹sjəu²⁴;təu²³¹mje²²;mpəŋ²³¹pla³³;pə²³¹tau³¹;po²³¹du⁵⁵"
+²¹²	²¹² +	6 _	13	"ta²¹²meŋ⁵³;peŋ²¹²peŋ²¹²;maŋ²¹²mi⁵³;maŋ²¹²qaŋ²¹²;tɕei²¹²teu⁴⁴"
+²⁴¹	²⁴¹ +	6 _	15	"tiŋ²⁴to²⁴¹to¹³;teu²⁴¹ta³⁵;ɣei²⁴¹neu²²;ɣei²⁴¹kan¹³ɬju¹³;qa³³tɕi²⁴¹teu⁴⁴"
+³²³	³²³ +	6 _	0	
+³¹²	³¹² +	6 _	0	
+³¹³	³¹³ +	6 _	79	"mei³¹³tʰon⁵⁵;ȵa³¹³pa³¹³;mai³¹³tsai⁰⁴;ʔa³¹³tsɿ⁰³;na³¹³gwa³⁵"
+¹³¹	¹³¹ +	6 _	0	
+vz	v z	B S	1	tə⁰²vzaŋ³¹
+^vz	v z	B S	2	"vzaŋ³¹;vzaŋ³³"
+ȵ̩	*/ə ȵ̍/ȵ	E N	5	"nai³⁵ȵ̩³¹;pa⁵⁵ȵ̩³¹;tei⁵³ȵ̩³¹;ki⁰³ki⁵³ȵ̩³¹;ki⁰³tɕo³³ȵ̩³¹"
+ ̩ȵ	*/ə ȵ̍/ȵ	E N	0	
+ŋ̥ŋ	*/ə ŋ̍/ŋ	E N	1	pa⁰³ŋ̥ŋ³⁵
+^xw	x w	G W	12	"xwan²⁴;xwaŋ⁵³kwa³³;xwa⁴²;xwa⁵³;xwa⁵³"
+^χw	χ w	G W	1	χwaŋ³¹
+hw	h w	H W	6	"lu³¹hwɑ⁴⁴sen⁴⁴;qo³⁵mpe³⁵hwei⁴⁴mjɛ³⁵;mi³¹hwa³⁵;tɕɑŋ⁴⁴hwɑŋ³⁵;qo³⁵tɕo⁴⁴ȵɯ⁴²mi³¹hwɑ³⁵"
+^hw	h w	H W	5	"hwai⁵⁵mjan¹³;hwɑŋ⁴⁴;hwa³⁵;hwe⁵³;hwei³³"
+ia	i/j a	J A	55	"zoŋ²²miat⁴⁴;ku⁴⁴ŋia²¹;ʔləu³³liaŋ³⁵;via⁴⁴;sia³¹"
+iɑ	i/j ɑ	J A	0	
+ya	y/ɥ a	J A	3	"tɕyan⁵⁵;səɯ⁵⁵tsʰyan⁵³;tɕyan⁵³"
+iau	i/j au	J A	3	"miau¹³;tɕi¹³ȵei³¹miau¹³;tiau¹³"
+iɑu	i/j ɑu	J A	1	ʔə⁰²pʰiɑu³¹
+jua	ɥ a	J A	2	"ljua²⁴¹;tɬjua⁴⁴"
+ie	i/j e	J E	83	"siek³⁵;mien¹³;lɦie³⁵;ʔə⁰²tsʰie⁵⁵;ndzie³³"
+ye	y/ɥ e	J E	5	"tsen⁵³ye¹³;ə³⁵ye¹³;san⁵⁵ye¹³;tuŋ⁵³ye¹³;la¹³ye¹³"
+yɛ	y/ɥ ɛ	J E	1	qo⁰⁵tɕyɛ³³
+^ye	y/ɥ e	J E	1	ye³¹ljaŋ³¹
+^yɛ	y/ɥ ɛ	J E	0	
+ieu	i/j eu	J E	7	"zieu²²;mieu²²;ni²²sieu³³;tɕieu³³;tsieu⁴⁴men⁵³"
+iəu	i/j əu	J E	4	"ʔviəu²²;ziəu³⁵;tiəu¹³;tiəu³³sɿ⁴⁴"
+juə	ɥ ə	J E	10	"sɛ³³tjuə⁴²;djuə³³;tjuə⁴²;tjuə³³;tjuə³¹"
+yĩ	y/ɥ ĩ	J I	0	
+yo	y/ɥ o	J U	0	
+iu	i/j u	J Y	10	"bat¹²dziu³³;waŋ⁴²ɕiu⁵³laŋ⁴²;ne³¹tsʰiu⁵⁵;xai⁵³tɕiu³³;tiu²²"
+jiu	ji/j u	J Y	1	tsjiu²⁴
+gwj	g wj/ɥ	K J	0	
+kwj	k wj/ɥ	K J	0	
+^gwj	g wj/ɥ	K J	2	"gwjaŋ³³;gwjun³³"
+^kwj	k wj/ɥ	K J	5	"kwje²⁴;kwjaŋ³³;kwjaŋ²⁴;kwje²³¹taːi³¹;kwjɛn³¹"
+gl	g l	K L	0	
+kl	k l	K L	17	"hu⁴⁴kli⁴⁴ŋklai⁵⁵;pa³¹kloːi³⁵;ka³³kla⁵³;ko¹²kle⁵⁵;tin⁴²klaŋ³⁵"
+^kl	k l	K L	51	"klə³³;kla³⁵ʔən³³;kla³⁵;kli⁴⁴;klaːŋ³⁵"
+gw	g w	K W	7	"la⁰⁴gwaŋ³¹³;la⁵³gwaŋ³³;na³¹³gwa³⁵;po²³¹du⁵⁵gwai²⁴;tɕi³³gwan³³"
+kw	k w	K W	95	"ku⁵⁵kwaŋ⁴⁴;pu⁵³kwe³³;tu³³kwa⁴²;ɬei⁴⁴kwe¹¹;kji³³kwa³³"
+qw	q w	K W	30	"te³⁵qwen³⁵;tɑ³⁵qwei³⁵;ki⁰³qwa⁵⁵;qo³⁵qwɑ⁴⁴;ki⁰³qwa⁵⁵"
+ɢw	ɢ w	K W	0	
+^gw	g w	K W	18	"gwan³³;gwai²⁴;gwan³³m̥ja³⁵pla³⁵;gwai⁴²;gwaŋ³⁵"
+^kw	k w	K W	177	"kwan¹³ŋo³¹;kwaŋ³¹;kwan¹³la⁵⁴;kwan¹³tai¹³;kwen⁵⁵tsʰe³¹pɔ³¹"
+^qw	q w	K W	28	"qwai⁵³;qwai⁵⁵;qwɑŋ²²cɯ⁵³tsʰa³⁵;qwɑŋ²²;qwaŋ⁵⁵"
+^ɢw	ɢ w	K W	1	ɢwa³⁵
+kʰw	kʰ w	K W	12	"ne³¹kʰwi³³;bli⁴²kʰwat⁵³;kɔ⁴²kʰwat⁵³;ka⁰²dai⁵¹kʰwat¹¹;kɔ⁴²kʰwat⁵³"
+nqw	ⁿq w	K W	0	
+qʰw	qʰ w	K W	2	"tɕin³¹qʰwɑŋ⁵⁵;ʔə⁰²qʰwen⁵⁵"
+ŋɢʷ	ⁿɢ w	K W	0	
+^kjw	kʲ w	K W	1	kjwaŋ⁵³
+^kʰw	kʰ w	K W	35	"kʰwat¹³;kʰwat⁵⁵;kʰwa⁵³;kʰwa⁵³te⁵⁵taŋ²²;kʰwa⁵³te⁵⁵ki³⁵"
+^nqw	ⁿq w	K W	1	nqwɑ⁵³
+^qʰw	qʰ w	K W	1	qʰwɑŋ³¹
+^ŋɢʷ	ⁿɢ w	K W	0	
+^m̥m	m̥ m̩	M M	0	
+mʐ	m ʐ	M S	11	"pɑ⁴⁴mʐə⁴²;ʈoŋ³¹mʐɯ³¹;qɑ⁴⁴mʐə⁴²;toŋ³²mʐe⁵⁵;tɑ³⁵mʐɛ³⁵"
+^mʐ	m ʐ	M S	9	"mʐə⁵³;mʐɯ²²coŋ³⁵;mʐɑ⁴²;mʐo³⁵;mʐei⁴²"
+^me⁴²ŋ̩³³	ŋ̍ ³³	N 4	0	
+ŋw	ŋ w	N W	11	"ʔtəu³¹ŋwat⁴²;tau⁵⁵ŋwaːt¹¹;feŋ⁵³ŋwe²²;ŋwa³¹koːŋ³⁵ŋwei³¹;pjo³¹³ŋwa¹¹"
+^ŋw	ŋ w	N W	21	"ŋwei⁴²blau⁴²;ŋwan⁵¹;ŋwaŋ³³;ŋwei⁴²;ŋwa¹³pʰe⁴⁴"
+n̥u	n̥ u	N Y	1	tsʰa³³n̥u⁵⁵
+bl	b l	P L	5	"ŋwei⁴²blau⁴²;koŋ³³bleu³¹;gjiːŋ³³blau³³;mei⁵¹blat⁴²;m̥i³⁵blat²¹"
+pl	p l	P L	34	"tə⁰²pleu³¹u⁵⁵;tə⁰²pleu³¹xu⁵⁵;ŋkau⁵³ple⁴⁴;mbja³³tə⁰²pləu³¹χu⁵⁵;mpəŋ²³¹pla³³"
+^bl	b l	P L	15	"blə⁴²;bli⁴²kʰwat⁵³;blau³¹kau⁴²tsaŋ³⁵;blit²¹;blət⁴²"
+^pl	p l	P L	70	"pli⁴⁴wi³³;pli³⁵;plou⁴³hou⁴⁴;plo²⁴;plɔ³²wɔ³⁵"
+npl	ⁿp l	P L	0	
+^npl	ⁿp l	P L	0	
+nplw	ⁿp lʷ	P L	0	
+^nplw	ⁿp lʷ	P L	0	
+mplua	ⁿp lu/lʷ	P L	0	
+^mplua	ⁿp u/lʷ	P L	0	
+pʐ	p ʐ	P S	15	"tɑ³⁵pʐɑ³⁵n̥e³⁵;ko⁴⁴pʐei⁴⁴;qɑ⁴⁴pʐu⁴⁴;ɬe³⁵pʐei⁴⁴;qʰu⁴⁴pʐɯ⁴⁴"
+^pʐ	p ʐ	P S	30	"pʐə¹³;pʐei²¹;pʐæ⁴²ŋkə⁵³;pʐæ⁴²ʑaŋ⁴²;pʐæ⁴²"
+mpʐ	ⁿp ʐ	P S	6	"toŋ³²mpʐə¹³;ɬei⁴⁴mpʐe¹¹;kua³²mpʐɔ²¹;pu⁴²mpʐɪ²¹;ȵtɕæ³²mpʐəu⁵⁵"
+pʰʐ	pʰ ʐ	P S	1	qo³⁵ʈoŋ³¹pʰʐo³⁵tə²²
+^mpʐ	ⁿp ʐ	P S	12	"mpʐæ⁵³;mpʐəu⁵⁵;mpʐe¹¹;mpʐe¹¹na³²;mpʐe¹¹tɕəu²²"
+^pʰʐ	pʰ ʐ	P S	1	pʰʐo³⁵
+^mpʐu	ⁿp u/ʐʷ	P S	1	mpʐua⁵³
+mpʐua	ⁿp ʐu/ʐʷ	P S	0	
+ʁw	ʁ w	R W	5	"ʔa⁰²vjɛ⁵⁵ʁwen³¹;qo⁰⁵lɑ³¹ʁwen³¹;tə⁰²ʁwen³¹;tə⁰²ʁwen³¹;tə⁰²ʁwen³¹"
+^ʁw	ʁ w	R W	3	"ʁwen³¹;ʁwen³¹;ʁwen³¹"
+dl	d l	T L	3	"la⁰⁴dli⁵³;son⁴⁴dlo⁵³;ŋɢɦai³⁵dlo³¹"
+tl	t l	T L	0	
+^dl	d l	T L	4	"dla⁵⁵;dlau¹³;dlo³¹;dlai⁵⁵"
+^tl	t l	T L	0	
+dlj	d lʲ	T L	3	"ʔŋ̩¹³dljeu³¹³;dljuŋ³¹³dljuŋ³¹³;pji⁴⁴dljeu⁵³"
+dlɦ	dʱ l	T L	5	"tsɿ³³dlɦa³⁵;zau⁵⁵dlɦo³⁵;ʔa³³dlɦi³⁵ki⁵⁵mpa⁵⁵;ʔa³³dlɦau³⁵;qʰɯ⁵⁵ʔa³³dlɦau³⁵"
+ndl	ⁿd l	T L	0	
+ntl	ⁿt l	T L	0	
+^dlj	d lʲ	T L	5	"dljuŋ³¹³dljuŋ³¹³;dljuŋ³¹³tɕi³¹;dljen⁴⁴;dljuŋ²²;dljuŋ²²"
+^dlɦ	dʱ l	T L	3	"dlɦi³⁵;dlɦaɯ³⁵zɦo¹¹;dlɦi³⁵"
+^ndl	ⁿd l	T L	2	"ndlo⁵³;ndla³¹"
+ndlɦ	ⁿdʱ l	T L	7	"ʔa⁵⁵ndlɦai¹¹;ʔa⁵⁵ndlɦa¹¹;ʔa³³ndlɦau³⁵ntau³³;ʑu⁵⁵ndlɦi³⁵;ndlɦi³⁵ndlɦau³¹"
+^ndlɦ	ⁿdʱ l	T L	9	"ndlɦi³⁵;ndlɦi³⁵;ndlɦi³⁵ndlɦau³¹;ndlɦo³⁵mpa³³;ndlɦo³⁵zau⁵⁵"
+ua	u/w a	W A	287	"ʐaŋ⁵³tɕua⁴⁴tɕɔ⁴⁴;tɕua⁴⁴;ʂua⁴³tsi⁵⁵;ntʂua²⁴;ntsua⁵⁵"
+uã	u/w ã	W A	1	tsuã⁵⁵
+uɑ	u/w ɑ	W A	0	
+^wua	w ua/a	W A	2	"wua³²pʐaŋ³⁵;wua⁴²"
+ue	u/w e	W E	82	"tue³³;kuæ̃⁴⁴tue⁴⁴;ɬue²¹nin²²;nue²¹;te²²nue²¹"
+uæ	u/w æ	W E	14	"kuæ⁴⁴;kuæ⁴⁴qa³³pja²²;kuæ⁴⁴qa³³ŋe⁴⁴;na⁵⁵kuæ⁴⁴;pei¹³kuæ⁴⁴ʔeu⁴⁴"
+uə	u/w ə	W E	74	"luə³¹;pʰuəŋ¹³;suəŋ³³;muəŋ²²miŋ⁴²;duə³³tsaŋ³⁵"
+uẽ	u/w ẽ	W E	6	"pa⁴⁴tɕʰuẽ⁵⁵;qa³³puẽ³³³mjaŋ²²;ɕʰuẽ¹³;tɕuẽ²²ni⁵⁵;tuẽ³³na¹³"
+uei	u/w ei	W E	26	"lu¹³suei³⁵;nau⁵⁵suei⁵⁵;nau¹³suei¹³;huei³²tɕə¹³;huei³²"
+uæ̃	u/w æ̃	W E	8	"kuæ̃⁴⁴tue⁴⁴;tɕɔ⁴⁴kuæ̃⁴⁴;pɔ¹¹ɕuæ̃⁴⁴;pɔ¹¹ɕuæ̃³³;kuæ̃¹³"
+uəi	u/w əi	W E	1	ʔuəi³³
+uo	u/w o	W U	1	kuo⁴⁴ntə⁴²
+uoː	u/w oː	W U	5	"ʔuoːm³³dzui³¹;tʃan³³ʔuoːm³⁵;ʔuoːm³³mui²¹;ŋuːi⁴²ʔuoːm³⁵;gjai³⁵ʔuoːm³⁵"
+^ua	u a	Y A	0	
+^ue	u e	Y E	0	
+^wjaŋ	wj/ɥ a ŋ	J A N	1	wjaŋ³¹
+^wjɛn	wj/ɥ ɛ n	J E N	1	wjɛn⁵³
+m̥m	m̥ */ə m̩/m	M E M	1	tsjep²²m̥m³³
+^ŋ̩³⁵	ŋ̍ ³⁵ +	N 2 _	0	
+^ȵ̩	ȵ */ə ȵ̍/ȵ	N E N	4	"ȵ̩³¹;ȵ̩³¹dei³¹;ȵ̩³¹ki⁰³kʰo⁵³ta³³;ȵ̩³⁵n̥ei⁵³"
+ʔŋ̩	ˀŋ */ə ŋ̍/ŋ	N E N	6	"kʰə³³mui³²ʔŋ̩⁴⁴;ki⁵⁵mo³²ʔŋ̩⁴⁴;mu⁵⁴ʔŋ̩⁴⁴;køe⁵⁵ʔŋ̩³³;tu²²ʔŋ̩³⁵"
+^ ̩ȵ	ȵ */ə ȵ̍/ȵ	N E N	0	
+^ŋ̥ŋ	ŋ */ə ŋ̍/ŋ	N E N	0	
+^ʔŋ̩	ˀŋ */ə ŋ̍/ŋ	N E N	19	"ʔŋ̩¹³lau⁵³ɕi⁴⁴;ʔŋ̩⁴⁴te⁴⁴;ʔŋ̩¹³;ʔŋ̩⁴⁴;ʔŋ̩¹³dljeu³¹³"
+nutŋ	n u tŋ/ŋ	N Y N	1	qo⁰⁵nutŋ²⁴
+ȵtɕi²⁴	ⁿtɕ i ²⁴	T I 2	0	
+^ȵtɕi²⁴	ⁿtɕ i ²⁴	T I 2	1	ȵtɕi²⁴
+fŋ⁵⁵$	f */ə ŋ ⁵⁵	B E N 5	1	kon¹³fŋ⁵⁵
+hŋ³¹³$	h */ə ŋ ³¹³	H E N 6	1	ma⁵³hŋ³¹³
+^kŋ¹³	k */ə ŋ ¹³	K E N 2	1	kŋ¹³
+kŋ³⁵$	k */ə ŋ ³⁵	K E N 2	2	"ʑa¹³kŋ³⁵;ʔa⁰⁴kŋ³⁵"
+^kŋ³¹³	k */ə ŋ ³¹³	K E N 6	1	kŋ³¹³
+kŋ²³¹$	k */ə ŋ ²¹³	K E N 6	1	lau³⁵kŋ²³¹
+kŋ³¹³$	k */ə ŋ ³¹³	K E N 6	1	ka¹³kŋ³¹³
+kʰom$	kʰ o m ⁰	K U M 6	1	tə³¹kʰom
+m̩²⁴$	m */ə m̩/m ²⁴	M E M 2	2	"ta⁴²m̩²⁴;mai⁵³m̩²⁴"
+m̥m³⁵$	m̥ */ə m̩/m ³⁵	M E M 2	0	
+m̩²¹$	m */ə m̩/m ²¹	M E M 3	0	
+m̩³¹$	m */ə m̩/m ³¹	M E M 3	2	"sa⁵³m̩³¹;qaŋ³⁵m̩³¹"
+m̩⁴²$	m */ə m̩/m ⁴²	M E M 3	0	
+m̩⁵³$	m */ə m̩/m ⁵³	M E M 3	0	
+m̩³³$	m */ə m̩/m ³³	M E M 4	0	
+m̩⁴⁴$	m */ə m̩/m ⁴⁴	M E M 5	0	
+m̩⁵⁵$	m */ə m̩/m ⁵⁵	M E M 5	0	
+^naːŋ_	n aː ŋ ⁰	N A N 6	0	
+ŋ̩²²$	ŋ */ə ŋ̍ ²²	N E N 1	0	
+ŋ̥ŋ²²$	ŋ̊ */ə ŋ ²²	N E N 1	0	
+n̩³⁵$	n */ə n̩/n ³⁵	N E N 2	0	
+n̩¹³$	n */ə n̩/n ¹³	N E N 2	0	
+ŋ̩²⁴$	ŋ */ə ŋ̍ ²⁴	N E N 2	0	
+ŋ̥ŋ²⁴$	ŋ̊ */ə ŋ ²⁴	N E N 2	0	
+ŋ̥ŋ¹³$	ŋ̊ */ə ŋ ¹³	N E N 2	0	
+n̩³¹$	n */ə n̩/n ³¹	N E N 3	0	
+n̩⁵³$	n */ə n̩/n ⁵³	N E N 3	0	
+ŋ̩³²$	ŋ */ə ŋ̍ ³²	N E N 3	0	
+ŋ̩⁵³$	ŋ̍ */ə ŋ ⁵³	N E N 3	0	
+ŋ̥ŋ³¹$	ŋ̊ */ə ŋ ³¹	N E N 3	1	ʔa⁰³ŋ̥ŋ³¹
+ŋ̥ŋ⁵³$	ŋ̊ */ə ŋ ⁵³	N E N 3	2	"vjaŋ⁵³ŋ̥ŋ⁵³;mɔ⁵³kun³³ŋ̥ŋ⁵³"
+n̩³³$	n */ə n̩/n ³³	N E N 4	0	
+ŋ̥ŋ³³$	ŋ̊ */ə ŋ ³³	N E N 4	0	
+n̩⁵⁵$	n */ə n̩/n ⁵⁵	N E N 5	0	
+ŋ̥ŋ⁴⁴$	ŋ̊ */ə ŋ ⁴⁴	N E N 5	0	
+^nen_	n e n ⁰	N E N 6	0	
+ŋ̥ŋ²³¹$	ŋ̊ */ə ŋ ²³¹	N E N 6	0	
+ŋ̥ŋ³¹³$	ŋ̊ */ə ŋ ³¹³	N E N 6	1	heu³⁵ŋ̥ŋ³¹³
+^ŋ̥jɒ³⁵	ŋ̊ j ɒ ³⁵	N J O 2	0	
+^ŋ̥jo⁵³	ŋ̊ j o ⁵³	N J U 3	0	
+pŋ⁵⁵$	p */ə ŋ ⁵⁵	P E N 5	0	
+^hŋ³¹³	h */ə ŋ ³¹³ +	H E N 6 _	1	hŋ³¹³kwa¹³
+kŋ³⁵	k */ə ŋ ³⁵ +	K E N 2 _	0	
+m̩²⁴	m */ə m̩/m ²⁴ +	M E M 2 _	0	
+m̩³⁵	m */ə m̩/m ³⁵ +	M E M 2 _	1	tɕəɯ³¹m̩³⁵ȵaŋ³¹
+^m̩²⁴	m */ə m̩/m ²⁴ +	M E M 2 _	1	m̩²⁴bui⁴²
+^m̩³⁵	m */ə m̩/m ³⁵ +	M E M 2 _	1	m̩³⁵ma³¹
+m̥m³⁵	m̥ */ə m̩/m ³⁵ +	M E M 2 _	0	
+^m̥m³⁵	m̥ */ə m̩/m ³⁵ +	M E M 2 _	1	m̥m³⁵nai³³
+m̩²¹	m */ə m̩/m ²¹ +	M E M 3 _	0	
+m̩³¹	m */ə m̩/m ³¹ +	M E M 3 _	1	qa⁰³ma¹¹m̩³¹tʰoŋ³⁵
+m̩⁵³	m */ə m̩/m ⁵³ +	M E M 3 _	0	
+^m̩²¹	m */ə m̩/m ²¹ +	M E M 3 _	1	m̩²¹mɒ¹³
+^m̩³¹	m */ə m̩/m ³¹ +	M E M 3 _	19	"m̩³¹noːm³¹toŋ³³;m̩³¹tɕaŋ¹³;m̩³¹pei³³;m̩³¹pei³³bin²³¹;m̩³¹maːi³¹"
+^m̩⁵³	m */ə m̩/m ⁵³ +	M E M 3 _	1	m̩⁵³sei⁴⁴
+m̩³³	m */ə m̩/m ³³ +	M E M 4 _	0	
+^m̩³³	m */ə m̩/m ³³ +	M E M 4 _	3	"m̩³³pei³⁵kaŋ³¹koŋ⁵⁵;m̩³³mei³³;m̩³³tu⁵⁵"
+m̩⁵⁵	m */ə m̩/m ⁵⁵ +	M E M 5 _	0	
+^m̩⁵⁵	m */ə m̩/m ⁵⁵ +	M E M 5 _	6	"m̩⁵⁵mo³³;m̩⁵⁵naːi³³;m̩⁵⁵ȵi¹³;m̩⁵⁵tʃei³¹;m̩⁵⁵mi³¹"
+ŋ̥ŋ²²	ŋ̊ */ə ŋ ²² +	N E N 1 _	0	
+^ŋ̥ŋ²²	ŋ̊ */ə ŋ ²² +	N E N 1 _	1	ŋ̥ŋ²²mjan²²
+n̩²⁴	n */ə n̩/n ²⁴ +	N E N 2 _	0	
+n̩³⁵	n */ə n̩/n ³⁵ +	N E N 2 _	0	
+^n̩²⁴	n */ə n̩/n ²⁴ +	N E N 2 _	3	"n̩²⁴ma³¹;n̩²⁴tjəi⁴²;n̩²⁴ma³¹"
+^n̩³⁵	n */ə n̩/n ³⁵ +	N E N 2 _	1	n̩³⁵pa⁵³tsu³³
+ŋ̥ŋ²⁴	ŋ̊ */ə ŋ ²⁴ +	N E N 2 _	0	
+^ŋ̥ŋ²⁴	ŋ̊ */ə ŋ ²⁴ +	N E N 2 _	0	
+n̩³¹	n */ə n̩/n ³¹ +	N E N 3 _	0	
+n̩⁵³	n */ə n̩/n ⁵³ +	N E N 3 _	0	
+ŋ̩⁵³	ŋ̍ */ə ŋ ⁵³ +	N E N 3 _	0	
+^n̩³¹	n */ə n̩/n ³¹ +	N E N 3 _	2	"n̩³¹n̥o⁴⁴nei⁵³;n̩³¹ȵ̥aŋ²⁴"
+^n̩⁵³	n */ə n̩/n ⁵³ +	N E N 3 _	1	n̩⁵³tei³⁵ntʃo¹²
+^ŋ̩⁵³	ŋ̍ */ə ŋ ⁵³ +	N E N 3 _	6	"ŋ̩⁵³wei¹¹tʃɒŋ¹¹θeŋ³³;ŋ̩⁵³ȵu³¹;ŋ̩⁵³qa³¹;ŋ̩⁵³no²²;ŋ̩⁵³wei¹¹"
+ŋ̥ŋ³¹	ŋ̊ */ə ŋ ³¹ +	N E N 3 _	0	
+ŋ̥ŋ⁵³	ŋ̊ */ə ŋ ⁵³ +	N E N 3 _	0	
+^ŋ̥ŋ³¹	ŋ̊ */ə ŋ ³¹ +	N E N 3 _	1	ŋ̥ŋ³¹ȵe³¹
+^ŋ̥ŋ⁵³	ŋ̊ */ə ŋ ⁵³ +	N E N 3 _	5	"ŋ̥ŋ⁵³pja⁵³;ŋ̥ŋ⁵³kuŋ⁴⁴;ŋ̥ŋ⁵³dan⁴⁴;ŋ̥ŋ⁵³dip⁴⁴;ŋ̥ŋ⁵³gui⁵³"
+^ŋ̩ŋ⁵³	ŋ̍ */ə ŋ ⁵³ +	N E N 3 _	1	ŋ̩ŋ⁵³ʑu⁵³
+ŋ̥ŋ³³	ŋ̊ */ə ŋ ³³ +	N E N 4 _	0	
+^ŋ̥ŋ³³	ŋ̊ */ə ŋ ³³ +	N E N 4 _	1	ŋ̥ŋ³³teu⁴⁴
+n̩⁵⁵	n */ə n̩/n ⁵⁵ +	N E N 5 _	0	
+^n̩⁵⁵	n */ə n̩/n ⁵⁵ +	N E N 5 _	2	"n̩⁵⁵ʃei¹¹;n̩⁵⁵mo³³"
+^ŋ̩⁴⁴	ŋ̍ */ə ŋ ⁴⁴ +	N E N 5 _	1	ŋ̩⁴⁴ŋo⁴²
+^ŋ̩⁰³	ŋ */ə ŋ̍ ⁰/³ +	N E N 6 _	5	"ŋ̩⁰³tɕo³⁵;ŋ̩⁰³kwei³¹;ŋ̩⁰³kwei³¹³;ŋ̩⁰³tɕeu⁵⁵;ŋ̩⁰³ti³⁵"
+ŋ̥ŋ²³¹	ŋ̊ */ə ŋ ²³¹ +	N E N 6 _	0	
+ŋ̥ŋ³¹³	ŋ̊ */ə ŋ ³¹³ +	N E N 6 _	0	
+^ŋ̥ŋ²³¹	ŋ̊ */ə ŋ ²³¹ +	N E N 6 _	1	ŋ̥ŋ²³¹ɬa²⁴
+^ŋ̥ŋ³¹³	ŋ̊ */ə ŋ ³¹³ +	N E N 6 _	1	ŋ̥ŋ³¹³ntau⁵³
+^pŋ⁵⁵	p */ə ŋ ⁵⁵ +	P E N 5 _	0	
+^pŋ³¹³	p */ə ŋ ³¹³ +	P E N 6 _	0	
+^tŋ⁵⁵	t */ə ŋ ⁵⁵ +	T E N 5 _	0	
+^tʰŋ⁴⁴	tʰ */ə ŋ ⁴⁴ +	T E N 5 _	1	tʰŋ⁴⁴nu¹³
+^tʰŋ⁵⁵	tʰ */ə ŋ ⁵⁵ +	T E N 5 _	0	
+¹¹ŋ̥jɒ³⁵$	¹¹ + ŋ j ɒ ³⁵	1 _ N J O 2	1	ðo¹¹ŋ̥jɒ³⁵
+³⁵ŋ̥jɒ³⁵$	³⁵ + ŋ j ɒ ³⁵	2 _ N J O 2	1	pʰa³⁵ŋ̥jɒ³⁵
+²¹ʔŋ⁴⁴$	²¹ + ʔ */ə ŋ ⁴⁴	3 _ H E N 5	0	
+³¹ŋ̥jɒ³⁵$	³¹ + ŋ j ɒ ³⁵	3 _ N J O 2	0	
+³³ŋ̩³³$	³³ + ŋ */ə ŋ̍ ³³	4 _ N E N 4	1	ŋqai³³ŋ̩³³
+⁵⁵ʔŋ¹³$	⁵⁵ + ʔ */ə ŋ ¹³	5 _ H E N 2	1	tɬa⁴⁴ho⁵⁵ʔŋ¹³
+he³¹³ŋ̩³⁵	h e ³¹³ + ŋ̍ ³⁵	H E 6 _ N 2	0	
+^qa³⁵ŋ̩³³	q a ³⁵ + ŋ */ə ŋ̍ ³³	K A 2 _ N E N 4	2	"qa³⁵ŋ̩³³;qa³⁵ŋ̩³³"
+^qʰau³⁵ŋ̩³³	qʰ au ³⁵ + ŋ̍ */ə ŋ ³³	K A 2 _ N E N 4	1	qʰau³⁵ŋ̩³³
+^qa⁰³ŋ̩¹³	q a ⁰/³ + ŋ */ə ŋ̍ ¹³	K A 6 _ N E N 2	1	qa⁰³ŋ̩¹³
+ge³¹³ŋ̩³¹³	g e ³¹³ + ŋ̍ */ə ŋ ³¹³	K E 6 _ N E N 6	0	
+^la⁰⁴ŋ²²	l a ⁰/⁴ + ŋ */ə ŋ ²²	L A 6 _ N E N 1	1	la⁰⁴ŋ²²
+^la⁰⁴ŋ̩⁵⁵	l a ⁰/⁴ + ŋ̍ */ə ŋ ⁵⁵	L A 6 _ N E N 5	1	la⁰⁴ŋ̩⁵⁵
+^mai⁵³ŋ̩³³	m ai ⁵³ + ŋ */ə ŋ̍ ³³	M A 3 _ N E N 4	1	mai⁵³ŋ̩³³
+^mi⁵⁵ŋ̩³¹³	m i ⁵⁵ + ŋ̍ */ə ŋ ³¹³	M I 5 _ N E N 6	1	mi⁵⁵ŋ̩³¹³
+^ŋa³¹ŋ̩³³	ŋ a ³¹ + ŋ */ə ŋ̍ ³³	N A 3 _ N E N 4	1	ŋa³¹ŋ̩³³
+^ŋe³⁵ŋ̩³³	ŋ e ³⁵ + ŋ */ə ŋ̍ ³³	N E 2 _ N E N 4	1	ŋe³⁵ŋ̩³³
+^ŋe³³ŋ̩³³	ŋ e ³³ + ŋ */ə ŋ̍ ³³	N E 4 _ N E N 4	1	ŋe³³ŋ̩³³
+^ŋ̩³¹ȵu³¹	ŋ̍ */ə ŋ ³¹ + ȵ u ³¹	N E N 3 _ N Y 3	1	ŋ̩³¹ȵu³¹
+^ŋ̩³³ȵe³¹	ŋ̍ */ə ŋ ³³ + ȵ e ³¹	N E N 4 _ N E 3	1	ŋ̩³³ȵe³¹
+^ŋ̩³¹³ɕi⁴⁴	ŋ̍ */ə ŋ ³¹³ + ɕ i ⁴⁴	N E N 6 _ S I 5	1	ŋ̩³¹³ɕi⁴⁴
+^pi³¹³ŋ̩³¹³	p i ³¹³ + ŋ̍ */ə ŋ ³¹³	P I 6 _ N E N 6	1	pi³¹³ŋ̩³¹³
+^sə²¹ŋ̩³²	s ə ²¹ + ŋ */ə ŋ̍ ³²	S E 3 _ N E N 3	1	sə²¹ŋ̩³²
+^ɕi³¹ŋ̩³¹	ɕ i ³¹ + ŋ̍ */ə ŋ ³¹	S I 3 _ N E N 3	1	ɕi³¹ŋ̩³¹
+^tu³⁵ŋ̩³¹³	t u ³⁵ + ŋ̍ */ə ŋ ³¹³	T Y 2 _ N E N 6	1	tu³⁵ŋ̩³¹³
+fŋ³¹³tŋ³¹³$	f */ə ŋ ³¹³ + t */ə ŋ ³¹³	B E N 6 _ T E N 6	1	tɬe⁴⁴fŋ³¹³tŋ³¹³
+^tsau³⁵ŋ̩³³	ts a u ³⁵ + ŋ */ə ŋ̍ ³³	C A Y 2 _ N E N 4	0	
+^tɕoŋ³³ŋ̩³³	tɕ o ŋ ³³ + ŋ̍ */ə ŋ ³³	C U N 4 _ N E N 4	1	tɕoŋ³³ŋ̩³³
+^qaŋ³⁵ŋ̩³³	q a ŋ ³⁵ + ŋ̍ */ə ŋ ³³	K A N 2 _ N E N 4	2	"qaŋ³⁵ŋ̩³³;qaŋ³⁵ŋ̩³³"
+^kjankau¹³	k j a n ⁰ + k au ¹³	K J A N 6 _ K A 2	1	kjankau¹³
+gjeu³¹³ŋ̩³¹³	g j eu ³¹³ + ŋ̍ */ə ŋ ³¹³	K J E 6 _ N E N 6	0	
+^taŋ³⁵ŋ̩³³	n a ŋ ³⁵ + ŋ̍ */ə ŋ ³³	N A N 2 _ N E N 4	1	taŋ³⁵ŋ̩³³
+^ŋ̩¹¹kwe³¹	ŋ̍ */ə ŋ ¹¹ + k w e ³¹	N E N 1 _ K W E 3	1	ŋ̩¹¹kwe³¹
+^ŋ̩³¹goːŋ⁵³	ŋ̍ */ə ŋ ³¹ + g oː ŋ ⁵³	N E N 3 _ K U N 3	1	ŋ̩³¹goːŋ⁵³
+^ŋ̩³³ʔaŋ³⁵	ŋ̍ */ə ŋ ³³ + ʔ a ŋ ³⁵	N E N 4 _ H A N 2	2	"ŋ̩³³ʔaŋ³⁵;ŋ̩³³ʔaŋ³⁵"
+^ŋ̩³³kwai³³	ŋ̍ */ə ŋ ³³ + k w ai ³³	N E N 4 _ K W A 4	1	ŋ̩³³kwai³³
+^ŋ̩³¹³kuŋ³¹³	ŋ̍ */ə ŋ ³¹³ + k u ŋ ³¹³	N E N 6 _ K Y N 6	1	ŋ̩³¹³kuŋ³¹³
+^ɕi³¹ŋ̩⁵³	ɕ i ³¹ + ŋ̍ */ə ŋ ⁵³ +	S I 3 _ N E N 3 _	1	ɕi³¹ŋ̩⁵³ȵu³¹
+^tʰjeu¹³ŋ̩⁵³	tʰ j eu ¹³ + ŋ̍ */ə ŋ ⁵³	T J E 2 _ N E N 3	1	tʰjeu¹³ŋ̩⁵³
+^tɬjeu³⁵ŋ̩³¹³	tɬ j eu ³⁵ + ŋ̍ */ə ŋ ³¹³	T J E 2 _ N E N 6	1	tɬjeu³⁵ŋ̩³¹³
+^ton¹³ŋ̩³¹³	t o n ¹³ + ŋ̍ */ə ŋ ³¹³	T U N 2 _ N E N 6	1	ton¹³ŋ̩³¹³
+kjon¹³ŋ̩³¹³	k j o n ¹³ + ŋ̍ */ə ŋ ³¹³	K J U N 2 _ N E N 6	0	
+^sjap²²ŋ̩⁴⁴	s j a p ²² + ŋ̍ */ə ŋ ⁴⁴	S J A P 1 _ N E N 5	1	sjap²²ŋ̩⁴⁴
+^tjaŋ³³ŋ̩³³	t j a ŋ ³³ + ŋ̍ */ə ŋ ³³	T J A N 4 _ N E N 4	1	tjaŋ³³ŋ̩³³
+^la⁰³ŋ̩³¹³tsɿ⁰³	l a ⁰/³ + ŋ̍ */ə ŋ ³¹³ + ts ɿ ⁰/³	L A 6 _ N E N 6 _ C I 6	1	la⁰³ŋ̩³¹³tsɿ⁰³
+ki⁰³daŋ³¹ŋ̩³¹	k i ⁰/³ + d a ŋ ³¹ + ŋ̍ */ə ŋ ³¹	K I 6 _ T A N 3 _ N E N 3	0	
+^ȵc	ⁿc			
