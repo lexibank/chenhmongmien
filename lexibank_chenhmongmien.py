@@ -1,7 +1,7 @@
 from pathlib import Path
 from clldutils.misc import slug
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank import Concept, Language, Lexeme
+from pylexibank import Concept, Language
 from pylexibank.forms import FormSpec
 from pylexibank import progressbar
 import attr
@@ -26,18 +26,11 @@ class CustomLanguage(Language):
     Name_in_Source = attr.ib(default=None)
     Location = attr.ib(default=None)
 
-
-@attr.s
-class CustomLexeme(Lexeme):
-    ToneClasses = attr.ib(default=None)
-
-
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "chenhmongmien"
     concept_class = CustomConcept
     language_class = CustomLanguage
-    lexeme_class = CustomLexeme
 
     form_spec = FormSpec(
             missing_data=['*', '---', '-'],
@@ -84,23 +77,7 @@ class Dataset(BaseDataset):
         languages = args.writer.add_languages(lookup_factory='Name')
         args.writer.add_sources()
         
-        # add the tones for the segmented entries
-        tones = {(
-                    row['Language_ID'], 
-                    row['Tone']
-                    ): row['Tone_category']+'/'+row['Tone'] for row in \
-                            self.raw_dir.read_csv(
-                                'hm-tones.tsv', delimiter='\t',
-                                dicts=True
-                                )}
-        def get_tones(segments, language):
-            cv = tokens2class(segments, 'cv')
-            toneclasses = []
-            for i, segment in enumerate(segments):
-                if cv[i] == 'T':
-                    toneclasses += [tones.get((language, segment), '?')]
-            return ' '.join(toneclasses)
-
+        
         missing = {}
         for cgloss, entry in progressbar(enumerate(data), desc='cldfify the data', total=len(data)):
             if entry['Chinese gloss'] in concepts.keys():
@@ -112,10 +89,5 @@ class Dataset(BaseDataset):
                             Value=entry[language],
                             Source=['Chen2012']
                             )
-                        for lexeme in lexemes:
-                            lexeme['ToneClasses'] = get_tones(
-                                    lexeme['Segments'],
-                                    lexeme['Language_ID']
-                                    )
             else:
                 missing[entry["Chinese gloss"]] += 1
