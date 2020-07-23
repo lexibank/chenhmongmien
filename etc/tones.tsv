@@ -1,166 +1,193 @@
-Language_ID	Name	Tone	Tone_category	Example_form	Example_gloss	File_name (G)
-EasternBaheng	Baheng, East	³⁵	阴平	tsa³⁵	树	baheng-dongbu
-EasternBaheng	Baheng, East	³³	阳平	mpa³³	涩	baheng-dongbu
-EasternBaheng	Baheng, East	³¹³	阴上	qa³¹³	屎	baheng-dongbu
-EasternBaheng	Baheng, East	¹¹	阳上	ŋkwa¹¹	瓦	baheng-dongbu
-EasternBaheng	Baheng, East	⁵⁵	阴去	ɬa⁵⁵	月亮	baheng-dongbu
-EasternBaheng	Baheng, East	³¹	阳去.阳入	ʑa³¹	力	baheng-dongbu
-EasternBaheng	Baheng, East	⁵³	阴入	ˀa⁵¹	鸭子	baheng-dongbu
-WesternBaheng	Baheng, West	³⁵	阴平	mei³⁵	乳房	baheng-xibu
-WesternBaheng	Baheng, West	³³	阳平	mei³³	有	baheng-xibu
-WesternBaheng	Baheng, West	³¹	阴上	m̥ei³¹	骂	baheng-xibu
-WesternBaheng	Baheng, West	¹¹	阳上	mei¹¹	马	baheng-xibu
-WesternBaheng	Baheng, West	⁵⁵	阴去	mei⁵⁵	猪	baheng-xibu
-WesternBaheng	Baheng, West	⁴⁴	阳去	mei⁴⁴	眼睛	baheng-xibu
-WesternBaheng	Baheng, West	⁵³	阴入	tjhei⁵³	姑娘	baheng-xibu
-WesternBaheng	Baheng, West	⁴²	阳入	nei⁴²	舌头	baheng-xibu
-Bana	Bana	¹³	阴平	ta¹³	泥巴	bana
-Bana	Bana	³¹³	阳平	na³¹³	人	bana
-Bana	Bana	⁴⁴	阴上	ka⁴⁴	屎	bana
-Bana	Bana	³¹	阳上	va³¹	尿	bana
-Bana	Bana	³⁵	阴去	la³⁵	月亮	bana
-Bana	Bana	²²	阳去	bja²²	竹笋	bana
-Bana	Bana	⁵⁵	阴入	pa⁵⁵	背	bana
-Bana	Bana	⁵³	阳入	ʑa⁵³	八	bana
-Dongnu	Dongnu	³³	阴平	kha	绑	bunu-dongnu
-Dongnu	Dongnu	¹³	阳平	ŋka¹³	肉	bunu-dongnu
-Dongnu	Dongnu	⁵³	阴上	ʂa⁵³	灰	bunu-dongnu
-Dongnu	Dongnu	²³¹	阳上	ŋwa²³¹	瓦	bunu-dongnu
-Dongnu	Dongnu	²⁴	阴去	mpa²⁴	沸	bunu-dongnu
-Dongnu	Dongnu	²²	阳去	pa²²	脓	bunu-dongnu
-Dongnu	Dongnu	³¹	阴入	ta³¹	外婆	bunu-dongnu
-Dongnu	Dongnu	²¹	阳入	mpla²¹	舌	bunu-dongnu
-Numao	Numao	³³	阴平	pu³³	知道	bunu-numao
-Numao	Numao	⁵⁵	阳平	nu⁵⁵	人	bunu-numao
-Numao	Numao	¹³	阴上	ntu¹³	呕吐	bunu-numao
-Numao	Numao	⁵³	阳上	ȵu⁵³	懒	bunu-numao
-Numao	Numao	⁴⁴	阴去.阴入	ɬu⁴⁴	铁	bunu-numao
-Numao	Numao	³¹	阳去	ku³¹	倒	bunu-numao
-Numao	Numao	⁴²	阳入	pu⁴²	补	bunu-numao
-Nunu	Nunu	³³	阴平	tu³³	菜刀	bunu-nunu
-Nunu	Nunu	⁴²	阳平	tɕu⁴²	九	bunu-nunu
-Nunu	Nunu	³⁵	阴上	tu³⁵	舂	bunu-nunu
-Nunu	Nunu	⁴⁴	阳上	thu⁴⁴	只	bunu-nunu
-Nunu	Nunu	¹³	阴去	tɕu¹³	六	bunu-nunu
-Nunu	Nunu	²²	阳去.阴入.阳入	thu²²	裂	bunu-nunu
-NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	⁵⁵	阴平.阴上			chuangqiandian-diandongbei
-NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	³⁵	阳平			chuangqiandian-diandongbei
-NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	¹³	阳上			chuangqiandian-diandongbei
-NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	³³	阳上.阴去			chuangqiandian-diandongbei
-NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	³¹	阳去.阳入			chuangqiandian-diandongbei
-NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	¹¹	阴入			chuangqiandian-diandongbei
-NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	⁵³	阳入			chuangqiandian-diandongbei
-SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	²⁴	阴平	po²⁴	知道	chuanqiandian-zhong
-SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	⁵⁵	阳平.阳入	po⁵⁵	还（帐）	chuanqiandian-zhong
-SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	¹³	阴上	põ¹³	射	chuanqiandian-zhong
-SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	³¹	阳上	po³¹	牛背峰	chuanqiandian-zhong
-SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	⁴²	阴去.阴入	mpo⁴²	沸	chuanqiandian-zhong
-SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	²²	阳去	po²²	脓	chuanqiandian-zhong
-Chuanqiandian	Chuanqiandian	⁵³	阴平			chuanqiandian
-Chuanqiandian	Chuanqiandian	³¹	阳平			chuanqiandian
-Chuanqiandian	Chuanqiandian	⁵⁵	阴上			chuanqiandian
-Chuanqiandian	Chuanqiandian	²²	阳上			chuanqiandian
-Chuanqiandian	Chuanqiandian	⁴⁴	阴去			chuanqiandian
-Chuanqiandian	Chuanqiandian	¹³	阳去			chuanqiandian
-Chuanqiandian	Chuanqiandian	³³	阴入			chuanqiandian
-Chuanqiandian	Chuanqiandian	²¹³	阳入			chuanqiandian
-Jiongnai	Jiongnai	⁴⁴	阴平	ta⁴⁴	地	jiongnai
-Jiongnai	Jiongnai	³³	阳平	mpja³³	耳朵	jiongnai
-Jiongnai	Jiongnai	⁵³	阴上	kja⁵³	路	jiongnai
-Jiongnai	Jiongnai	³¹	阳上	tʃa³¹	手	jiongnai
-Jiongnai	Jiongnai	³⁵	阴去	ða³⁵	霜	jiongnai
-Jiongnai	Jiongnai	¹¹	阳去	tja¹¹	笛子	jiongnai
-Jiongnai	Jiongnai	⁵⁵	阴入	sa⁵⁵	蛾子	jiongnai
-Jiongnai	Jiongnai	¹²	阳入	ta¹²	垫	jiongnai
-EasternLuobuohe	Luobuohe, Eastern	³¹	平			luobuohe-dong
-EasternLuobuohe	Luobuohe, Eastern	⁵⁵	上			luobuohe-dong
-EasternLuobuohe	Luobuohe, Eastern	²⁴	去			luobuohe-dong
-EasternLuobuohe	Luobuohe, Eastern	³³	入			luobuohe-dong
-WesternLuobuohe	Luobuohe, Western	³¹	平.上			luobuohe-xi
-WesternLuobuohe	Luobuohe, Western	⁵⁵	去			luobuohe-xi
-WesternLuobuohe	Luobuohe, Western	³⁵	入			luobuohe-xi
-NorthernQiandong	Qiandong, North	³³	阴平	tɛ³³	地	qiandong-beibu
-NorthernQiandong	Qiandong, North	⁵³	阳平	tɛ⁵³	直	qiandong-beibu
-NorthernQiandong	Qiandong, North	³⁵	阴上	tɛ³⁵	长	qiandong-beibu
-NorthernQiandong	Qiandong, North	¹¹	阳上	tɛ¹¹	失	qiandong-beibu
-NorthernQiandong	Qiandong, North	⁴⁴	阴去	tɛ⁴⁴	踢	qiandong-beibu
-NorthernQiandong	Qiandong, North	²³	阳去	tɛ²³	饱满	qiandong-beibu
-NorthernQiandong	Qiandong, North	¹³	阴入	tɛ¹³	姑妈	qiandong-beibu
-NorthernQiandong	Qiandong, North	³¹	阳入	tɛ³¹	袋	qiandong-beibu
-EasternQiandong	Qiandong, East	²⁴	阴平	tsa²⁴	五	qiandong-dongbu
-EasternQiandong	Qiandong, East	²²	阳平	ŋa²²	野兽	qiandong-dongbu
-EasternQiandong	Qiandong, East	³³	阴上	ta³³	指头	qiandong-dongbu
-EasternQiandong	Qiandong, East	²¹²	阳上	ma²¹²	马	qiandong-dongbu
-EasternQiandong	Qiandong, East	⁴⁴	阴去	ɬja⁴⁴	瘦	qiandong-dongbu
-EasternQiandong	Qiandong, East	⁵³	阳去	la⁵³	旱地	qiandong-dongbu
-EasternQiandong	Qiandong, East	³⁵	阴入	pha³⁵	女儿	qiandong-dongbu
-EasternQiandong	Qiandong, East	¹³	阳入	tɕa¹³	涩	qiandong-dongbu
-SouthernQiandong	Qiandong, South	¹³	阴平	m̥u¹³	苗族	qiandong-nanbu
-SouthernQiandong	Qiandong, South	³¹	阳平	tju³¹	门	qiandong-nanbu
-SouthernQiandong	Qiandong, South	⁵³	阴上	ɣu⁵³	树林	qiandong-nanbu
-SouthernQiandong	Qiandong, South	²⁴¹	阳上	pu²⁴¹	刺	qiandong-nanbu
-SouthernQiandong	Qiandong, South	⁴⁴	阴去	ɣu⁴⁴	好	qiandong-nanbu
-SouthernQiandong	Qiandong, South	²²	阳去	pu²²	抱	qiandong-nanbu
-SouthernQiandong	Qiandong, South	³⁵	阴入	ku³⁵	斗笠	qiandong-nanbu
-SouthernQiandong	Qiandong, South	²⁴	阳入	ȵu²⁴	饭	qiandong-nanbu
-WesternQiandong	Qiandong, West	⁴⁴	阴平	ɬa⁴⁴	骗	qiandong-xibu
-WesternQiandong	Qiandong, West	⁵⁵	阳平	ka⁵⁵	蒜	qiandong-xibu
-WesternQiandong	Qiandong, West	¹³	阴上	qa¹³	屎	qiandong-xibu
-WesternQiandong	Qiandong, West	²¹	阳上	ka²¹	矮	qiandong-xibu
-WesternQiandong	Qiandong, West	³³	阴去	qa³³	蹄	qiandong-xibu
-WesternQiandong	Qiandong, West	²²	阳去	ta²²	死	qiandong-xibu
-WesternQiandong	Qiandong, West	¹¹	阴入	ɕa¹¹	梳	qiandong-xibu
-WesternQiandong	Qiandong, West	⁵³	阳入	mja⁵³	辣	qiandong-xibu
-She	She	²²	阴平	pi²²	五	she
-She	She	³¹	阳平	pi³¹	拍	she
-She	She	⁵⁵	阴上	pi⁵⁵	果子	she
-She	She	⁵³	阳上.阳去	khi⁵³	茶	she
-She	She	³³	阴去	pi³³	猪	she
-She	She	³⁵	阳入.阴入	phui³⁸	女儿	she
-EasternXiangxi	Xiangxi, East	⁵³	阴平	ka⁵³	药	xiangxi-dongbu
-EasternXiangxi	Xiangxi, East	³¹	阳平	ŋa³¹	肉	xiangxi-dongbu
-EasternXiangxi	Xiangxi, East	⁵⁵	阴上	tha⁵⁵	煮	xiangxi-dongbu
-EasternXiangxi	Xiangxi, East	⁵⁵	阳上	ʑa⁵⁵	尿	xiangxi-dongbu
-EasternXiangxi	Xiangxi, East	³³	阴去	kwa³³	过	xiangxi-dongbu
-EasternXiangxi	Xiangxi, East	¹³	阳去	da​¹³	死	xiangxi-dongbu
-EasternXiangxi	Xiangxi, East	³⁵	阴入.阳入	pha³⁵	女	xiangxi-dongbu
-WesternXiangxi	Xiangxi, West	³⁵	阴平	pu³⁵	三	xiangxi-xibu
-WesternXiangxi	Xiangxi, West	³¹	阳平	pu³¹	沸	xiangxi-xibu
-WesternXiangxi	Xiangxi, West	⁴⁴	阴上.阴入	ʑu⁴⁴	牛	xiangxi-xibu
-WesternXiangxi	Xiangxi, West	³³	阳上.阳入	ȵu³³	生	xiangxi-xibu
-WesternXiangxi	Xiangxi, West	⁵⁵¹	阴去	ʈhu⁵⁵¹	拿	xiangxi-xibu
-WesternXiangxi	Xiangxi, West	²⁴¹	阳去	nu²⁴¹	麻	xiangxi-xibu
-BaoMin	Bao Min	³³	阴平	pla³³	五	yao-biaomin
-BaoMin	Bao Min	³¹	阳平	ta³¹	来	yao-biaomin
-BaoMin	Bao Min	³⁵	阴上	kla³⁵	路	yao-biaomin
-BaoMin	Bao Min	⁴²	阳上.阳去	ma⁴²	马	yao-biaomin
-BaoMin	Bao Min	²⁴	阴去	pha²⁴	破	yao-biaomin
-BaoMin	Bao Min	⁵³	阴入	kja⁵³	暗	yao-biaomin
-BaoMin	Bao Min	²¹	阳入	tjha²¹	燃	yao-biaomin
-Mien	Mien	³³	阴平	naːŋ³³	蛇	yao-mien
-Mien	Mien	³¹	阳平	pjaːŋ³¹	花	yao-mien
-Mien	Mien	⁵³	阴上	kaːŋ⁵³	鹰	yao-mien
-Mien	Mien	²³¹	阳上	tsaːŋ²³¹	象	yao-mien
-Mien	Mien	²⁴	阴去	djaːŋ²⁴	树	yao-mien
-Mien	Mien	²¹	阳去	maːŋ²¹	望	yao-mien
-Mien	Mien	⁵⁵	阴入	daːt⁵⁵	翅膀	yao-mien
-Mien	Mien	²²	阳入	taːp²²	穿（鞋）	yao-mien
-ZaoMin	Zao Min	⁴⁴	阴平.阳上.阴入	ba⁴⁴	背	yao-zaomin
-ZaoMin	Zao Min	⁵³	阳平	kja⁵³⁶	茄子	yao-zaomin
-ZaoMin	Zao Min	²⁴	阴上	na²⁴	这	yao-zaomin
-ZaoMin	Zao Min	⁴²	阴去	ta⁴²	挤	yao-zaomin
-ZaoMin	Zao Min	²²	阳去.阳入	ja²²	力	yao-zaomin
-Younuo	Younuo	⁴⁴	阴平	ku⁴⁴	黑	younuo
-Younuo	Younuo	¹³	阳平	ŋu¹³	牛	younuo
-Younuo	Younuo	³³	阴上	ŋu³³	粑粑	younuo
-Younuo	Younuo	³²	阳上.阳去	lu³²	回来	younuo
-Younuo	Younuo	⁵⁴	阴去	ku⁵⁴	皮	younuo
-Younuo	Younuo	⁵⁵	阴入	tju⁵⁵	笑	younuo
-Younuo	Younuo	²¹	阳入	tu²¹	咬	younuo
-KimMun	Kim Mun	³⁵	平声.清.入声.清.长	pja³⁵	五	yao-jinmen
-KimMun	Kim Mun	¹¹	平声.气.入声.气	ta¹¹	稀疏	yao-jinmen
-KimMun	Kim Mun	³³	平声.浊	ȵa³³	牙齿	yao-jinmen
-KimMun	Kim Mun	⁵¹	上声.清.气	ˀa⁵¹	肉	yao-jinmen
-KimMun	Kim Mun	³¹	上声.浊.去声.气	wa³¹	尿	yao-jinmen
-KimMun	Kim Mun	⁵⁵	去声.清.入声.清.短	tʃa⁵⁵	架子	yao-jinmen
-KimMun	Kim Mun	⁴²	去声.浊.入声.浊	da⁴²	叮	yao-jinmen
+Language_ID	Name	Tone	Tone_category	Note
+Bana	Bana	¹³	阴平	
+Bana	Bana	³¹³	阳平.*阳平	*阳平漢語借詞
+Bana	Bana	⁴⁴	阴上	
+Bana	Bana	³¹	阳上	
+Bana	Bana	³⁵	阴去.*入	*入漢語借詞
+Bana	Bana	²²	阳去	
+Bana	Bana	⁵⁵	阴入.*去	*去漢語借詞
+Bana	Bana	⁵³	阳入.*上	*上漢語借詞
+Bana	Bana	³³	*阴平	只拼漢語借詞
+Bana	Bana	⁰⁴	*輕聲	只拼漢語借詞
+BiaoMin	Biao Min	³³	阴平.*阴平	*阴平漢語借詞
+BiaoMin	Biao Min	³¹	阳平.*阳平	*阳平漢語借詞
+BiaoMin	Biao Min	³⁵	阴上	
+BiaoMin	Biao Min	⁴²	阳上.阳去	
+BiaoMin	Biao Min	²⁴	阴去.*去	*去漢語借詞
+BiaoMin	Biao Min	⁵³	阴入.*上	*上漢語借詞
+BiaoMin	Biao Min	²¹	阳入	
+CentralGuizhouChuanqiandian	Chuanqiandian, Central Guizhou	²⁴	阴平	
+CentralGuizhouChuanqiandian	Chuanqiandian, Central Guizhou	⁵⁵	阳平.阳入	
+CentralGuizhouChuanqiandian	Chuanqiandian, Central Guizhou	¹³	阴上	
+CentralGuizhouChuanqiandian	Chuanqiandian, Central Guizhou	³¹	阳上	
+CentralGuizhouChuanqiandian	Chuanqiandian, Central Guizhou	⁴²	阴去.阴入	
+Chuanqiandian	Chuanqiandian, Central Guizhou	²²	阳去	
+Chuanqiandian	Chuanqiandian	⁵³	阴平.*阴平	*阴平漢語借詞
+Chuanqiandian	Chuanqiandian	³¹	阳平.*阳平	*阳平漢語借詞
+Chuanqiandian	Chuanqiandian	⁵⁵	阴上.*上	*上漢語借詞
+Chuanqiandian	Chuanqiandian	²²	阳上	
+Chuanqiandian	Chuanqiandian	⁴⁴	阴去	
+Chuanqiandian	Chuanqiandian	¹³	阳去	
+Chuanqiandian	Chuanqiandian	³³	阴入	
+Chuanqiandian	Chuanqiandian	²¹³	阳入.*去	*去漢語借詞
+Dongnu	Dongnu	³³	阴平.*阴平	*阴平漢語借詞
+Dongnu	Dongnu	¹³	阳平.*去	*去漢語借詞
+Dongnu	Dongnu	⁵³	阴上	
+Dongnu	Dongnu	²³¹	阳上	
+Dongnu	Dongnu	⁴²	阴去.*上	*上漢語借詞
+Dongnu	Dongnu	²²	阳去	
+Dongnu	Dongnu	³¹	阴入	
+Dongnu	Dongnu	²¹	阳入.*阳平	*阳平(包括古入声)漢語借詞
+EasternBaheng	Baheng, Eastern	³⁵	阴平.*阴去.*阴入.*阳入	*阴去.*阴入.*阳入漢語借詞
+EasternBaheng	Baheng, Eastern	³³	阳平.*阳平	*阳平漢語借詞
+EasternBaheng	Baheng, Eastern	³¹³	阴上.*阴上	*阴上漢語借詞
+EasternBaheng	Baheng, Eastern	¹¹	阳上	
+EasternBaheng	Baheng, Eastern	⁵⁵	阴去.*阴平	*阴平漢語借詞
+EasternBaheng	Baheng, Eastern	³¹	阳去.阳入	
+EasternBaheng	Baheng, Eastern	⁵³	阴入.*阳上.*阳去	*阳上.*阳去漢語借詞
+EasternBaheng	Baheng, Eastern	⁰³	轻声	
+EasternLuobuohe	Luobuohe, Eastern	³¹	平.*阳平	*阳平漢語借詞
+EasternLuobuohe	Luobuohe, Eastern	⁵⁵	上.*上	*上漢語借詞
+EasternLuobuohe	Luobuohe, Eastern	²⁴	去.*去	*去漢語借詞
+EasternLuobuohe	Luobuohe, Eastern	³³	入.*阴平	*阴平漢語借詞
+EasternLuobuohe	Luobuohe, Eastern	⁰²	轻声	
+EasternLuobuohe	Luobuohe, Eastern	⁰⁵	轻声	
+EasternQiangdong	Qiangdong, Eastern	²⁴	阴平.*阴平	*阴平漢語借詞
+EasternQiangdong	Qiangdong, Eastern	²²	阳平.*阳平	*阳平漢語借詞
+EasternQiangdong	Qiangdong, Eastern	³³	阴上.*上	*上漢語借詞
+EasternQiangdong	Qiangdong, Eastern	²¹²	阳上	
+EasternQiangdong	Qiangdong, Eastern	⁴⁴	阴去.*阴去	*阴去漢語借詞
+EasternQiangdong	Qiangdong, Eastern	⁵³	阳去.*阳去	*阳去漢語借詞
+EasternQiangdong	Qiangdong, Eastern	³⁵	阴入	
+EasternQiangdong	Qiangdong, Eastern	¹³	阳入.*入	*入漢語借詞
+EasternXiangxi	Exiangxi, Eastern	⁵³	阴平.*阴平.*阴上.*入	*阴平.*阴上.*入時為漢語借詞
+EasternXiangxi	Exiangxi, Eastern	³¹	阳平.*阳平.*入	*阳平.*入時為漢語借詞
+EasternXiangxi	Exiangxi, Eastern	⁵⁵	阴上.阳上.*阴上.*阳上	*阴上.*阳上時為漢語借詞
+EasternXiangxi	Exiangxi, Eastern	³³	"阴去.*阴平.*阳上.*阴去
+"	*阴平.*阳上.*阴去時為漢語借詞
+EasternXiangxi	Exiangxi, Eastern	¹³	阳去.*阳平.*阳上.*阴去.*阳去	*阳平.*阳上.*阴去.*阳去時為漢語借詞
+EasternXiangxi	Exiangxi, Eastern	³⁵	阴入.阳入.*阳上.*阴去.*阳去	*阳上.*阴去.*阳去時為漢語借詞
+Jiongnai	Jiongnai	⁴⁴	阴平.*阴平	*阴平時為漢語借詞
+Jiongnai	Jiongnai	³³	阳平	
+Jiongnai	Jiongnai	⁵³	阴上.*上	*上時為漢語借詞
+Jiongnai	Jiongnai	³¹	阳上.*阳平	*阳平時為漢語借詞
+Jiongnai	Jiongnai	³⁵	阴去.*去	*去時為漢語借詞
+Jiongnai	Jiongnai	¹¹	阳去	
+Jiongnai	Jiongnai	⁵⁵	阴入	-p -t -k ⁵⁵ 壯語或瑤語借詞
+Jiongnai	Jiongnai	¹²	阳入	-p -t -k ¹² 壯語或瑤語借詞
+KimMun	Kim Mun	³⁵	平声.清.入声.清.长.*去	.*去時為漢語借詞
+KimMun	Kim Mun	¹¹	平声.气.入声.气	
+KimMun	Kim Mun	³³	平声.浊.*阴平	*阴平時為漢語借詞
+KimMun	Kim Mun	⁵¹	上声.清.气.*上	*上時為漢語借詞
+KimMun	Kim Mun	³¹	上声.浊.去声.气.*阳平	*阳平時為漢語借詞
+KimMun	Kim Mun	⁵⁵	去声.清.入声.清	
+KimMun	Kim Mun	⁴²	去声.浊.入声.浊	
+KimMun	Kim Mun	⁰²	轻声	
+Mien	Mien	³³	阴平	
+Mien	Mien	³¹	阳平	
+Mien	Mien	⁵³	阴上	
+Mien	Mien	²³¹	阳上	
+Mien	Mien	²⁴	阴去	
+Mien	Mien	²¹	阳去	
+Mien	Mien	⁵⁵	阴入	
+Mien	Mien	²²	阳入	
+NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	⁵⁵	阴平.阴上.*阴平	*阴平漢語借詞
+NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	³⁵	阳平	
+NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	¹³	阳上.*去	*去漢語借詞
+NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	³³	阳上.阴去.*上	*上漢語借詞
+NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	³¹	阳去.阳入.*阳平	*阳平漢語借詞
+NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	¹¹	阴入	
+NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	⁵³	阳入	
+NorthernQiandong	Qiandong, North	³³	阴平.*阴平	*阴平漢語借詞
+NorthernQiandong	Qiandong, North	⁵³	阳平.*上	*上漢語借詞
+NorthernQiandong	Qiandong, North	³⁵	阴上	
+NorthernQiandong	Qiandong, North	¹¹	阳上	
+NorthernQiandong	Qiandong, North	⁴⁴	阴去	
+NorthernQiandong	Qiandong, North	²³	阳去	
+NorthernQiandong	Qiandong, North	¹³	阴入.*去	*去漢語借詞
+NorthernQiandong	Qiandong, North	³¹	阳入.*阳平	*阳平漢語借詞
+NorthernQiandong	Qiandong, North	⁵⁵	*不明	不确定类别
+Numao	Numao	³³	阴平.*阴平	*阴平漢語借詞
+Numao	Numao	⁵⁵	阳平	
+Numao	Numao	¹³	阴上.*去	*去漢語借詞
+Numao	Numao	⁵³	阳上.*上	*上漢語借詞
+Numao	Numao	⁴⁴	阴去.阴入	
+Numao	Numao	³¹	阳去.*阳平.*入	*阳平.*入漢語借詞
+Numao	Numao	⁴²	阳入	
+Nunu	Nunu	³³	阴平	
+Nunu	Nunu	⁴²	阳平	
+Nunu	Nunu	³⁵	阴上	塞音尾³⁵為壯語借詞
+Nunu	Nunu	⁴⁴	阳上	塞音尾⁴⁴為壯語借詞
+Nunu	Nunu	¹³	阴去	
+Nunu	Nunu	²²	阳去.阴入.阳入	
+Nunu	Nunu	³¹	*	只拼漢語借詞
+She	She	²²	阴平	
+She	She	³¹	阳平.*阳平	*阳平漢語借詞
+She	She	⁵⁵	阴上.*阴平	*阴平漢語借詞
+She	She	⁵³	阳上.阳去.*上	*上漢語借詞
+She	She	³³	阴去	
+She	She	³⁵	阳入.阴入.*去	*去漢語借詞
+SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	³²	阴平甲	
+SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	²²	阴平乙	
+SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	⁵³	阳平	
+SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	⁴²	阴上甲.*上	*上漢語借詞
+SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	²³²	阴上乙	
+SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	¹¹	阳上	
+SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	⁵⁵	阴去甲.*阴平	*阴平漢語借詞
+SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	³⁵	阴去乙	
+SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	¹³	阳去.阴入乙.*去	*去漢語借詞
+SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	⁴⁴	阴入甲	
+SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	²¹	阳入.*阳平	*阳平漢語借詞
+SouthernQiandong	Qiandong, Southern	¹³	阴平	
+SouthernQiandong	Qiandong, Southern	³¹	阳平.*阳平.*入	*阳平.*入漢語借詞
+SouthernQiandong	Qiandong, Southern	⁵³	阴上.*上	*上漢語借詞
+SouthernQiandong	Qiandong, Southern	²⁴¹	阳上	
+SouthernQiandong	Qiandong, Southern	⁴⁴	阴去.*阴平	*阴平漢語借詞
+SouthernQiandong	Qiandong, Southern	²²	阳去	
+SouthernQiandong	Qiandong, Southern	³⁵	阴入.*去	*去漢語借詞
+SouthernQiandong	Qiandong, Southern	²⁴	阳入	
+WesternBaheng	Baheng, Western	³⁵	阴平	
+WesternBaheng	Baheng, Western	³³	阳平	
+WesternBaheng	Baheng, Western	³¹	阴上	
+WesternBaheng	Baheng, Western	¹¹	阳上	
+WesternBaheng	Baheng, Western	⁵⁵	阴去	
+WesternBaheng	Baheng, Western	⁴⁴	阳去	
+WesternBaheng	Baheng, Western	⁵³	阴入	
+WesternBaheng	Baheng, Western	⁴²	阳入	
+WesternBaheng	Baheng, Western	⁰³	轻声	
+WesternLuobuohe	Luobuohe, Western	³¹	平.入.*阳平	*阳平漢語借詞
+WesternLuobuohe	Luobuohe, Western	⁵⁵	上.*阴平.*上	*阴平.*上漢語借詞
+WesternLuobuohe	Luobuohe, Western	³⁵	去.*去	*去漢語借詞
+WesternLuobuohe	Luobuohe, Western	⁰²	轻声	
+WesternLuobuohe	Luobuohe, Western	⁰⁵	轻声	
+WesternQiandong	Qiandong, Western	⁴⁴	阴平	
+WesternQiandong	Qiandong, Western	⁵⁵	阳平.*上	*上漢語借詞
+WesternQiandong	Qiandong, Western	¹³	阴上.*去	*去漢語借詞
+WesternQiandong	Qiandong, Western	²¹	阳上.*阳平	*阳平漢語借詞
+WesternQiandong	Qiandong, Western	³³	阴去.*阴平	*阴平漢語借詞
+WesternQiandong	Qiandong, Western	²²	阳去	
+WesternQiandong	Qiandong, Western	¹¹	阴入	
+WesternQiandong	Qiandong, Western	⁵³	阳入	
+WesternXiangxi	Xiangxi, Western	³⁵	阴平	
+WesternXiangxi	Xiangxi, Western	³¹	阳平.*阳平	*阳平漢語借詞
+WesternXiangxi	Xiangxi, Western	⁴⁴	阴上.阴入.*阴平	*阴平漢語借詞
+WesternXiangxi	Xiangxi, Western	³³	阳上.阳入	
+WesternXiangxi	Xiangxi, Western	⁵⁵¹	阴去	
+WesternXiangxi	Xiangxi, Western	²⁴¹	阳去	
+WesternXiangxi	Xiangxi, Western	⁵³	*上	必定是漢語借詞
+WesternXiangxi	Xiangxi, Western	¹³	*去	必定是漢語借詞
+WesternXiangxi	Xiangxi, Western	⁴²	*不明	不确定类别
+WesternXiangxi	Xiangxi, Western	⁵⁵	*不明	不确定类别
+WesternXiangxi	Xiangxi, Western	²²	*不明	不确定类别
+Yuonuo	Yuonuo	⁴⁴	阴平	
+Yuonuo	Yuonuo	¹³	阳平	
+Yuonuo	Yuonuo	³³	阴上	
+Yuonuo	Yuonuo	³²	阳上.阳去	
+Yuonuo	Yuonuo	⁵⁴	阴去	
+Yuonuo	Yuonuo	⁵⁵	阴入	
+Yuonuo	Yuonuo	²¹	阳入	
+ZaoMin	Zao Min	⁴⁴	阴平.阳上.阴入.*阴平	*阴平漢語借詞
+ZaoMin	Zao Min	⁵³	阳平.*去	*去漢語借詞
+ZaoMin	Zao Min	²⁴	阴上.*阳平	*阳平漢語借詞
+ZaoMin	Zao Min	⁴²	阴去.*上	*上漢語借詞
+ZaoMin	Zao Min	²²	阳去.阳入	
