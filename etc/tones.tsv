@@ -7,8 +7,8 @@ Bana	Bana	³⁵	阴去.*入	阴去	*入漢語借詞
 Bana	Bana	²²	阳去	阳去	
 Bana	Bana	⁵⁵	阴入.*去	阴入	*去漢語借詞
 Bana	Bana	⁵³	阳入.*上	阳入	*上漢語借詞
-Bana	Bana	³³	*阴平	0	只拼漢語借詞
-Bana	Bana	⁰⁴	*輕聲	0	只拼漢語借詞
+Bana	Bana	³³	*阴平	*阴平	只拼漢語借詞
+Bana	Bana	⁰⁴	轻声	0	只拼漢語借詞
 BiaoMin	Biao Min	³³	阴平.*阴平	阴平	*阴平漢語借詞
 BiaoMin	Biao Min	³¹	阳平.*阳平	阳平	*阳平漢語借詞
 BiaoMin	Biao Min	³⁵	阴上	阴上	
@@ -121,7 +121,7 @@ Nunu	Nunu	³⁵	阴上	阴上	塞音尾³⁵為壯語借詞
 Nunu	Nunu	⁴⁴	阳上	阳上	塞音尾⁴⁴為壯語借詞
 Nunu	Nunu	¹³	阴去	阴去	
 Nunu	Nunu	²²	阳去.阴入.阳入	阳去.阴入.阳入	
-Nunu	Nunu	³¹	*	0	只拼漢語借詞
+Nunu	Nunu	³¹	*	*	只拼漢語借詞
 She	She	²²	阴平	阴平	
 She	She	³¹	阳平.*阳平	阳平	*阳平漢語借詞
 She	She	⁵⁵	阴上.*阴平	阴上	*阴平漢語借詞
@@ -177,8 +177,8 @@ WesternXiangxi	Xiangxi, Western	⁴⁴	阴上.阴入.*阴平	阴上.阴入	*阴�
 WesternXiangxi	Xiangxi, Western	³³	阳上.阳入	阳上.阳入	
 WesternXiangxi	Xiangxi, Western	⁵⁵¹	阴去	阴去	
 WesternXiangxi	Xiangxi, Western	²⁴¹	阳去	阳去	
-WesternXiangxi	Xiangxi, Western	⁵³	*上	0	必定是漢語借詞
-WesternXiangxi	Xiangxi, Western	¹³	*去	0	必定是漢語借詞
+WesternXiangxi	Xiangxi, Western	⁵³	*上	*上	必定是漢語借詞
+WesternXiangxi	Xiangxi, Western	¹³	*去	*去	必定是漢語借詞
 WesternXiangxi	Xiangxi, Western	⁴²	*不明	0	不确定类别
 WesternXiangxi	Xiangxi, Western	⁵⁵	*不明	0	不确定类别
 WesternXiangxi	Xiangxi, Western	²²	*不明	0	不确定类别
