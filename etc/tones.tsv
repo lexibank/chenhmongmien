@@ -8,7 +8,7 @@ Bana	Bana	²²	阳去	阳去
 Bana	Bana	⁵⁵	阴入.*去	阴入	*去漢語借詞
 Bana	Bana	⁵³	阳入.*上	阳入	*上漢語借詞
 Bana	Bana	³³	*阴平	*阴平	只拼漢語借詞
-Bana	Bana	⁰⁴	轻声	0	只拼漢語借詞
+Bana	Bana	⁰⁴	轻声	轻声	只拼漢語借詞
 BiaoMin	Biao Min	³³	阴平.*阴平	阴平	*阴平漢語借詞
 BiaoMin	Biao Min	³¹	阳平.*阳平	阳平	*阳平漢語借詞
 BiaoMin	Biao Min	³⁵	阴上	阴上	
@@ -45,13 +45,13 @@ EasternBaheng	Baheng, Eastern	¹¹	阳上	阳上
 EasternBaheng	Baheng, Eastern	⁵⁵	阴去.*阴平	阴去	*阴平漢語借詞
 EasternBaheng	Baheng, Eastern	³¹	阳去.阳入	阳去.阳入	
 EasternBaheng	Baheng, Eastern	⁵³	阴入.*阳上.*阳去	阴入	*阳上.*阳去漢語借詞
-EasternBaheng	Baheng, Eastern	⁰³	轻声	0	
+EasternBaheng	Baheng, Eastern	⁰³	轻声	轻声	
 EasternLuobuohe	Luobuohe, Eastern	³¹	平.*阳平	阴平.阳平	*阳平漢語借詞
 EasternLuobuohe	Luobuohe, Eastern	⁵⁵	上.*上	阴上.阳上	*上漢語借詞
 EasternLuobuohe	Luobuohe, Eastern	²⁴	去.*去	阴去.阳去	*去漢語借詞
 EasternLuobuohe	Luobuohe, Eastern	³³	入.*阴平	阴入.阳入	*阴平漢語借詞
-EasternLuobuohe	Luobuohe, Eastern	⁰²	轻声	0	
-EasternLuobuohe	Luobuohe, Eastern	⁰⁵	轻声	0	
+EasternLuobuohe	Luobuohe, Eastern	⁰²	轻声	轻声	
+EasternLuobuohe	Luobuohe, Eastern	⁰⁵	轻声	轻声	
 EasternLuobuohe	Luobuohe, Eastern	⁴⁴	*不明	0	
 EasternQiangdong	Qiangdong, Eastern	²⁴	阴平.*阴平	阴平	*阴平漢語借詞
 EasternQiangdong	Qiangdong, Eastern	²²	阳平.*阳平	阳平	*阳平漢語借詞
@@ -83,7 +83,7 @@ KimMun	Kim Mun	⁵¹	上声.清.气.*上	阴上.阳上	*上時為漢語借詞
 KimMun	Kim Mun	³¹	上声.浊.去声.气.*阳平	阴上.阳上.阴去.阳去.	*阳平時為漢語借詞
 KimMun	Kim Mun	⁵⁵	去声.清.入声.清	阴上.阳上.阴入.阳入	
 KimMun	Kim Mun	⁴²	去声.浊.入声.浊	阴去.阳去.阴入.阳入	
-KimMun	Kim Mun	⁰²	轻声	0	
+KimMun	Kim Mun	⁰²	轻声	轻声	
 Mien	Mien	³³	阴平	阴平	
 Mien	Mien	³¹	阳平	阳平	
 Mien	Mien	⁵³	阴上	阴上	
@@ -156,12 +156,12 @@ WesternBaheng	Baheng, Western	⁵⁵	阴去	阴去
 WesternBaheng	Baheng, Western	⁴⁴	阳去	阳去	
 WesternBaheng	Baheng, Western	⁵³	阴入	阴入	
 WesternBaheng	Baheng, Western	⁴²	阳入	阳入	
-WesternBaheng	Baheng, Western	⁰³	轻声	0	
+WesternBaheng	Baheng, Western	⁰³	轻声	轻声	
 WesternLuobuohe	Luobuohe, Western	³¹	平.入.*阳平	阴平.阳平.阴入.阳入	*阳平漢語借詞
 WesternLuobuohe	Luobuohe, Western	⁵⁵	上.*阴平.*上	阴上.阳上	*阴平.*上漢語借詞
 WesternLuobuohe	Luobuohe, Western	³⁵	去.*去	阴去.阳去	*去漢語借詞
-WesternLuobuohe	Luobuohe, Western	⁰²	轻声	0	
-WesternLuobuohe	Luobuohe, Western	⁰⁵	轻声	0	
+WesternLuobuohe	Luobuohe, Western	⁰²	轻声	轻声	
+WesternLuobuohe	Luobuohe, Western	⁰⁵	轻声	轻声	
 WesternLuobuohe	Luobuohe, Western	⁴⁴	*不明	0	
 WesternQiandong	Qiandong, Western	⁴⁴	阴平	阴平	
 WesternQiandong	Qiandong, Western	⁵⁵	阳平.*上	阳平	*上漢語借詞
