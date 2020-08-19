@@ -16,6 +16,7 @@ BiaoMin	Biao Min	⁴²	阳上.阳去	阳上.阳去
 BiaoMin	Biao Min	²⁴	阴去.*去	阴去	*去漢語借詞
 BiaoMin	Biao Min	⁵³	阴入.*上	阴入	*上漢語借詞
 BiaoMin	Biao Min	²¹	阳入	阳入	
+BiaoMin	Biao Min	⁵⁵	*不明	0	
 CentralGuizhouChuanqiandian	Chuanqiandian, Central Guizhou	²⁴	阴平	阴平	
 CentralGuizhouChuanqiandian	Chuanqiandian, Central Guizhou	⁵⁵	阳平.阳入	阳平.阳入	
 CentralGuizhouChuanqiandian	Chuanqiandian, Central Guizhou	¹³	阴上	阴上	
@@ -46,6 +47,7 @@ EasternBaheng	Baheng, Eastern	⁵⁵	阴去.*阴平	阴去	*阴平漢語借詞
 EasternBaheng	Baheng, Eastern	³¹	阳去.阳入	阳去.阳入	
 EasternBaheng	Baheng, Eastern	⁵³	阴入.*阳上.*阳去	阴入	*阳上.*阳去漢語借詞
 EasternBaheng	Baheng, Eastern	⁰³	轻声	轻声	
+EasternBaheng	Baheng, Eastern	⁴⁴	*不明	0	
 EasternLuobuohe	Luobuohe, Eastern	³¹	平.*阳平	阴平.阳平	*阳平漢語借詞
 EasternLuobuohe	Luobuohe, Eastern	⁵⁵	上.*上	阴上.阳上	*上漢語借詞
 EasternLuobuohe	Luobuohe, Eastern	²⁴	去.*去	阴去.阳去	*去漢語借詞
@@ -84,6 +86,9 @@ KimMun	Kim Mun	³¹	上声.浊.去声.气.*阳平	阴上.阳上.阴去.阳去.	*
 KimMun	Kim Mun	⁵⁵	去声.清.入声.清	阴上.阳上.阴入.阳入	
 KimMun	Kim Mun	⁴²	去声.浊.入声.浊	阴去.阳去.阴入.阳入	
 KimMun	Kim Mun	⁰²	轻声	轻声	
+KimMun	Kim Mun	¹³	*不明	0	
+KimMun	Kim Mun	⁵³	*不明	0	
+KimMun	Kim Mun	²³¹	*不明	0	
 Mien	Mien	³³	阴平	阴平	
 Mien	Mien	³¹	阳平	阳平	
 Mien	Mien	⁵³	阴上	阴上	
@@ -92,6 +97,11 @@ Mien	Mien	²⁴	阴去	阴去
 Mien	Mien	²¹	阳去	阳去	
 Mien	Mien	⁵⁵	阴入	阴入	
 Mien	Mien	²²	阳入	阳入	
+Mien	Mien	⁰	轻声	轻声	
+Mien	Mien	ᶠ/⁰	轻声	轻声	
+Mien	Mien	⁴⁴	*不明	0	
+Mien	Mien	¹²	*不明	0	
+Mien	Mien	²¹³	*不明	0	
 NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	⁵⁵	阴平.阴上.*阴平	阴平.阴上	*阴平漢語借詞
 NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	³⁵	阳平	阳平	
 NortheastYunnanChuanqiandian	Chuanqiandian, Northeast Yunnan	¹³	阳上.*去	阳上	*去漢語借詞
@@ -140,6 +150,7 @@ SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	¹³	阳去.阴入�
 SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	⁴⁴	阴入甲	阴入	
 SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	²¹	阳入.*阳平	阳入	*阳平漢語借詞
 SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	³³	*不明	0	
+SouthernGuizhouChuanqiandian	Chuanqiandian, Southern Guizhou	¹³¹	*不明	0	
 SouthernQiandong	Qiandong, Southern	¹³	阴平	阴平	
 SouthernQiandong	Qiandong, Southern	³¹	阳平.*阳平.*入	阳平	*阳平.*入漢語借詞
 SouthernQiandong	Qiandong, Southern	⁵³	阴上.*上	阴上	*上漢語借詞
@@ -163,6 +174,8 @@ WesternLuobuohe	Luobuohe, Western	³⁵	去.*去	阴去.阳去	*去漢語借詞
 WesternLuobuohe	Luobuohe, Western	⁰²	轻声	轻声	
 WesternLuobuohe	Luobuohe, Western	⁰⁵	轻声	轻声	
 WesternLuobuohe	Luobuohe, Western	⁴⁴	*不明	0	
+WesternLuobuohe	Luobuohe, Western	¹¹	*不明	0	
+WesternLuobuohe	Luobuohe, Western	³³	*不明	0	
 WesternQiandong	Qiandong, Western	⁴⁴	阴平	阴平	
 WesternQiandong	Qiandong, Western	⁵⁵	阳平.*上	阳平	*上漢語借詞
 WesternQiandong	Qiandong, Western	¹³	阴上.*去	阴上	*去漢語借詞
@@ -182,6 +195,7 @@ WesternXiangxi	Xiangxi, Western	¹³	*去	*去	必定是漢語借詞
 WesternXiangxi	Xiangxi, Western	⁴²	*不明	0	不确定类别
 WesternXiangxi	Xiangxi, Western	⁵⁵	*不明	0	不确定类别
 WesternXiangxi	Xiangxi, Western	²²	*不明	0	不确定类别
+WesternXiangxi	Xiangxi, Western	³²	*不明	0	
 Yuonuo	Yuonuo	⁴⁴	阴平	阴平	
 Yuonuo	Yuonuo	¹³	阳平	阳平	
 Yuonuo	Yuonuo	³³	阴上	阴上	
