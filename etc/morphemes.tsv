@@ -1,5 +1,25 @@
-Language_ID	Tokens	Morphemes
-EasternLuobuohe	pə⁰⁵	-affix
-EasternLuobuohe	tə⁰²	-affix
-EasternLuobuohe	qo⁰⁵	-affix
-EasternLuobuohe	ʔa⁰²	-affix
+Language_ID	Form	Tokens	Meaning	Position	Type	Gloss	ShortName	EDICTOR	Remark
+EasternLuobuohe	pə⁰⁵	p ə ⁰/⁵	syn	^	Affix		pə	-:Affix/pə	
+EasternLuobuohe	tə⁰²	t ə ⁰/²	syn	^	Affix		tə	-:Affix/tə	
+EasternLuobuohe	qo⁰⁵	q o ⁰/⁵	syn	^	Affix		qo	-:Affix/qo	
+EasternLuobuohe	ʔa⁰²	ʔ a ⁰/²	syn	^	Affix		ʔa	-:Affix/ʔa	appear before adj.
+EasternLuobuohe	wei⁵⁵	w ei ⁵⁵	auto			HAND		HAND	
+EasternLuobuohe	ɬa²⁴	ɬ a ²⁴	auto			MONTH		MONTH	
+EasternLuobuohe	pja³¹	p j a ³¹	auto			FIVE		FIVE	
+EasternLuobuohe	puŋ⁵⁵	p u ŋ ⁵⁵	auto			SHOOT		SHOOT	
+EasternLuobuohe	va²⁴	v a ²⁴	auto						抱
+EasternLuobuohe	mphe²⁴	ⁿpʰ e ²⁴	auto			LACK (NOT HAVE)		LACK (NOT HAVE)	
+EasternLuobuohe	tshy⁵⁵	tsʰ y ⁵⁵	auto			ASH		ASH	
+EasternLuobuohe	ŋɢwaŋ³¹	ⁿɢ w a ŋ ³¹	auto			DAY		DAY	
+WesternLuobuohe	pə⁰⁵	p ə ⁰/⁵	syn	^	Affix		pə	-:Affix/pə	
+WesternLuobuohe	tə⁰²	t ə ⁰/²	syn	^	Affix		tə	-:Affix/tə	appear before adj.
+WesternLuobuohe	qo⁰⁵	q o ⁰/⁵	syn	^	Affix		qo	-:Affix/qo	
+WesternLuobuohe	ʔə⁰²	ʔ ə ⁰/²	syn	^	Affix		ʔə	-:Affix/ʔə	
+WesternLuobuohe	ʔə⁰⁵	ʔ ə ⁰/⁵	syn	^	Affix		ʔə⁰⁵	-:Affix/ʔə⁰⁵	"appear before quantifier
+
+"
+Chuanqiandian	qa⁰³	q a ⁰/³	syn		Affix		qa	-:Affix/qa	appear before verbal 狀詞
+Chuanqiandian	tsi⁰³	ts i ⁰/³	syn	$	Affix		tsi	-:Affix/tsi	appear in Sinitic borrowing (子)
+Chuanqiandian	sa³³	s a ³³	syn	^	Affix		sa	-:Affix/sa	appear in Sinitic borrowing
+Chuanqiandian	ti³¹	t i ³¹	syn	^	Affix		ti	-:Affix/ti	appear in Sinitic borrowing
+Chuanqiandian	la⁵³	l a ⁵³	auto			RED		RED	
