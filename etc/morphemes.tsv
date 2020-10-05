@@ -1,25 +1,114 @@
 Language_ID	Form	Tokens	Meaning	Position	Type	Gloss	ShortName	EDICTOR	Remark
-EasternLuobuohe	pə⁰⁵	p ə ⁰/⁵	syn	^	Affix		pə	-:Affix/pə	
-EasternLuobuohe	tə⁰²	t ə ⁰/²	syn	^	Affix		tə	-:Affix/tə	
-EasternLuobuohe	qo⁰⁵	q o ⁰/⁵	syn	^	Affix		qo	-:Affix/qo	
-EasternLuobuohe	ʔa⁰²	ʔ a ⁰/²	syn	^	Affix		ʔa	-:Affix/ʔa	appear before adj.
-EasternLuobuohe	wei⁵⁵	w ei ⁵⁵	auto			HAND		HAND	
-EasternLuobuohe	ɬa²⁴	ɬ a ²⁴	auto			MONTH		MONTH	
-EasternLuobuohe	pja³¹	p j a ³¹	auto			FIVE		FIVE	
-EasternLuobuohe	puŋ⁵⁵	p u ŋ ⁵⁵	auto			SHOOT		SHOOT	
-EasternLuobuohe	va²⁴	v a ²⁴	auto						抱
-EasternLuobuohe	mphe²⁴	ⁿpʰ e ²⁴	auto			LACK (NOT HAVE)		LACK (NOT HAVE)	
-EasternLuobuohe	tshy⁵⁵	tsʰ y ⁵⁵	auto			ASH		ASH	
-EasternLuobuohe	ŋɢwaŋ³¹	ⁿɢ w a ŋ ³¹	auto			DAY		DAY	
+EasternLuobuohe	pə⁰⁵	p ə ⁰/⁵	syn	^	Affix	noun	pə	-:noun/pə	
+EasternLuobuohe	tə⁰²	t ə ⁰/²	syn	^	Affix		tə	-:Affix/tə	appears both in adj and noun
+EasternLuobuohe	qo⁰⁵	q o ⁰/⁵	syn	^	Affix	noun	qo	-:noun/qo	
+EasternLuobuohe	ʔa⁰²	ʔ a ⁰/²	syn	^	Affix	noun	ʔa	-:noun/ʔa	
+EasternLuobuohe	puŋ⁵⁵	p u ŋ ⁵⁵	auto			SHOOT		SHOOT	射
+EasternLuobuohe	va²⁴	v a ²⁴	auto			EMBRACE		EMBRACE	抱
+EasternLuobuohe	mphe²⁴	ⁿpʰ e ²⁴	auto			LACK (NOT HAVE)		LACK (NOT HAVE)	缺
+EasternLuobuohe	ʔmuŋ³¹	ʔmuŋ³¹	auto			SICK		SICK	病
+EasternLuobuohe	ʔwen³¹	ˀw e n ³¹	auto			DUSTPAN		DUSTPAN	簸箕
+EasternLuobuohe	wa⁵⁵	w a ⁵⁵	auto			TILE		TILE	瓦
+EasternLuobuohe	phzɿ⁵⁵	pʰ z i ⁵⁵	auto						烧
+EasternLuobuohe	mpzɿ⁵⁵	ⁿp z i ⁵⁵	auto						"抿; absent in the raw data."
+EasternLuobuohe	pja³¹	p j a ³¹	auto			FIVE		FIVE	五
+EasternLuobuohe	vjɛ⁵⁵	v j ɛ ⁵⁵	auto			MUROID (MOUSE OR RAT)		MUROID (MOUSE OR RAT)	
+EasternLuobuohe	mpjhe³³	ⁿpʰ j e ³³	auto			DAUGHTER		DAUGHTER	女儿
+EasternLuobuohe	mja²⁴	m j a ²⁴	auto			SOFT		SOFT	软
+EasternLuobuohe	phləu³³	pʰ l əu ³³	auto						揭
+EasternLuobuohe	mple²⁴	p l e ²⁴	auto			BUTTERFLY		BUTTERFLY	"蝴蝶; inconsistent"
+EasternLuobuohe	mble³³	ⁿb l e ³³	auto			TONGUE		TONGUE	舌
+EasternLuobuohe	tsho³³	ⁿtsʰ o ³³	auto						"堵; 堵塞；inconsistent"
+EasternLuobuohe	pha²⁴	pʰ a ²⁴	auto			SPLIT		SPLIT	劈
+EasternLuobuohe	mpa⁵⁵	ⁿp a ⁵⁵	auto			REPAIR		REPAIR	补
+EasternLuobuohe	mbu²⁴	ⁿb u ²⁴	auto						蒙
+EasternLuobuohe	ma⁵⁵	m a ⁵⁵	auto			BUY		BUY	买
+EasternLuobuohe	faŋ³³	f a ŋ ³³	auto			ANGULAR (SQUAREFORMED)		ANGULAR (SQUAREFORMED)	方
+EasternLuobuohe	pzi³¹	p z i ³¹	auto			THREE		THREE	三
+EasternLuobuohe	vzaŋ³¹	v z a ŋ ³¹	auto						齐
+EasternLuobuohe	mbzɿ³¹	ⁿb z ɿ ³¹	auto			STRIKE OR BEAT		STRIKE OR BEAT	拍
+EasternLuobuohe	pjhɛ³¹	pʰ j ɛ ³¹	auto			BLOW (WITH MOUTH)		BLOW (WITH MOUTH)	吹
+EasternLuobuohe	mbjɛ³¹	ⁿb j ɛ ³¹	auto						青
+EasternLuobuohe	mbja³³	ⁿb j a ³³	auto			SPICY		SPICY	辣
+EasternLuobuohe	pləu³¹	p l əu ³¹	auto			FOUR		FOUR	四
+EasternLuobuohe	vlaŋ³¹	v l a ŋ ³¹ 	auto						手掌
+EasternLuobuohe	mphlen³¹	ⁿpʰ l e n ³¹ 	auto						戒指
+EasternLuobuohe	tsy⁵⁵	ts y ⁵⁵	auto						"祖宗;祖父 or 祖母"
+EasternLuobuohe	ntsa²⁴	ⁿts a ²⁴	auto			BORROW		BORROW	借
+EasternLuobuohe	ntshie²⁴	ⁿtsʰ ie ²⁴	auto			FEAR (BE AFRAID)		FEAR (BE AFRAID)	怕
+EasternLuobuohe	sa³¹	s a ³¹	auto			TWIST		TWIST	搓
+EasternLuobuohe	tha²⁴	tʰ a ²⁴	auto			PULL OFF (SKIN)		PULL OFF (SKIN)	脱（皮）
+EasternLuobuohe	ntuŋ²⁴	ⁿt u ŋ ²⁴	auto			FLOAT		FLOAT	戴
+EasternLuobuohe	ndəu²⁴	ⁿd əu ²⁴	auto			WALK		WALK	走
+EasternLuobuohe	nuŋ³¹	n u ŋ ³¹	auto			EAT		EAT	吃
+EasternLuobuohe	ɬe³³	ɬ e ³³	auto			KILL		KILL	杀
+EasternLuobuohe	tɕe²⁴	tɕ e ²⁴	auto			KNOW (SOMEBODY)		KNOW (SOMEBODY)	认识
+EasternLuobuohe	ʑa³³	ʑ a ³³	auto			EIGHT		EIGHT	八
+EasternLuobuohe	ȵtɕha⁵⁵	ⁿtɕʰ a ⁵⁵	auto						泼（水）
+EasternLuobuohe	ʔȵaŋ⁵⁵	ˀȵ a ŋ ⁵⁵	auto			WANT		WANT	要
+EasternLuobuohe	ʔʑo²⁴	ˀʑ o ²⁴	auto			SMALL		SMALL	小
+EasternLuobuohe	ʈo²⁴	ʈ o ²⁴	auto			SIX		SIX	六
+EasternLuobuohe	ʐo³³	ʐ o ³³	auto						慌
+EasternLuobuohe	ɳʈhuŋ³¹	ⁿʈʰ u ŋ ³¹	auto						裹腿
+EasternLuobuohe	ɳo³¹	ɳ o ³¹	auto			SEED		SEED	种子
+EasternLuobuohe	ku⁵⁵	k u ⁵⁵	auto			CARRY		CARRY	抬
+EasternLuobuohe	ji²⁴	j i ²⁴	auto			COMB		COMB	梳子
+EasternLuobuohe	ŋkho³³	ⁿkʰ o ³³	auto			CROOKED		CROOKED	弯
+EasternLuobuohe	ŋa²⁴	ŋ a ²⁴	auto						强
+EasternLuobuohe	qɛ²⁴	q ɛ ²⁴	auto			SCOLD		SCOLD	骂
+EasternLuobuohe	ʁ²⁴	ʁ ²⁴	auto			DRUNK		DRUNK	醉
+EasternLuobuohe	ŋqhen²⁴	ⁿqʰ e n ²⁴	auto			ROAST (SOMETHING)		ROAST (SOMETHING)	烤
+EasternLuobuohe	χe³³	χ e ³³	auto			ROB (VERB)		ROB (VERB)	抢
+EasternLuobuohe	qwhen⁵⁵	qʷ h e n ⁵⁵	auto						盘；absent in the raw data.
+EasternLuobuohe	ŋqwaŋ²⁴	ⁿq w a ŋ ²⁴	auto			LIGHT (RADIATION)		LIGHT (RADIATION)	光
+EasternLuobuohe	χwa³³	χ w a ³³	auto						女阴
+EasternLuobuohe	qhlei³¹	qʰ l ei ³¹	auto			UNDRESS		UNDRESS	"解（衣扣）; inconsistent"
+EasternLuobuohe	ŋqlaŋ³¹	ⁿq l a ŋ ³¹	auto			SLEEP		SLEEP	睡觉
+EasternLuobuohe	qɹɛ³³	q ɹ ɛ ³³	auto						割
+EasternLuobuohe	ʁɹɛ⁵⁵	ʁ ɹ ɛ ⁵⁵	auto						头旋儿；absent in the raw data.
+EasternLuobuohe	ndza⁵⁵	ⁿdz a ⁵⁵	auto			THIN (SLIM)		THIN (SLIM)	瘦
+EasternLuobuohe	te³¹	t e ³¹	auto						答
+EasternLuobuohe	zuŋ²⁴	z u ŋ ²⁴	auto			SEVEN		SEVEN	七
+EasternLuobuohe	ntha⁵⁵	ⁿtʰ a  ⁵⁵	auto			UNTIE		UNTIE	解开
+EasternLuobuohe	ʔnen³³	ˀn e n ³³	auto			PRESS		PRESS	压
+EasternLuobuohe	ʔlaŋ²⁴	ˀl a ŋ ²⁴	auto			EGG (CLASSIFIER)		EGG (CLASSIFIER)	个
+EasternLuobuohe	laŋ²⁴	l a ŋ ²⁴	auto			LOOK		LOOK	看
+EasternLuobuohe	tɕhi³¹	tɕʰ i ³¹	auto			SWEEP		SWEEP	扫
+EasternLuobuohe	ȵtɕi²⁴	ⁿtɕ i ²⁴	auto			GO UP (ASCEND)		GO UP (ASCEND)	爬（山）
+EasternLuobuohe	ȵdʑu³¹	ⁿdʑ u ³¹	auto			MOUTH		MOUTH	嘴
+EasternLuobuohe	 ȵin²⁴	ȵ i n ²⁴	auto			STEAL		STEAL	偷
+EasternLuobuohe	ɕo³¹	ɕ o ³¹	auto						学
+EasternLuobuohe	ʈhu²⁴	ʈʰ u ²⁴	auto						拔（草）
+EasternLuobuohe	ɳʈu³¹	ⁿʈ u ³¹	auto						打
+EasternLuobuohe	ɳɖa⁵⁵	ⁿɖ a ⁵⁵	auto			DRUM		DRUM	鼓
+EasternLuobuohe	ʂei³¹	ʂ ei ³¹	auto			SIEVE (TOOL)		SIEVE (TOOL)	筛子
+EasternLuobuohe	kho³³	kʰ o ³³	auto			PICK UP		PICK UP	捡
+EasternLuobuohe	ŋku³¹	ⁿk u ³¹	auto			GIRL		GIRL	姑娘
+EasternLuobuohe	ŋɡo³³	ⁿg o ³³	auto			PAIR (CLASSIFIER)		PAIR (CLASSIFIER)	双
+EasternLuobuohe	ʔju⁵⁵	ˀj u ⁵⁵	auto						守
+EasternLuobuohe	qhei³¹	qʰ ei ³¹	auto			TIE		TIE	捆
+EasternLuobuohe	ŋɡa²⁴	ⁿɡ a ²⁴	auto						价钱；absent in the raw data.
+EasternLuobuohe	ŋɢa⁵⁵	ⁿɢ a ⁵⁵	auto			GO DOWN (DESCEND)		GO DOWN (DESCEND)	下
+EasternLuobuohe	qwa²⁴	q w a ²⁴	auto			CROSS		CROSS	过
+EasternLuobuohe	ʁwen³¹	ʁ w e n ³¹	auto			HANG UP		HANG UP	挂
+EasternLuobuohe	ŋɢwaŋ³¹	ⁿɢ w a ŋ ³¹	auto			DAY		DAY	天空
+EasternLuobuohe	qla³¹	q l a ³¹	auto						骗
+EasternLuobuohe	ʁlei³¹	ʁ l ei ³¹	auto			PEACH		PEACH	桃
+EasternLuobuohe	ŋɢla²⁴	ⁿɢ l a ²⁴	auto						（衣）破
+EasternLuobuohe	qhɹa⁵⁵	qʰ ʁ a ⁵⁵	auto			GINGER		GINGER	姜
+EasternLuobuohe	ʔuŋ³¹	ʔ u ŋ ³¹	auto			WATER		WATER	水
+EasternLuobuohe	wei⁵⁵	w ei ⁵⁵	auto			HAND		HAND	手
+EasternLuobuohe	ɬa²⁴	ɬ a ²⁴	auto			MONTH		MONTH	月
+EasternLuobuohe	tshy⁵⁵	tsʰ y ⁵⁵	auto			ASH		ASH	灰
 WesternLuobuohe	pə⁰⁵	p ə ⁰/⁵	syn	^	Affix		pə	-:Affix/pə	
-WesternLuobuohe	tə⁰²	t ə ⁰/²	syn	^	Affix		tə	-:Affix/tə	appear before adj.
+WesternLuobuohe	tə⁰²	t ə ⁰/²	syn	^	Affix	adj	tə	-:adj/tə	appears before adj.
 WesternLuobuohe	qo⁰⁵	q o ⁰/⁵	syn	^	Affix		qo	-:Affix/qo	
 WesternLuobuohe	ʔə⁰²	ʔ ə ⁰/²	syn	^	Affix		ʔə	-:Affix/ʔə	
-WesternLuobuohe	ʔə⁰⁵	ʔ ə ⁰/⁵	syn	^	Affix		ʔə⁰⁵	-:Affix/ʔə⁰⁵	"appear before quantifier
+WesternLuobuohe	ʔə⁰⁵	ʔ ə ⁰/⁵	syn	^	Affix	quantifier	ʔə⁰⁵	-:quantifier/ʔə⁰⁵	"appears before quantifier
 
 "
-Chuanqiandian	qa⁰³	q a ⁰/³	syn		Affix		qa	-:Affix/qa	appear before verbal 狀詞
-Chuanqiandian	tsi⁰³	ts i ⁰/³	syn	$	Affix		tsi	-:Affix/tsi	appear in Sinitic borrowing (子)
-Chuanqiandian	sa³³	s a ³³	syn	^	Affix		sa	-:Affix/sa	appear in Sinitic borrowing
-Chuanqiandian	ti³¹	t i ³¹	syn	^	Affix		ti	-:Affix/ti	appear in Sinitic borrowing
+Chuanqiandian	qa⁰³	q a ⁰/³	syn		Affix		qa	-:Affix/qa	appears before verbal 狀詞
+Chuanqiandian	tsi⁰³	ts i ⁰/³	syn	$	Affix		tsi	-:Affix/tsi	appears in Sinitic borrowing (子)
+Chuanqiandian	sa³³	s a ³³	syn	^	Affix		sa	-:Affix/sa	appears in Sinitic borrowing
+Chuanqiandian	ti³¹	t i ³¹	syn	^	Affix		ti	-:Affix/ti	appears in Sinitic borrowing
 Chuanqiandian	la⁵³	l a ⁵³	auto			RED		RED	
