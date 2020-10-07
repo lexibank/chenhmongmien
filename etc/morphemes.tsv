@@ -196,4 +196,65 @@ Chuanqiandian	qa⁰³	q a ⁰/³	syn		Affix		qa	-:Affix/qa	appears before verbal
 Chuanqiandian	tsi⁰³	ts i ⁰/³	syn	$	Affix		tsi	-:Affix/tsi	appears in Sinitic borrowing (子)
 Chuanqiandian	sa³³	s a ³³	syn	^	Affix		sa	-:Affix/sa	appears in Sinitic borrowing
 Chuanqiandian	ti³¹	t i ³¹	syn	^	Affix		ti	-:Affix/ti	appears in Sinitic borrowing
-Chuanqiandian	la⁵³	l a ⁵³	auto			RED		RED	
+Chuanqiandian	la⁵³	l a ⁵³	auto			RED		RED	红
+Chuanqiandian	pou³³	p ɔ ³³	auto						"屁;absent"
+Chuanqiandian	mpua⁴⁴	ⁿp u/w a ⁴⁴	auto			PIG		PIG	猪
+Chuanqiandian	mau⁵³	m au ⁴³	auto			PAINFUL		PAINFUL	疼
+Chuanqiandian	vaŋ³¹	v a ŋ ³¹	auto			GARDEN		GARDEN	园
+Chuanqiandian	plaŋ⁵³	p l a ŋ ⁴³	auto			BELLY		BELLY	"肚子;inconsistent"
+Chuanqiandian	mploŋ³¹	ⁿp l o ŋ ³¹	auto			LEAF		LEAF	叶子
+Chuanqiandian	tsi⁵⁵	ts i ⁵⁵	auto			FRUIT		FRUIT	果子
+Chuanqiandian	ntsaŋ⁴⁴	ⁿts a ŋ ⁴⁴	auto						"坟;absent"
+Chuanqiandian	su⁵³	s o ⁴³	auto			LIGHTNING		LIGHTNING	"雷; inconsistent"
+Chuanqiandian	then⁴⁴	tʰ e n ⁴⁴	auto						"炭;absent"
+Chuanqiandian	nthei⁴⁴	ⁿtʰ ei ⁴⁴	auto						"吵;absent"
+Chuanqiandian	ɬi⁴⁴	ɬ i ⁴⁴	auto			MOON		MOON	"月亮;multiple"
+Chuanqiandian	tɬe³¹	tɬ e ³¹	auto			WATER		WATER	水
+Chuanqiandian	ntɬua¹³	ⁿʈ u/w a ¹³	auto						"（衣）破;inconsistent"
+Chuanqiandian	ʈou⁴⁴	ʈ ɔ ⁴⁴	auto			SIX		SIX	六
+Chuanqiandian	nʈua²²	ⁿʈ u/w a ²¹	auto			DRUM		DRUM	"鼓;inconsistent"
+Chuanqiandian	tʂi⁵³	tʂ i ⁴³	auto			FIVE		FIVE	"五;inconsistent"
+Chuanqiandian	ntʂi³³	ⁿʈʂ i ³³	auto			COMB (VERB)		COMB (VERB)	"梳;inconsistent"
+Chuanqiandian	ʂa⁵³	ʂ a ⁴³	auto			LIVER		LIVER	"肝;inconsistent"
+Chuanqiandian	phua⁴⁴	pʰ u/w a ⁴⁴	auto			SPLIT		SPLIT	"劈;inconsistent"
+Chuanqiandian	mphoŋ⁴⁴	ⁿpʰ o ŋ ⁴⁴	auto						"撒;absent"
+Chuanqiandian	fu³³	f u ³³	auto			PERSPIRE OR SWEAT		PERSPIRE OR SWEAT	汗
+Chuanqiandian	wua²²	v u/w a ²¹	auto			TILE		TILE	"瓦;inconsistent"
+Chuanqiandian	phlo⁴⁴	pʰ l o ⁴⁴	auto			 FACE		 FACE	脸
+Chuanqiandian	mphlai⁵³	ⁿpʰ l ai ⁵³	auto						"戒指;absent"
+Chuanqiandian	tshau⁵³	tsʰ au ⁵³	auto						"阉;absent"
+Chuanqiandian	ntshai³³	ⁿtsʰ ai ³³	auto			DAUGHTER		DAUGHTER	女儿
+Chuanqiandian	teu⁵⁵	t eu ⁴⁴	auto			SKIN		SKIN	皮
+Chuanqiandian	nteɯ⁵⁵	ⁿt eu ⁵⁵	auto			BOOK		BOOK	书
+Chuanqiandian	no⁵³	n̥ o ⁴³	auto			SUN		SUN	"太阳;inconsistent"
+Chuanqiandian	ly²²	l u ²¹	auto			AUBERGINE		AUBERGINE	"茄子;inconsistent"
+Chuanqiandian	tɬha⁴⁴	tɬʰ a ⁴⁴	auto			JUMP		JUMP	跳
+Chuanqiandian	ʈhou⁵³	ʈʰ ɔ ⁵³	auto						"热（菜）;inconsistent"
+Chuanqiandian	nʈha⁵⁵	tʂ au ⁵⁵	auto						"找;inconsistent"
+Chuanqiandian	tʂhau⁴⁴	ʈʂʰ au ⁴⁴	auto			CLOTHES		CLOTHES	衣
+Chuanqiandian	ntʂhai⁴⁴	ⁿʈʂʰ ai ⁴⁴	auto			FEAR (BE AFRAID)		FEAR (BE AFRAID)	怕
+Chuanqiandian	ʐi²²	ʐ i ²¹	auto			URINE		URINE	"尿;inconsistent"
+Chuanqiandian	tɕi⁵⁵	tɕ e ⁵⁵	auto			BODY		BODY	"身体;inconsistent"
+Chuanqiandian	ȵtɕi⁴⁴	ⁿtɕ e ⁴⁴	auto			GO UP (ASCEND)		GO UP (ASCEND)	"上（楼）;inconsistent"
+Chuanqiandian	ȵo³¹	ȵ o ³¹	auto			COW		COW	"牛; BEEF;BULL"
+Chuanqiandian	ʑau¹³	ʑ au ¹³	auto			BE		BE	是
+Chuanqiandian	khou⁴⁴	kʰ ɔ ⁴⁴	auto			SHOE		SHOE	鞋
+Chuanqiandian	ŋkheu⁵³	ⁿkʰ eu ⁴³	auto			DUST		DUST	"扬尘;inconsistent"
+Chuanqiandian	qua⁵⁵	q u/w a ⁵⁵	auto			FAECES (EXCREMENT)		FAECES (EXCREMENT)	屎
+Chuanqiandian	ŋqa¹³	ⁿq ai ³¹	auto			MEAT		MEAT	"肉;inconsistent"
+Chuanqiandian	ʔaŋ⁵⁵	ʔ a ŋ ⁵⁵	auto			MUD		MUD	泥
+Chuanqiandian	tɕhi⁵³	tɕʰ e ⁴³	auto			SWEEP		SWEEP	"扫;inconsistent"
+Chuanqiandian	ȵtɕhaŋ⁴⁴	ⁿtɕʰ a ŋ ⁴⁴	auto						"震动;absent"
+Chuanqiandian	ɕaŋ⁵³	ɕaŋ⁴³	auto			FRAGRANT		FRAGRANT	香
+Chuanqiandian	kaŋ⁵³	k a ŋ ⁴³	auto			INSECT		INSECT	虫
+Chuanqiandian	ŋkeu³¹	ⁿt a ŋ ⁴³	auto			WASP		WASP	"马蜂;inconsistent"
+Chuanqiandian	ŋo¹³	ŋ o ²¹	auto			GOOSE		GOOSE	鹅
+Chuanqiandian	qhua⁴⁴	qʰ u/w a ⁴⁴	auto			GUEST		GUEST	"客;inconsistent"
+Chuanqiandian	ŋqhe³³	ⁿqʰ e ³³	auto			THIRSTY		THIRSTY	渴
+Chuanqiandian	hua⁵³	ʔ o ŋ ⁴⁴	auto			CLOUD		CLOUD	云
+CentralGuizhouChuanqiandian	tə⁰²	t ə ⁰/²	syn	^	Affix		tə	-:Affix/tə	noun or adj.
+CentralGuizhouChuanqiandian	qa⁰²	q a ⁰/²	syn	^	Affix		qa	-:Affix/qa	noun or adj.
+CentralGuizhouChuanqiandian	la⁰²	l a ⁰/²	syn	^	Affix		l a	-:Affix/la	order
+CentralGuizhouChuanqiandian	li⁰²	l i ⁰/²	syn	^	Affix		l a	-:Affix/la	order. la的變形
+CentralGuizhouChuanqiandian	lɛ⁰²	l ɛ ⁰/²	syn	^	Affix		l a	-:Affix/la	order. la的變形
+CentralGuizhouChuanqiandian	lo⁰²	l o ⁰/²	syn	^	Affix		l a	-:Affix/la	order. la的變形
