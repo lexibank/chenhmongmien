@@ -320,7 +320,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 321_door,door,1567,DOOR,门
 322_brick,brick,1006,BRICK,砖
 323_tile,tile,3404,TILE,瓦
-324_wall,wall,933,WALL (OF HOUSE),墙
+324_wall,wall,3830,WALL,墙
 325_building,building,3396,BUILDING,楼
 326_window,window,1375,WINDOW,窗子
 327_wood,wood,1803,WOOD,木头
@@ -828,7 +828,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 832_ask,ask,1309,ASK (INQUIRE),问
 833_inhale,inhale,2705,INHALE,吸气
 834_washdishes,wash (dishes),1453,WASH,洗（碗）
-835_washclothes,wash (clothes),3434,WASH (CLOTHES),洗（衣）
+835_washclothes,wash (clothes),2503,LAUNDER (WASH CLOTHES),洗（衣）
 836_godownstairs,go downstairs,2014,GO DOWN (DESCEND),下（楼）
 837_rainfall,(rain) fall,1253,RAIN (RAINING),下（雨）
 838_givebirthanimals,give birth (animals),,,下（小猪）
