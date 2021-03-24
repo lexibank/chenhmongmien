@@ -8,7 +8,7 @@
     ],
     "dc:identifier": "https://en.wiktionary.org/wiki/Appendix:Hmong-Mien_comparative_vocabulary_list",
     "dc:isVersionOf": null,
-    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Ch\u00e9n's \"Miao and Yao Language\" from 2012",
@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/chenhmongmien",
-            "dc:created": "v2.1.0-34-gb12065e"
+            "dc:created": "v2.1.0-35-g58c3693"
         },
         {
             "rdf:type": "prov:Entity",

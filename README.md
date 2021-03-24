@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Chén, Qíguāng 陳其光 (2012): Miáoyáo yǔwén 苗瑤语文 [Miao and Yao language]. Zhōngyāng Mínzú Dàxué 中央民族大学 [China Minzu University Press].
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://en.wiktionary.org/wiki/Appendix:Hmong-Mien_comparative_vocabulary_list
 
@@ -69,8 +69,9 @@ The corresponding BibTeX format is:
 
 Name               | GitHub user  | Description                          | Role
 ---                | ---          | ---                                  | ---
-Johann-Mattis List | @LinguList   | dataset patron                       | Author
-Mei-Shin Wu        | @macyl       | orthography profile, concept mapping | Author
+Chen, Qiguang | | | Author
+Johann-Mattis List | @LinguList   | dataset patron                       | Other
+Mei-Shin Wu        | @macyl       | orthography profile, concept mapping | Other
 Doug Cooper        | @restinplace | digitized the data                   | DataCurator, Distributor
 
 
