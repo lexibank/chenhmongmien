@@ -1,9 +1,15 @@
 """
 Carry out alignment analyses.
 """
-from sinopy import segments
+try:
+    from sinopy import segments
+except:
+    pass
 from lingpy import *
-from lingrex.align import template_alignment
+try:
+    from lingrex.align import template_alignment
+except:
+    pass
 from lexibank_chenhmongmien import Dataset
 
 def run(args):

@@ -2,8 +2,11 @@
 Compute cross-semantic cognates.
 """
 from lingpy import *
-from lingrex.colex import find_colexified_alignments, find_bad_internal_alignments
-from lingrex.align import template_alignment
+try:
+    from lingrex.colex import find_colexified_alignments, find_bad_internal_alignments
+    from lingrex.align import template_alignment
+except ModuleImportError:
+    pass
 from lexibank_chenhmongmien import Dataset
 
 def run(args):

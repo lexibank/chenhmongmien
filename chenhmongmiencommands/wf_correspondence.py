@@ -1,7 +1,10 @@
 """
 Search for correspondence patterns.
 """
-from lingrex.copar import CoPaR
+try:
+    from lingrex.copar import CoPaR
+except ModuleImportError:
+    pass
 from lexibank_chenhmongmien import Dataset
 
 

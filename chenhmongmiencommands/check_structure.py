@@ -3,7 +3,10 @@ Compute partial cognates and alignments and create a wordlist.
 """
 
 from lingpy import *
-from sinopy import segments
+try:
+    from sinopy import segments
+except:
+    pass
 from lexibank_chenhmongmien import Dataset
 from pylexibank import progressbar
 from tabulate import tabulate
