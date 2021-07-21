@@ -5,7 +5,7 @@ from lingpy import *
 try:
     from lingrex.colex import find_colexified_alignments, find_bad_internal_alignments
     from lingrex.align import template_alignment
-except ModuleImportError:
+except ImportError:
     pass
 from lexibank_chenhmongmien import Dataset
 

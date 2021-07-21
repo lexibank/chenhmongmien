@@ -3,7 +3,7 @@ Search for correspondence patterns.
 """
 try:
     from lingrex.copar import CoPaR
-except ModuleImportError:
+except ImportError:
     pass
 from lexibank_chenhmongmien import Dataset
 
