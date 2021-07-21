@@ -247,7 +247,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 248_bean,bean,2574,BEAN OR PEA,豆
 249_soyabean,soya bean,2027,SOYA,黄豆
 250_cowpea,cow pea,,,豇豆
-251_peanut,peanut,2364,PEANUT,花生
+251_peanut,peanut,595,GROUNDNUT (PEANUT),花生
 252_sesame,sesame,2797,SESAME,芝麻
 253_grass,grass,606,GRASS,草
 254_imperata,imperata,,,茅草
@@ -460,7 +460,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 462_jin05kg,jin (=0.5 kg.),2647,CATTY (MASS UNIT),斤
 463_tael50grams,tael (-50 grams),,,两
 464_zhang10feet,zhang (=10 feet),,,丈
-465_foot13meter,foot (=1/3 meter),2782,FOOT (MEASURE),尺
+465_foot13meter,foot (=1/3 meter),2688,FOOT (UNIT),尺
 466_yuanunitofpayment,yuan (unit of payment),,,元
 467_year,year,1226,YEAR,年
 468_month,month,1370,MONTH,月
@@ -839,7 +839,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 843_choose,choose,1750,CHOOSE,选
 844_seek,seek,,,寻找
 845_press,press,1913,PRESS,压
-846_itch,itch,149,ITCHY,痒
+846_itch,itch,3856,ITCH OR ITCHY OR ITCHING,痒
 847_shakehead,shake (head),1909,SHAKE,摇
 848_bite,bite,1403,BITE,咬
 849_wantneed,want (need),1784,WANT,要

@@ -1,8 +1,16 @@
 # CLDF dataset derived from Chén's "Miao and Yao Language" from 2012
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/chenhmongmien/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/chenhmongmien/actions?query=workflow%3ACLDF-validation)
 
-> Chén, Qíguāng 陳其光 (2012): Miáoyáo yǔwén 苗瑤语文 [Miao and Yao language]. Zhōngyāng Mínzú Dàxué 中央民族大学 [China Minzu University Press].
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Chén, Qíguāng 陳其光 (2012): Miáoyáo yǔwén 苗瑤语文 [Miao and Yao language]. Zhōngyāng Mínzú Dàxué 中央民族大学 [China Minzu University Press].
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -48,7 +56,7 @@ The corresponding BibTeX format is:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/chenhmongmien.svg?branch=master)](https://travis-ci.org/lexibank/chenhmongmien)
+[![CLDF validation](https://github.com/lexibank/chenhmongmien/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/chenhmongmien/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
 ![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-green.svg "Concepticon: 90%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -75,3 +83,10 @@ Mei-Shin Wu        | @macyl       | orthography profile, concept mapping | Other
 Doug Cooper        | @restinplace | digitized the data                   | DataCurator, Distributor
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
