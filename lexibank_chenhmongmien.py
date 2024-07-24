@@ -5,10 +5,7 @@ from pylexibank import Concept, Language
 from pylexibank.forms import FormSpec
 from pylexibank import progressbar
 import attr
-from lingpy import tokens2class
-
 from bs4 import BeautifulSoup
-
 
 
 @attr.s
@@ -26,11 +23,13 @@ class CustomLanguage(Language):
     Name_in_Source = attr.ib(default=None)
     Location = attr.ib(default=None)
 
+
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "chenhmongmien"
     concept_class = CustomConcept
     language_class = CustomLanguage
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     form_spec = FormSpec(
             missing_data=['*', '---', '-'],
@@ -39,7 +38,7 @@ class Dataset(BaseDataset):
             brackets={"(": ")"}
             )
 
-    def cmd_download(self, args):
+    def cmd_download(self, _):
         with self.raw_dir.temp_download(
             "https://en.wiktionary.org/wiki/Appendix:Hmong-Mien_comparative_vocabulary_list",
             "raw.html",
@@ -76,14 +75,13 @@ class Dataset(BaseDataset):
         args.writer.add_languages()
         languages = args.writer.add_languages(lookup_factory='Name')
         args.writer.add_sources()
-        
-        
+
         missing = {}
-        for cgloss, entry in progressbar(enumerate(data), desc='cldfify the data', total=len(data)):
+        for _, entry in progressbar(enumerate(data), desc='cldfify the data', total=len(data)):
             if entry['Chinese gloss'] in concepts.keys():
                 for language in languages:
                     if entry[language].strip():
-                        lexemes = args.writer.add_lexemes(
+                        args.writer.add_lexemes(
                             Language_ID=languages[language],
                             Parameter_ID=concepts[entry['Chinese gloss']],
                             Value=entry[language],
