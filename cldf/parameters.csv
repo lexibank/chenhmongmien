@@ -333,7 +333,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 334_whip,whip,2630,WHIP,鞭子
 335_umbrella,umbrella,3105,UMBRELLA,伞
 336_axe,axe,677,AXE,斧子
-337_chopper,chopper,,,柴刀
+337_chopper,chopper,3067,CLEAVER,柴刀
 338_hammer,hammer,1481,HAMMER,锤子
 339_chisel,chisel,1979,CHISEL,凿子
 340_saw,saw,1948,SAW,锯子
@@ -486,7 +486,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 488_afternoon,afternoon,1807,AFTERNOON,下午
 489_morning,morning,1339,MORNING,早晨
 490_evening,evening,1629,EVENING,晚上
-491_midnight,midnight,,,半夜
+491_midnight,midnight,2656,MIDNIGHT,半夜
 492_1stdayofthelunarmonth,1st day of the lunar month,3354,FIRST DAY OF THE MONTH,初一
 493_2nddayofthelunarmonth,2nd day of the lunar month,3355,SECOND DAY OF THE MONTH,初二
 494_3rddayofthelunarmonth,3rd day of the lunar month,3352,THIRD DAY OF THE MONTH,初三
@@ -665,7 +665,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 668_fireashot,fire (a shot),3180,SHOOT (WITH SLINGSHOT),打（枪）
 669_wearahat,wear (a hat),3428,WEAR (ON HEAD),戴（帽）
 670_wearabracelet,wear (a bracelet),,,戴（手镯）
-671_falldown,fall down,,,倒（下）
+671_falldown,fall down,1280,FALL,倒（下）
 672_arrive,arrive,1387,ARRIVE,到
 673_pourout,pour out,1487,POUR,倒（水）
 674_getacquire,get (acquire),694,GET,得到
@@ -682,7 +682,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 685_turnoveronbed,turn over (on bed),3537,TURN OVER,翻
 686_haveafever,have a fever,2713,HAVE A FEVER,发烧
 687_spinintoyarn,spin (into yarn),121,SPIN,纺
-688_putouttopasture,put out to pasture,,,放（牛）
+688_putouttopasture,put out to pasture,2031,PUT OUT TO PASTURE,放（牛）
 689_fly,fly,1441,FLY (MOVE THROUGH AIR),飞
 690_separate,separate,1359,SEPARATE,分
 691_sewup,sew (up),1457,SEW,缝
@@ -765,7 +765,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 769_fearbeafraid,fear (be afraid),1419,FEAR (BE AFRAID),怕
 770_strikebeat,strike (beat),2133,STRIKE OR BEAT,拍
 771_run,run,1519,RUN,跑
-772_soak,soak,,,泡
+772_soak,soak,2069,SOAK (VERB),泡
 773_loosemoney,loose money,,,赔
 774_spout,spout,,,喷
 775_chopfirewood,chop (firewood),1437,SPLIT,劈
@@ -837,7 +837,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 841_laughsmile,laugh (smile),1355,LAUGH,笑
 842_wakeup,wake up,1602,WAKE UP,醒
 843_choose,choose,1750,CHOOSE,选
-844_seek,seek,,,寻找
+844_seek,seek,1468,LOOK FOR,寻找
 845_press,press,1913,PRESS,压
 846_itch,itch,3856,ITCH OR ITCHY OR ITCHING,痒
 847_shakehead,shake (head),1909,SHAKE,摇
@@ -876,7 +876,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 880_sit,sit,1416,SIT,坐
 881_dosomething,do (something),813,DO,做
 882_not,not,1240,NOT,不
-883_all,all,,,都
+883_all,all,98,ALL,都
 884_also,also,,,也
 885_very,very,1311,VERY,很
 886_and,and,1577,AND,和

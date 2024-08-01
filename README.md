@@ -58,19 +58,19 @@ The corresponding BibTeX format is:
 
 [![CLDF validation](https://github.com/lexibank/chenhmongmien/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/chenhmongmien/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
-![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-green.svg "Concepticon: 90%")
+![Concepticon: 91%](https://img.shields.io/badge/Concepticon-91%25-green.svg "Concepticon: 91%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 25
-- **Concepts:** 883
-- **Lexemes:** 21,967
+- **Varieties:** 25 (linked to 22 different Glottocodes)
+- **Concepts:** 883 (linked to 799 different Concepticon concept sets)
+- **Lexemes:** 22,011
 - **Sources:** 1
-- **Synonymy:** 1.02
+- **Synonymy:** 1.03
 - **Invalid lexemes:** 0
-- **Tokens:** 116,152
-- **Segments:** 259 (0 BIPA errors, 0 CTLS sound class errors, 254 CLTS modified)
+- **Tokens:** 116,296
+- **Segments:** 259 (0 BIPA errors, 0 CLTS sound class errors, 254 CLTS modified)
 - **Inventory size (avg):** 72.04
 
 # Contributors
@@ -78,7 +78,7 @@ The corresponding BibTeX format is:
 Name               | GitHub user  | Description                          | Role
 ---                | ---          | ---                                  | ---
 Chen, Qiguang | | | Author
-Johann-Mattis List | @LinguList   | dataset patron                       | Other
+Johann-Mattis List | @LinguList   | dataset patron                       | Editor
 Mei-Shin Wu        | @macyl       | orthography profile, concept mapping | Other
 Doug Cooper        | @restinplace | digitized the data                   | DataCurator, Distributor
 
